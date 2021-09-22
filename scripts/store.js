@@ -1,3 +1,9 @@
+/**
+ * Store new assets into IPFS.
+ * Look for directories under `./assets`, only store assets without `uri` in `state.${ENV}.json` file.
+ * Update `state.${ENV}.json` file after storage.
+ */
+
 const fs = require("fs")
 const path = require("path")
 const { NFTStorage, File } = require("nft.storage")
@@ -41,6 +47,7 @@ async function main() {
     .map((dirent) => dirent.name)
 
   if (assetPaths.length > 0) {
+    // store all new assets
     await Promise.all(
       assetPaths.map(async (asset) => {
         // asset directory
@@ -60,10 +67,12 @@ async function main() {
           ),
         })
 
+        // update avatar uri
         assetsState[asset] = { uri: url, ...assetsState[asset] }
       })
     )
 
+    // write state to file
     console.log(`Writing state to ${assetsStatePath}...`)
     const updateAssetsState = JSON.stringify(assetsState)
     fs.writeFileSync(assetsStatePath, updateAssetsState)

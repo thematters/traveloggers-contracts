@@ -11,6 +11,7 @@ contract Matty is ERC721URIStorage, Ownable {
 
   constructor() ERC721("Matty", "MATT") {}
 
+  // mint a NFT with a tokenURI, so every token can have a different hash
   function mintTo(address _to, string memory _tokenURI)
     public
     returns (uint256)
