@@ -1,0 +1,29 @@
+{
+  "name": "presstack-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop:start": "ganache-cli --deterministic",
+    "develop:console": "truffle console --network development",
+    "develop:deploy": "truffle migrate --network development",
+    "develop:mint": "truffle exec --network development ./scripts/mint.js",
+    "rinkeby:console": "truffle console --network rinkeby",
+    "rinkeby:deploy": "truffle migrate --network rinkeby",
+    "rinkeby:mint": "truffle exec --network rinkeby ./scripts/mint.js",
+    "store": "node ./scripts/store.js",
+    "build": "truffle compile",
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "chai": "^4.3.4",
+    "ganache-cli": "^6.12.2",
+    "nft.storage": "^3.2.2",
+    "truffle": "^5.4.10"
+  }
+}

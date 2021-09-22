@@ -1,0 +1,20 @@
+{
+  "name": "Ms. 2",
+  "description": "A very interesting creature named 2",
+  "image": "2.jpeg",
+  "background_color": "0000FF",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Horse"
+    },
+    {
+      "trait_type": "Skill",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tough"
+    }
+  ]
+}
