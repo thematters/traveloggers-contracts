@@ -1,0 +1,20 @@
+{
+  "name": "Mr. 1",
+  "description": "A very interesting creature named 1",
+  "image": "1.jpeg",
+  "background_color": "FFFF00",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Starfish"
+    },
+    {
+      "trait_type": "Skill",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Surprised"
+    }
+  ]
+}
