@@ -5,7 +5,9 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Matty is ERC721URIStorage, Ownable {
+import "./PreOrder.sol";
+
+contract Matty is ERC721URIStorage, Ownable, PreOrder {
   using Counters for Counters.Counter;
   Counters.Counter private _tokenIds;
 

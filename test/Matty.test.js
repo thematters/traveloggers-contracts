@@ -21,4 +21,11 @@ contract("Matty", (accounts) => {
     // Test if the returned value is the same one
     expect((await this.matty.tokenURI(1)).toString()).to.equal(uri)
   })
+
+  it("query a pre-order address", async function() {
+      // testing pre-order participant
+      await this.matty.preOrder(accounts[0]);
+      expect((await this.matty.queryPreOrder(accounts[0]))).to.equal(true)
+      expect((await this.matty.queryPreOrder(accounts[1]))).to.equal(false)
+  })
 })
