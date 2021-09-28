@@ -21,6 +21,7 @@
     "@openzeppelin/contracts": "^4.3.2",
     "@truffle/hdwallet-provider": "^1.5.0",
     "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
     "ganache-cli": "^6.12.2",
     "nft.storage": "^3.2.2",
     "truffle": "^5.4.10"
