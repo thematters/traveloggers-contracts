@@ -5,12 +5,11 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 abstract contract PreOrder is Ownable {
     // TBC: 
-    // - whether to support unique addresses using Set-like data structure
-    // - whether need to store pre-order amount (probably not, as pre-order is for the purpose of whitelist)
+    // - whether an address can participant multiple times (seems not)
     // - whether need to store pre-order status (e.g. pending, canceled, avater-minted)
     // - the owner shall be able to list all pre-order participants, which cannot be achieved with mapping
 
-    // stage-1: basic functions to append to, and query an array of addresses
+    // stage-1: basic functions to append pre-orders, and query an array of addresses
     // stage-2: think about the TBCs
 
     // TBC: add pre-order status field?
@@ -28,17 +27,15 @@ abstract contract PreOrder is Ownable {
     // TBC: add depositedTotal
 
     // current round for pre-ordering, reserved, if only 1 round, then, this value can always be 1
-    // TO REMOVE, as it makes the logic complicated
+    // TBC: whether remove `_round` attribute？
     uint8 private _round; 
 
     // determine whether there is an ongoing pre-order 
     bool public inPreOrder;
 
-    // error - pre-order is not available
     error PreOrderNotStarted();
-    // error - pre-order is not available
     error PreOrderAlreadyStarted();
-    // error - the owner shall not trigger an incorrect round
+    // error - the round shall be sequential the owner shall not trigger an incorrect round
     error IncorrectRound(uint8 previousRound);
     error PreOrderExists(address addr);
 
@@ -61,11 +58,6 @@ abstract contract PreOrder is Ownable {
         inPreOrder = false;
     } 
 
-    function currentRound() public view onlyOwner returns (uint8) {
-        if (inPreOrder != true) revert PreOrderNotStarted();
-        return _round;
-    }
-
     function preOrder() public payable {
         if (inPreOrder != true) revert PreOrderNotStarted();
         if (_preOrdered[msg.sender] > 0) revert PreOrderExists(msg.sender);
@@ -84,6 +76,11 @@ abstract contract PreOrder is Ownable {
     function preOrderQuery(address addr) public view virtual returns (bool) {
         return _preOrdered[addr] > 0;        
     }  
+
+    function currentRound() public view onlyOwner returns (uint8) {
+        if (inPreOrder != true) revert PreOrderNotStarted();
+        return _round;
+    }
 
     // function preOrderParticipants () public view returns (uint)
 }
