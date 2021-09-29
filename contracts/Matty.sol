@@ -9,6 +9,8 @@ contract Matty is ERC721, Ownable {
   using Counters for Counters.Counter;
   Counters.Counter private _tokenIds;
 
+  event LotteryDraw(address[] winners);
+
   constructor() ERC721("Matty", "MATT") {}
 
   // air drop NFT to addresses in batch
@@ -33,23 +35,37 @@ contract Matty is ERC721, Ownable {
   }
 
   // random draw from addresses and drop NFTs
-  function drawLottery(address[] calldata _addresses, uint256 _amount)
+  function drawLottery(address[] calldata _addresses, uint256 _draw)
     public
     onlyOwner
-    returns (address[] memory)
   {
-    // empty array to store winner addresses
-    address[] memory winners = new address[](_amount);
-
-    // matrix to draw address index randomly
-    // adapt from https://github.com/1001-digital/erc721-extensions/blob/main/contracts/RandomlyAssigned.sol
-    uint256[] memory addressMatrix = new uint256[](_addresses.length);
-
     // TODO: check if there is enough available tokens
-    for (uint256 i = 0; i < _amount; i++) {
+    // empty array to store winner addresses
+    address[] memory winners = _randomDraw(_addresses, _draw);
+
+    // batch air drop NFT for winners
+    batchDrop(winners);
+
+    // record lottery winners
+    emit LotteryDraw(winners);
+  }
+
+  function _randomDraw(address[] memory _addresses, uint256 _draw)
+    public
+    view
+    returns (
+      // view
+      address[] memory result
+    )
+  {
+    // empty array to store result
+    result = new address[](_draw);
+
+    for (uint256 i = 0; i < _draw; i++) {
       uint256 random = uint256(
         keccak256(
           abi.encodePacked(
+            i,
             msg.sender,
             block.coinbase,
             block.difficulty,
@@ -57,33 +73,13 @@ contract Matty is ERC721, Ownable {
             block.timestamp
           )
         )
-      ) % _addresses.length;
+      ) % (_addresses.length - i);
 
-      uint256 value = 0;
+      result[i] = _addresses[random];
 
-      if (addressMatrix[random] == 0) {
-        // If this matrix position is empty, set the value to the generated random number.
-        value = random;
-      } else {
-        // Otherwise, use the previously stored number from the matrix.
-        value = addressMatrix[random];
-      }
-
-      // If the last available address has not been drawn...
-      if (addressMatrix[_addresses.length - 1] == 0) {
-        // ...store that ID in the current matrix position.
-        addressMatrix[random] = _addresses.length - 1;
-      } else {
-        // ...otherwise copy over the stored number to the current matrix position.
-        addressMatrix[random] = addressMatrix[_addresses.length - 1];
-      }
-
-      winners[i] = _addresses[i];
+      _addresses[random] = _addresses[_addresses.length - i - 1];
     }
 
-    // batch air drop NFT for winners
-    batchDrop(winners);
-
-    return winners;
+    return result;
   }
 }
