@@ -1,5 +1,5 @@
 const chai = require("chai")
-const web3 = require("web3")
+const Web3 = require("web3")
 const { expect } = require("chai")
 const { solidity } = require("ethereum-waffle")
 
@@ -90,43 +90,39 @@ contract("Matty", (accounts) => {
     expect(new Set(result).size).to.equal(result.length)
   })
 
-  it("start pre-order with correct round", async function() {
-      await expect(this.matty.startPreOrder(0)).to.be.reverted
-      await expect(this.matty.startPreOrder(2)).to.be.reverted
+  it("Can start and end pre-ordering", async function() {
 
-      // start pre-order round 1
+      // start pre-order 
       let started = await this.matty.inPreOrder()
       expect(started).to.equal(false)
-      await this.matty.startPreOrder(1)
+
+      // cannot start pre-order if minimum contribution amount <= 0
+      await expect(this.matty.startPreOrder(0, 100)).to.be.reverted
+      // cannot start pre-order if participants allowed <= 0
+      await expect(this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 0)).to.be.reverted
+
+      // set minimum contribution amount 
+      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 100)
+      let minAmount = await this.matty.minAmount()
+      expect(minAmount.toString()).to.equal(web3.utils.toWei("0.1", "ether"))
+      let participantsAllowed = await this.matty.participantsAllowed()
+      expect(participantsAllowed.toString()).to.equal("100")
       started = await this.matty.inPreOrder()
       expect(started).to.equal(true)
 
-      await expect(this.matty.startPreOrder(2)).to.be.reverted
-      await expect(this.matty.endPreOrder(2)).to.be.reverted
+      // cannot start again if already started
+      await expect(this.matty.startPreOrder(web3.utils.toWei("0.8", "ether"), 100)).to.be.reverted
       
-      // close pre-order round 1 & restart it
-      await this.matty.endPreOrder(1)
+      // close pre-order & restart it
+      await this.matty.endPreOrder()
       started = await this.matty.inPreOrder()
       expect(started).to.equal(false)
-      await this.matty.startPreOrder(1)
+      await this.matty.startPreOrder(web3.utils.toWei("0.5", "ether"), 100)
       started = await this.matty.inPreOrder()
       expect(started).to.equal(true)
-
-      // close pre-order round 1 & start round 2
-      await this.matty.endPreOrder(1)
-      started = await this.matty.inPreOrder()
-      expect(started).to.equal(false)
-      await this.matty.startPreOrder(2)
-      started = await this.matty.inPreOrder()
-      expect(started).to.equal(true)
-      
-      const round = await this.matty.currentRound()
-      expect(round.toNumber()).to.equal(2)
-      await this.matty.endPreOrder(2)
-      await expect(this.matty.currentRound()).to.be.reverted
   })
 
-  it("pre-ordering", async function() {
+  it("Participants can participate pre-ordering", async function() {
       // pre-order not started
       await expect(this.matty.preOrder({
         from: accounts[0],
@@ -134,7 +130,7 @@ contract("Matty", (accounts) => {
       })).to.be.reverted
 
       // start pre-order round 1
-      await this.matty.startPreOrder(1)
+      await this.matty.startPreOrder(web3.utils.toWei("0.5", "ether"), 100)
       // success pre-order
       await this.matty.preOrder({
         from: accounts[0],
@@ -147,24 +143,24 @@ contract("Matty", (accounts) => {
       })).to.be.reverted
 
       // pre-order closed
-      await this.matty.endPreOrder(1)
+      await this.matty.endPreOrder()
       await expect(this.matty.preOrder({
         from: accounts[1],
         value: web3.utils.toWei("0.5", "ether")
       })).to.be.reverted
 
       // start pre-order round 2
-      await this.matty.startPreOrder(2)
-      await this.matty.preOrder({
-        from: accounts[1],
-        value: web3.utils.toWei("0.5", "ether")
-      })
-
-      // still, no duplicate order from acount 0
+      await this.matty.startPreOrder(web3.utils.toWei("0.51", "ether"), 100)
+      // cannot pre-order is sent amount is less then minimum contribution required
       await expect(this.matty.preOrder({
         from: accounts[1],
         value: web3.utils.toWei("0.5", "ether")
       })).to.be.reverted
+
+      await this.matty.preOrder({
+        from: accounts[1],
+        value: web3.utils.toWei("0.52", "ether")
+      })
 
       // query pre-order status
       let status = await this.matty.preOrderQuery(accounts[0])
@@ -173,7 +169,24 @@ contract("Matty", (accounts) => {
       expect(status).to.equal(true)
       status = await this.matty.preOrderQuery(accounts[3])
       expect(status).to.equal(false)
-
-      //TODO: batch add more pre-orders for more testing
   })
+
+  it("Pre-ordering participants limit cannot be exceeded", async function() {
+
+      // max participants allowed is 9
+      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 9)
+
+      for (let i = 0; i < accounts.length - 1; i++) {
+        await this.matty.preOrder({
+          from: accounts[i],
+          value: web3.utils.toWei("0.1", "ether")
+        })
+      }
+
+      await expect(this.matty.preOrder({
+        from: accounts[9],
+        value: web3.utils.toWei("0.1", "ether")
+      })).to.be.reverted
+  })
+
 })

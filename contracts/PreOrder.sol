@@ -12,11 +12,9 @@ abstract contract PreOrder is Ownable {
     // stage-1: basic functions to append pre-orders, and query an array of addresses
     // stage-2: think about the TBCs
 
-    // TBC: add pre-order status field?
     struct Participant {
         address sender;
-        uint deposit;
-        uint8 round;
+        uint amount;
     } 
     
     // the key `_preOrderIt` is incremented with each additional pre-order
@@ -26,34 +24,34 @@ abstract contract PreOrder is Ownable {
     uint private _nextPreOrder;
     // TBC: add depositedTotal
 
-    // current round for pre-ordering, reserved, if only 1 round, then, this value can always be 1
-    // TBC: whether remove `_round` attribute？
-    uint8 private _round; 
-
     // determine whether there is an ongoing pre-order 
     bool public inPreOrder;
+    // unit (wei)
+    uint public minAmount;
+    // participants allowed
+    uint256 public participantsAllowed;
 
     error PreOrderNotStarted();
     error PreOrderAlreadyStarted();
-    // error - the round shall be sequential the owner shall not trigger an incorrect round
-    error IncorrectRound(uint8 previousRound);
     error PreOrderExists(address addr);
+    // minimum contribution amount allowed shall not be <= 0
+    error IncorrectMinAmount(uint amount);
+    error IncorrectParticipants(uint limit);
+    error MaxParticipantsReached(uint participants);
 
-    // `round` argument is required make sure the owner knows what he is doing
-    function startPreOrder(uint8 round) public onlyOwner {
+    function startPreOrder(uint amount, uint participants) public onlyOwner {
         if (inPreOrder == true) revert PreOrderAlreadyStarted();
-        // only reopen existing round, or start next round        
-        if (round == 0) revert IncorrectRound(_round);
-        if (round != _round && round != _round + 1) revert IncorrectRound(_round);
-        
+        // min contribution shall always be larger than 0
+        if (amount <= 0) revert IncorrectMinAmount(amount);
+        if (participants <= 0) revert IncorrectParticipants(participants);
+
+        participantsAllowed = participants;
+        minAmount = amount;    
         inPreOrder = true;
-        _round = round;
     }
 
-    // `round` argument is required to make sure the owner knows which round he is closing
-    function endPreOrder(uint8 round) public onlyOwner {
+    function endPreOrder() public onlyOwner {
         if (inPreOrder != true) revert PreOrderNotStarted();
-        if (round != _round) revert IncorrectRound(_round);
         
         inPreOrder = false;
     } 
@@ -61,13 +59,14 @@ abstract contract PreOrder is Ownable {
     function preOrder() public payable {
         if (inPreOrder != true) revert PreOrderNotStarted();
         if (_preOrdered[msg.sender] > 0) revert PreOrderExists(msg.sender);
-        // TBC: do we need to check the same round for the same address?
-        // TBC: what is the validation against the amount
+        // validation against the minimum contribution amount
+        if (msg.value < minAmount) revert IncorrectMinAmount(msg.value);
+        if (_nextPreOrder > participantsAllowed) revert MaxParticipantsReached(participantsAllowed);
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
         if (_nextPreOrder == 0) _nextPreOrder = 1; 
         _preOrders[_nextPreOrder] = Participant({
-            sender: msg.sender, deposit: msg.value, round: _round
+            sender: msg.sender, amount: msg.value
         });
         _preOrdered[msg.sender] = _nextPreOrder;
         _nextPreOrder += 1;
@@ -77,10 +76,9 @@ abstract contract PreOrder is Ownable {
         return _preOrdered[addr] > 0;        
     }  
 
-    function currentRound() public view onlyOwner returns (uint8) {
-        if (inPreOrder != true) revert PreOrderNotStarted();
-        return _round;
-    }
+    // function preOrderAmount(address addr) public view virtual return (uint) {
+    //     if (_preOrdered[addr] > 0) {}
+    // }
 
     // function preOrderParticipants () public view returns (uint)
 }
