@@ -4,25 +4,19 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 abstract contract PreOrder is Ownable {
-    // TBC: 
-    // - whether an address can participant multiple times (seems not)
-    // - whether need to store pre-order status (e.g. pending, canceled, avater-minted)
-    // - the owner shall be able to list all pre-order participants, which cannot be achieved with mapping
-
-    // stage-1: basic functions to append pre-orders, and query an array of addresses
-    // stage-2: think about the TBCs
 
     struct Participant {
         address sender;
         uint amount;
+        uint time;
     } 
     
-    // the key `_preOrderIt` is incremented with each additional pre-order
-    // make sure `_preOrderIt` starts from 1 instead of 0
+    // the key `_nextPreOrder` is incremented with each additional pre-order
+    // make sure `_nextPreOrder` starts from 1 instead of 0
     mapping(address => uint) private _preOrdered;
     mapping(uint => Participant) private _preOrders;
     uint private _nextPreOrder;
-    // TBC: add depositedTotal
+    uint private _preOrderAmountTotal;
 
     // determine whether there is an ongoing pre-order 
     bool public inPreOrder;
@@ -39,6 +33,7 @@ abstract contract PreOrder is Ownable {
     error IncorrectParticipants(uint limit);
     error MaxParticipantsReached(uint participants);
 
+    // start pre-order, only allowed by ower
     function startPreOrder(uint amount, uint participants) public onlyOwner {
         if (inPreOrder == true) revert PreOrderAlreadyStarted();
         // min contribution shall always be larger than 0
@@ -50,12 +45,14 @@ abstract contract PreOrder is Ownable {
         inPreOrder = true;
     }
 
+    // end pre-order, only allowed by ower
     function endPreOrder() public onlyOwner {
         if (inPreOrder != true) revert PreOrderNotStarted();
         
         inPreOrder = false;
     } 
 
+    // place a pre-order
     function preOrder() public payable {
         if (inPreOrder != true) revert PreOrderNotStarted();
         if (_preOrdered[msg.sender] > 0) revert PreOrderExists(msg.sender);
@@ -66,19 +63,55 @@ abstract contract PreOrder is Ownable {
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
         if (_nextPreOrder == 0) _nextPreOrder = 1; 
         _preOrders[_nextPreOrder] = Participant({
-            sender: msg.sender, amount: msg.value
+            sender: msg.sender, amount: msg.value, time: block.timestamp
         });
         _preOrdered[msg.sender] = _nextPreOrder;
         _nextPreOrder += 1;
+        _preOrderAmountTotal += msg.value;
     }
 
-    function preOrderQuery(address addr) public view virtual returns (bool) {
+    // check if an address has placed an order
+    function preOrderExist(address addr) public view virtual returns (bool) {
         return _preOrdered[addr] > 0;        
     }  
 
-    // function preOrderAmount(address addr) public view virtual return (uint) {
-    //     if (_preOrdered[addr] > 0) {}
-    // }
+    // return participant's pre-order detail
+    function preOrderGet(address addr) public view virtual returns (Participant memory) {
+        Participant memory p = _preOrders[_preOrdered[addr]];
+        return p;
+    }
 
-    // function preOrderParticipants () public view returns (uint)
+    // return the number of pre-orders
+    function preOrderCount() public view virtual returns (uint) {
+        return _nextPreOrder - 1;
+    }
+
+    // return the total amount of pre-orders (wei)
+    function preOrderAmountTotal() public view virtual returns (uint) {
+        return _preOrderAmountTotal;
+    }
+
+    // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
+    function preOrderList(uint start, uint limit) public view virtual returns (Participant[] memory) {
+        // start index shall be less then next pre-order index
+        assert(start > 0 && start < _nextPreOrder);
+
+        uint n = limit;
+        if (start + limit > _nextPreOrder) n = _nextPreOrder - start;
+
+        Participant[] memory participants = new Participant[](n);
+        for (uint i = start; i < start + n; i++) {
+            participants[i - start] = _preOrders[i];
+        }        
+        return participants;
+    }
+
+    // return all pre-orders
+    function preOrderListAll() public view virtual returns (Participant[] memory) {
+        Participant[] memory participants = new Participant[](_nextPreOrder - 1);
+        for (uint i = 1; i < _nextPreOrder; i++) {
+            participants[i - 1] = _preOrders[i];
+        }        
+        return participants;
+    }
 }

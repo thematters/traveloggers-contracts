@@ -163,12 +163,16 @@ contract("Matty", (accounts) => {
       })
 
       // query pre-order status
-      let status = await this.matty.preOrderQuery(accounts[0])
+      let status = await this.matty.preOrderExist(accounts[0])
       expect(status).to.equal(true)
-      status = await this.matty.preOrderQuery(accounts[1])
+      status = await this.matty.preOrderExist(accounts[1])
       expect(status).to.equal(true)
-      status = await this.matty.preOrderQuery(accounts[3])
+      status = await this.matty.preOrderExist(accounts[3])
       expect(status).to.equal(false)
+
+      // query pre-order total amounts
+      let amount = await this.matty.preOrderAmountTotal()
+      expect(amount.toString()).to.equal(web3.utils.toWei("1.02", "ether"))
   })
 
   it("Pre-ordering participants limit cannot be exceeded", async function() {
@@ -187,6 +191,36 @@ contract("Matty", (accounts) => {
         from: accounts[9],
         value: web3.utils.toWei("0.1", "ether")
       })).to.be.reverted
+
+      // query pre-order total amounts
+      let amount = await this.matty.preOrderAmountTotal()
+      expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"))
+
+      // query single pre-order
+      let participant = await this.matty.preOrderGet(accounts[9])
+      expect(participant.amount.toString()).to.equal("0")
+      participant = await this.matty.preOrderGet(accounts[0])
+      expect(participant.amount.toString()).to.equal(web3.utils.toWei("0.1", "ether"))
   })
 
+  it("Can list all pre-order participants", async function() {
+      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 100)
+
+      for (let i = 0; i < accounts.length; i++) {
+        await this.matty.preOrder({
+          from: accounts[i],
+          value: web3.utils.toWei("0.1", "ether")
+        })
+      }
+      let participants = await this.matty.preOrderListAll()
+      expect(participants.length).to.equal(accounts.length)
+
+      participants = await this.matty.preOrderList(9, 100)
+      expect(participants.length).to.equal(accounts.length - 9 + 1)
+      participants = await this.matty.preOrderList(1, 5)
+      expect(participants.length).to.equal(5)
+
+      // start index out of bound
+      await expect(this.matty.preOrderList(11, 5)).to.be.reverted
+  })
 })
