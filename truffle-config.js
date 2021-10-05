@@ -18,15 +18,10 @@
  *
  */
 
-const HDWalletProvider = require("@truffle/hdwallet-provider")
+const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-const mnemonic = process.env.MNEMONIC
-const alchemyApiKey = process.env.ALCHEMY_KEY
-
-if (!mnemonic || !alchemyApiKey) {
-  console.error("Please set a mnemonic and Alchemy key.")
-  return
-}
+const mnemonic = process.env.MNEMONIC;
+const alchemyApiKey = process.env.ALCHEMY_KEY;
 
 module.exports = {
   /**
@@ -63,11 +58,17 @@ module.exports = {
     // Useful for deploying to a public network.
     // NB: It's important to wrap the provider as a function.
     rinkeby: {
-      provider: () =>
-        new HDWalletProvider(
+      provider: () => {
+        if (!mnemonic || !alchemyApiKey) {
+          console.error("Please set a mnemonic and Alchemy key.");
+          return;
+        }
+
+        return new HDWalletProvider(
           mnemonic,
           `https://eth-rinkeby.alchemyapi.io/v2/${alchemyApiKey}`
-        ),
+        );
+      },
       network_id: 4,
       gasPrice: 10e9,
       skipDryRun: true,
@@ -120,4 +121,4 @@ module.exports = {
   //   }
   // }
   // }
-}
+};
