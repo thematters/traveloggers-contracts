@@ -8,6 +8,7 @@ yarn.lock
 node_modules
 build
 artifacts
+cache
 webpack-stats.json
 uploads
 environment.sh
