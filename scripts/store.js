@@ -16,7 +16,7 @@ const env = process.env.ENV;
 
 async function main() {
   // get path to assets
-  const assetsDirectory = path.join(__dirname, "..", "assets/avatars");
+  const assetsDirectory = path.join(__dirname, "..", "assets");
 
   // read current asset state or initialize
   const assetsStatePath = path.join(assetsDirectory, `state.${env}.json`);
