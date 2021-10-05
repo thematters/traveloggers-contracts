@@ -1,5 +1,7 @@
 const { expect } = require("chai")
 
+const { createAddresses, gasPrice } = require("./utils")
+
 // Load compiled artifacts
 const Matty = artifacts.require("Matty")
 
@@ -10,15 +12,41 @@ contract("Matty", (accounts) => {
     this.matty = await Matty.new()
   })
 
-  // Test case
-  it("tokenURI returns uri minted", async function () {
-    // Test uri
-    const uri = "ipfs://some-hash"
+  it("Can draw lottery from a list of accounts", async function () {
+    // account test list, repeating with the same account
+    const candidateAmount = 10000
+    const winnerAmount = 10
 
-    // Mint the first token
-    await this.matty.mintTo(accounts[0], uri)
+    const addressList = createAddresses(4000)
 
-    // Test if the returned value is the same one
-    expect((await this.matty.tokenURI(1)).toString()).to.equal(uri)
+    const { logs, receipt } = await this.matty.drawLottery(
+      addressList,
+      winnerAmount
+    )
+
+    const winners = logs.filter(({ event }) => event === "LotteryWinners")[0]
+      .args.winners
+
+    expect(await this.matty.ownerOf(1)).to.equal(winners[0])
+    expect(await this.matty.ownerOf(winnerAmount)).to.equal(
+      winners[winners.length - 1]
+    )
+
+    // assuming base fee + tip ~ 100 gwei
+    console.log(
+      `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${
+        receipt.gasUsed
+      }. Estimated ETH: ${receipt.gasUsed * gasPrice * 0.000000001}`
+    )
+  })
+
+  it("Can random draw from a list of accounts without duplicates", async function () {
+    const amount = 10
+    const addressList = createAddresses(10)
+
+    const result = await this.matty._randomDraw(addressList, amount)
+
+    // should be no duplication in result
+    expect(new Set(result).size).to.equal(result.length)
   })
 })
