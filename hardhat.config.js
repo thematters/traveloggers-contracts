@@ -1,7 +1,6 @@
-require("dotenv").config();
 require("@nomiclabs/hardhat-ethers");
 
-const { MNEMONIC, ALCHEMY_KEY } = require("./.env.json");
+const { deployerPrivateKey, alchemyAPIKey } = require("./.env.json");
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
@@ -11,8 +10,8 @@ module.exports = {
   defaultNetwork: "hardhat",
   networks: {
     rinkeby: {
-      url: `https://eth-rinkeby.alchemyapi.io/v2/${ALCHEMY_KEY}`,
-      accounts: { mnemonic: MNEMONIC },
+      url: `https://eth-rinkeby.alchemyapi.io/v2/${alchemyAPIKey}`,
+      accounts: [deployerPrivateKey],
     },
   },
 };
