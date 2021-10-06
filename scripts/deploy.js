@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const hardhat = require("hardhat");
 
-const env = process.env.ENV;
+const { env } = require("../.env.json");
 
 const envNetwork = {
   develop: "localhost",

@@ -1,18 +1,13 @@
 /**
  * Store new assets into IPFS.
- * Look for directories under `./assets`, only store assets without `uri` in `state.${ENV}.json` file.
- * Update `state.${ENV}.json` file after storage.
+ * Look for directories under `./assets`, only store assets without `uri` in `state.${env}.json` file.
+ * Update `state.${env}.json` file after storage.
  */
 
 const fs = require("fs");
 const path = require("path");
-const { NFTStorage, File } = require("nft.storage");
 
-const client = new NFTStorage({
-  token: process.env.PINNING_SERVICE_KEY,
-});
-
-const env = process.env.ENV;
+const { infuraIPFSId, infuraIPFSSecret, env } = require("../.env.json");
 
 async function main() {
   // get path to assets
