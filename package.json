@@ -12,7 +12,10 @@
     "rinkeby:mint": "truffle exec --network rinkeby ./scripts/mint.js",
     "store": "node ./scripts/store.js",
     "build": "truffle compile",
-    "test": "truffle test"
+    "test": "truffle test",
+    "prepare": "husky install",
+    "lint": "solhint 'contracts/**/*.sol'",
+    "format": "prettier --write \"{,!(node_modules|build|coverage)/**/}*.{sol,js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
   "author": "",
@@ -23,8 +26,17 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "ganache-cli": "^6.12.2",
+    "husky": "^7.0.2",
     "nft.storage": "^3.2.2",
+    "prettier": "^2.4.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.18",
+    "solhint": "^3.3.6",
+    "solhint-plugin-prettier": "0.0.5",
     "truffle": "^5.4.10",
     "web3": "^1.5.3"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "singleQuote": false
   }
 }

@@ -4,28 +4,28 @@
  * Update `state.${ENV}.json` file after storage.
  */
 
-const fs = require("fs")
-const path = require("path")
-const { NFTStorage, File } = require("nft.storage")
+const fs = require("fs");
+const path = require("path");
+const { NFTStorage, File } = require("nft.storage");
 
 const client = new NFTStorage({
   token: process.env.PINNING_SERVICE_KEY,
-})
+});
 
-const env = process.env.ENV
+const env = process.env.ENV;
 
 async function main() {
   // get path to assets
-  const assetsDirectory = path.join(__dirname, "..", "assets")
+  const assetsDirectory = path.join(__dirname, "..", "assets/avatars");
 
   // read current asset state or initialize
-  const assetsStatePath = path.join(assetsDirectory, `state.${env}.json`)
+  const assetsStatePath = path.join(assetsDirectory, `state.${env}.json`);
 
-  let assetsState
+  let assetsState;
   try {
-    assetsState = require(assetsStatePath)
+    assetsState = require(assetsStatePath);
   } catch (err) {
-    assetsState = {}
+    assetsState = {};
   }
 
   // find assets to be stored
@@ -34,30 +34,30 @@ async function main() {
     .filter((dirent) => {
       // filter out directories
       if (!dirent.isDirectory()) {
-        return false
+        return false;
       }
 
       // filter out assets that have not been stored
       if (assetsState[dirent.name] && assetsState[dirent.name].uri) {
-        return false
+        return false;
       }
 
-      return true
+      return true;
     })
-    .map((dirent) => dirent.name)
+    .map((dirent) => dirent.name);
 
   if (assetPaths.length > 0) {
     // store all new assets
     await Promise.all(
       assetPaths.map(async (asset) => {
         // asset directory
-        const diretory = path.join(__dirname, "..", "assets", asset)
+        const diretory = path.join(__dirname, "..", "assets/avatars", asset);
 
         // read in metadata
-        const assetJson = require(path.join(diretory, "metadata.json"))
+        const assetJson = require(path.join(diretory, "metadata.json"));
 
         // store on IPFS via client
-        console.log(`Storing asset ${asset}...`)
+        console.log(`Storing asset ${asset}...`);
         const { url } = await client.store({
           ...assetJson,
           image: new File(
@@ -65,21 +65,21 @@ async function main() {
             assetJson.image,
             { type: "image/jpg" }
           ),
-        })
+        });
 
         // update avatar uri
-        assetsState[asset] = { uri: url, ...assetsState[asset] }
+        assetsState[asset] = { uri: url, ...assetsState[asset] };
       })
-    )
+    );
 
     // write state to file
-    console.log(`Writing state to ${assetsStatePath}...`)
-    const updateAssetsState = JSON.stringify(assetsState)
-    fs.writeFileSync(assetsStatePath, updateAssetsState)
-    console.log("Done.")
+    console.log(`Writing state to ${assetsStatePath}...`);
+    const updateAssetsState = JSON.stringify(assetsState);
+    fs.writeFileSync(assetsStatePath, updateAssetsState);
+    console.log("Done.");
   } else {
-    console.log("No new asset to be stored, skipped.")
+    console.log("No new asset to be stored, skipped.");
   }
 }
 
-main()
+main();

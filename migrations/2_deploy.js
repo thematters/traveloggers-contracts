@@ -1,5 +1,5 @@
-const Matty = artifacts.require("Matty")
+const Matty = artifacts.require("Matty");
 
 module.exports = async function (deployer) {
-  await deployer.deploy(Matty)
-}
+  await deployer.deploy(Matty);
+};
