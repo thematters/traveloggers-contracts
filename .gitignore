@@ -20,6 +20,7 @@ coverage/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 .env
+.env.json
 Dockerrun.aws.json
 
 TODO
