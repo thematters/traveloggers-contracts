@@ -2,30 +2,30 @@ const { expect } = require("chai");
 
 const { createAddresses, gasPrice } = require("./utils");
 
-// Load compiled artifacts
-const Matty = artifacts.require("Matty");
-
 // Start test block
-contract("Matty", (accounts) => {
-  beforeEach(async function () {
-    // Deploy a new contract for each test
-    this.matty = await Matty.new();
+describe("Matty", () => {
+  before(async () => {
+    this.Matty = await ethers.getContractFactory("Matty");
   });
 
-  it("Can draw lottery from a list of accounts", async function () {
+  beforeEach(async () => {
+    this.matty = await this.Matty.deploy();
+    await this.matty.deployed();
+  });
+
+  it("Can draw lottery from a list of accounts", async () => {
     // account test list, repeating with the same account
-    const candidateAmount = 10000;
+    const candidateAmount = 500;
     const winnerAmount = 10;
 
-    const addressList = createAddresses(4000);
+    const addressList = createAddresses(candidateAmount);
 
-    const { logs, receipt } = await this.matty.drawLottery(
-      addressList,
-      winnerAmount
-    );
+    const tx = await this.matty.drawLottery(addressList, winnerAmount);
+    const { gasUsed } = await tx.wait();
 
-    const winners = logs.filter(({ event }) => event === "LotteryWinners")[0]
-      .args.winners;
+    // get emitted event
+    const logs = await this.matty.queryFilter("LotteryWinners");
+    const { winners } = logs[0].args;
 
     expect(await this.matty.ownerOf(1)).to.equal(winners[0]);
     expect(await this.matty.ownerOf(winnerAmount)).to.equal(
@@ -34,13 +34,13 @@ contract("Matty", (accounts) => {
 
     // assuming base fee + tip ~ 100 gwei
     console.log(
-      `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${
-        receipt.gasUsed
-      }. Estimated ETH: ${receipt.gasUsed * gasPrice * 0.000000001}`
+      `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${gasUsed}. Estimated ETH: ${
+        gasUsed * gasPrice * 0.000000001
+      }`
     );
   });
 
-  it("Can random draw from a list of accounts without duplicates", async function () {
+  it("Can random draw from a list of accounts without duplicates", async () => {
     const amount = 10;
     const addressList = createAddresses(10);
 
@@ -50,7 +50,7 @@ contract("Matty", (accounts) => {
     expect(new Set(result).size).to.equal(result.length);
   });
 
-  it("Can get and update contractURI", async function () {
+  it("Can get and update contractURI", async () => {
     const contractURI = await this.matty.contractURI();
     expect(contractURI).to.be.a("string");
 
