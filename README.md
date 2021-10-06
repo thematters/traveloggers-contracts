@@ -22,7 +22,7 @@ npm i
 Copy environment variables:
 
 ```
-cp .env.local.example .env
+cp .env.example.json .env.json
 ```
 
 Fill in the following environment variables:
