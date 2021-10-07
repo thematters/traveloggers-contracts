@@ -1,0 +1,20 @@
+{
+  "name": "Teleluya",
+  "description": "A faithful left wing one-eye toad called undefined.",
+  "background_color": "c2aa3e",
+  "image": "12.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "one-eye toad"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "left wing"
+    },
+    {
+      "trait_type": "Character",
+      "value": "faithful"
+    }
+  ]
+}

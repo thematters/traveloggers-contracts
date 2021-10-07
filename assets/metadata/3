@@ -1,0 +1,20 @@
+{
+  "name": "Tartar",
+  "description": "A faithful royalist two-antenna elephant called Horogu.",
+  "background_color": "f8edcd",
+  "image": "3.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "two-antenna elephant"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "royalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "faithful"
+    }
+  ]
+}

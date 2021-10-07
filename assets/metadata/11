@@ -1,0 +1,20 @@
+{
+  "name": "Teteerha",
+  "description": "A sentimental nihilists one-eye toad called undefined.",
+  "background_color": "008080",
+  "image": "11.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "one-eye toad"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nihilists"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sentimental"
+    }
+  ]
+}

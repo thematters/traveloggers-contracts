@@ -1,0 +1,20 @@
+{
+  "name": "Horogu",
+  "description": "A faithful pacifist three-leg horse called Tamara.",
+  "background_color": "f8edcd",
+  "image": "7.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "three-leg horse"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "faithful"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Honga",
+  "description": "A practical nihilists two-antenna elephant called undefined.",
+  "background_color": "008080",
+  "image": "8.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "two-antenna elephant"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nihilists"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}
