@@ -56,29 +56,47 @@ describe("Matty", () => {
     expect(newContractURI).to.equal(uri + "contract-metadata.json");
   });
 
-  it("Can read or write logbook", async () => {
-    const [owner] = await ethers.getSigners();
-    const ownerAddress = owner.address;
-
-    await this.matty.batchMint([ownerAddress]);
+  it("Can read or write logbook by token owner", async () => {
+    // initial mint
+    const [owner, receiver, attacker] = await ethers.getSigners();
+    const token1Id = 1;
+    await this.matty.batchMint([owner.address]);
 
     // append log
     const log =
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
-    await this.matty.appendLog(1, log);
+    await this.matty.appendLog(token1Id, log);
 
-    // check event
-    const logs = await this.matty.queryFilter("LogbookNewLog");
-    const { tokenId, sender } = logs[0].args;
-    expect(tokenId.toNumber()).to.equal(1);
-    expect(sender).to.equal(ownerAddress);
+    // logbook is locked
+    const logbook = await this.matty.readLogbook(token1Id);
+    expect(logbook.isLocked).to.equal(true);
 
-    // check logs
-    const logbook = await this.matty.readLogbook(1);
+    // and latest log should be sent by token owner
     const [latestLog] = logbook.logs.slice(-1);
-    expect(latestLog.sender).to.equal(ownerAddress);
+    expect(latestLog.sender).to.equal(owner.address);
     expect(latestLog.log).to.equal(log);
 
-    // TODO: check isLock
+    // "LogbookNewLog" event is emitted
+    const logs = await this.matty.queryFilter("LogbookNewLog");
+    const { tokenId, sender } = logs[0].args;
+    expect(tokenId.toNumber()).to.equal(token1Id);
+    expect(sender).to.equal(owner.address);
+
+    // transfer and logbook should be unlocked
+    await this.matty.transferFrom(owner.address, receiver.address, token1Id);
+    await this.matty.connect(receiver).appendLog(token1Id, log);
+    const receiverLogbook = await this.matty
+      .connect(receiver)
+      .readLogbook(token1Id);
+    expect(receiverLogbook.logs.length).to.equal(2);
+    expect(receiverLogbook.isLocked).to.equal(true);
+
+    // malicious account tries to read and write logbook
+    await this.matty
+      .connect(receiver)
+      .transferFrom(receiver.address, owner.address, token1Id);
+    await expect(
+      this.matty.connect(attacker).readLogbook(token1Id)
+    ).to.be.rejectedWith("caller is not owner nor approved");
   });
 });

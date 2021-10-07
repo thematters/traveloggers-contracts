@@ -40,16 +40,8 @@ describe("BatchNFT", () => {
 
     const addressList = createAddresses(amount);
 
-    try {
-      await this.batchNFT.batchMint(addressList);
-      assert.fail("should throw error");
-    } catch (error) {
-      console.log(error.message);
-      assert.isAbove(
-        error.message.search("not enough supply"),
-        -1,
-        `"not enough supply" error must be returned`
-      );
-    }
+    await expect(this.batchNFT.batchMint(addressList)).to.be.rejectedWith(
+      "not enough supply"
+    );
   });
 });
