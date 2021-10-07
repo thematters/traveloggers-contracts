@@ -24,3 +24,5 @@ coverage/
 Dockerrun.aws.json
 
 TODO
+abi
+coverage.json
