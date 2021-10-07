@@ -73,7 +73,11 @@ describe("Matty", () => {
     expect(tokenId.toNumber()).to.equal(1);
     expect(sender).to.equal(ownerAddress);
 
-    // TODO: check logs
+    // check logs
+    const logbook = await this.matty.readLogbook(1);
+    const [latestLog] = logbook.logs.slice(-1);
+    expect(latestLog.sender).to.equal(ownerAddress);
+    expect(latestLog.log).to.equal(log);
 
     // TODO: check isLock
   });
