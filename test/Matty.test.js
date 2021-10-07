@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-const { createAddresses, gasPrice } = require("./utils");
+const { createAddresses } = require("./utils");
 
 // Start test block
 describe("Matty", () => {
@@ -21,7 +21,6 @@ describe("Matty", () => {
     const addressList = createAddresses(candidateAmount);
 
     const tx = await this.matty.drawLottery(addressList, winnerAmount);
-    const { gasUsed } = await tx.wait();
 
     // get emitted event
     const logs = await this.matty.queryFilter("LotteryWinners");
@@ -30,13 +29,6 @@ describe("Matty", () => {
     expect(await this.matty.ownerOf(1)).to.equal(winners[0]);
     expect(await this.matty.ownerOf(winnerAmount)).to.equal(
       winners[winners.length - 1]
-    );
-
-    // assuming base fee + tip ~ 100 gwei
-    console.log(
-      `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${gasUsed}. Estimated ETH: ${
-        gasUsed * gasPrice * 0.000000001
-      }`
     );
   });
 
