@@ -1,5 +1,7 @@
 require("@nomiclabs/hardhat-ethers");
 require("hardhat-gas-reporter");
+require("solidity-coverage");
+require("hardhat-abi-exporter");
 
 const {
   deployerPrivateKey,
