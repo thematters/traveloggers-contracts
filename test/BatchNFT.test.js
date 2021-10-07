@@ -25,7 +25,7 @@ describe("BatchNFT", () => {
 
     const addressList = createAddresses(amount);
 
-    const tx = await this.batchNFT.batchMint(addressList);
+    await this.batchNFT.batchMint(addressList);
 
     // test first one and last one
     expect(await this.batchNFT.ownerOf(1)).to.equal(addressList[0]);

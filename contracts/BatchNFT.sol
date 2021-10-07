@@ -14,6 +14,8 @@ contract BatchNFT is ERC721, Ownable {
     Counters.Counter private _tokenIds;
 
     uint16 public totalSupply;
+
+    // Base URI for token and contract metadata
     string private baseURI =
         "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/";
 
