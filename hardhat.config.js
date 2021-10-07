@@ -1,6 +1,11 @@
 require("@nomiclabs/hardhat-ethers");
+require("hardhat-gas-reporter");
 
-const { deployerPrivateKey, alchemyAPIKey } = require("./.env.json");
+const {
+  deployerPrivateKey,
+  alchemyAPIKey,
+  coinmarketcapKey,
+} = require("./.env.json");
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
@@ -13,5 +18,10 @@ module.exports = {
       url: `https://eth-rinkeby.alchemyapi.io/v2/${alchemyAPIKey}`,
       accounts: [deployerPrivateKey],
     },
+  },
+  gasReporter: {
+    currency: "USD",
+    gasPrice: 100,
+    coinmarketcap: coinmarketcapKey,
   },
 };
