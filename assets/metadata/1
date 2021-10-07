@@ -1,0 +1,20 @@
+{
+  "name": "Dongmaguru",
+  "description": "A practical right wing two-antenna elephant called Zoe.",
+  "background_color": "f8edcd",
+  "image": "1.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "two-antenna elephant"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "right wing"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

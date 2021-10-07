@@ -1,0 +1,20 @@
+{
+  "name": "Erwa",
+  "description": "An imaginative left wing three-leg horse called Jetee.",
+  "background_color": "f8edcd",
+  "image": "2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "three-leg horse"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "left wing"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

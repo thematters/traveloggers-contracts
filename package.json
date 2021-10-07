@@ -11,6 +11,7 @@
     "rinkeby:deploy": "hardhat run --network rinkeby scripts/deploy.js",
     "rinkeby:mint": "hardhat run --network rinkeby scripts/mint.js",
     "store": "node ./scripts/store.js",
+    "generateCreature": "node ./scripts/generateCreature.js",
     "build": "hardhat compile",
     "test": "hardhat test",
     "prepare": "husky install",
@@ -23,6 +24,7 @@
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@openzeppelin/contracts": "^4.3.2",
+    "articles": "^0.2.2",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "ethers": "^5.4.7",

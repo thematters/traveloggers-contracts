@@ -1,0 +1,20 @@
+{
+  "name": "Konggo",
+  "description": "A wanderlusty anarchist two-antenna elephant called undefined.",
+  "background_color": "f8edcd",
+  "image": "14.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "two-antenna elephant"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "wanderlusty"
+    }
+  ]
+}

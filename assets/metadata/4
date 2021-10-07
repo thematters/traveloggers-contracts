@@ -1,0 +1,20 @@
+{
+  "name": "Zzuween",
+  "description": "A sentimental left wing three-leg horse called Konggo.",
+  "background_color": "008080",
+  "image": "4.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "three-leg horse"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "left wing"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sentimental"
+    }
+  ]
+}

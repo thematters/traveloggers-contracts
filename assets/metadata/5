@@ -1,0 +1,20 @@
+{
+  "name": "Kuuhuru",
+  "description": "A wanderlusty left wing three-leg horse called Teleluya.",
+  "background_color": "008080",
+  "image": "5.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "three-leg horse"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "left wing"
+    },
+    {
+      "trait_type": "Character",
+      "value": "wanderlusty"
+    }
+  ]
+}

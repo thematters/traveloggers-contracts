@@ -1,0 +1,20 @@
+{
+  "name": "Junkun",
+  "description": "A practical nihilists three-leg horse called Teteerha.",
+  "background_color": "008080",
+  "image": "6.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "three-leg horse"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nihilists"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}
