@@ -1,7 +1,7 @@
 const chai = require("chai");
 const chaiAsPromised = require("chai-as-promised");
 
-const { createAddresses, gasPrice } = require("./utils");
+const { createAddresses } = require("./utils");
 
 chai.use(chaiAsPromised);
 const { expect, assert } = chai;
@@ -27,19 +27,10 @@ describe("BatchNFT", () => {
 
     const tx = await this.batchNFT.batchMint(addressList);
 
-    const { gasUsed } = await tx.wait();
-
     // test first one and last one
     expect(await this.batchNFT.ownerOf(1)).to.equal(addressList[0]);
     expect(await this.batchNFT.ownerOf(amount)).to.equal(
       addressList[addressList.length - 1]
-    );
-
-    // assuming base fee + tip ~ 100 gwei
-    console.log(
-      `        Gas used for minting ${amount} NFTs in batch: ${gasUsed}. Estimated ETH: ${
-        gasUsed * gasPrice * 0.000000001
-      }`
     );
   });
 

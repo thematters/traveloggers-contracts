@@ -15,6 +15,7 @@
     "test": "hardhat test",
     "prepare": "husky install",
     "lint": "solhint 'contracts/**/*.sol'",
+    "coverage": "hardhat coverage",
     "format": "prettier --write \"{,!(node_modules|build|coverage|artifacts|assets|cache)/**/}*.{sol,js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
@@ -27,11 +28,14 @@
     "chai-as-promised": "^7.1.1",
     "ethers": "^5.4.7",
     "hardhat": "^2.6.5",
+    "hardhat-abi-exporter": "^2.3.0",
+    "hardhat-gas-reporter": "^1.0.4",
     "husky": "^7.0.2",
     "prettier": "^2.4.1",
     "prettier-plugin-solidity": "^1.0.0-beta.18",
     "solhint": "^3.3.6",
     "solhint-plugin-prettier": "0.0.5",
+    "solidity-coverage": "^0.7.17",
     "web3": "^1.5.3"
   },
   "prettier": {

@@ -6,7 +6,7 @@ on:
       - "*"
 
 jobs:
-  build_and_test:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
@@ -36,3 +36,34 @@ jobs:
       - name: Test
         run: |
           cp .env.json.example .env.json && npm run test
+
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.4.0
+        with:
+          node-version: "16.10"
+
+      - name: Cache Dependencies
+        id: cache
+        uses: actions/cache@v2.1.5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - nmae: Generate Coverage Report
+        run: npm run coverage
+        env:
+          NODE_OPTIONS: --max_old_space_size=4096
+
+      - name: Codecov
+        uses: codecov/codecov-action@v2
