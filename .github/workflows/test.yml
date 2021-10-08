@@ -60,7 +60,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - nmae: Generate Coverage Report
+      - name: Generate Coverage Report
         run: npm run coverage
         env:
           NODE_OPTIONS: --max_old_space_size=4096
