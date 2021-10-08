@@ -13,10 +13,10 @@ contract BatchNFT is ERC721, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    uint16 public totalSupply;
+    uint16 public _totalSupply;
 
     // Base URI for token and contract metadata
-    string private baseURI =
+    string private _sharedBaseURI =
         "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/";
 
     constructor(
@@ -31,14 +31,14 @@ contract BatchNFT is ERC721, Ownable {
      * @dev Update the supply of NFT.
      */
     function setSupply(uint16 supply_) public onlyOwner {
-        totalSupply = supply_;
+        _totalSupply = supply_;
     }
 
     /**
      * @dev Update the base URI
      */
     function setBaseURI(string memory uri_) external onlyOwner {
-        baseURI = uri_;
+        _sharedBaseURI = uri_;
     }
 
     /**
@@ -47,7 +47,7 @@ contract BatchNFT is ERC721, Ownable {
      * https://docs.opensea.io/docs/contract-level-metadata
      */
     function contractURI() public view returns (string memory) {
-        return string(abi.encodePacked(baseURI, "contract-metadata.json"));
+        return string(abi.encodePacked(_sharedBaseURI, "contract-metadata.json"));
     }
 
     /**
@@ -60,7 +60,7 @@ contract BatchNFT is ERC721, Ownable {
         returns (uint256[] memory)
     {
         require(
-            totalSupply >= addresses_.length + _tokenIds.current(),
+            _totalSupply >= addresses_.length + _tokenIds.current(),
             "not enough supply"
         );
 
@@ -81,6 +81,6 @@ contract BatchNFT is ERC721, Ownable {
      * @dev See {ERC721}.
      */
     function _baseURI() internal view virtual override returns (string memory) {
-        return baseURI;
+        return _sharedBaseURI;
     }
 }
