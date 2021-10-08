@@ -14,7 +14,7 @@ uploads
 environment.sh
 logs
 npm-install.log
-coverage/
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
@@ -25,4 +25,5 @@ Dockerrun.aws.json
 
 TODO
 abi
+coverage/
 coverage.json
