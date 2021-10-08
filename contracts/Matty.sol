@@ -9,13 +9,13 @@ contract Matty is Lottery {
         string log;
         address sender;
     }
-    struct TokenLogbook {
+    struct Logbook {
         Log[] logs;
         bool isLocked;
     }
 
     // Mapping from token ID to logbook
-    mapping(uint256 => TokenLogbook) private logbook;
+    mapping(uint256 => Logbook) private _logbook;
 
     uint8 public constant MAX_LOG_LENGTH = 140;
 
@@ -33,15 +33,14 @@ contract Matty is Lottery {
             _isApprovedOrOwner(_msgSender(), tokenId),
             "caller is not owner nor approved"
         );
-
-        require(!logbook[tokenId].isLocked, "logbook is locked");
+        require(!_logbook[tokenId].isLocked, "logbook is locked");
         require(bytes(log).length <= MAX_LOG_LENGTH, "log exceeds max length");
 
         address owner = ERC721.ownerOf(tokenId);
         Log memory newLog = Log(block.timestamp, log, owner);
 
-        logbook[tokenId].logs.push(newLog);
-        logbook[tokenId].isLocked = true;
+        _logbook[tokenId].logs.push(newLog);
+        _logbook[tokenId].isLocked = true;
 
         emit LogbookNewLog(tokenId, owner);
     }
@@ -52,14 +51,14 @@ contract Matty is Lottery {
     function readLogbook(uint256 tokenId)
         public
         view
-        returns (TokenLogbook memory)
+        returns (Logbook memory)
     {
         require(
             _isApprovedOrOwner(_msgSender(), tokenId),
             "caller is not owner nor approved"
         );
 
-        return logbook[tokenId];
+        return _logbook[tokenId];
     }
 
     /**
@@ -72,6 +71,6 @@ contract Matty is Lottery {
     ) internal virtual override {
         super._beforeTokenTransfer(from, to, tokenId); // Call parent hook
 
-        logbook[tokenId].isLocked = false;
+        _logbook[tokenId].isLocked = false;
     }
 }

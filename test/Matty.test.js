@@ -56,47 +56,109 @@ describe("Matty", () => {
     expect(newContractURI).to.equal(uri + "contract-metadata.json");
   });
 
-  it("Can read or write logbook by token owner", async () => {
-    // initial mint
-    const [owner, receiver, attacker] = await ethers.getSigners();
-    const token1Id = 1;
-    await this.matty.batchMint([owner.address]);
+  describe("Logbook", () => {
+    it("Can read or write by token owner", async () => {
+      // initial mint
+      const [owner] = await ethers.getSigners();
+      const token1Id = 1;
+      await this.matty.batchMint([owner.address]);
 
-    // append log
-    const log =
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
-    await this.matty.appendLog(token1Id, log);
+      // append log
+      const log =
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+      await this.matty.appendLog(token1Id, log);
 
-    // logbook is locked
-    const logbook = await this.matty.readLogbook(token1Id);
-    expect(logbook.isLocked).to.equal(true);
+      // logbook is locked now
+      const logbook = await this.matty.readLogbook(token1Id);
+      expect(logbook.isLocked).to.equal(true);
 
-    // and latest log should be sent by token owner
-    const [latestLog] = logbook.logs.slice(-1);
-    expect(latestLog.sender).to.equal(owner.address);
-    expect(latestLog.log).to.equal(log);
+      // latest log is sent by token owner
+      const [latestLog] = logbook.logs.slice(-1);
+      expect(latestLog.sender).to.equal(owner.address);
+      expect(latestLog.log).to.equal(log);
 
-    // "LogbookNewLog" event is emitted
-    const logs = await this.matty.queryFilter("LogbookNewLog");
-    const { tokenId, sender } = logs[0].args;
-    expect(tokenId.toNumber()).to.equal(token1Id);
-    expect(sender).to.equal(owner.address);
+      // "LogbookNewLog" event is emitted
+      const logs = await this.matty.queryFilter("LogbookNewLog");
+      const { tokenId, sender } = logs[0].args;
+      expect(tokenId.toNumber()).to.equal(token1Id);
+      expect(sender).to.equal(owner.address);
+    });
 
-    // transfer and logbook should be unlocked
-    await this.matty.transferFrom(owner.address, receiver.address, token1Id);
-    await this.matty.connect(receiver).appendLog(token1Id, log);
-    const receiverLogbook = await this.matty
-      .connect(receiver)
-      .readLogbook(token1Id);
-    expect(receiverLogbook.logs.length).to.equal(2);
-    expect(receiverLogbook.isLocked).to.equal(true);
+    it("Can write with valid strings", async () => {
+      // initial mint
+      const [owner, tempOwner] = await ethers.getSigners();
+      const token1Id = 1;
+      await this.matty.batchMint([owner.address]);
 
-    // malicious account tries to read and write logbook
-    await this.matty
-      .connect(receiver)
-      .transferFrom(receiver.address, owner.address, token1Id);
-    await expect(
-      this.matty.connect(attacker).readLogbook(token1Id)
-    ).to.be.rejectedWith("caller is not owner nor approved");
+      // defined a function that unlock logbook through token swapping
+      const swapToUnlock = async () => {
+        await this.matty.transferFrom(
+          owner.address,
+          tempOwner.address,
+          token1Id
+        );
+        await this.matty
+          .connect(tempOwner)
+          .transferFrom(tempOwner.address, owner.address, token1Id);
+      };
+
+      // log chinese
+      const logChinese =
+        "綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。";
+      await this.matty.appendLog(token1Id, logChinese);
+      const logbook = await this.matty.readLogbook(token1Id);
+      const [latestLog] = logbook.logs.slice(-1);
+      expect(latestLog.log).to.equal(logChinese);
+
+      // log exceeds max length
+      const logExceeds =
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+      const logChineseExceeds =
+        "綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。";
+      await swapToUnlock();
+      await expect(
+        this.matty.appendLog(token1Id, logExceeds)
+      ).to.be.rejectedWith("log exceeds max length");
+      await swapToUnlock();
+      await expect(
+        this.matty.appendLog(token1Id, logChineseExceeds)
+      ).to.be.rejectedWith("log exceeds max length");
+    });
+
+    it("Should be unlocked on token transfer", async () => {
+      // initial mint
+      const [owner, receiver] = await ethers.getSigners();
+      const token1Id = 1;
+      await this.matty.batchMint([owner.address]);
+
+      const log =
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+      await this.matty.appendLog(token1Id, log);
+
+      // transfer
+      await this.matty.transferFrom(owner.address, receiver.address, token1Id);
+
+      // appendable if it's unlocked
+      await this.matty.connect(receiver).appendLog(token1Id, log);
+
+      // locked again
+      const receiverLogbook = await this.matty
+        .connect(receiver)
+        .readLogbook(token1Id);
+      expect(receiverLogbook.logs.length).to.equal(2);
+      expect(receiverLogbook.isLocked).to.equal(true);
+    });
+
+    it("Should be unreadable for anyone except the token owner", async () => {
+      // initial mint
+      const [owner, attacker] = await ethers.getSigners();
+      const token1Id = 1;
+      await this.matty.batchMint([owner.address]);
+
+      // malicious account tries to read and write logbook
+      await expect(
+        this.matty.connect(attacker).readLogbook(token1Id)
+      ).to.be.rejectedWith("caller is not owner nor approved");
+    });
   });
 });
