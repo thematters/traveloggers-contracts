@@ -61,7 +61,7 @@ jobs:
         run: npm ci
 
       - name: Generate Coverage Report
-        run: npm run coverage
+        run: cp .env.json.example .env.json && npm run coverage
         env:
           NODE_OPTIONS: --max_old_space_size=4096
 
