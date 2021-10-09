@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "./Lottery.sol";
 import "./Logbook.sol";
 
-contract Matty is Lottery, TokenLogbook {
+contract Matty is Lottery, Logbook {
     constructor() BatchNFT("Matty", "MATT", 500) {}
 
     /**
@@ -14,7 +14,7 @@ contract Matty is Lottery, TokenLogbook {
         address from,
         address to,
         uint256 tokenId
-    ) internal virtual override(ERC721, TokenLogbook) {
+    ) internal virtual override(ERC721, Logbook) {
         super._beforeTokenTransfer(from, to, tokenId); // Call parent hook
     }
 }

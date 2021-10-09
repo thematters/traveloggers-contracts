@@ -6,19 +6,19 @@ import "./BatchNFT.sol";
 /**
  * @dev Contract that allows token owner to read and write logbook
  */
-abstract contract TokenLogbook is BatchNFT {
+abstract contract Logbook is BatchNFT {
     struct Log {
         address sender;
         string message;
         uint256 createdAt;
     }
-    struct Logbook {
+    struct TokenLogbook {
         Log[] logs;
         bool isLocked;
     }
 
     // Mapping from token ID to logbook
-    mapping(uint256 => Logbook) private _logbook;
+    mapping(uint256 => TokenLogbook) private _logbook;
 
     uint8 public constant MAX_LOG_LENGTH = 140;
 
@@ -56,7 +56,11 @@ abstract contract TokenLogbook is BatchNFT {
     /**
      * @dev Read logbook
      */
-    function readLogbook(uint256 tokenId) public view returns (Logbook memory) {
+    function readLogbook(uint256 tokenId)
+        public
+        view
+        returns (TokenLogbook memory)
+    {
         require(
             _isApprovedOrOwner(_msgSender(), tokenId),
             "caller is not owner nor approved"
