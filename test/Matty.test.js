@@ -75,7 +75,7 @@ describe("Matty", () => {
       // latest log is sent by token owner
       const [latestLog] = logbook.logs.slice(-1);
       expect(latestLog.sender).to.equal(owner.address);
-      expect(latestLog.log).to.equal(log);
+      expect(latestLog.message).to.equal(log);
 
       // "LogbookNewLog" event is emitted
       const logs = await this.matty.queryFilter("LogbookNewLog");
@@ -108,7 +108,7 @@ describe("Matty", () => {
       await this.matty.appendLog(token1Id, logChinese);
       const logbook = await this.matty.readLogbook(token1Id);
       const [latestLog] = logbook.logs.slice(-1);
-      expect(latestLog.log).to.equal(logChinese);
+      expect(latestLog.message).to.equal(logChinese);
 
       // log exceeds max length
       const logExceeds =

@@ -5,9 +5,9 @@ import "./Lottery.sol";
 
 contract Matty is Lottery {
     struct Log {
-        uint256 createdAt;
-        string log;
         address sender;
+        string message;
+        uint256 createdAt;
     }
     struct Logbook {
         Log[] logs;
@@ -28,16 +28,23 @@ contract Matty is Lottery {
      *
      * Emits a {LogbookNewLog} event.
      */
-    function appendLog(uint256 tokenId, string calldata log) public {
+    function appendLog(uint256 tokenId, string calldata message) public {
         require(
             _isApprovedOrOwner(_msgSender(), tokenId),
             "caller is not owner nor approved"
         );
         require(!_logbook[tokenId].isLocked, "logbook is locked");
-        require(bytes(log).length <= MAX_LOG_LENGTH, "log exceeds max length");
+        require(
+            bytes(message).length <= MAX_LOG_LENGTH,
+            "log exceeds max length"
+        );
 
         address owner = ERC721.ownerOf(tokenId);
-        Log memory newLog = Log(block.timestamp, log, owner);
+        Log memory newLog = Log({
+            sender: owner,
+            message: message,
+            createdAt: block.timestamp
+        });
 
         _logbook[tokenId].logs.push(newLog);
         _logbook[tokenId].isLocked = true;
@@ -48,11 +55,7 @@ contract Matty is Lottery {
     /**
      * @dev Read logbook
      */
-    function readLogbook(uint256 tokenId)
-        public
-        view
-        returns (Logbook memory)
-    {
+    function readLogbook(uint256 tokenId) public view returns (Logbook memory) {
         require(
             _isApprovedOrOwner(_msgSender(), tokenId),
             "caller is not owner nor approved"
