@@ -15,7 +15,7 @@ contract BatchNFT is ERC721, Ownable {
 
     uint16 public _totalSupply;
 
-    // Base URI for token and contract metadata
+    // Base URI shared by token and contract metadata
     string private _sharedBaseURI =
         "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/";
 
@@ -35,9 +35,9 @@ contract BatchNFT is ERC721, Ownable {
     }
 
     /**
-     * @dev Update the base URI
+     * @dev Update the shared base URI
      */
-    function setBaseURI(string memory uri_) external onlyOwner {
+    function setSharedBaseURI(string memory uri_) external onlyOwner {
         _sharedBaseURI = uri_;
     }
 

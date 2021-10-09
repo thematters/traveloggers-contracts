@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-const { createAddresses } = require("./utils");
+const { createAddresses, gasPrice } = require("./utils");
 
 // Start test block
 describe("Matty", () => {
@@ -13,47 +13,43 @@ describe("Matty", () => {
     await this.matty.deployed();
   });
 
-  it("Can draw lottery from a list of accounts", async () => {
-    // account test list, repeating with the same account
-    const candidateAmount = 500;
-    const winnerAmount = 10;
+  describe("Lottery", () => {
+    it("Can draw lottery from a list of accounts", async () => {
+      // account test list, repeating with the same account
+      const candidateAmount = 500;
+      const winnerAmount = 10;
 
-    const addressList = createAddresses(candidateAmount);
+      const addressList = createAddresses(candidateAmount);
 
-    await this.matty.drawLottery(addressList, winnerAmount);
+      const tx = await this.matty.drawLottery(addressList, winnerAmount);
 
-    // get emitted event
-    const logs = await this.matty.queryFilter("LotteryWinners");
-    const { winners } = logs[0].args;
+      // get emitted event
+      const logs = await this.matty.queryFilter("LotteryWinners");
+      const { winners } = logs[0].args;
 
-    expect(await this.matty.ownerOf(1)).to.equal(winners[0]);
-    expect(await this.matty.ownerOf(winnerAmount)).to.equal(
-      winners[winners.length - 1]
-    );
-  });
+      expect(await this.matty.ownerOf(1)).to.equal(winners[0]);
+      expect(await this.matty.ownerOf(winnerAmount)).to.equal(
+        winners[winners.length - 1]
+      );
 
-  it("Can random draw from a list of accounts without duplicates", async () => {
-    const amount = 10;
-    const addressList = createAddresses(10);
+      // assuming base fee + tip ~ 100 gwei
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${gasUsed}. Estimated ETH: ${
+          gasUsed * gasPrice * 0.000000001
+        }`
+      );
+    });
 
-    const result = await this.matty._randomDraw(addressList, amount);
+    it("Can random draw from a list of accounts without duplicates", async () => {
+      const amount = 10;
+      const addressList = createAddresses(10);
 
-    // should be no duplication in result
-    expect(new Set(result).size).to.equal(result.length);
-  });
+      const result = await this.matty._randomDraw(addressList, amount);
 
-  it("Can get or update baseURI", async () => {
-    // get contract URI
-    const contractURI = await this.matty.contractURI();
-    expect(contractURI).to.be.a("string");
-
-    // set new baseURI
-    const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";
-    await this.matty.setBaseURI(uri);
-
-    // get new contract URI
-    const newContractURI = await this.matty.contractURI();
-    expect(newContractURI).to.equal(uri + "contract-metadata.json");
+      // should be no duplication in result
+      expect(new Set(result).size).to.equal(result.length);
+    });
   });
 
   describe("Logbook", () => {
@@ -65,8 +61,18 @@ describe("Matty", () => {
 
       // append log
       const log =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
-      await this.matty.appendLog(token1Id, log);
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since.";
+      const tx = await this.matty.appendLog(token1Id, log);
+
+      // assuming base fee + tip ~ 100 gwei
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for appendLog with ${
+          log.length
+        } characters: ${gasUsed}. Estimated ETH: ${
+          gasUsed * gasPrice * 0.000000001
+        }`
+      );
 
       // logbook is locked now
       const logbook = await this.matty.readLogbook(token1Id);
