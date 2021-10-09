@@ -47,7 +47,8 @@ contract BatchNFT is ERC721, Ownable {
      * https://docs.opensea.io/docs/contract-level-metadata
      */
     function contractURI() public view returns (string memory) {
-        return string(abi.encodePacked(_sharedBaseURI, "contract-metadata.json"));
+        return
+            string(abi.encodePacked(_sharedBaseURI, "contract-metadata.json"));
     }
 
     /**
