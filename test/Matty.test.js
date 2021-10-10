@@ -1,226 +1,56 @@
-const chai = require("chai")
-const Web3 = require("web3")
-const { expect } = require("chai")
-const { solidity } = require("ethereum-waffle")
+const { expect } = require("chai");
 
-chai.use(solidity)
-
-const { networks } = require("../truffle-config")
-
-const web3 = new Web3(
-  `http://${networks.development.host}:${networks.development.port}`
-)
-
-// helper function
-const createAddresses = (amount) =>
-  new Array(amount)
-    .fill(undefined)
-    .map(() => web3.eth.accounts.create().address)
-
-// Load compiled artifacts
-const Matty = artifacts.require("Matty")
-
-// gas price in gwei, includes base fee + tip, used for estimation
-const gasPrice = 100
+const { createAddresses } = require("./utils");
 
 // Start test block
-contract("Matty", (accounts) => {
-  beforeEach(async function () {
-    // Deploy a new contract for each test
-    this.matty = await Matty.new()
-  })
+describe("Matty", () => {
+  before(async () => {
+    this.Matty = await ethers.getContractFactory("Matty");
+  });
 
-  it("Can batch drop to a list of accounts", async function () {
+  beforeEach(async () => {
+    this.matty = await this.Matty.deploy();
+    await this.matty.deployed();
+  });
+
+  it("Can draw lottery from a list of accounts", async () => {
     // account test list, repeating with the same account
-    const amount = 100
+    const candidateAmount = 500;
+    const winnerAmount = 10;
 
-    const addressList = createAddresses(amount)
+    const addressList = createAddresses(candidateAmount);
 
-    const { receipt } = await this.matty.batchDrop(addressList)
+    const tx = await this.matty.drawLottery(addressList, winnerAmount);
 
-    // test first one and last one
-    expect(await this.matty.ownerOf(1)).to.equal(addressList[0])
-    expect(await this.matty.ownerOf(amount)).to.equal(
-      addressList[addressList.length - 1]
-    )
+    // get emitted event
+    const logs = await this.matty.queryFilter("LotteryWinners");
+    const { winners } = logs[0].args;
 
-    // assuming base fee + tip ~ 100 gwei
-    console.log(
-      `        Gas used for ${amount} air drops: ${
-        receipt.gasUsed
-      }. Estimated ETH: ${receipt.gasUsed * gasPrice * 0.000000001}`
-    )
-  })
-
-  it("Can draw lottery from a list of accounts", async function () {
-    // account test list, repeating with the same account
-    const candidateAmount = 4000
-    const winnerAmount = 50
-
-    const addressList = createAddresses(4000)
-
-    const { logs, receipt } = await this.matty.drawLottery(
-      addressList,
-      winnerAmount
-    )
-
-    const winners = logs.filter(({ event }) => event === "LotteryDraw")[0].args
-      .winners
-
-    expect(await this.matty.ownerOf(1)).to.equal(winners[0])
+    expect(await this.matty.ownerOf(1)).to.equal(winners[0]);
     expect(await this.matty.ownerOf(winnerAmount)).to.equal(
       winners[winners.length - 1]
-    )
+    );
+  });
 
-    // assuming base fee + tip ~ 100 gwei
-    console.log(
-      `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${
-        receipt.gasUsed
-      }. Estimated ETH: ${receipt.gasUsed * gasPrice * 0.000000001}`
-    )
-  })
+  it("Can random draw from a list of accounts without duplicates", async () => {
+    const amount = 10;
+    const addressList = createAddresses(10);
 
-  it("Can random draw from a list of accounts without duplicates", async function () {
-    const amount = 10
-    const addressList = createAddresses(10)
-
-    const result = await this.matty._randomDraw(addressList, amount)
+    const result = await this.matty._randomDraw(addressList, amount);
 
     // should be no duplication in result
-    expect(new Set(result).size).to.equal(result.length)
-  })
+    expect(new Set(result).size).to.equal(result.length);
+  });
 
-  it("Can start and end pre-ordering", async function() {
+  it("Can get and update contractURI", async () => {
+    const contractURI = await this.matty.contractURI();
+    expect(contractURI).to.be.a("string");
 
-      // start pre-order 
-      let started = await this.matty.inPreOrder()
-      expect(started).to.equal(false)
+    // set new baseURI
+    const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";
+    await this.matty.setBaseURI(uri);
 
-      // cannot start pre-order if minimum contribution amount <= 0
-      await expect(this.matty.startPreOrder(0, 100)).to.be.reverted
-      // cannot start pre-order if participants allowed <= 0
-      await expect(this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 0)).to.be.reverted
-
-      // set minimum contribution amount 
-      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 100)
-      let minAmount = await this.matty.minAmount()
-      expect(minAmount.toString()).to.equal(web3.utils.toWei("0.1", "ether"))
-      let participantsAllowed = await this.matty.participantsAllowed()
-      expect(participantsAllowed.toString()).to.equal("100")
-      started = await this.matty.inPreOrder()
-      expect(started).to.equal(true)
-
-      // cannot start again if already started
-      await expect(this.matty.startPreOrder(web3.utils.toWei("0.8", "ether"), 100)).to.be.reverted
-      
-      // close pre-order & restart it
-      await this.matty.endPreOrder()
-      started = await this.matty.inPreOrder()
-      expect(started).to.equal(false)
-      await this.matty.startPreOrder(web3.utils.toWei("0.5", "ether"), 100)
-      started = await this.matty.inPreOrder()
-      expect(started).to.equal(true)
-  })
-
-  it("Participants can participate pre-ordering", async function() {
-      // pre-order not started
-      await expect(this.matty.preOrder({
-        from: accounts[0],
-        value: web3.utils.toWei("0.5", "ether")
-      })).to.be.reverted
-
-      // start pre-order round 1
-      await this.matty.startPreOrder(web3.utils.toWei("0.5", "ether"), 100)
-      // success pre-order
-      await this.matty.preOrder({
-        from: accounts[0],
-        value: web3.utils.toWei("0.5", "ether")
-      })
-      // no duplicated pre-ordering
-      await expect(this.matty.preOrder({
-        from: accounts[0],
-        value: web3.utils.toWei("1.5", "ether")
-      })).to.be.reverted
-
-      // pre-order closed
-      await this.matty.endPreOrder()
-      await expect(this.matty.preOrder({
-        from: accounts[1],
-        value: web3.utils.toWei("0.5", "ether")
-      })).to.be.reverted
-
-      // start pre-order round 2
-      await this.matty.startPreOrder(web3.utils.toWei("0.51", "ether"), 100)
-      // cannot pre-order is sent amount is less then minimum contribution required
-      await expect(this.matty.preOrder({
-        from: accounts[1],
-        value: web3.utils.toWei("0.5", "ether")
-      })).to.be.reverted
-
-      await this.matty.preOrder({
-        from: accounts[1],
-        value: web3.utils.toWei("0.52", "ether")
-      })
-
-      // query pre-order status
-      let status = await this.matty.preOrderExist(accounts[0])
-      expect(status).to.equal(true)
-      status = await this.matty.preOrderExist(accounts[1])
-      expect(status).to.equal(true)
-      status = await this.matty.preOrderExist(accounts[3])
-      expect(status).to.equal(false)
-
-      // query pre-order total amounts
-      let amount = await this.matty.preOrderAmountTotal()
-      expect(amount.toString()).to.equal(web3.utils.toWei("1.02", "ether"))
-  })
-
-  it("Pre-ordering participants limit cannot be exceeded", async function() {
-
-      // max participants allowed is 9
-      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 9)
-
-      for (let i = 0; i < accounts.length - 1; i++) {
-        await this.matty.preOrder({
-          from: accounts[i],
-          value: web3.utils.toWei("0.1", "ether")
-        })
-      }
-
-      await expect(this.matty.preOrder({
-        from: accounts[9],
-        value: web3.utils.toWei("0.1", "ether")
-      })).to.be.reverted
-
-      // query pre-order total amounts
-      let amount = await this.matty.preOrderAmountTotal()
-      expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"))
-
-      // query single pre-order
-      let participant = await this.matty.preOrderGet(accounts[9])
-      expect(participant.amount.toString()).to.equal("0")
-      participant = await this.matty.preOrderGet(accounts[0])
-      expect(participant.amount.toString()).to.equal(web3.utils.toWei("0.1", "ether"))
-  })
-
-  it("Can list all pre-order participants", async function() {
-      await this.matty.startPreOrder(web3.utils.toWei("0.1", "ether"), 100)
-
-      for (let i = 0; i < accounts.length; i++) {
-        await this.matty.preOrder({
-          from: accounts[i],
-          value: web3.utils.toWei("0.1", "ether")
-        })
-      }
-      let participants = await this.matty.preOrderListAll()
-      expect(participants.length).to.equal(accounts.length)
-
-      participants = await this.matty.preOrderList(9, 100)
-      expect(participants.length).to.equal(accounts.length - 9 + 1)
-      participants = await this.matty.preOrderList(1, 5)
-      expect(participants.length).to.equal(5)
-
-      // start index out of bound
-      await expect(this.matty.preOrderList(11, 5)).to.be.reverted
-  })
-})
+    const newContractURI = await this.matty.contractURI();
+    expect(newContractURI).to.equal(uri + "contract-metadata.json");
+  });
+});

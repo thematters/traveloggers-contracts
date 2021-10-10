@@ -1,0 +1,8 @@
+{
+  "name": "Matters Avatar",
+  "description": "Matters: The Next Decentralized Content Ecosystem",
+  "image": "https://matters.news/_next/static/image/public/static/apple-touch-icon.b2a0b3b52451ffdb0f362227213c7762.png",
+  "external_link": "https://matters.news",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"
+}

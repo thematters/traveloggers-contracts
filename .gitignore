@@ -7,17 +7,23 @@
 yarn.lock
 node_modules
 build
+artifacts
+cache
 webpack-stats.json
 uploads
 environment.sh
 logs
 npm-install.log
-coverage/
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 .env
+.env.json
 Dockerrun.aws.json
 
 TODO
+abi
+coverage/
+coverage.json
