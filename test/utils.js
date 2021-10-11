@@ -8,4 +8,4 @@ const createAddresses = (amount) =>
     .fill(undefined)
     .map(() => web3.eth.accounts.create().address);
 
-module.exports = { createAddresses };
+module.exports = { createAddresses, web3 };
