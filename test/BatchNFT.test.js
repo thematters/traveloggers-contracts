@@ -2,10 +2,10 @@ const chai = require("chai");
 const chaiAsPromised = require("chai-as-promised");
 const { ethers } = require("hardhat");
 
-const { createAddresses, gasPrice } = require("./utils");
+const { createAddresses, toGasCost } = require("./utils");
 
 chai.use(chaiAsPromised);
-const { expect, assert } = chai;
+const { expect } = chai;
 
 const totalSupply = 20;
 
@@ -51,9 +51,9 @@ describe("BatchNFT", () => {
     // assuming base fee + tip ~ 100 gwei
     const { gasUsed } = await tx.wait();
     console.log(
-      `        Gas used for minting ${amount} NFTs in batch: ${gasUsed}. Estimated ETH: ${
-        gasUsed * gasPrice * 0.000000001
-      }`
+      `        Gas used for minting ${amount} NFTs in batch: ${gasUsed}. Estimated ETH: ${toGasCost(
+        gasUsed
+      )}`
     );
   });
 
