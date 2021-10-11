@@ -1,7 +1,7 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
-const { createAddresses, gasPrice } = require("./utils");
+const { createAddresses, toGasCost } = require("./utils");
 
 // Start test block
 describe("Matty", () => {
@@ -36,9 +36,9 @@ describe("Matty", () => {
       // assuming base fee + tip ~ 100 gwei
       const { gasUsed } = await tx.wait();
       console.log(
-        `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${gasUsed}. Estimated ETH: ${
-          gasUsed * gasPrice * 0.000000001
-        }`
+        `        Gas used for drawing ${winnerAmount} winners from ${candidateAmount} addresses: ${gasUsed}. Estimated ETH: ${toGasCost(
+          gasUsed
+        )}`
       );
     });
 
@@ -71,9 +71,7 @@ describe("Matty", () => {
       console.log(
         `        Gas used for appendLog with ${
           log.length
-        } characters: ${gasUsed}. Estimated ETH: ${
-          gasUsed * gasPrice * 0.000000001
-        }`
+        } characters: ${gasUsed}. Estimated ETH: ${toGasCost(gasUsed)}`
       );
 
       // logbook is locked now
