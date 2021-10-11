@@ -1,8 +1,8 @@
-const fs = require("fs");
-const path = require("path");
-const hardhat = require("hardhat");
+import fs from "fs";
+import path from "path";
+import hardhat from "hardhat";
 
-const { env } = require("../.env.json");
+import { env } from "../.env.json";
 
 const envNetwork = {
   develop: "localhost",

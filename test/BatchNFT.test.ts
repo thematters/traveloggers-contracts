@@ -1,36 +1,33 @@
-const chai = require("chai");
-const chaiAsPromised = require("chai-as-promised");
-const { ethers } = require("hardhat");
+import chai from "chai";
+import { ethers } from "hardhat";
+import { solidity } from "ethereum-waffle";
 
-const { createAddresses, toGasCost } = require("./utils");
+import { createAddresses, toGasCost } from "./utils";
 
-chai.use(chaiAsPromised);
+chai.use(solidity);
 const { expect } = chai;
 
 const totalSupply = 20;
 
-// Start test block
+const deployBatchNFT = async () => {
+  const BatchNFT = await ethers.getContractFactory("BatchNFT");
+  const batchNFT = await BatchNFT.deploy("Tester", "TT", totalSupply);
+  return await batchNFT.deployed();
+};
+
 describe("BatchNFT", () => {
-  before(async () => {
-    this.BatchNFT = await ethers.getContractFactory("BatchNFT");
-  });
-
-  beforeEach(async () => {
-    this.batchNFT = await this.BatchNFT.deploy("Tester", "TT", totalSupply);
-    await this.batchNFT.deployed();
-  });
-
   it("Can read or write base URI", async () => {
     // get contract URI
-    const contractURI = await this.batchNFT.contractURI();
+    const batchNFT = await deployBatchNFT();
+    const contractURI = await batchNFT.contractURI();
     expect(contractURI).to.be.a("string");
 
     // set new sharedBaseURI
     const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";
-    await this.batchNFT.setSharedBaseURI(uri);
+    await batchNFT.setSharedBaseURI(uri);
 
     // get new contract URI
-    const newContractURI = await this.batchNFT.contractURI();
+    const newContractURI = await batchNFT.contractURI();
     expect(newContractURI).to.equal(uri + "contract-metadata.json");
   });
 
@@ -40,11 +37,12 @@ describe("BatchNFT", () => {
 
     const addressList = createAddresses(amount);
 
-    const tx = await this.batchNFT.batchMint(addressList);
+    const batchNFT = await deployBatchNFT();
+    const tx = await batchNFT.batchMint(addressList);
 
     // test first one and last one
-    expect(await this.batchNFT.ownerOf(1)).to.equal(addressList[0]);
-    expect(await this.batchNFT.ownerOf(amount)).to.equal(
+    expect(await batchNFT.ownerOf(1)).to.equal(addressList[0]);
+    expect(await batchNFT.ownerOf(amount)).to.equal(
       addressList[addressList.length - 1]
     );
 
@@ -63,7 +61,8 @@ describe("BatchNFT", () => {
 
     const addressList = createAddresses(amount);
 
-    await expect(this.batchNFT.batchMint(addressList)).to.be.rejectedWith(
+    const batchNFT = await deployBatchNFT();
+    await expect(batchNFT.batchMint(addressList)).to.be.revertedWith(
       "not enough supply"
     );
   });
