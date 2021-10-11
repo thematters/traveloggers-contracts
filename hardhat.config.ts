@@ -1,18 +1,17 @@
-require("@nomiclabs/hardhat-ethers");
-require("hardhat-gas-reporter");
-require("solidity-coverage");
-require("hardhat-abi-exporter");
+import { HardhatUserConfig } from "hardhat/config";
+import "@nomiclabs/hardhat-ethers";
+import "@nomiclabs/hardhat-waffle";
+import "hardhat-gas-reporter";
+import "solidity-coverage";
+import "hardhat-abi-exporter";
 
-const {
+import {
   deployerPrivateKey,
   alchemyAPIKey,
   coinmarketcapKey,
-} = require("./.env.json");
+} from "./.env.json";
 
-/**
- * @type import('hardhat/config').HardhatUserConfig
- */
-module.exports = {
+const config: HardhatUserConfig = {
   solidity: "0.8.4",
   defaultNetwork: "hardhat",
   networks: {
@@ -27,3 +26,5 @@ module.exports = {
     coinmarketcap: coinmarketcapKey,
   },
 };
+
+export default config;

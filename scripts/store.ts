@@ -4,10 +4,10 @@
  * Update `state.${env}.json` file after storage.
  */
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
 
-const { infuraIPFSId, infuraIPFSSecret, env } = require("../.env.json");
+import { infuraIPFSId, infuraIPFSSecret, env } from "../.env.json";
 
 async function main() {
   // get path to assets
