@@ -61,11 +61,6 @@ abstract contract Logbook is BatchNFT {
         view
         returns (TokenLogbook memory)
     {
-        require(
-            _isApprovedOrOwner(_msgSender(), tokenId),
-            "caller is not owner nor approved"
-        );
-
         return _logbook[tokenId];
     }
 

@@ -1,4 +1,5 @@
 const { expect } = require("chai");
+const { ethers } = require("hardhat");
 
 const { createAddresses, gasPrice } = require("./utils");
 
@@ -62,6 +63,7 @@ describe("Matty", () => {
       // append log
       const log =
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since.";
+
       const tx = await this.matty.appendLog(token1Id, log);
 
       // assuming base fee + tip ~ 100 gwei
@@ -155,16 +157,16 @@ describe("Matty", () => {
       expect(receiverLogbook.isLocked).to.equal(true);
     });
 
-    it("Should be unreadable for anyone except the token owner", async () => {
-      // initial mint
-      const [owner, attacker] = await ethers.getSigners();
-      const token1Id = 1;
-      await this.matty.batchMint([owner.address]);
+    // it("Should be unreadable for anyone except the token owner", async () => {
+    //   // initial mint
+    //   const [owner, attacker] = await ethers.getSigners();
+    //   const token1Id = 1;
+    //   await this.matty.batchMint([owner.address]);
 
-      // malicious account tries to read and write logbook
-      await expect(
-        this.matty.connect(attacker).readLogbook(token1Id)
-      ).to.be.rejectedWith("caller is not owner nor approved");
-    });
+    //   // malicious account tries to read and write logbook
+    //   await expect(
+    //     this.matty.connect(attacker).readLogbook(token1Id)
+    //   ).to.be.rejectedWith("caller is not owner nor approved");
+    // });
   });
 });

@@ -1,5 +1,6 @@
 const chai = require("chai");
 const chaiAsPromised = require("chai-as-promised");
+const { ethers } = require("hardhat");
 
 const { createAddresses, gasPrice } = require("./utils");
 
