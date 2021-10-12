@@ -1,34 +1,33 @@
 import fs from "fs";
 import path from "path";
-import hardhat from "hardhat";
+import hardhat, { ethers } from "hardhat";
 
-import { env } from "../.env.json";
-
-const envNetwork = {
-  develop: "localhost",
-  rinkeby: "rinkeby",
-  prod: "mainnet",
-};
+import { network } from "../.env.json";
 
 async function main() {
+  const networkName = hardhat.network.name;
+
   // check env and network
-  if (envNetwork[env] !== hardhat.network.name) {
+  if (network !== networkName) {
     throw Error("Environment and network do not match");
   }
+  console.log(`Deploying to ${networkName}`);
 
   // get the contract to deploy
   const Matty = await ethers.getContractFactory("Matty");
   console.log("Deploying Matty...");
   const matty = await Matty.deploy();
   await matty.deployed();
-  console.log("Mattt deployed to:", matty.address);
+  console.log("Mattty deployed to:", matty.address);
 
   // read current contract state or initialize
-  const contractStatePath = path.join(__dirname, "..", `state.${env}.json`);
+  const contractStatePath = path.join(__dirname, "..", `state.${network}.json`);
 
   let contractState;
   try {
-    contractState = require(contractStatePath);
+    contractState = JSON.parse(
+      fs.readFileSync(contractStatePath, "utf-8") || '""'
+    );
   } catch (err) {
     contractState = {};
   }

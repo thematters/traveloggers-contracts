@@ -26,13 +26,13 @@ cp .env.example.json .env.json
 
 Fill in the following environment variables:
 
+- `network`: current network name, can be `localhost`, `rinkeby` or `mainnet`
 - `alchemyAPIKey`: API key for Alchemy
 - `deployerAddress`: address of deployer account
 - `deployerPrivateKey`: private key of deployer account
 - `contractAddress`: address of NFT contract
 - `infuraIPFSId`: Project ID of Infura IPFS
 - `infuraIPFSSecret`: Project Secret of Infura IPFS
-- `env`: current environment, can be `develop`, `rinkeby` or `prod` (mainnet)
 
 Source the file:
 
@@ -79,8 +79,8 @@ npm run develop:console
   - `image` field in `metadata.json` points to the image of the avatar.
   - The rest of the fields will be included in the NFT metadata (we target [opensea metadata standard](https://docs.opensea.io/docs/metadata-standards)).
 - Store avatar data on IPFS with `npm run store`
-  - It writes the resulting hash into `uri` field in `state.${env}.json` file.
-  - It only stored the avatars that do not have `uri` in `state.${env}.json` yet.
-- Mint avatar assets to NFT with `npm run ${env}:mint`. (TODO)
-  - It writes the resulting transaction hash into `tx` field in `state.${env}.json` file.
-  - It only mint the avatars that do not have `tx` in `state.${env}.json` yet.
+  - It writes the resulting hash into `uri` field in `state.${network}.json` file.
+  - It only stored the avatars that do not have `uri` in `state.${network}.json` yet.
+- Mint avatar assets to NFT with `npm run ${network}:mint`. (TODO)
+  - It writes the resulting transaction hash into `tx` field in `state.${network}.json` file.
+  - It only mint the avatars that do not have `tx` in `state.${network}.json` yet.
