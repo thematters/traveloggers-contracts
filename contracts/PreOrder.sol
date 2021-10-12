@@ -6,6 +6,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "./BatchNFT.sol";
 
 contract PreOrder is BatchNFT {
+    using Counters for Counters.Counter;
+
     struct Participant {
         address sender;
         uint256 amount;
@@ -16,9 +18,10 @@ contract PreOrder is BatchNFT {
     // make sure `_nextPreOrder` starts from 1 instead of 0
     mapping(address => uint256) private _preOrdered;
     mapping(uint256 => Participant) private _preOrders;
-    uint256 private _nextPreOrder;
-    uint256 private _preOrderAmountTotal;
+    Counters.Counter private _nextPreOrder;
 
+    // total amount pre-ordered
+    uint256 public preOrderAmountTotal;
     // determine whether there is an ongoing pre-order
     bool public inPreOrder;
     // unit (wei)
@@ -81,20 +84,20 @@ contract PreOrder is BatchNFT {
         require(msg.value >= minAmount, "incorrect minimum amount.");
         // if (_nextPreOrder > participantsAllowed) revert MaxParticipantsReached(participantsAllowed);
         require(
-            _nextPreOrder <= participantsAllowed,
+            _nextPreOrder.current() <= participantsAllowed,
             "maximum participants reached."
         );
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
-        if (_nextPreOrder == 0) _nextPreOrder = 1;
-        _preOrders[_nextPreOrder] = Participant({
+        if (_nextPreOrder.current() == 0) _nextPreOrder.increment();
+        _preOrders[_nextPreOrder.current()] = Participant({
             sender: msg.sender,
             amount: msg.value,
             time: block.timestamp
         });
-        _preOrdered[msg.sender] = _nextPreOrder;
-        _nextPreOrder += 1;
-        _preOrderAmountTotal += msg.value;
+        _preOrdered[msg.sender] = _nextPreOrder.current();
+        _nextPreOrder.increment();
+        preOrderAmountTotal += msg.value;
     }
 
     // check if an address has placed an order
@@ -115,12 +118,7 @@ contract PreOrder is BatchNFT {
 
     // return the number of pre-orders
     function preOrderCount() public view virtual returns (uint256) {
-        return _nextPreOrder - 1;
-    }
-
-    // return the total amount of pre-orders (wei)
-    function preOrderAmountTotal() public view virtual returns (uint256) {
-        return _preOrderAmountTotal;
+        return _nextPreOrder.current() - 1;
     }
 
     // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
@@ -131,10 +129,10 @@ contract PreOrder is BatchNFT {
         returns (Participant[] memory)
     {
         // start index shall be less then next pre-order index
-        assert(start > 0 && start < _nextPreOrder);
+        assert(start > 0 && start < _nextPreOrder.current());
 
         uint256 n = limit;
-        if (start + limit > _nextPreOrder) n = _nextPreOrder - start;
+        if (start + limit > _nextPreOrder.current()) n = _nextPreOrder.current() - start;
 
         Participant[] memory participants = new Participant[](n);
         for (uint256 i = start; i < start + n; i++) {
@@ -151,9 +149,9 @@ contract PreOrder is BatchNFT {
         returns (Participant[] memory)
     {
         Participant[] memory participants = new Participant[](
-            _nextPreOrder - 1
+            _nextPreOrder.current() - 1
         );
-        for (uint256 i = 1; i < _nextPreOrder; i++) {
+        for (uint256 i = 1; i < _nextPreOrder.current(); i++) {
             participants[i - 1] = _preOrders[i];
         }
         return participants;
