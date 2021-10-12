@@ -84,6 +84,20 @@ contract PreOrder is BatchNFT {
         preOrderAmountTotal += msg.value;
     }
 
+    // batch mint to pre-order participants  
+    // @n - use size to limit unbound loop
+    function batchMintPreOrdered() public onlyOwner {
+        // shall be after pre-order
+        require(inPreOrder == false, "in pre-order");
+
+        // all participant addresses
+        address[] memory addrs = new address[](_nextPreOrder.current() - 1);
+        for (uint256 i = 1; i < _nextPreOrder.current(); i++) {
+            addrs[i - 1] = _preOrders[i].sender;
+        }
+        batchMint(addrs);
+    }
+
     // check if an address has placed an order
     function preOrderExist(address addr) public view virtual returns (bool) {
         return _preOrdered[addr] > 0;
