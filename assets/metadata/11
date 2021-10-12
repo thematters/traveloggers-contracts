@@ -1,8 +1,8 @@
 {
-  "name": "Teteerha",
-  "description": "A sentimental nihilists one-eye toad called undefined.",
+  "name": "Zzuween",
+  "description": "An imaginative left wing one-eye toad called Zzuween.",
   "background_color": "008080",
-  "image": "11.jpeg",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "left wing"
     },
     {
       "trait_type": "Character",
-      "value": "sentimental"
+      "value": "imaginative"
     }
   ]
 }

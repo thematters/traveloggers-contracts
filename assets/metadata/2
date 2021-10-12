@@ -1,20 +1,20 @@
 {
-  "name": "Erwa",
-  "description": "An imaginative left wing three-leg horse called Jetee.",
-  "background_color": "f8edcd",
-  "image": "2.jpeg",
+  "name": "Honga",
+  "description": "A sentimental anarchist two-antenna elephant called Honga.",
+  "background_color": "008080",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "two-antenna elephant"
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "sentimental"
     }
   ]
 }

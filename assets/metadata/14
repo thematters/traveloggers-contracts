@@ -1,16 +1,16 @@
 {
-  "name": "Konggo",
-  "description": "A wanderlusty anarchist two-antenna elephant called undefined.",
+  "name": "Kuuhuru",
+  "description": "A wanderlusty royalist one-eye toad called Kuuhuru.",
   "background_color": "f8edcd",
-  "image": "14.jpeg",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "one-eye toad"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",

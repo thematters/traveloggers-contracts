@@ -53,6 +53,8 @@ import Articles from "articles";
 import fs from "fs";
 import path from "path";
 
+import { metadataDirPath } from "./util";
+
 const totalSupply = names.length;
 
 /**
@@ -81,9 +83,6 @@ const capitalize = (string: string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 };
 
-// path to metadata
-const metatdataPath = path.join(__dirname, "..", "assets", "metadata");
-
 // main function
 const main = async () => {
   if (totalSupply > races.length * ideologies.length * characters.length) {
@@ -104,14 +103,16 @@ const main = async () => {
     // random sample one combination
     const { race, character, ideology } = sample(candidates, false);
 
+    const name = sample(names, false);
+
     // assemble metadata
     const creature = {
-      name: sample(names, false),
+      name,
       description: `${capitalize(
         Articles.articlize(character)
-      )} ${ideology} ${race} called ${names[id - 1]}.`,
+      )} ${ideology} ${race} called ${name}.`,
       background_color: sample(background_colors),
-      image: `${id}.jpeg`,
+      image: `${id}.png`,
       attributes: [
         {
           trait_type: "Race",
@@ -130,7 +131,7 @@ const main = async () => {
 
     // write to file
     fs.writeFileSync(
-      path.join(metatdataPath, `${id}`),
+      path.join(metadataDirPath, `${id}`),
       JSON.stringify(creature, null, 2)
     );
   }

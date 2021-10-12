@@ -1,20 +1,20 @@
 {
-  "name": "Zzuween",
-  "description": "A sentimental left wing three-leg horse called Konggo.",
-  "background_color": "008080",
-  "image": "4.jpeg",
+  "name": "Junkun",
+  "description": "A wanderlusty nihilists one-eye toad called Junkun.",
+  "background_color": "c2aa3e",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "one-eye toad"
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "nihilists"
     },
     {
       "trait_type": "Character",
-      "value": "sentimental"
+      "value": "wanderlusty"
     }
   ]
 }

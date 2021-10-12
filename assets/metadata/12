@@ -1,16 +1,16 @@
 {
-  "name": "Teleluya",
-  "description": "A faithful left wing one-eye toad called undefined.",
-  "background_color": "c2aa3e",
-  "image": "12.jpeg",
+  "name": "Tamara",
+  "description": "A faithful right wing three-leg horse called Tamara.",
+  "background_color": "f8edcd",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "right wing"
     },
     {
       "trait_type": "Character",

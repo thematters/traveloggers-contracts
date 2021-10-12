@@ -3,6 +3,7 @@ import path from "path";
 import hardhat from "hardhat";
 
 import { env } from "../.env.json";
+import { contractStatePath } from "./util";
 
 const envNetwork = {
   develop: "localhost",
@@ -22,9 +23,6 @@ async function main() {
   const matty = await Matty.deploy();
   await matty.deployed();
   console.log("Mattt deployed to:", matty.address);
-
-  // read current contract state or initialize
-  const contractStatePath = path.join(__dirname, "..", `state.${env}.json`);
 
   let contractState;
   try {

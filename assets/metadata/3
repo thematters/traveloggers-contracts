@@ -1,8 +1,8 @@
 {
-  "name": "Tartar",
-  "description": "A faithful royalist two-antenna elephant called Horogu.",
-  "background_color": "f8edcd",
-  "image": "3.jpeg",
+  "name": "Konggo",
+  "description": "A wanderlusty royalist two-antenna elephant called Konggo.",
+  "background_color": "008080",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "faithful"
+      "value": "wanderlusty"
     }
   ]
 }

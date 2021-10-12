@@ -1,8 +1,8 @@
 {
-  "name": "Kuuhuru",
-  "description": "A wanderlusty left wing three-leg horse called Teleluya.",
+  "name": "Zoe",
+  "description": "An imaginative nihilists three-leg horse called Zoe.",
   "background_color": "008080",
-  "image": "5.jpeg",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "nihilists"
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "imaginative"
     }
   ]
 }

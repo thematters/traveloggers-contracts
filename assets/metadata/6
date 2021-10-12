@@ -1,8 +1,8 @@
 {
-  "name": "Junkun",
-  "description": "A practical nihilists three-leg horse called Teteerha.",
+  "name": "Teleluya",
+  "description": "A sentimental pacifist three-leg horse called Teleluya.",
   "background_color": "008080",
-  "image": "6.jpeg",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sentimental"
     }
   ]
 }

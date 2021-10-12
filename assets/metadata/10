@@ -1,20 +1,20 @@
 {
-  "name": "Tamara",
-  "description": "A wanderlusty nihilists one-eye toad called undefined.",
+  "name": "Jetee",
+  "description": "An imaginative left wing three-leg horse called Jetee.",
   "background_color": "f8edcd",
-  "image": "10.jpeg",
+  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "left wing"
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "imaginative"
     }
   ]
 }
