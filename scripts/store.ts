@@ -4,10 +4,10 @@
  * Update `state.${env}.json` file after storage.
  */
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
 
-const { infuraIPFSId, infuraIPFSSecret, env } = require("../.env.json");
+import { infuraIPFSId, infuraIPFSSecret, env } from "../.env.json";
 
 async function main() {
   // get path to assets
@@ -16,9 +16,9 @@ async function main() {
   // read current asset state or initialize
   const assetsStatePath = path.join(assetsDirectory, `state.${env}.json`);
 
-  let assetsState;
+  let assetsState: any;
   try {
-    assetsState = require(assetsStatePath);
+    assetsState = import(assetsStatePath);
   } catch (err) {
     assetsState = {};
   }
@@ -49,10 +49,11 @@ async function main() {
         const diretory = path.join(__dirname, "..", "assets/avatars", asset);
 
         // read in metadata
-        const assetJson = require(path.join(diretory, "metadata.json"));
+        const assetJson = import(path.join(diretory, "metadata.json"));
 
         // store on IPFS via client
         console.log(`Storing asset ${asset}...`);
+        // @ts-ignore
         const { url } = await client.store({
           ...assetJson,
           image: new File(
