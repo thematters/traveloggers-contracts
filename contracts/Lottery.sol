@@ -12,6 +12,8 @@ abstract contract Lottery is BatchNFT {
     /**
      * @dev Random draw lottery winners from an array of addresses, mint NFT,
      * and emit an event to record winners.
+     *
+     * Emits a {LotteryWinners} event.
      */
     function drawLottery(address[] calldata _addresses, uint256 _draw)
         public

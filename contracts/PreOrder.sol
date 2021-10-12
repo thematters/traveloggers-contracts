@@ -132,7 +132,8 @@ contract PreOrder is BatchNFT {
         assert(start > 0 && start < _nextPreOrder.current());
 
         uint256 n = limit;
-        if (start + limit > _nextPreOrder.current()) n = _nextPreOrder.current() - start;
+        if (start + limit > _nextPreOrder.current())
+            n = _nextPreOrder.current() - start;
 
         Participant[] memory participants = new Participant[](n);
         for (uint256 i = start; i < start + n; i++) {
