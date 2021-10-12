@@ -29,14 +29,6 @@ contract PreOrder is BatchNFT {
     // participants allowed
     uint256 public participantsAllowed;
 
-    // error PreOrderNotStarted();
-    // error PreOrderAlreadyStarted();
-    // error PreOrderExists(address addr);
-    // minimum contribution amount allowed shall not be <= 0
-    // error IncorrectMinAmount(uint amount);
-    // error IncorrectParticipants(uint limit);
-    // error MaxParticipantsReached(uint participants);
-
     constructor(
         string memory name_,
         string memory symbol_,
@@ -48,13 +40,10 @@ contract PreOrder is BatchNFT {
         public
         onlyOwner
     {
-        // if (inPreOrder == true) revert PreOrderAlreadyStarted();
         require(inPreOrder == false, "pre-order already started.");
         // min contribution shall always be larger than 0
-        // if (amount <= 0) revert IncorrectMinAmount(amount);
         require(amount > 0, "incorrect minimum amount.");
 
-        // if (participants <= 0) revert IncorrectParticipants(participants);
         require(participants > 0, "incorrect number of participants.");
 
         participantsAllowed = participants;
@@ -64,7 +53,6 @@ contract PreOrder is BatchNFT {
 
     // end pre-order, only allowed by ower
     function endPreOrder() public onlyOwner {
-        // if (inPreOrder != true) revert PreOrderNotStarted();
         require(inPreOrder == true, "pre-order has not been started.");
 
         inPreOrder = false;
@@ -72,17 +60,13 @@ contract PreOrder is BatchNFT {
 
     // place a pre-order
     function preOrder() public payable {
-        // if (inPreOrder != true) revert PreOrderNotStarted();
         require(inPreOrder == true, "pre-order has not been started.");
-        // if (_preOrdered[msg.sender] > 0) revert PreOrderExists(msg.sender);
         require(
             _preOrdered[msg.sender] <= 0,
             "pre-order exists for this msg.sender."
         );
         // validation against the minimum contribution amount
-        // if (msg.value < minAmount) revert IncorrectMinAmount(msg.value);
         require(msg.value >= minAmount, "incorrect minimum amount.");
-        // if (_nextPreOrder > participantsAllowed) revert MaxParticipantsReached(participantsAllowed);
         require(
             _nextPreOrder.current() <= participantsAllowed,
             "maximum participants reached."
