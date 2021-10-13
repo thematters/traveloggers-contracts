@@ -1,0 +1,19 @@
+{
+  "races": ["one-eye toad", "two-antenna elephant", "three-leg horse"],
+  "ideologies": [
+    "left wing",
+    "right wing",
+    "anarchist",
+    "pacifist",
+    "nihilists",
+    "royalist"
+  ],
+  "characters": [
+    "imaginative",
+    "wanderlusty",
+    "sentimental",
+    "practical",
+    "faithful"
+  ],
+  "totalSupply": 14
+}

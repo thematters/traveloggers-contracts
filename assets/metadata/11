@@ -1,16 +1,15 @@
 {
-  "name": "Zzuween",
-  "description": "An imaginative left wing one-eye toad called Zzuween.",
-  "background_color": "008080",
+  "name": "Matty #11",
+  "description": "An imaginative royalist two-antenna elephant.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "two-antenna elephant"
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",

@@ -1,7 +1,6 @@
 {
-  "name": "Junkun",
-  "description": "A wanderlusty nihilists one-eye toad called Junkun.",
-  "background_color": "c2aa3e",
+  "name": "Matty #4",
+  "description": "A faithful nihilists one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
@@ -14,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "faithful"
     }
   ]
 }

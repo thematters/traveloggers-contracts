@@ -1,20 +1,19 @@
 {
-  "name": "Zoe",
-  "description": "An imaginative nihilists three-leg horse called Zoe.",
-  "background_color": "008080",
+  "name": "Matty #5",
+  "description": "A wanderlusty left wing two-antenna elephant.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "two-antenna elephant"
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "left wing"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "wanderlusty"
     }
   ]
 }

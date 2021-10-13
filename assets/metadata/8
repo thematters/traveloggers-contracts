@@ -1,12 +1,11 @@
 {
-  "name": "Dongmaguru",
-  "description": "A faithful anarchist three-leg horse called Dongmaguru.",
-  "background_color": "c2aa3e",
+  "name": "Matty #8",
+  "description": "A practical anarchist one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "one-eye toad"
     },
     {
       "trait_type": "Ideology",
@@ -14,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "faithful"
+      "value": "practical"
     }
   ]
 }

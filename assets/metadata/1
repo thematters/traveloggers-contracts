@@ -1,7 +1,6 @@
 {
-  "name": "Horogu",
-  "description": "A practical royalist one-eye toad called Horogu.",
-  "background_color": "f8edcd",
+  "name": "Matty #1",
+  "description": "A wanderlusty royalist one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
@@ -14,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "wanderlusty"
     }
   ]
 }

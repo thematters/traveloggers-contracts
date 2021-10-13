@@ -1,20 +1,19 @@
 {
-  "name": "Tartar",
-  "description": "An imaginative pacifist one-eye toad called Tartar.",
-  "background_color": "c2aa3e",
+  "name": "Matty #13",
+  "description": "A practical royalist three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

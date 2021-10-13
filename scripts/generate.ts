@@ -1,61 +1,9 @@
-/**
- * start of settings
- */
-
-// races are nouns
-const races = ["one-eye toad", "two-antenna elephant", "three-leg horse"];
-
-// ideologies are adjectives
-const ideologies = [
-  "left wing",
-  "right wing",
-  "anarchist",
-  "pacifist",
-  "nihilists",
-  "royalist",
-];
-
-// characters are adjectives
-const characters = [
-  "imaginative",
-  "wanderlusty",
-  "sentimental",
-  "practical",
-  "faithful",
-];
-
-// background colors in hex code
-const background_colors = ["f8edcd", "c2aa3e", "f8edcd", "008080"];
-
-// names
-const names = [
-  "Zoe",
-  "Jetee",
-  "Tartar",
-  "Horogu",
-  "Konggo",
-  "Teleluya",
-  "Zzuween",
-  "Kuuhuru",
-  "Teteerha",
-  "Dongmaguru",
-  "Honga",
-  "Tamara",
-  "Erwa",
-  "Junkun",
-];
-
-/**
- * end of settings
- */
-
 import Articles from "articles";
 import fs from "fs";
 import path from "path";
 
+import { races, ideologies, characters, totalSupply } from "./settings.json";
 import { metadataDirPath } from "./util";
-
-const totalSupply = names.length;
 
 /**
  * Draw random element and remove it from array.
@@ -89,11 +37,14 @@ const main = async () => {
     throw Error(`Not enough attributes to generate ${totalSupply} creatures.`);
   }
 
+  console.log(`Generating ${totalSupply} avatars to ${metadataDirPath}...`);
+
   // exhaust all combination as candidates
+  // both ideology and character can repeat twice
   const candidates = [] as { [key: string]: string }[];
   races.map((race) =>
-    ideologies.map((ideology) =>
-      characters.map((character) =>
+    [...ideologies, ...ideologies].map((ideology) =>
+      [...characters, ...characters].map((character) =>
         candidates.push({ race, ideology, character })
       )
     )
@@ -103,15 +54,14 @@ const main = async () => {
     // random sample one combination
     const { race, character, ideology } = sample(candidates, false);
 
-    const name = sample(names, false);
+    const name = `Matty #${id}`;
 
     // assemble metadata
     const creature = {
       name,
       description: `${capitalize(
         Articles.articlize(character)
-      )} ${ideology} ${race} called ${name}.`,
-      background_color: sample(background_colors),
+      )} ${ideology} ${race}.`,
       image: `${id}.png`,
       attributes: [
         {
@@ -135,6 +85,8 @@ const main = async () => {
       JSON.stringify(creature, null, 2)
     );
   }
+
+  console.log("    done.");
 };
 
 main();

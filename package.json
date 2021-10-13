@@ -11,7 +11,7 @@
     "rinkeby:deploy": "hardhat run --network rinkeby scripts/deploy.js",
     "rinkeby:mint": "hardhat run --network rinkeby scripts/mint.js",
     "store": "ts-node ./scripts/store.ts",
-    "generateCreature": "ts-node ./scripts/generateCreature.ts",
+    "generate": "ts-node ./scripts/generate.ts",
     "build": "hardhat compile",
     "test": "hardhat test",
     "prepare": "husky install",

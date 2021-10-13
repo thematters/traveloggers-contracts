@@ -1,7 +1,6 @@
 {
-  "name": "Kuuhuru",
-  "description": "A wanderlusty royalist one-eye toad called Kuuhuru.",
-  "background_color": "f8edcd",
+  "name": "Matty #14",
+  "description": "A practical left wing one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
@@ -10,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "royalist"
+      "value": "left wing"
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "practical"
     }
   ]
 }

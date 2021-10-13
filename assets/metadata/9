@@ -1,12 +1,11 @@
 {
-  "name": "Teteerha",
-  "description": "A practical nihilists two-antenna elephant called Teteerha.",
-  "background_color": "f8edcd",
+  "name": "Matty #9",
+  "description": "A sentimental nihilists three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
@@ -14,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sentimental"
     }
   ]
 }

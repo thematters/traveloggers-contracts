@@ -1,12 +1,11 @@
 {
-  "name": "Konggo",
-  "description": "A wanderlusty royalist two-antenna elephant called Konggo.",
-  "background_color": "008080",
+  "name": "Matty #3",
+  "description": "A faithful royalist one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "one-eye toad"
     },
     {
       "trait_type": "Ideology",
@@ -14,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "faithful"
     }
   ]
 }
