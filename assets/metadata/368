@@ -1,19 +1,19 @@
 {
   "name": "Matties #368",
-  "description": "An adventurous, optimistic Zhenya.",
+  "description": "An extroverted, Epicurean Lesya.",
   "image": "368.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "extroverted"
     }
   ]
 }

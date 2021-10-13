@@ -1,15 +1,15 @@
 {
   "name": "Matties #289",
-  "description": "An adventurous, conservative Gena.",
+  "description": "An adventurous, pluralistic Sasha.",
   "image": "289.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

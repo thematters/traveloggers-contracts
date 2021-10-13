@@ -1,19 +1,19 @@
 {
   "name": "Matties #4",
-  "description": "An extroverted, LGBTQ friendly Valya.",
+  "description": "An imaginative, Epicurean Lesya.",
   "image": "4.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

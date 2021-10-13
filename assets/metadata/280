@@ -1,19 +1,19 @@
 {
   "name": "Matties #280",
-  "description": "A chic, cynical Valya.",
+  "description": "An extroverted, cosmopolitan Lesya.",
   "image": "280.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "extroverted"
     }
   ]
 }

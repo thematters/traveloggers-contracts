@@ -1,19 +1,19 @@
 {
   "name": "Matties #126",
-  "description": "A self-discipline, cosmopolitan Sasha.",
+  "description": "An energetic, pessimistic Gena.",
   "image": "126.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "energetic"
     }
   ]
 }

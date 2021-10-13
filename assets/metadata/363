@@ -1,19 +1,19 @@
 {
   "name": "Matties #363",
-  "description": "A gregarious, cosmopolitan Yury.",
+  "description": "A nonchalant, romatic Lesya.",
   "image": "363.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "nonchalant"
     }
   ]
 }

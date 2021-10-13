@@ -1,6 +1,6 @@
 {
   "name": "Matties #392",
-  "description": "An observant, LGBTQ friendly Valya.",
+  "description": "A down-to-earth, skeptical Valya.",
   "image": "392.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "down-to-earth"
     }
   ]
 }

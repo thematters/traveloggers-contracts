@@ -1,19 +1,19 @@
 {
   "name": "Matties #423",
-  "description": "An adventurous, Marxist Gena.",
+  "description": "A compassionate, cynical Zhenya.",
   "image": "423.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "compassionate"
     }
   ]
 }

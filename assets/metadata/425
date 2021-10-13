@@ -1,19 +1,19 @@
 {
   "name": "Matties #425",
-  "description": "An introverted, pessimistic Sasha.",
+  "description": "An analytical, individualistic Zhenya.",
   "image": "425.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

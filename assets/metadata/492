@@ -1,19 +1,19 @@
 {
   "name": "Matties #492",
-  "description": "An enthusiastic, romatic Valya.",
+  "description": "An adventurous, pessimistic Gena.",
   "image": "492.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "adventurous"
     }
   ]
 }

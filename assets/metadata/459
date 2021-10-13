@@ -1,19 +1,19 @@
 {
   "name": "Matties #459",
-  "description": "A compassionate, existentialist Valya.",
+  "description": "An observant, capitalistic Lesya.",
   "image": "459.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #234",
-  "description": "An energetic, Epicurean Sasha.",
+  "description": "A nonchalant, feminist Yury.",
   "image": "234.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "nonchalant"
     }
   ]
 }

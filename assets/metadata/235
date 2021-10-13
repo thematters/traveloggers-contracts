@@ -1,19 +1,19 @@
 {
   "name": "Matties #235",
-  "description": "An extroverted, pessimistic Valya.",
+  "description": "A chic, capitalistic Yury.",
   "image": "235.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

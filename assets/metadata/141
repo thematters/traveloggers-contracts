@@ -1,15 +1,15 @@
 {
   "name": "Matties #141",
-  "description": "A gregarious, anarchist Zhenya.",
+  "description": "A gregarious, pragmatist Lesya.",
   "image": "141.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",

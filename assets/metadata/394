@@ -1,19 +1,19 @@
 {
   "name": "Matties #394",
-  "description": "A confused, anarchist Gena.",
+  "description": "An unswerving, optimistic Lesya.",
   "image": "394.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "unswerving"
     }
   ]
 }

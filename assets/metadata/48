@@ -1,19 +1,19 @@
 {
   "name": "Matties #48",
-  "description": "A compassionate, feminist Valya.",
+  "description": "An imaginative, Marxist Zhenya.",
   "image": "48.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

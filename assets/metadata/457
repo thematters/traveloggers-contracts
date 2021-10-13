@@ -1,19 +1,19 @@
 {
   "name": "Matties #457",
-  "description": "A gregarious, pragmatist Valya.",
+  "description": "An enthusiastic, optimistic Sasha.",
   "image": "457.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "enthusiastic"
     }
   ]
 }

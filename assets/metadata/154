@@ -1,19 +1,19 @@
 {
   "name": "Matties #154",
-  "description": "A rebellious, individualistic Sasha.",
+  "description": "A down-to-earth, pacifist Yury.",
   "image": "154.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "down-to-earth"
     }
   ]
 }

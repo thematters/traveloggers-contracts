@@ -1,6 +1,6 @@
 {
   "name": "Matties #309",
-  "description": "An extroverted, feminist Sasha.",
+  "description": "A confused, conservative Sasha.",
   "image": "309.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

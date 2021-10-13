@@ -1,19 +1,19 @@
 {
   "name": "Matties #500",
-  "description": "A down-to-earth, existentialist Sasha.",
+  "description": "An analytical, collectivistic Gena.",
   "image": "500.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

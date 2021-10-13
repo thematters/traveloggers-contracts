@@ -1,19 +1,19 @@
 {
   "name": "Matties #146",
-  "description": "An enthusiastic, liberal Sasha.",
+  "description": "A compassionate, rationalist Valya.",
   "image": "146.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "rationalist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

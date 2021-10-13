@@ -1,19 +1,19 @@
 {
   "name": "Matties #476",
-  "description": "A nonchalant, anarchist Yury.",
+  "description": "A worldly, existentialist Gena.",
   "image": "476.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "worldly"
     }
   ]
 }

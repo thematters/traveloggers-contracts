@@ -1,19 +1,19 @@
 {
   "name": "Matties #424",
-  "description": "A rebellious, pluralistic Sasha.",
+  "description": "A diligent, Marxist Gena.",
   "image": "424.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "diligent"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #124",
-  "description": "A down-to-earth, conservative Gena.",
+  "description": "An analytical, anarchist Lesya.",
   "image": "124.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

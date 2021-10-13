@@ -1,19 +1,19 @@
 {
   "name": "Matties #319",
-  "description": "An enthusiastic, Epicurean Valya.",
+  "description": "An unswerving, conservative Sasha.",
   "image": "319.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "unswerving"
     }
   ]
 }

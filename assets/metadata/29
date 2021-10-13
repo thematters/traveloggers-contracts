@@ -1,19 +1,19 @@
 {
   "name": "Matties #29",
-  "description": "An imaginative, cosmopolitan Sasha.",
+  "description": "An adventurous, pacifist Gena.",
   "image": "29.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

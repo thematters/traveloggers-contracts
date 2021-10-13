@@ -1,6 +1,6 @@
 {
   "name": "Matties #178",
-  "description": "An energetic, cosmopolitan Valya.",
+  "description": "An adventurous, individualistic Valya.",
   "image": "178.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

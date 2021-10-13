@@ -1,19 +1,19 @@
 {
   "name": "Matties #446",
-  "description": "A nonchalant, pragmatist Yury.",
+  "description": "An introverted, nationalistic Gena.",
   "image": "446.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "introverted"
     }
   ]
 }

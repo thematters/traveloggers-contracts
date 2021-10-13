@@ -1,19 +1,19 @@
 {
   "name": "Matties #118",
-  "description": "A down-to-earth, cynical Valya.",
+  "description": "An enthusiastic, cosmopolitan Gena.",
   "image": "118.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "enthusiastic"
     }
   ]
 }

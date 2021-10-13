@@ -1,6 +1,6 @@
 {
   "name": "Matties #367",
-  "description": "An energetic, pacifist Gena.",
+  "description": "An observant, pluralistic Gena.",
   "image": "367.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "observant"
     }
   ]
 }

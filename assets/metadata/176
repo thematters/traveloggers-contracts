@@ -1,6 +1,6 @@
 {
   "name": "Matties #176",
-  "description": "An enthusiastic, conservative Yury.",
+  "description": "A self-discipline, romatic Yury.",
   "image": "176.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

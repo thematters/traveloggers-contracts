@@ -1,19 +1,19 @@
 {
   "name": "Matties #9",
-  "description": "An introverted, skeptical Valya.",
+  "description": "A diligent, capitalistic Sasha.",
   "image": "9.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "diligent"
     }
   ]
 }

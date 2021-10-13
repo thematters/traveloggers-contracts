@@ -1,15 +1,15 @@
 {
   "name": "Matties #312",
-  "description": "An energetic, pluralistic Valya.",
+  "description": "An energetic, feminist Lesya.",
   "image": "312.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

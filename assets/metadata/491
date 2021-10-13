@@ -1,6 +1,6 @@
 {
   "name": "Matties #491",
-  "description": "A down-to-earth, localist Gena.",
+  "description": "An energetic, existentialist Gena.",
   "image": "491.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "energetic"
     }
   ]
 }

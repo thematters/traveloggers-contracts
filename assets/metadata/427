@@ -1,19 +1,19 @@
 {
   "name": "Matties #427",
-  "description": "A rational, pluralistic Sasha.",
+  "description": "An analytical, LGBTQ friendly Lesya.",
   "image": "427.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "analytical"
     }
   ]
 }

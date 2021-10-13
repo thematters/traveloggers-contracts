@@ -1,19 +1,19 @@
 {
   "name": "Matties #194",
-  "description": "A worldly, rationalist Sasha.",
+  "description": "An introverted, skeptical Valya.",
   "image": "194.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "introverted"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #468",
-  "description": "An introverted, anarchist Zhenya.",
+  "description": "An observant, pacifist Gena.",
   "image": "468.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

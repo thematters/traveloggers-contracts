@@ -1,19 +1,19 @@
 {
   "name": "Matties #170",
-  "description": "A down-to-earth, skeptical Lesya.",
+  "description": "An imaginative, LGBTQ friendly Zhenya.",
   "image": "170.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

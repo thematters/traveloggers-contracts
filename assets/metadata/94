@@ -1,19 +1,19 @@
 {
   "name": "Matties #94",
-  "description": "A diligent, collectivistic Yury.",
+  "description": "A worldly, cosmopolitan Gena.",
   "image": "94.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "worldly"
     }
   ]
 }

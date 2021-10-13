@@ -1,19 +1,19 @@
 {
   "name": "Matties #28",
-  "description": "A down-to-earth, pluralistic Sasha.",
+  "description": "A confused, nationalistic Lesya.",
   "image": "28.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

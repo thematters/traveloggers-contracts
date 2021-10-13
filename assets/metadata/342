@@ -1,19 +1,19 @@
 {
   "name": "Matties #342",
-  "description": "An observant, cosmopolitan Zhenya.",
+  "description": "An adventurous, collectivistic Gena.",
   "image": "342.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

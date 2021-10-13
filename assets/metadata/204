@@ -1,11 +1,11 @@
 {
   "name": "Matties #204",
-  "description": "An introverted, pacifist Valya.",
+  "description": "A rebellious, pacifist Sasha.",
   "image": "204.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "rebellious"
     }
   ]
 }

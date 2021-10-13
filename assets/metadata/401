@@ -1,11 +1,11 @@
 {
   "name": "Matties #401",
-  "description": "A down-to-earth, localist Sasha.",
+  "description": "A rebellious, localist Valya.",
   "image": "401.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

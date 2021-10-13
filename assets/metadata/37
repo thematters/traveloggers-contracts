@@ -1,19 +1,19 @@
 {
   "name": "Matties #37",
-  "description": "A rational, nationalistic Gena.",
+  "description": "An extroverted, pluralistic Sasha.",
   "image": "37.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "extroverted"
     }
   ]
 }

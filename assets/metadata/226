@@ -1,19 +1,19 @@
 {
   "name": "Matties #226",
-  "description": "An energetic, individualistic Yury.",
+  "description": "An introverted, existentialist Zhenya.",
   "image": "226.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "introverted"
     }
   ]
 }

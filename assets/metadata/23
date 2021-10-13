@@ -1,19 +1,19 @@
 {
   "name": "Matties #23",
-  "description": "A rational, liberal Gena.",
+  "description": "An enthusiastic, optimistic Sasha.",
   "image": "23.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "enthusiastic"
     }
   ]
 }

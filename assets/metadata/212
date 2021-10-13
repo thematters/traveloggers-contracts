@@ -1,19 +1,19 @@
 {
   "name": "Matties #212",
-  "description": "A diligent, LGBTQ friendly Sasha.",
+  "description": "A self-discipline, anarchist Gena.",
   "image": "212.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "self-discipline"
     }
   ]
 }

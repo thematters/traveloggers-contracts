@@ -1,19 +1,19 @@
 {
   "name": "Matties #442",
-  "description": "An extroverted, cynical Yury.",
+  "description": "A chic, pluralistic Valya.",
   "image": "442.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

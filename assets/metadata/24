@@ -1,19 +1,19 @@
 {
   "name": "Matties #24",
-  "description": "A worldly, nationalistic Lesya.",
+  "description": "An observant, liberal Zhenya.",
   "image": "24.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "observant"
     }
   ]
 }

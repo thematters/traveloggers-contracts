@@ -1,19 +1,19 @@
 {
   "name": "Matties #338",
-  "description": "An unswerving, pluralistic Sasha.",
+  "description": "A diligent, rationalist Gena.",
   "image": "338.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "rationalist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "diligent"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #20",
-  "description": "A down-to-earth, nationalistic Yury.",
+  "description": "A gregarious, anarchist Zhenya.",
   "image": "20.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "gregarious"
     }
   ]
 }

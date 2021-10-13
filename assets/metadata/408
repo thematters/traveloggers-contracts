@@ -1,19 +1,19 @@
 {
   "name": "Matties #408",
-  "description": "An imaginative, Marxist Gena.",
+  "description": "A self-discipline, localist Sasha.",
   "image": "408.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "self-discipline"
     }
   ]
 }

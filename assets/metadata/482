@@ -1,11 +1,11 @@
 {
   "name": "Matties #482",
-  "description": "A compassionate, anarchist Valya.",
+  "description": "An unswerving, anarchist Lesya.",
   "image": "482.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "unswerving"
     }
   ]
 }

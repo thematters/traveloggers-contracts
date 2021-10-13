@@ -1,6 +1,6 @@
 {
   "name": "Matties #77",
-  "description": "A confused, pacifist Gena.",
+  "description": "A down-to-earth, pessimistic Gena.",
   "image": "77.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

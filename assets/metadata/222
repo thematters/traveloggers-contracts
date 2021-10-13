@@ -1,15 +1,15 @@
 {
   "name": "Matties #222",
-  "description": "A rebellious, Epicurean Sasha.",
+  "description": "A rebellious, rationalist Yury.",
   "image": "222.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rationalist"
     },
     {
       "trait_type": "Character",

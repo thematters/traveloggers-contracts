@@ -1,6 +1,6 @@
 {
   "name": "Matties #316",
-  "description": "A chic, Epicurean Lesya.",
+  "description": "An imaginative, optimistic Lesya.",
   "image": "316.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "imaginative"
     }
   ]
 }

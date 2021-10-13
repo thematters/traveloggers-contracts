@@ -1,19 +1,19 @@
 {
   "name": "Matties #334",
-  "description": "An unswerving, LGBTQ friendly Gena.",
+  "description": "A worldly, optimistic Lesya.",
   "image": "334.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "worldly"
     }
   ]
 }

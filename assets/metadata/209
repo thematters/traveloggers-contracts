@@ -1,19 +1,19 @@
 {
   "name": "Matties #209",
-  "description": "A rational, rationalist Sasha.",
+  "description": "An extroverted, conservative Valya.",
   "image": "209.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "extroverted"
     }
   ]
 }

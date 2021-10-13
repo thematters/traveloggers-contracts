@@ -1,11 +1,11 @@
 {
   "name": "Matties #373",
-  "description": "A compassionate, liberal Valya.",
+  "description": "A chic, liberal Lesya.",
   "image": "373.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "chic"
     }
   ]
 }

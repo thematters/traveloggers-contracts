@@ -1,19 +1,19 @@
 {
   "name": "Matties #303",
-  "description": "An introverted, pragmatist Gena.",
+  "description": "A gregarious, individualistic Lesya.",
   "image": "303.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "gregarious"
     }
   ]
 }

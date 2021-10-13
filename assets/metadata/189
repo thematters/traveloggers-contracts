@@ -1,19 +1,19 @@
 {
   "name": "Matties #189",
-  "description": "A rational, skeptical Sasha.",
+  "description": "A rebellious, existentialist Valya.",
   "image": "189.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "rebellious"
     }
   ]
 }

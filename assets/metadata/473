@@ -1,19 +1,19 @@
 {
   "name": "Matties #473",
-  "description": "A rational, pragmatist Sasha.",
+  "description": "A self-discipline, romatic Gena.",
   "image": "473.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "self-discipline"
     }
   ]
 }

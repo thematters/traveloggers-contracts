@@ -1,11 +1,11 @@
 {
   "name": "Matties #60",
-  "description": "A chic, skeptical Sasha.",
+  "description": "An observant, skeptical Lesya.",
   "image": "60.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "observant"
     }
   ]
 }

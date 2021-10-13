@@ -1,19 +1,19 @@
 {
   "name": "Matties #402",
-  "description": "An enthusiastic, rationalist Zhenya.",
+  "description": "An imaginative, feminist Lesya.",
   "image": "402.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "imaginative"
     }
   ]
 }

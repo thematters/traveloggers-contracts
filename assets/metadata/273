@@ -1,19 +1,19 @@
 {
   "name": "Matties #273",
-  "description": "An enthusiastic, pacifist Zhenya.",
+  "description": "A chic, romatic Sasha.",
   "image": "273.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #216",
-  "description": "A rational, feminist Lesya.",
+  "description": "An unswerving, cynical Valya.",
   "image": "216.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "unswerving"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #239",
-  "description": "A rational, rationalist Yury.",
+  "description": "A gregarious, romatic Gena.",
   "image": "239.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "gregarious"
     }
   ]
 }

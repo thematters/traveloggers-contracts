@@ -1,19 +1,19 @@
 {
   "name": "Matties #256",
-  "description": "A confused, pluralistic Lesya.",
+  "description": "An enthusiastic, pragmatist Yury.",
   "image": "256.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "enthusiastic"
     }
   ]
 }

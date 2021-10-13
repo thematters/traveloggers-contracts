@@ -1,19 +1,19 @@
 {
   "name": "Matties #452",
-  "description": "A gregarious, Marxist Zhenya.",
+  "description": "An analytical, romatic Sasha.",
   "image": "452.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "analytical"
     }
   ]
 }

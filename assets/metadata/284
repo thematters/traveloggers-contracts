@@ -1,6 +1,6 @@
 {
   "name": "Matties #284",
-  "description": "A rebellious, skeptical Lesya.",
+  "description": "A worldly, localist Lesya.",
   "image": "284.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "worldly"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #187",
-  "description": "An observant, capitalistic Valya.",
+  "description": "A gregarious, optimistic Zhenya.",
   "image": "187.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "gregarious"
     }
   ]
 }

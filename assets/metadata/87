@@ -1,19 +1,19 @@
 {
   "name": "Matties #87",
-  "description": "An introverted, conservative Lesya.",
+  "description": "A chic, LGBTQ friendly Valya.",
   "image": "87.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "chic"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #169",
-  "description": "An observant, pragmatist Zhenya.",
+  "description": "A nonchalant, localist Yury.",
   "image": "169.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #98",
-  "description": "A down-to-earth, rationalist Lesya.",
+  "description": "A gregarious, pragmatist Gena.",
   "image": "98.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "gregarious"
     }
   ]
 }

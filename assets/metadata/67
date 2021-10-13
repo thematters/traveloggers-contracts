@@ -1,19 +1,19 @@
 {
   "name": "Matties #67",
-  "description": "A nonchalant, cosmopolitan Lesya.",
+  "description": "An unswerving, LGBTQ friendly Valya.",
   "image": "67.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "unswerving"
     }
   ]
 }

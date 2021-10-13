@@ -1,19 +1,19 @@
 {
   "name": "Matties #361",
-  "description": "A compassionate, localist Zhenya.",
+  "description": "A rebellious, nationalistic Gena.",
   "image": "361.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

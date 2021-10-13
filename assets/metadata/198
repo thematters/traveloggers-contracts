@@ -1,11 +1,11 @@
 {
   "name": "Matties #198",
-  "description": "A gregarious, cynical Sasha.",
+  "description": "A compassionate, cynical Lesya.",
   "image": "198.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "compassionate"
     }
   ]
 }

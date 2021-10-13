@@ -1,19 +1,19 @@
 {
   "name": "Matties #38",
-  "description": "An unswerving, LGBTQ friendly Valya.",
+  "description": "A confused, pluralistic Yury.",
   "image": "38.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "confused"
     }
   ]
 }

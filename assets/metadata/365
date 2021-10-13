@@ -1,19 +1,19 @@
 {
   "name": "Matties #365",
-  "description": "A rebellious, localist Valya.",
+  "description": "A diligent, cosmopolitan Lesya.",
   "image": "365.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "diligent"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #105",
-  "description": "An imaginative, localist Sasha.",
+  "description": "A down-to-earth, pessimistic Zhenya.",
   "image": "105.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #306",
-  "description": "An enthusiastic, pessimistic Gena.",
+  "description": "An extroverted, liberal Valya.",
   "image": "306.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

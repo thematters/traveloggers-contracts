@@ -1,19 +1,19 @@
 {
   "name": "Matties #436",
-  "description": "An imaginative, cynical Zhenya.",
+  "description": "A diligent, LGBTQ friendly Lesya.",
   "image": "436.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "diligent"
     }
   ]
 }

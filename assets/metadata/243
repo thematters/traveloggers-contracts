@@ -1,19 +1,19 @@
 {
   "name": "Matties #243",
-  "description": "An unswerving, pragmatist Zhenya.",
+  "description": "An energetic, localist Valya.",
   "image": "243.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "energetic"
     }
   ]
 }

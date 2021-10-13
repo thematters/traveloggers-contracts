@@ -1,19 +1,19 @@
 {
   "name": "Matties #434",
-  "description": "An introverted, romatic Zhenya.",
+  "description": "An analytical, feminist Yury.",
   "image": "434.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

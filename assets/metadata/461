@@ -1,19 +1,19 @@
 {
   "name": "Matties #461",
-  "description": "A worldly, conservative Gena.",
+  "description": "An analytical, individualistic Valya.",
   "image": "461.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "analytical"
     }
   ]
 }

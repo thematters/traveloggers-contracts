@@ -1,19 +1,19 @@
 {
   "name": "Matties #117",
-  "description": "An energetic, LGBTQ friendly Zhenya.",
+  "description": "An analytical, capitalistic Gena.",
   "image": "117.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "analytical"
     }
   ]
 }

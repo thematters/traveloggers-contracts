@@ -1,19 +1,19 @@
 {
   "name": "Matties #277",
-  "description": "An imaginative, liberal Lesya.",
+  "description": "An introverted, cynical Zhenya.",
   "image": "277.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

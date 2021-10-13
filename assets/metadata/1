@@ -1,19 +1,19 @@
 {
   "name": "Matties #1",
-  "description": "An observant, conservative Valya.",
+  "description": "A worldly, individualistic Zhenya.",
   "image": "1.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "worldly"
     }
   ]
 }

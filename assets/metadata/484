@@ -1,6 +1,6 @@
 {
   "name": "Matties #484",
-  "description": "An enthusiastic, LGBTQ friendly Gena.",
+  "description": "An energetic, pluralistic Gena.",
   "image": "484.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "energetic"
     }
   ]
 }

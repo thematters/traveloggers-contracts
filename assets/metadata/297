@@ -1,11 +1,11 @@
 {
   "name": "Matties #297",
-  "description": "An unswerving, skeptical Gena.",
+  "description": "A worldly, skeptical Lesya.",
   "image": "297.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "worldly"
     }
   ]
 }

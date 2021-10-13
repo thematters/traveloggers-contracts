@@ -1,19 +1,19 @@
 {
   "name": "Matties #186",
-  "description": "An energetic, cosmopolitan Valya.",
+  "description": "A compassionate, liberal Zhenya.",
   "image": "186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "compassionate"
     }
   ]
 }

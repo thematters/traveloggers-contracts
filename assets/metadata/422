@@ -1,6 +1,6 @@
 {
   "name": "Matties #422",
-  "description": "A down-to-earth, pessimistic Sasha.",
+  "description": "A diligent, existentialist Sasha.",
   "image": "422.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "diligent"
     }
   ]
 }

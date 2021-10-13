@@ -1,19 +1,19 @@
 {
   "name": "Matties #34",
-  "description": "A self-discipline, localist Yury.",
+  "description": "An introverted, liberal Valya.",
   "image": "34.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "introverted"
     }
   ]
 }

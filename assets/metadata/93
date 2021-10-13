@@ -1,19 +1,19 @@
 {
   "name": "Matties #93",
-  "description": "A rational, optimistic Yury.",
+  "description": "An extroverted, collectivistic Gena.",
   "image": "93.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "extroverted"
     }
   ]
 }

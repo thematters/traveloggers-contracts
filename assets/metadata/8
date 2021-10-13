@@ -1,19 +1,19 @@
 {
   "name": "Matties #8",
-  "description": "A gregarious, Epicurean Yury.",
+  "description": "A rebellious, individualistic Sasha.",
   "image": "8.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "rebellious"
     }
   ]
 }

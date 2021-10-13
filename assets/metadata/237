@@ -1,19 +1,19 @@
 {
   "name": "Matties #237",
-  "description": "A nonchalant, individualistic Gena.",
+  "description": "A diligent, localist Sasha.",
   "image": "237.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "diligent"
     }
   ]
 }

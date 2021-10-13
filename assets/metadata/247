@@ -1,19 +1,19 @@
 {
   "name": "Matties #247",
-  "description": "A confused, optimistic Yury.",
+  "description": "A gregarious, Epicurean Sasha.",
   "image": "247.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "gregarious"
     }
   ]
 }

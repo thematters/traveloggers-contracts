@@ -1,19 +1,19 @@
 {
   "name": "Matties #353",
-  "description": "A diligent, capitalistic Valya.",
+  "description": "A worldly, anarchist Gena.",
   "image": "353.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "worldly"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #356",
-  "description": "An unswerving, pacifist Yury.",
+  "description": "An imaginative, nationalistic Gena.",
   "image": "356.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "imaginative"
     }
   ]
 }

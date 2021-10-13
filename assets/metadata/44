@@ -1,19 +1,19 @@
 {
   "name": "Matties #44",
-  "description": "A diligent, romatic Sasha.",
+  "description": "A rebellious, skeptical Valya.",
   "image": "44.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "rebellious"
     }
   ]
 }

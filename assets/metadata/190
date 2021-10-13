@@ -1,19 +1,19 @@
 {
   "name": "Matties #190",
-  "description": "An adventurous, LGBTQ friendly Sasha.",
+  "description": "An energetic, cosmopolitan Zhenya.",
   "image": "190.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "energetic"
     }
   ]
 }

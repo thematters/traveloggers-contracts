@@ -1,6 +1,6 @@
 {
   "name": "Matties #387",
-  "description": "A nonchalant, Epicurean Zhenya.",
+  "description": "An imaginative, individualistic Zhenya.",
   "image": "387.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

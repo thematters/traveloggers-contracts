@@ -1,19 +1,19 @@
 {
   "name": "Matties #327",
-  "description": "A confused, conservative Valya.",
+  "description": "A down-to-earth, cosmopolitan Zhenya.",
   "image": "327.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

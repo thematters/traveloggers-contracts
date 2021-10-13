@@ -1,19 +1,19 @@
 {
   "name": "Matties #12",
-  "description": "A chic, anarchist Valya.",
+  "description": "An imaginative, cosmopolitan Zhenya.",
   "image": "12.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "imaginative"
     }
   ]
 }

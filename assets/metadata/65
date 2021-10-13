@@ -1,19 +1,19 @@
 {
   "name": "Matties #65",
-  "description": "A worldly, anarchist Zhenya.",
+  "description": "A gregarious, collectivistic Yury.",
   "image": "65.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "gregarious"
     }
   ]
 }

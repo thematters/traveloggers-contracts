@@ -1,6 +1,6 @@
 {
   "name": "Matties #161",
-  "description": "An imaginative, existentialist Zhenya.",
+  "description": "An introverted, localist Zhenya.",
   "image": "161.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

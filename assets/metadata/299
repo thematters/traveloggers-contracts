@@ -1,19 +1,19 @@
 {
   "name": "Matties #299",
-  "description": "A compassionate, skeptical Valya.",
+  "description": "An introverted, Marxist Zhenya.",
   "image": "299.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

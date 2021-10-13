@@ -1,6 +1,6 @@
 {
   "name": "Matties #415",
-  "description": "A rational, Marxist Lesya.",
+  "description": "An analytical, LGBTQ friendly Lesya.",
   "image": "415.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "analytical"
     }
   ]
 }

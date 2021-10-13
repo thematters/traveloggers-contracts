@@ -1,19 +1,19 @@
 {
   "name": "Matties #265",
-  "description": "An introverted, conservative Yury.",
+  "description": "A self-discipline, localist Zhenya.",
   "image": "265.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "self-discipline"
     }
   ]
 }

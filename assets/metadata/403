@@ -1,19 +1,19 @@
 {
   "name": "Matties #403",
-  "description": "A rational, pacifist Valya.",
+  "description": "An analytical, existentialist Zhenya.",
   "image": "403.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "analytical"
     }
   ]
 }

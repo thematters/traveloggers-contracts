@@ -1,15 +1,15 @@
 {
   "name": "Matties #378",
-  "description": "An introverted, collectivistic Sasha.",
+  "description": "An introverted, cosmopolitan Yury.",
   "image": "378.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",

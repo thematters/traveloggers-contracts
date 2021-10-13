@@ -1,6 +1,6 @@
 {
   "name": "Matties #159",
-  "description": "An imaginative, pragmatist Zhenya.",
+  "description": "An unswerving, feminist Zhenya.",
   "image": "159.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "unswerving"
     }
   ]
 }

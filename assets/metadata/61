@@ -1,19 +1,19 @@
 {
   "name": "Matties #61",
-  "description": "An enthusiastic, capitalistic Gena.",
+  "description": "A diligent, liberal Zhenya.",
   "image": "61.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "diligent"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #357",
-  "description": "An unswerving, collectivistic Zhenya.",
+  "description": "An introverted, Epicurean Yury.",
   "image": "357.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "introverted"
     }
   ]
 }

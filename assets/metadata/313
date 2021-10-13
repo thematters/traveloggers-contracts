@@ -1,19 +1,19 @@
 {
   "name": "Matties #313",
-  "description": "A diligent, nationalistic Yury.",
+  "description": "A down-to-earth, romatic Valya.",
   "image": "313.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "down-to-earth"
     }
   ]
 }

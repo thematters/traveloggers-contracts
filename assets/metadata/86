@@ -1,19 +1,19 @@
 {
   "name": "Matties #86",
-  "description": "A worldly, Epicurean Lesya.",
+  "description": "A rebellious, nationalistic Zhenya.",
   "image": "86.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "rebellious"
     }
   ]
 }

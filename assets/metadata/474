@@ -1,19 +1,19 @@
 {
   "name": "Matties #474",
-  "description": "An extroverted, pessimistic Zhenya.",
+  "description": "A worldly, LGBTQ friendly Valya.",
   "image": "474.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "worldly"
     }
   ]
 }

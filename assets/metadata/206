@@ -1,6 +1,6 @@
 {
   "name": "Matties #206",
-  "description": "An adventurous, romatic Sasha.",
+  "description": "A compassionate, existentialist Sasha.",
   "image": "206.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "compassionate"
     }
   ]
 }

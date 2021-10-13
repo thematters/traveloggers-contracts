@@ -1,19 +1,19 @@
 {
   "name": "Matties #430",
-  "description": "An imaginative, skeptical Lesya.",
+  "description": "An energetic, collectivistic Zhenya.",
   "image": "430.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "energetic"
     }
   ]
 }

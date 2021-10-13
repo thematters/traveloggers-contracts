@@ -1,6 +1,6 @@
 {
   "name": "Matties #255",
-  "description": "A rebellious, conservative Zhenya.",
+  "description": "An observant, optimistic Zhenya.",
   "image": "255.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

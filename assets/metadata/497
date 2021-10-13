@@ -1,19 +1,19 @@
 {
   "name": "Matties #497",
-  "description": "An adventurous, Marxist Zhenya.",
+  "description": "A chic, capitalistic Valya.",
   "image": "497.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "chic"
     }
   ]
 }

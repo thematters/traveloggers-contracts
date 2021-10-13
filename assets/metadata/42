@@ -1,6 +1,6 @@
 {
   "name": "Matties #42",
-  "description": "A diligent, liberal Valya.",
+  "description": "An analytical, optimistic Valya.",
   "image": "42.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "analytical"
     }
   ]
 }

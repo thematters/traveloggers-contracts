@@ -1,11 +1,11 @@
 {
   "name": "Matties #429",
-  "description": "A self-discipline, nationalistic Gena.",
+  "description": "An observant, nationalistic Zhenya.",
   "image": "429.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

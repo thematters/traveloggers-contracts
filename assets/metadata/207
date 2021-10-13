@@ -1,19 +1,19 @@
 {
   "name": "Matties #207",
-  "description": "An observant, optimistic Yury.",
+  "description": "A compassionate, cynical Gena.",
   "image": "207.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "compassionate"
     }
   ]
 }

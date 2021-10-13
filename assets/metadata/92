@@ -1,19 +1,19 @@
 {
   "name": "Matties #92",
-  "description": "An unswerving, feminist Valya.",
+  "description": "An imaginative, Epicurean Gena.",
   "image": "92.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "imaginative"
     }
   ]
 }

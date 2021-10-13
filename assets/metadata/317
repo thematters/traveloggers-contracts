@@ -1,19 +1,19 @@
 {
   "name": "Matties #317",
-  "description": "An unswerving, nationalistic Zhenya.",
+  "description": "A rebellious, existentialist Valya.",
   "image": "317.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "rebellious"
     }
   ]
 }

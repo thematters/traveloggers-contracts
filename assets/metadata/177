@@ -1,19 +1,19 @@
 {
   "name": "Matties #177",
-  "description": "An enthusiastic, liberal Sasha.",
+  "description": "An energetic, nationalistic Valya.",
   "image": "177.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "energetic"
     }
   ]
 }

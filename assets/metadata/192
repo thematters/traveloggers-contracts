@@ -1,6 +1,6 @@
 {
   "name": "Matties #192",
-  "description": "A confused, pragmatist Valya.",
+  "description": "A rebellious, pluralistic Valya.",
   "image": "192.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

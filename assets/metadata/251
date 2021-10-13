@@ -1,19 +1,19 @@
 {
   "name": "Matties #251",
-  "description": "A nonchalant, pragmatist Sasha.",
+  "description": "A diligent, pacifist Zhenya.",
   "image": "251.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "diligent"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #200",
-  "description": "A self-discipline, Marxist Gena.",
+  "description": "An enthusiastic, feminist Sasha.",
   "image": "200.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

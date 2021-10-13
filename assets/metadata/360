@@ -1,6 +1,6 @@
 {
   "name": "Matties #360",
-  "description": "An energetic, cosmopolitan Lesya.",
+  "description": "A rebellious, anarchist Lesya.",
   "image": "360.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "rebellious"
     }
   ]
 }

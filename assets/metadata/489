@@ -1,19 +1,19 @@
 {
   "name": "Matties #489",
-  "description": "A diligent, cosmopolitan Yury.",
+  "description": "An observant, pacifist Valya.",
   "image": "489.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "observant"
     }
   ]
 }

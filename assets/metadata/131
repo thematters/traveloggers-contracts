@@ -1,6 +1,6 @@
 {
   "name": "Matties #131",
-  "description": "An energetic, optimistic Yury.",
+  "description": "A self-discipline, Marxist Yury.",
   "image": "131.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "self-discipline"
     }
   ]
 }

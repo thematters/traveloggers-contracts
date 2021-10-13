@@ -1,6 +1,6 @@
 {
   "name": "Matties #227",
-  "description": "An energetic, skeptical Valya.",
+  "description": "An enthusiastic, individualistic Valya.",
   "image": "227.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "enthusiastic"
     }
   ]
 }

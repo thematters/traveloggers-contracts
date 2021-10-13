@@ -1,15 +1,15 @@
 {
   "name": "Matties #173",
-  "description": "A diligent, Epicurean Valya.",
+  "description": "A diligent, anarchist Sasha.",
   "image": "173.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

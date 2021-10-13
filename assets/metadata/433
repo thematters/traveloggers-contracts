@@ -1,19 +1,19 @@
 {
   "name": "Matties #433",
-  "description": "An energetic, cosmopolitan Sasha.",
+  "description": "An unswerving, existentialist Zhenya.",
   "image": "433.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "unswerving"
     }
   ]
 }

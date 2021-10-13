@@ -1,19 +1,19 @@
 {
   "name": "Matties #455",
-  "description": "A compassionate, Marxist Yury.",
+  "description": "A confused, romatic Gena.",
   "image": "455.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

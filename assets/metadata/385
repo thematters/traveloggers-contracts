@@ -1,19 +1,19 @@
 {
   "name": "Matties #385",
-  "description": "A gregarious, collectivistic Yury.",
+  "description": "An unswerving, localist Sasha.",
   "image": "385.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "unswerving"
     }
   ]
 }

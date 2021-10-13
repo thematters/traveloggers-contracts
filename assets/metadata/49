@@ -1,19 +1,19 @@
 {
   "name": "Matties #49",
-  "description": "A gregarious, Marxist Yury.",
+  "description": "An adventurous, skeptical Sasha.",
   "image": "49.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "adventurous"
     }
   ]
 }

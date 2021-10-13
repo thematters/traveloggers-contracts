@@ -1,19 +1,19 @@
 {
   "name": "Matties #405",
-  "description": "An extroverted, localist Sasha.",
+  "description": "An observant, existentialist Valya.",
   "image": "405.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

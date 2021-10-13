@@ -1,19 +1,19 @@
 {
   "name": "Matties #469",
-  "description": "A rational, conservative Gena.",
+  "description": "A compassionate, skeptical Zhenya.",
   "image": "469.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "compassionate"
     }
   ]
 }

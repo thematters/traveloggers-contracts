@@ -1,11 +1,11 @@
 {
   "name": "Matties #481",
-  "description": "A diligent, capitalistic Sasha.",
+  "description": "A rebellious, capitalistic Yury.",
   "image": "481.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Matties #112",
-  "description": "A gregarious, existentialist Yury.",
+  "description": "An observant, existentialist Gena.",
   "image": "112.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "observant"
     }
   ]
 }

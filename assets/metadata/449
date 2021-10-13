@@ -1,6 +1,6 @@
 {
   "name": "Matties #449",
-  "description": "A worldly, cosmopolitan Zhenya.",
+  "description": "A nonchalant, localist Zhenya.",
   "image": "449.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "Matties #412",
-  "description": "A rational, capitalistic Sasha.",
+  "description": "A confused, nationalistic Sasha.",
   "image": "412.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "confused"
     }
   ]
 }

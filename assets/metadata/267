@@ -1,19 +1,19 @@
 {
   "name": "Matties #267",
-  "description": "An introverted, LGBTQ friendly Lesya.",
+  "description": "A down-to-earth, existentialist Gena.",
   "image": "267.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

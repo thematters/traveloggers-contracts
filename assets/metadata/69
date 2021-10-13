@@ -1,19 +1,19 @@
 {
   "name": "Matties #69",
-  "description": "A compassionate, romatic Gena.",
+  "description": "A rebellious, LGBTQ friendly Valya.",
   "image": "69.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #450",
-  "description": "An imaginative, existentialist Sasha.",
+  "description": "A diligent, optimistic Gena.",
   "image": "450.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "diligent"
     }
   ]
 }

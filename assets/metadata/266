@@ -1,19 +1,19 @@
 {
   "name": "Matties #266",
-  "description": "An unswerving, nationalistic Yury.",
+  "description": "An adventurous, Epicurean Lesya.",
   "image": "266.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Matties #127",
-  "description": "A rebellious, cynical Valya.",
+  "description": "An imaginative, cynical Yury.",
   "image": "127.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "imaginative"
     }
   ]
 }

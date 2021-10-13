@@ -1,19 +1,19 @@
 {
   "name": "Matties #253",
-  "description": "An extroverted, feminist Lesya.",
+  "description": "An adventurous, pragmatist Gena.",
   "image": "253.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "adventurous"
     }
   ]
 }

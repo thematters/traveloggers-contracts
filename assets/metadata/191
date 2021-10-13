@@ -1,6 +1,6 @@
 {
   "name": "Matties #191",
-  "description": "A chic, romatic Yury.",
+  "description": "An unswerving, pragmatist Yury.",
   "image": "191.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "unswerving"
     }
   ]
 }

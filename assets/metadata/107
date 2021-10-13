@@ -1,19 +1,19 @@
 {
   "name": "Matties #107",
-  "description": "A rational, pluralistic Gena.",
+  "description": "An imaginative, anarchist Valya.",
   "image": "107.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "imaginative"
     }
   ]
 }

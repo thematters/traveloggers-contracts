@@ -1,6 +1,6 @@
 {
   "name": "Matties #147",
-  "description": "A gregarious, nationalistic Zhenya.",
+  "description": "A confused, rationalist Zhenya.",
   "image": "147.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "rationalist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "confused"
     }
   ]
 }

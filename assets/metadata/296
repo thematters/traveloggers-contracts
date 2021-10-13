@@ -1,19 +1,19 @@
 {
   "name": "Matties #296",
-  "description": "A down-to-earth, Marxist Valya.",
+  "description": "An enthusiastic, collectivistic Zhenya.",
   "image": "296.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "enthusiastic"
     }
   ]
 }

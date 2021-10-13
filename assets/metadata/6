@@ -1,19 +1,19 @@
 {
   "name": "Matties #6",
-  "description": "An energetic, pessimistic Valya.",
+  "description": "A rebellious, pluralistic Zhenya.",
   "image": "6.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "rebellious"
     }
   ]
 }

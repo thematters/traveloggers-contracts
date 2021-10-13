@@ -1,19 +1,19 @@
 {
   "name": "Matties #358",
-  "description": "A rebellious, romatic Yury.",
+  "description": "An unswerving, collectivistic Valya.",
   "image": "358.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "unswerving"
     }
   ]
 }

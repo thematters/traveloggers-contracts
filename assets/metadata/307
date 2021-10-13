@@ -1,19 +1,19 @@
 {
   "name": "Matties #307",
-  "description": "An imaginative, LGBTQ friendly Gena.",
+  "description": "An extroverted, conservative Sasha.",
   "image": "307.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

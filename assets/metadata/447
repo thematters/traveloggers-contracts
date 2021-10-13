@@ -1,19 +1,19 @@
 {
   "name": "Matties #447",
-  "description": "A diligent, capitalistic Lesya.",
+  "description": "A chic, optimistic Zhenya.",
   "image": "447.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "chic"
     }
   ]
 }

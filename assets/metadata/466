@@ -1,19 +1,19 @@
 {
   "name": "Matties #466",
-  "description": "A compassionate, pragmatist Yury.",
+  "description": "An extroverted, localist Lesya.",
   "image": "466.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "extroverted"
     }
   ]
 }

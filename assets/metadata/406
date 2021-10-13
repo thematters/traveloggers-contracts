@@ -1,6 +1,6 @@
 {
   "name": "Matties #406",
-  "description": "An introverted, pessimistic Gena.",
+  "description": "A rebellious, pluralistic Gena.",
   "image": "406.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "rebellious"
     }
   ]
 }

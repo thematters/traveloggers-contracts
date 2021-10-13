@@ -1,19 +1,19 @@
 {
   "name": "Matties #41",
-  "description": "An imaginative, Epicurean Valya.",
+  "description": "An energetic, existentialist Zhenya.",
   "image": "41.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "energetic"
     }
   ]
 }

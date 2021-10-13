@@ -1,19 +1,19 @@
 {
   "name": "Matties #76",
-  "description": "An introverted, conservative Valya.",
+  "description": "An extroverted, romatic Zhenya.",
   "image": "76.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "Matties #195",
-  "description": "An energetic, pessimistic Yury.",
+  "description": "A compassionate, conservative Yury.",
   "image": "195.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "compassionate"
     }
   ]
 }

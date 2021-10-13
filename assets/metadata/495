@@ -1,11 +1,11 @@
 {
   "name": "Matties #495",
-  "description": "A down-to-earth, LGBTQ friendly Lesya.",
+  "description": "A gregarious, LGBTQ friendly Sasha.",
   "image": "495.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "gregarious"
     }
   ]
 }

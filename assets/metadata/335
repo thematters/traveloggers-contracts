@@ -1,19 +1,19 @@
 {
   "name": "Matties #335",
-  "description": "A confused, conservative Lesya.",
+  "description": "An analytical, skeptical Sasha.",
   "image": "335.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

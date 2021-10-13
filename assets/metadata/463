@@ -1,19 +1,19 @@
 {
   "name": "Matties #463",
-  "description": "An introverted, pluralistic Yury.",
+  "description": "An enthusiastic, Marxist Zhenya.",
   "image": "463.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "enthusiastic"
     }
   ]
 }

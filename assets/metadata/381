@@ -1,11 +1,11 @@
 {
   "name": "Matties #381",
-  "description": "An observant, pacifist Gena.",
+  "description": "An energetic, pacifist Yury.",
   "image": "381.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "energetic"
     }
   ]
 }

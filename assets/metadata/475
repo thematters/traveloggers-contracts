@@ -1,19 +1,19 @@
 {
   "name": "Matties #475",
-  "description": "A diligent, LGBTQ friendly Gena.",
+  "description": "An enthusiastic, existentialist Sasha.",
   "image": "475.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "enthusiastic"
     }
   ]
 }

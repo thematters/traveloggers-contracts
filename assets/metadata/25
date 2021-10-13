@@ -1,19 +1,19 @@
 {
   "name": "Matties #25",
-  "description": "An observant, localist Gena.",
+  "description": "A chic, romatic Valya.",
   "image": "25.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "chic"
     }
   ]
 }

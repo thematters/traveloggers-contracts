@@ -1,19 +1,19 @@
 {
   "name": "Matties #398",
-  "description": "An enthusiastic, feminist Yury.",
+  "description": "An analytical, optimistic Valya.",
   "image": "398.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

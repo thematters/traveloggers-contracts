@@ -1,11 +1,11 @@
 {
   "name": "Matties #181",
-  "description": "An unswerving, individualistic Lesya.",
+  "description": "A compassionate, individualistic Valya.",
   "image": "181.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "name": "Matties #19",
-  "description": "A rational, localist Gena.",
+  "description": "An extroverted, anarchist Zhenya.",
   "image": "19.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "extroverted"
     }
   ]
 }

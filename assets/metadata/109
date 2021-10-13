@@ -1,6 +1,6 @@
 {
   "name": "Matties #109",
-  "description": "A confused, LGBTQ friendly Yury.",
+  "description": "A confused, conservative Yury.",
   "image": "109.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",

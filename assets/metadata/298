@@ -1,19 +1,19 @@
 {
   "name": "Matties #298",
-  "description": "A down-to-earth, optimistic Zhenya.",
+  "description": "An energetic, pragmatist Sasha.",
   "image": "298.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "energetic"
     }
   ]
 }

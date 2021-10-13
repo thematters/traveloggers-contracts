@@ -1,11 +1,11 @@
 {
   "name": "Matties #123",
-  "description": "An enthusiastic, localist Sasha.",
+  "description": "An observant, localist Zhenya.",
   "image": "123.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

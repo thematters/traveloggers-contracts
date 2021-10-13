@@ -1,6 +1,6 @@
 {
   "name": "Matties #36",
-  "description": "An observant, individualistic Sasha.",
+  "description": "An energetic, Marxist Sasha.",
   "image": "36.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "energetic"
     }
   ]
 }

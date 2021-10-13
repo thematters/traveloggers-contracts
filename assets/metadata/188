@@ -1,6 +1,6 @@
 {
   "name": "Matties #188",
-  "description": "An energetic, localist Yury.",
+  "description": "A gregarious, collectivistic Yury.",
   "image": "188.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "gregarious"
     }
   ]
 }

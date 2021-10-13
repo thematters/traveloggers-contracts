@@ -1,19 +1,19 @@
 {
   "name": "Matties #460",
-  "description": "A rebellious, nationalistic Yury.",
+  "description": "A chic, cynical Gena.",
   "image": "460.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "chic"
     }
   ]
 }

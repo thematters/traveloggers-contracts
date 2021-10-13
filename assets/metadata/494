@@ -1,11 +1,11 @@
 {
   "name": "Matties #494",
-  "description": "An enthusiastic, existentialist Zhenya.",
+  "description": "An enthusiastic, existentialist Gena.",
   "image": "494.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",

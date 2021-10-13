@@ -1,6 +1,6 @@
 {
   "name": "Matties #197",
-  "description": "An observant, pluralistic Yury.",
+  "description": "An extroverted, pluralistic Yury.",
   "image": "197.png",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "extroverted"
     }
   ]
 }

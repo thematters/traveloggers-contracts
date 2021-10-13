@@ -1,15 +1,15 @@
 {
   "name": "Matties #308",
-  "description": "A nonchalant, Marxist Yury.",
+  "description": "A nonchalant, feminist Zhenya.",
   "image": "308.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

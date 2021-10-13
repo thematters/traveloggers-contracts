@@ -1,19 +1,19 @@
 {
   "name": "Matties #71",
-  "description": "A compassionate, pluralistic Valya.",
+  "description": "An introverted, LGBTQ friendly Sasha.",
   "image": "71.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

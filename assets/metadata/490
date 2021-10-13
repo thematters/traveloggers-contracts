@@ -1,19 +1,19 @@
 {
   "name": "Matties #490",
-  "description": "A rational, pragmatist Gena.",
+  "description": "A worldly, cosmopolitan Zhenya.",
   "image": "490.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "worldly"
     }
   ]
 }

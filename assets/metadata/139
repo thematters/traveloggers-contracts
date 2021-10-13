@@ -1,6 +1,6 @@
 {
   "name": "Matties #139",
-  "description": "An unswerving, cosmopolitan Lesya.",
+  "description": "An unswerving, romatic Lesya.",
   "image": "139.png",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",

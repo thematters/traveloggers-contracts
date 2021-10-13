@@ -1,19 +1,19 @@
 {
   "name": "Matties #171",
-  "description": "A self-discipline, nationalistic Gena.",
+  "description": "An introverted, skeptical Yury.",
   "image": "171.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "introverted"
     }
   ]
 }

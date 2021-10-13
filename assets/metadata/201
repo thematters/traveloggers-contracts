@@ -1,19 +1,19 @@
 {
   "name": "Matties #201",
-  "description": "A diligent, existentialist Zhenya.",
+  "description": "A gregarious, Epicurean Lesya.",
   "image": "201.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "gregarious"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "name": "Matties #421",
-  "description": "A gregarious, collectivistic Zhenya.",
+  "description": "A gregarious, anarchist Gena.",
   "image": "421.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

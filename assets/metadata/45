@@ -1,19 +1,19 @@
 {
   "name": "Matties #45",
-  "description": "An extroverted, anarchist Yury.",
+  "description": "A diligent, pluralistic Lesya.",
   "image": "45.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "diligent"
     }
   ]
 }

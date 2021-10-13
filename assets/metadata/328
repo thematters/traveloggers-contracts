@@ -1,19 +1,19 @@
 {
   "name": "Matties #328",
-  "description": "A down-to-earth, pluralistic Valya.",
+  "description": "A gregarious, individualistic Yury.",
   "image": "328.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "gregarious"
     }
   ]
 }

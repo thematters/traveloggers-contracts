@@ -1,19 +1,19 @@
 {
   "name": "Matties #85",
-  "description": "An enthusiastic, Epicurean Zhenya.",
+  "description": "An observant, capitalistic Valya.",
   "image": "85.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

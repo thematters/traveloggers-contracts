@@ -1,6 +1,6 @@
 {
   "name": "Matties #224",
-  "description": "A rebellious, localist Zhenya.",
+  "description": "An adventurous, existentialist Zhenya.",
   "image": "224.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

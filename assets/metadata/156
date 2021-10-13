@@ -1,19 +1,19 @@
 {
   "name": "Matties #156",
-  "description": "An unswerving, conservative Lesya.",
+  "description": "A self-discipline, skeptical Gena.",
   "image": "156.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "self-discipline"
     }
   ]
 }

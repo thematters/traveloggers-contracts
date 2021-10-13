@@ -1,19 +1,19 @@
 {
   "name": "Matties #136",
-  "description": "An energetic, Marxist Yury.",
+  "description": "An adventurous, Epicurean Lesya.",
   "image": "136.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

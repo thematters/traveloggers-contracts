@@ -1,6 +1,6 @@
 {
   "name": "Matties #47",
-  "description": "A diligent, Epicurean Yury.",
+  "description": "A self-discipline, existentialist Yury.",
   "image": "47.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "self-discipline"
     }
   ]
 }

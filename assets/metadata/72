@@ -1,19 +1,19 @@
 {
   "name": "Matties #72",
-  "description": "An extroverted, localist Zhenya.",
+  "description": "An imaginative, pragmatist Valya.",
   "image": "72.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

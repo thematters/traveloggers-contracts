@@ -1,19 +1,19 @@
 {
   "name": "Matties #302",
-  "description": "An enthusiastic, LGBTQ friendly Gena.",
+  "description": "An unswerving, pragmatist Zhenya.",
   "image": "302.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "unswerving"
     }
   ]
 }

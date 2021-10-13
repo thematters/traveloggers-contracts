@@ -1,19 +1,19 @@
 {
   "name": "Matties #458",
-  "description": "An introverted, pluralistic Yury.",
+  "description": "A confused, liberal Gena.",
   "image": "458.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "confused"
     }
   ]
 }

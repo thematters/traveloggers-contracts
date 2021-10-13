@@ -1,6 +1,6 @@
 {
   "name": "Matties #213",
-  "description": "An extroverted, rationalist Valya.",
+  "description": "A self-discipline, optimistic Valya.",
   "image": "213.png",
   "attributes": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "self-discipline"
     }
   ]
 }

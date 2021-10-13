@@ -1,19 +1,19 @@
 {
   "name": "Matties #411",
-  "description": "A nonchalant, skeptical Gena.",
+  "description": "An imaginative, feminist Valya.",
   "image": "411.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

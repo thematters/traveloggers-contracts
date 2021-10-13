@@ -1,19 +1,19 @@
 {
   "name": "Matties #228",
-  "description": "An energetic, individualistic Valya.",
+  "description": "An adventurous, LGBTQ friendly Sasha.",
   "image": "228.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

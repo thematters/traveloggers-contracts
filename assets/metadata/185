@@ -1,19 +1,19 @@
 {
   "name": "Matties #185",
-  "description": "A down-to-earth, pessimistic Sasha.",
+  "description": "A self-discipline, Marxist Valya.",
   "image": "185.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

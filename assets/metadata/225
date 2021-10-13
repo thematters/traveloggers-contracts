@@ -1,19 +1,19 @@
 {
   "name": "Matties #225",
-  "description": "A rational, Epicurean Gena.",
+  "description": "A rebellious, nationalistic Lesya.",
   "image": "225.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rational"
+      "value": "rebellious"
     }
   ]
 }

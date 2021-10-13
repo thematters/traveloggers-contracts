@@ -1,19 +1,19 @@
 {
   "name": "Matties #68",
-  "description": "An energetic, skeptical Valya.",
+  "description": "An observant, romatic Lesya.",
   "image": "68.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "romatic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "observant"
     }
   ]
 }
