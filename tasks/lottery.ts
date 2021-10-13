@@ -36,18 +36,16 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
 
     // run task
     try {
-      const tx = await matty.drawLottery(inputs.addresses, "123");
-      const result = await tx.wait();
-      console.log(result);
+      const tx = await matty.drawLottery(inputs.addresses, inputs.amount);
 
       // get winners from emitted event
       const logs = await matty.queryFilter(matty.filters.LotteryWinners());
-      console.log({ logs, inputs, tx }, matty.filters.LotteryWinners());
       const { winners } = logs[0].args;
 
       inputs.winners = winners;
       inputs.txHash = tx.hash;
       inputs.run = true;
+      inputs.error = null;
 
       console.log(`Finish running task "${taskName}" on ${network}`);
     } catch (error) {

@@ -23,7 +23,7 @@ async function main() {
     contractState = {};
   }
 
-  if (contractState.contract_address) {
+  if (network !== "localhost" && contractState.contract_address) {
     throw new Error(
       `Contract already deployed at ${contractState.contract_address}`
     );
