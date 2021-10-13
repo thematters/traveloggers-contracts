@@ -1,0 +1,19 @@
+{
+  "name": "Matties #198",
+  "description": "A gregarious, cynical Sasha.",
+  "image": "198.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

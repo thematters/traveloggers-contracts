@@ -1,0 +1,19 @@
+{
+  "name": "Matties #106",
+  "description": "A chic, nationalistic Gena.",
+  "image": "106.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

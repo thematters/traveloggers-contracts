@@ -1,0 +1,19 @@
+{
+  "name": "Matties #407",
+  "description": "An enthusiastic, skeptical Sasha.",
+  "image": "407.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

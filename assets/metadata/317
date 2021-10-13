@@ -1,0 +1,19 @@
+{
+  "name": "Matties #317",
+  "description": "An unswerving, nationalistic Zhenya.",
+  "image": "317.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

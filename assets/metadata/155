@@ -1,0 +1,19 @@
+{
+  "name": "Matties #155",
+  "description": "An enthusiastic, feminist Zhenya.",
+  "image": "155.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

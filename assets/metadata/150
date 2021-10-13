@@ -1,0 +1,19 @@
+{
+  "name": "Matties #150",
+  "description": "An observant, individualistic Valya.",
+  "image": "150.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

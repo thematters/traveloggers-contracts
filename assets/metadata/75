@@ -1,0 +1,19 @@
+{
+  "name": "Matties #75",
+  "description": "A down-to-earth, individualistic Zhenya.",
+  "image": "75.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

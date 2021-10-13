@@ -1,0 +1,19 @@
+{
+  "name": "Matties #235",
+  "description": "An extroverted, pessimistic Valya.",
+  "image": "235.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

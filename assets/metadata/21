@@ -1,0 +1,19 @@
+{
+  "name": "Matties #21",
+  "description": "A chic, localist Valya.",
+  "image": "21.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

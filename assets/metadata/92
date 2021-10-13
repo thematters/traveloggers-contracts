@@ -1,0 +1,19 @@
+{
+  "name": "Matties #92",
+  "description": "An unswerving, feminist Valya.",
+  "image": "92.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #305",
+  "description": "An energetic, cynical Gena.",
+  "image": "305.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

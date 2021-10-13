@@ -1,0 +1,19 @@
+{
+  "name": "Matties #216",
+  "description": "A rational, feminist Lesya.",
+  "image": "216.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

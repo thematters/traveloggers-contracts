@@ -1,0 +1,19 @@
+{
+  "name": "Matties #362",
+  "description": "A compassionate, skeptical Lesya.",
+  "image": "362.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

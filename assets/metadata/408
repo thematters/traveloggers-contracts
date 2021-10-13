@@ -1,0 +1,19 @@
+{
+  "name": "Matties #408",
+  "description": "An imaginative, Marxist Gena.",
+  "image": "408.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

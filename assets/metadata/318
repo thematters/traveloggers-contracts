@@ -1,0 +1,19 @@
+{
+  "name": "Matties #318",
+  "description": "A chic, pluralistic Gena.",
+  "image": "318.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

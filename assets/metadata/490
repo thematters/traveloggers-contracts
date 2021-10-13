@@ -1,0 +1,19 @@
+{
+  "name": "Matties #490",
+  "description": "A rational, pragmatist Gena.",
+  "image": "490.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

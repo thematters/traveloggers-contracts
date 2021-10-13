@@ -1,0 +1,19 @@
+{
+  "name": "Matties #229",
+  "description": "An unswerving, skeptical Zhenya.",
+  "image": "229.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

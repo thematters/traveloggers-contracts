@@ -1,0 +1,19 @@
+{
+  "name": "Matties #419",
+  "description": "An introverted, pluralistic Valya.",
+  "image": "419.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

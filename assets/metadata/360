@@ -1,0 +1,19 @@
+{
+  "name": "Matties #360",
+  "description": "An energetic, cosmopolitan Lesya.",
+  "image": "360.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

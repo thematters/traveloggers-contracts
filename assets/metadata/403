@@ -1,0 +1,19 @@
+{
+  "name": "Matties #403",
+  "description": "A rational, pacifist Valya.",
+  "image": "403.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 {
-  "name": "Matty #2",
-  "description": "A wanderlusty nihilists three-leg horse.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #2",
+  "description": "A rational, skeptical Zhenya.",
+  "image": "2.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "wanderlusty"
+      "value": "rational"
     }
   ]
 }

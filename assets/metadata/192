@@ -1,0 +1,19 @@
+{
+  "name": "Matties #192",
+  "description": "A confused, pragmatist Valya.",
+  "image": "192.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

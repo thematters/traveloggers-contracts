@@ -1,0 +1,19 @@
+{
+  "name": "Matties #393",
+  "description": "A confused, collectivistic Lesya.",
+  "image": "393.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

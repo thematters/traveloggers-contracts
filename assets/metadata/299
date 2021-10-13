@@ -1,0 +1,19 @@
+{
+  "name": "Matties #299",
+  "description": "A compassionate, skeptical Valya.",
+  "image": "299.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

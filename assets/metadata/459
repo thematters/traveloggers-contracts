@@ -1,0 +1,19 @@
+{
+  "name": "Matties #459",
+  "description": "A compassionate, existentialist Valya.",
+  "image": "459.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

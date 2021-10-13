@@ -1,0 +1,19 @@
+{
+  "name": "Matties #492",
+  "description": "An enthusiastic, romatic Valya.",
+  "image": "492.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

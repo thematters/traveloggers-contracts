@@ -1,0 +1,19 @@
+{
+  "name": "Matties #227",
+  "description": "An energetic, skeptical Valya.",
+  "image": "227.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

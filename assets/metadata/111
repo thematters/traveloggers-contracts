@@ -1,0 +1,19 @@
+{
+  "name": "Matties #111",
+  "description": "An adventurous, pragmatist Lesya.",
+  "image": "111.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

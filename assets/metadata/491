@@ -1,0 +1,19 @@
+{
+  "name": "Matties #491",
+  "description": "A down-to-earth, localist Gena.",
+  "image": "491.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

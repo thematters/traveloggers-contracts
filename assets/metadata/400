@@ -1,0 +1,19 @@
+{
+  "name": "Matties #400",
+  "description": "A worldly, pragmatist Gena.",
+  "image": "400.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

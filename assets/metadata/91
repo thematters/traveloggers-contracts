@@ -1,0 +1,19 @@
+{
+  "name": "Matties #91",
+  "description": "An unswerving, existentialist Gena.",
+  "image": "91.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

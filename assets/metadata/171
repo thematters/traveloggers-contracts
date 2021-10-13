@@ -1,0 +1,19 @@
+{
+  "name": "Matties #171",
+  "description": "A self-discipline, nationalistic Gena.",
+  "image": "171.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

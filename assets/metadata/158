@@ -1,0 +1,19 @@
+{
+  "name": "Matties #158",
+  "description": "An adventurous, capitalistic Zhenya.",
+  "image": "158.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

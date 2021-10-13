@@ -1,0 +1,19 @@
+{
+  "name": "Matties #42",
+  "description": "A diligent, liberal Valya.",
+  "image": "42.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

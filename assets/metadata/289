@@ -1,0 +1,19 @@
+{
+  "name": "Matties #289",
+  "description": "An adventurous, conservative Gena.",
+  "image": "289.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #321",
+  "description": "An introverted, cynical Valya.",
+  "image": "321.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

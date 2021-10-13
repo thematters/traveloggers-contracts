@@ -1,19 +1,19 @@
 {
-  "name": "Matty #7",
-  "description": "A practical anarchist three-leg horse.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #7",
+  "description": "A self-discipline, collectivistic Gena.",
+  "image": "7.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "self-discipline"
     }
   ]
 }

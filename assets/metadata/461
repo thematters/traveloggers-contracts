@@ -1,0 +1,19 @@
+{
+  "name": "Matties #461",
+  "description": "A worldly, conservative Gena.",
+  "image": "461.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #201",
+  "description": "A diligent, existentialist Zhenya.",
+  "image": "201.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

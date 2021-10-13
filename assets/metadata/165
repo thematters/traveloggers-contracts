@@ -1,0 +1,19 @@
+{
+  "name": "Matties #165",
+  "description": "An observant, pragmatist Sasha.",
+  "image": "165.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

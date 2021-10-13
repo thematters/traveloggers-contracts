@@ -1,0 +1,19 @@
+{
+  "name": "Matties #144",
+  "description": "An imaginative, collectivistic Valya.",
+  "image": "144.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

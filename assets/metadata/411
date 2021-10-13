@@ -1,0 +1,19 @@
+{
+  "name": "Matties #411",
+  "description": "A nonchalant, skeptical Gena.",
+  "image": "411.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

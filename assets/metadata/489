@@ -1,0 +1,19 @@
+{
+  "name": "Matties #489",
+  "description": "A diligent, cosmopolitan Yury.",
+  "image": "489.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

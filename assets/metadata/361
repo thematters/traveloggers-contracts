@@ -1,0 +1,19 @@
+{
+  "name": "Matties #361",
+  "description": "A compassionate, localist Zhenya.",
+  "image": "361.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

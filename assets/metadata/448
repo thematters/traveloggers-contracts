@@ -1,0 +1,19 @@
+{
+  "name": "Matties #448",
+  "description": "An observant, pessimistic Zhenya.",
+  "image": "448.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

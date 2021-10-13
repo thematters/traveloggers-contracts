@@ -1,0 +1,19 @@
+{
+  "name": "Matties #48",
+  "description": "A compassionate, feminist Valya.",
+  "image": "48.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

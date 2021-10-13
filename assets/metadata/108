@@ -1,0 +1,19 @@
+{
+  "name": "Matties #108",
+  "description": "An imaginative, romatic Lesya.",
+  "image": "108.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

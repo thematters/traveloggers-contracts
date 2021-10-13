@@ -2,11 +2,9 @@ import fs from "fs";
 import path from "path";
 import { contractStatePath } from "./util";
 
-
 import hardhat, { ethers } from "hardhat";
 
 import { network } from "../.env.json";
-
 
 async function main() {
   const networkName = hardhat.network.name;

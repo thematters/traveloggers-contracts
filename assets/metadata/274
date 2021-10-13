@@ -1,0 +1,19 @@
+{
+  "name": "Matties #274",
+  "description": "A gregarious, rationalist Yury.",
+  "image": "274.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rationalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

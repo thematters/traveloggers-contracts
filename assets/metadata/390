@@ -1,0 +1,19 @@
+{
+  "name": "Matties #390",
+  "description": "A gregarious, romatic Sasha.",
+  "image": "390.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

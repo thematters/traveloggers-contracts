@@ -1,0 +1,19 @@
+{
+  "name": "Matties #447",
+  "description": "A diligent, capitalistic Lesya.",
+  "image": "447.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

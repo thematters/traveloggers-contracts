@@ -1,19 +1,19 @@
 {
-  "name": "Matty #9",
-  "description": "A sentimental royalist three-leg horse.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #9",
+  "description": "An introverted, skeptical Valya.",
+  "image": "9.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "royalist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "sentimental"
+      "value": "introverted"
     }
   ]
 }

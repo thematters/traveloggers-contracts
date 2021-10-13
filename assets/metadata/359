@@ -1,0 +1,19 @@
+{
+  "name": "Matties #359",
+  "description": "A diligent, collectivistic Lesya.",
+  "image": "359.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

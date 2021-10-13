@@ -1,0 +1,19 @@
+{
+  "name": "Matties #253",
+  "description": "An extroverted, feminist Lesya.",
+  "image": "253.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

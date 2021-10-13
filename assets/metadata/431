@@ -1,0 +1,19 @@
+{
+  "name": "Matties #431",
+  "description": "A gregarious, liberal Gena.",
+  "image": "431.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

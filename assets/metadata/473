@@ -1,0 +1,19 @@
+{
+  "name": "Matties #473",
+  "description": "A rational, pragmatist Sasha.",
+  "image": "473.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

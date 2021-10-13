@@ -1,0 +1,19 @@
+{
+  "name": "Matties #341",
+  "description": "A compassionate, existentialist Lesya.",
+  "image": "341.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

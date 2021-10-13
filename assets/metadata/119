@@ -1,0 +1,19 @@
+{
+  "name": "Matties #119",
+  "description": "An enthusiastic, individualistic Yury.",
+  "image": "119.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

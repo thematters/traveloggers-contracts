@@ -1,0 +1,19 @@
+{
+  "name": "Matties #307",
+  "description": "An imaginative, LGBTQ friendly Gena.",
+  "image": "307.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

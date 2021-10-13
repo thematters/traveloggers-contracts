@@ -1,0 +1,19 @@
+{
+  "name": "Matties #344",
+  "description": "An unswerving, pragmatist Zhenya.",
+  "image": "344.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

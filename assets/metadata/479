@@ -1,0 +1,19 @@
+{
+  "name": "Matties #479",
+  "description": "An energetic, individualistic Valya.",
+  "image": "479.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

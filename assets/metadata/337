@@ -1,0 +1,19 @@
+{
+  "name": "Matties #337",
+  "description": "An energetic, individualistic Gena.",
+  "image": "337.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

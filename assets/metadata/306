@@ -1,0 +1,19 @@
+{
+  "name": "Matties #306",
+  "description": "An enthusiastic, pessimistic Gena.",
+  "image": "306.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

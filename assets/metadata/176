@@ -1,0 +1,19 @@
+{
+  "name": "Matties #176",
+  "description": "An enthusiastic, conservative Yury.",
+  "image": "176.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

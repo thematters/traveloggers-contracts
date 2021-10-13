@@ -1,0 +1,19 @@
+{
+  "name": "Matties #401",
+  "description": "A down-to-earth, localist Sasha.",
+  "image": "401.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

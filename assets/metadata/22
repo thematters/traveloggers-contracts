@@ -1,0 +1,19 @@
+{
+  "name": "Matties #22",
+  "description": "A compassionate, nationalistic Valya.",
+  "image": "22.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

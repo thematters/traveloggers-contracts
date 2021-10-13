@@ -1,0 +1,19 @@
+{
+  "name": "Matties #166",
+  "description": "A chic, rationalist Yury.",
+  "image": "166.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rationalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #67",
+  "description": "A nonchalant, cosmopolitan Lesya.",
+  "image": "67.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

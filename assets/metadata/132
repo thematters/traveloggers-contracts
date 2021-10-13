@@ -1,0 +1,19 @@
+{
+  "name": "Matties #132",
+  "description": "A chic, Marxist Zhenya.",
+  "image": "132.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

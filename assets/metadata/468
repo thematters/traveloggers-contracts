@@ -1,0 +1,19 @@
+{
+  "name": "Matties #468",
+  "description": "An introverted, anarchist Zhenya.",
+  "image": "468.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

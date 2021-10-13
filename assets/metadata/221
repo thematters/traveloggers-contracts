@@ -1,0 +1,19 @@
+{
+  "name": "Matties #221",
+  "description": "An adventurous, rationalist Yury.",
+  "image": "221.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rationalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

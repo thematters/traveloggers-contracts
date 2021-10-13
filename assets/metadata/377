@@ -1,0 +1,19 @@
+{
+  "name": "Matties #377",
+  "description": "An introverted, Marxist Gena.",
+  "image": "377.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

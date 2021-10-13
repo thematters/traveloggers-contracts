@@ -1,0 +1,19 @@
+{
+  "name": "Matties #51",
+  "description": "An introverted, localist Valya.",
+  "image": "51.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

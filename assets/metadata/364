@@ -1,0 +1,19 @@
+{
+  "name": "Matties #364",
+  "description": "A worldly, localist Lesya.",
+  "image": "364.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

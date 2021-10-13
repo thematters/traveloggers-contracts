@@ -1,0 +1,19 @@
+{
+  "name": "Matties #466",
+  "description": "A compassionate, pragmatist Yury.",
+  "image": "466.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

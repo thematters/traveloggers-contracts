@@ -1,0 +1,19 @@
+{
+  "name": "Matties #110",
+  "description": "A gregarious, Epicurean Lesya.",
+  "image": "110.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #219",
+  "description": "An enthusiastic, Marxist Sasha.",
+  "image": "219.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

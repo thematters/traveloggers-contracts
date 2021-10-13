@@ -1,0 +1,19 @@
+{
+  "name": "Matties #31",
+  "description": "An enthusiastic, anarchist Gena.",
+  "image": "31.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

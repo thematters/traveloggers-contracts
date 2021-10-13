@@ -1,0 +1,19 @@
+{
+  "name": "Matties #134",
+  "description": "A rational, existentialist Sasha.",
+  "image": "134.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

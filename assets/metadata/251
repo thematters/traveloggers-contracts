@@ -1,0 +1,19 @@
+{
+  "name": "Matties #251",
+  "description": "A nonchalant, pragmatist Sasha.",
+  "image": "251.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

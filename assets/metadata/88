@@ -1,0 +1,19 @@
+{
+  "name": "Matties #88",
+  "description": "An observant, optimistic Valya.",
+  "image": "88.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

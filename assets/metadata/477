@@ -1,0 +1,19 @@
+{
+  "name": "Matties #477",
+  "description": "A chic, localist Gena.",
+  "image": "477.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

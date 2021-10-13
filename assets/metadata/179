@@ -1,0 +1,19 @@
+{
+  "name": "Matties #179",
+  "description": "A rebellious, Marxist Sasha.",
+  "image": "179.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #191",
+  "description": "A chic, romatic Yury.",
+  "image": "191.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

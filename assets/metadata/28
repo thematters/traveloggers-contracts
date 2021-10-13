@@ -1,0 +1,19 @@
+{
+  "name": "Matties #28",
+  "description": "A down-to-earth, pluralistic Sasha.",
+  "image": "28.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

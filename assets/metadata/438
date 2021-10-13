@@ -1,0 +1,19 @@
+{
+  "name": "Matties #438",
+  "description": "An unswerving, nationalistic Valya.",
+  "image": "438.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

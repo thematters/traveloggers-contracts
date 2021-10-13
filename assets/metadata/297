@@ -1,0 +1,19 @@
+{
+  "name": "Matties #297",
+  "description": "An unswerving, skeptical Gena.",
+  "image": "297.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

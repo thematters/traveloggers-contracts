@@ -1,0 +1,19 @@
+{
+  "name": "Matties #292",
+  "description": "A confused, capitalistic Gena.",
+  "image": "292.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

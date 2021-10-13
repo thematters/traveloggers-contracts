@@ -1,0 +1,19 @@
+{
+  "name": "Matties #35",
+  "description": "A confused, capitalistic Sasha.",
+  "image": "35.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

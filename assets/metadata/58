@@ -1,0 +1,19 @@
+{
+  "name": "Matties #58",
+  "description": "A diligent, anarchist Sasha.",
+  "image": "58.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

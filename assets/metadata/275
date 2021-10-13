@@ -1,0 +1,19 @@
+{
+  "name": "Matties #275",
+  "description": "An unswerving, rationalist Sasha.",
+  "image": "275.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rationalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

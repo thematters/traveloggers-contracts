@@ -1,0 +1,19 @@
+{
+  "name": "Matties #433",
+  "description": "An energetic, cosmopolitan Sasha.",
+  "image": "433.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #152",
+  "description": "An unswerving, nationalistic Sasha.",
+  "image": "152.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

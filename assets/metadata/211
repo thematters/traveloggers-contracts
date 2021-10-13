@@ -1,0 +1,19 @@
+{
+  "name": "Matties #211",
+  "description": "An introverted, cosmopolitan Sasha.",
+  "image": "211.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

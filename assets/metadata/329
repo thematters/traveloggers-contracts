@@ -1,0 +1,19 @@
+{
+  "name": "Matties #329",
+  "description": "A rebellious, pragmatist Valya.",
+  "image": "329.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

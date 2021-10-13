@@ -1,0 +1,19 @@
+{
+  "name": "Matties #177",
+  "description": "An enthusiastic, liberal Sasha.",
+  "image": "177.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

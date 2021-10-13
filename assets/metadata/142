@@ -1,0 +1,19 @@
+{
+  "name": "Matties #142",
+  "description": "An enthusiastic, existentialist Gena.",
+  "image": "142.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

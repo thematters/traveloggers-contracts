@@ -1,0 +1,19 @@
+{
+  "name": "Matties #456",
+  "description": "An extroverted, pessimistic Sasha.",
+  "image": "456.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #225",
+  "description": "A rational, Epicurean Gena.",
+  "image": "225.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

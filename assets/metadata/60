@@ -1,0 +1,19 @@
+{
+  "name": "Matties #60",
+  "description": "A chic, skeptical Sasha.",
+  "image": "60.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

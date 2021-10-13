@@ -1,0 +1,19 @@
+{
+  "name": "Matties #27",
+  "description": "An extroverted, cynical Sasha.",
+  "image": "27.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

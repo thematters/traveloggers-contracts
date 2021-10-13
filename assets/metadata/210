@@ -1,0 +1,19 @@
+{
+  "name": "Matties #210",
+  "description": "An extroverted, conservative Yury.",
+  "image": "210.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

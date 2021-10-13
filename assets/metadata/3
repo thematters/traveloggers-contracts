@@ -1,19 +1,19 @@
 {
-  "name": "Matty #3",
-  "description": "A sentimental anarchist three-leg horse.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #3",
+  "description": "An extroverted, LGBTQ friendly Lesya.",
+  "image": "3.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "sentimental"
+      "value": "extroverted"
     }
   ]
 }

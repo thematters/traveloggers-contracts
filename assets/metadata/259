@@ -1,0 +1,19 @@
+{
+  "name": "Matties #259",
+  "description": "A compassionate, cynical Zhenya.",
+  "image": "259.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #81",
+  "description": "An energetic, individualistic Zhenya.",
+  "image": "81.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

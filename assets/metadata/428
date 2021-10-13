@@ -1,0 +1,19 @@
+{
+  "name": "Matties #428",
+  "description": "A rebellious, existentialist Gena.",
+  "image": "428.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

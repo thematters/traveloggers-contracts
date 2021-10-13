@@ -1,0 +1,19 @@
+{
+  "name": "Matties #392",
+  "description": "An observant, LGBTQ friendly Valya.",
+  "image": "392.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #105",
+  "description": "An imaginative, localist Sasha.",
+  "image": "105.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

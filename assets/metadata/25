@@ -1,0 +1,19 @@
+{
+  "name": "Matties #25",
+  "description": "An observant, localist Gena.",
+  "image": "25.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #416",
+  "description": "A chic, cynical Lesya.",
+  "image": "416.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

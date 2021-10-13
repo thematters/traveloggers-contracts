@@ -1,0 +1,19 @@
+{
+  "name": "Matties #82",
+  "description": "An enthusiastic, nationalistic Sasha.",
+  "image": "82.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

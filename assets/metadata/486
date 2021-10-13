@@ -1,0 +1,19 @@
+{
+  "name": "Matties #486",
+  "description": "An energetic, skeptical Zhenya.",
+  "image": "486.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

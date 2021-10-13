@@ -1,0 +1,19 @@
+{
+  "name": "Matties #276",
+  "description": "An introverted, capitalistic Sasha.",
+  "image": "276.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #93",
+  "description": "A rational, optimistic Yury.",
+  "image": "93.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

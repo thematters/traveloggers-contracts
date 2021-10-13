@@ -1,0 +1,19 @@
+{
+  "name": "Matties #79",
+  "description": "An imaginative, existentialist Yury.",
+  "image": "79.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

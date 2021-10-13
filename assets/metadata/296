@@ -1,0 +1,19 @@
+{
+  "name": "Matties #296",
+  "description": "A down-to-earth, Marxist Valya.",
+  "image": "296.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

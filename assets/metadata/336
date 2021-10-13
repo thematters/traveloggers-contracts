@@ -1,0 +1,19 @@
+{
+  "name": "Matties #336",
+  "description": "A diligent, cosmopolitan Zhenya.",
+  "image": "336.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

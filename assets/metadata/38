@@ -1,0 +1,19 @@
+{
+  "name": "Matties #38",
+  "description": "An unswerving, LGBTQ friendly Valya.",
+  "image": "38.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #453",
+  "description": "An imaginative, pragmatist Gena.",
+  "image": "453.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

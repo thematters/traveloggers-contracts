@@ -1,0 +1,19 @@
+{
+  "name": "Matties #379",
+  "description": "An observant, pluralistic Zhenya.",
+  "image": "379.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

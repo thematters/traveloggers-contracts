@@ -33,10 +33,6 @@ const capitalize = (string: string) => {
 
 // main function
 const main = async () => {
-  if (totalSupply > races.length * ideologies.length * characters.length) {
-    throw Error(`Not enough attributes to generate ${totalSupply} creatures.`);
-  }
-
   console.log(`Generating ${totalSupply} avatars to ${metadataDirPath}...`);
 
   // exhaust all combination as candidates
@@ -50,18 +46,24 @@ const main = async () => {
     )
   );
 
+  if (totalSupply > candidates.length) {
+    throw Error(
+      `Not enough attributes to generate ${totalSupply} creatures, total combination: ${candidates.length}.`
+    );
+  }
+
   for (let id = 1; id <= totalSupply; id++) {
     // random sample one combination
     const { race, character, ideology } = sample(candidates, false);
 
-    const name = `Matty #${id}`;
+    const name = `Matties #${id}`;
 
     // assemble metadata
     const creature = {
       name,
       description: `${capitalize(
         Articles.articlize(character)
-      )} ${ideology} ${race}.`,
+      )}, ${ideology} ${race}.`,
       image: `${id}.png`,
       attributes: [
         {

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #282",
+  "description": "A down-to-earth, skeptical Valya.",
+  "image": "282.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

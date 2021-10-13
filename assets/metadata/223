@@ -1,0 +1,19 @@
+{
+  "name": "Matties #223",
+  "description": "A compassionate, pluralistic Zhenya.",
+  "image": "223.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

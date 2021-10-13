@@ -1,0 +1,19 @@
+{
+  "name": "Matties #205",
+  "description": "An enthusiastic, existentialist Valya.",
+  "image": "205.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

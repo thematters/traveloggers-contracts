@@ -1,0 +1,19 @@
+{
+  "name": "Matties #334",
+  "description": "An unswerving, LGBTQ friendly Gena.",
+  "image": "334.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

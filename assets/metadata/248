@@ -1,0 +1,19 @@
+{
+  "name": "Matties #248",
+  "description": "An adventurous, skeptical Lesya.",
+  "image": "248.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

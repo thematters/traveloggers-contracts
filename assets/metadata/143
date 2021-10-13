@@ -1,0 +1,19 @@
+{
+  "name": "Matties #143",
+  "description": "A compassionate, cosmopolitan Valya.",
+  "image": "143.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

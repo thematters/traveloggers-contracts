@@ -1,19 +1,19 @@
 {
-  "name": "Matty #4",
-  "description": "A faithful anarchist one-eye toad.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #4",
+  "description": "An extroverted, LGBTQ friendly Valya.",
+  "image": "4.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "faithful"
+      "value": "extroverted"
     }
   ]
 }

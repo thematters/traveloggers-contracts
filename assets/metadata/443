@@ -1,0 +1,19 @@
+{
+  "name": "Matties #443",
+  "description": "A confused, cosmopolitan Sasha.",
+  "image": "443.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #236",
+  "description": "An energetic, anarchist Lesya.",
+  "image": "236.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

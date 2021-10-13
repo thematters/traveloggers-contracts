@@ -1,0 +1,19 @@
+{
+  "name": "Matties #434",
+  "description": "An introverted, romatic Zhenya.",
+  "image": "434.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #480",
+  "description": "A rational, cynical Valya.",
+  "image": "480.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

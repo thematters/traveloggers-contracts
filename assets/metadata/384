@@ -1,0 +1,19 @@
+{
+  "name": "Matties #384",
+  "description": "An unswerving, collectivistic Gena.",
+  "image": "384.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

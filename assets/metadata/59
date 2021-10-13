@@ -1,0 +1,19 @@
+{
+  "name": "Matties #59",
+  "description": "An introverted, romatic Sasha.",
+  "image": "59.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

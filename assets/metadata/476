@@ -1,0 +1,19 @@
+{
+  "name": "Matties #476",
+  "description": "A nonchalant, anarchist Yury.",
+  "image": "476.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

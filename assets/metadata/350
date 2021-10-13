@@ -1,0 +1,19 @@
+{
+  "name": "Matties #350",
+  "description": "A worldly, liberal Gena.",
+  "image": "350.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

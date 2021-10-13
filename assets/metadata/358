@@ -1,0 +1,19 @@
+{
+  "name": "Matties #358",
+  "description": "A rebellious, romatic Yury.",
+  "image": "358.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

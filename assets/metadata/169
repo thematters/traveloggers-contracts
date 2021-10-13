@@ -1,0 +1,19 @@
+{
+  "name": "Matties #169",
+  "description": "An observant, pragmatist Zhenya.",
+  "image": "169.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

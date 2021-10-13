@@ -1,19 +1,19 @@
 {
-  "name": "Matty #11",
-  "description": "A practical pacifist three-leg horse.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #11",
+  "description": "A self-discipline, nationalistic Valya.",
+  "image": "11.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "three-leg horse"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "self-discipline"
     }
   ]
 }

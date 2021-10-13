@@ -1,0 +1,19 @@
+{
+  "name": "Matties #107",
+  "description": "A rational, pluralistic Gena.",
+  "image": "107.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

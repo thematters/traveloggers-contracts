@@ -1,0 +1,19 @@
+{
+  "name": "Matties #382",
+  "description": "A diligent, feminist Zhenya.",
+  "image": "382.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

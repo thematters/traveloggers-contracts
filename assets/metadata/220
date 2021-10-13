@@ -1,0 +1,19 @@
+{
+  "name": "Matties #220",
+  "description": "A compassionate, capitalistic Lesya.",
+  "image": "220.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

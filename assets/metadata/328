@@ -1,0 +1,19 @@
+{
+  "name": "Matties #328",
+  "description": "A down-to-earth, pluralistic Valya.",
+  "image": "328.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #397",
+  "description": "An introverted, pacifist Lesya.",
+  "image": "397.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

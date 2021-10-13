@@ -1,0 +1,19 @@
+{
+  "name": "Matties #18",
+  "description": "A down-to-earth, feminist Gena.",
+  "image": "18.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

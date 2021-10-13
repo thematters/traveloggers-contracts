@@ -1,0 +1,19 @@
+{
+  "name": "Matties #295",
+  "description": "A gregarious, collectivistic Gena.",
+  "image": "295.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

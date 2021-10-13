@@ -1,0 +1,19 @@
+{
+  "name": "Matties #212",
+  "description": "A diligent, LGBTQ friendly Sasha.",
+  "image": "212.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

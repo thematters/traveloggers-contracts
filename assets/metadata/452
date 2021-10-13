@@ -1,0 +1,19 @@
+{
+  "name": "Matties #452",
+  "description": "A gregarious, Marxist Zhenya.",
+  "image": "452.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

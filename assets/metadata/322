@@ -1,0 +1,19 @@
+{
+  "name": "Matties #322",
+  "description": "An extroverted, Marxist Lesya.",
+  "image": "322.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

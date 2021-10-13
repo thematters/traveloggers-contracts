@@ -1,19 +1,19 @@
 {
-  "name": "Matty #13",
-  "description": "A sentimental right wing two-antenna elephant.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #13",
+  "description": "A chic, Marxist Lesya.",
+  "image": "13.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "right wing"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "sentimental"
+      "value": "chic"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #66",
+  "description": "An observant, skeptical Valya.",
+  "image": "66.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

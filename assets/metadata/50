@@ -1,0 +1,19 @@
+{
+  "name": "Matties #50",
+  "description": "A rational, pragmatist Valya.",
+  "image": "50.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rational"
+    }
+  ]
+}

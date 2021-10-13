@@ -1,0 +1,19 @@
+{
+  "name": "Matties #133",
+  "description": "A compassionate, pluralistic Lesya.",
+  "image": "133.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

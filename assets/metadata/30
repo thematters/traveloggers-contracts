@@ -1,0 +1,19 @@
+{
+  "name": "Matties #30",
+  "description": "A diligent, optimistic Sasha.",
+  "image": "30.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

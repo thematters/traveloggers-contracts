@@ -1,0 +1,19 @@
+{
+  "name": "Matties #218",
+  "description": "A nonchalant, localist Sasha.",
+  "image": "218.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

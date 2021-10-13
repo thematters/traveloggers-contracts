@@ -1,0 +1,19 @@
+{
+  "name": "Matties #244",
+  "description": "A nonchalant, individualistic Zhenya.",
+  "image": "244.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

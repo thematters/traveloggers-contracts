@@ -1,0 +1,19 @@
+{
+  "name": "Matties #86",
+  "description": "A worldly, Epicurean Lesya.",
+  "image": "86.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

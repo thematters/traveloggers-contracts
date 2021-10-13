@@ -1,0 +1,19 @@
+{
+  "name": "Matties #372",
+  "description": "A down-to-earth, skeptical Sasha.",
+  "image": "372.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

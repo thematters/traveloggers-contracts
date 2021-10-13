@@ -1,0 +1,19 @@
+{
+  "name": "Matties #421",
+  "description": "A gregarious, collectivistic Zhenya.",
+  "image": "421.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

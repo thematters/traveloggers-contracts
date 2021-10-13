@@ -1,0 +1,19 @@
+{
+  "name": "Matties #454",
+  "description": "An unswerving, cosmopolitan Zhenya.",
+  "image": "454.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

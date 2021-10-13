@@ -1,0 +1,19 @@
+{
+  "name": "Matties #298",
+  "description": "A down-to-earth, optimistic Zhenya.",
+  "image": "298.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

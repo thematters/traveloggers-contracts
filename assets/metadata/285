@@ -1,0 +1,19 @@
+{
+  "name": "Matties #285",
+  "description": "An observant, Marxist Zhenya.",
+  "image": "285.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

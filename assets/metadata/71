@@ -1,0 +1,19 @@
+{
+  "name": "Matties #71",
+  "description": "A compassionate, pluralistic Valya.",
+  "image": "71.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

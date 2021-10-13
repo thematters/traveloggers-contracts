@@ -1,0 +1,19 @@
+{
+  "name": "Matties #78",
+  "description": "A rebellious, pessimistic Zhenya.",
+  "image": "78.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

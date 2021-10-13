@@ -1,0 +1,19 @@
+{
+  "name": "Matties #465",
+  "description": "An imaginative, Marxist Lesya.",
+  "image": "465.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #29",
+  "description": "An imaginative, cosmopolitan Sasha.",
+  "image": "29.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

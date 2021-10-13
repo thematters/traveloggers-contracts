@@ -1,0 +1,19 @@
+{
+  "name": "Matties #367",
+  "description": "An energetic, pacifist Gena.",
+  "image": "367.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

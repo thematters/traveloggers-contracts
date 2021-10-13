@@ -1,0 +1,19 @@
+{
+  "name": "Matties #195",
+  "description": "An energetic, pessimistic Yury.",
+  "image": "195.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

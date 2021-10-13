@@ -1,0 +1,19 @@
+{
+  "name": "Matties #500",
+  "description": "A down-to-earth, existentialist Sasha.",
+  "image": "500.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #57",
+  "description": "An extroverted, pacifist Zhenya.",
+  "image": "57.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

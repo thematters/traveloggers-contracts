@@ -1,0 +1,19 @@
+{
+  "name": "Matties #186",
+  "description": "An energetic, cosmopolitan Valya.",
+  "image": "186.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

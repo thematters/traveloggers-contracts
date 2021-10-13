@@ -1,0 +1,19 @@
+{
+  "name": "Matties #351",
+  "description": "An observant, feminist Gena.",
+  "image": "351.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

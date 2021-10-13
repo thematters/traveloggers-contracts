@@ -1,0 +1,19 @@
+{
+  "name": "Matties #148",
+  "description": "A down-to-earth, romatic Lesya.",
+  "image": "148.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

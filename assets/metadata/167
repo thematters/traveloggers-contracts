@@ -1,0 +1,19 @@
+{
+  "name": "Matties #167",
+  "description": "A confused, existentialist Valya.",
+  "image": "167.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

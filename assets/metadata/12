@@ -1,19 +1,19 @@
 {
-  "name": "Matty #12",
-  "description": "A practical royalist one-eye toad.",
-  "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
+  "name": "Matties #12",
+  "description": "A chic, anarchist Valya.",
+  "image": "12.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "royalist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "chic"
     }
   ]
 }

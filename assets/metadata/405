@@ -1,0 +1,19 @@
+{
+  "name": "Matties #405",
+  "description": "An extroverted, localist Sasha.",
+  "image": "405.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

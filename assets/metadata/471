@@ -1,0 +1,19 @@
+{
+  "name": "Matties #471",
+  "description": "A worldly, localist Zhenya.",
+  "image": "471.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}
