@@ -1,15 +1,15 @@
 {
   "name": "Matty #14",
-  "description": "A practical left wing one-eye toad.",
+  "description": "A practical royalist three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "left wing"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",

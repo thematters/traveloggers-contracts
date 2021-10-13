@@ -1,19 +1,19 @@
 {
   "name": "Matty #10",
-  "description": "A practical pacifist two-antenna elephant.",
+  "description": "A sentimental royalist one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "one-eye toad"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sentimental"
     }
   ]
 }

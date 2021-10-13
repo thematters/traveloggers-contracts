@@ -1,19 +1,19 @@
 {
   "name": "Matty #11",
-  "description": "An imaginative royalist two-antenna elephant.",
+  "description": "A practical pacifist three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "royalist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

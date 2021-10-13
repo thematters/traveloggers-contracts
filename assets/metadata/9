@@ -1,6 +1,6 @@
 {
   "name": "Matty #9",
-  "description": "A sentimental nihilists three-leg horse.",
+  "description": "A sentimental royalist three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "royalist"
     },
     {
       "trait_type": "Character",

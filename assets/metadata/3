@@ -1,19 +1,19 @@
 {
   "name": "Matty #3",
-  "description": "A faithful royalist one-eye toad.",
+  "description": "A sentimental anarchist three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "royalist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "faithful"
+      "value": "sentimental"
     }
   ]
 }

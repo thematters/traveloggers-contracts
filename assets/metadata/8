@@ -1,19 +1,19 @@
 {
   "name": "Matty #8",
-  "description": "A practical anarchist one-eye toad.",
+  "description": "An imaginative nihilists two-antenna elephant.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "one-eye toad"
+      "value": "two-antenna elephant"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "nihilists"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

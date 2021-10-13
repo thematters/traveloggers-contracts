@@ -1,6 +1,6 @@
 {
   "name": "Matty #4",
-  "description": "A faithful nihilists one-eye toad.",
+  "description": "A faithful anarchist one-eye toad.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nihilists"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

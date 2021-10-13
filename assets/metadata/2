@@ -1,19 +1,19 @@
 {
   "name": "Matty #2",
-  "description": "An imaginative pacifist two-antenna elephant.",
+  "description": "A wanderlusty nihilists three-leg horse.",
   "image": "ipfs://QmWuSkievQMKGTm834XCvocu5YGXDxJePriZauePzCKhj7",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "two-antenna elephant"
+      "value": "three-leg horse"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nihilists"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "wanderlusty"
     }
   ]
 }
