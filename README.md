@@ -34,12 +34,6 @@ Fill in the following environment variables:
 - `infuraIPFSId`: Project ID of Infura IPFS
 - `infuraIPFSSecret`: Project Secret of Infura IPFS
 
-Source the file:
-
-```
-. ./.env
-```
-
 ## Development
 
 Build contract (optional):
@@ -48,39 +42,38 @@ Build contract (optional):
 npm run build
 ```
 
-Start ganache:
-
-```
-npm run develop:start
-```
-
 Unit test:
 
 ```
 npm run test
 ```
 
-Deploy contracts to ganache:
+Deploy contract to Hardhat Network (localhost):
 
 ```
-npm run develop:deploy
+npm run localhost:deploy
 ```
 
-Launch interactive console (optional):
+Start Hardhat Network:
 
 ```
-npm run develop:console
+npm run localhost:start
 ```
 
-## Minting NFTs (Rinkeby)
+Launch interactive console:
+
+```
+npm run localhost:console
+```
+
+## Minting NFTs
 
 - Store assets under `assets/`, with each avatar in its own directory.
   - Each avatar has a `metadata.json` file.
   - `image` field in `metadata.json` points to the image of the avatar.
   - The rest of the fields will be included in the NFT metadata (we target [opensea metadata standard](https://docs.opensea.io/docs/metadata-standards)).
 - Store avatar data on IPFS with `npm run store`
-  - It writes the resulting hash into `uri` field in `state.${network}.json` file.
-  - It only stored the avatars that do not have `uri` in `state.${network}.json` yet.
-- Mint avatar assets to NFT with `npm run ${network}:mint`. (TODO)
-  - It writes the resulting transaction hash into `tx` field in `state.${network}.json` file.
-  - It only mint the avatars that do not have `tx` in `state.${network}.json` yet.
+  - It writes the resulting hash into `uri` field in `data/${network}/state.json` file.
+  - It only stored the avatars that do not have `uri` in `data/${network}/state.json` yet.
+- Mint avatar assets to NFT with `npm run ${network}:mint:${type} -- --inputs ./data/${network}/${inputs}.json`.
+  - It writes the resulting back to input file.

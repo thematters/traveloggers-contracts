@@ -15,12 +15,12 @@ abstract contract Lottery is BatchNFT {
      *
      * Emits a {LotteryWinners} event.
      */
-    function drawLottery(address[] calldata _addresses, uint256 _draw)
+    function drawLottery(address[] calldata addresses_, uint256 amount_)
         public
         onlyOwner
     {
         // empty array to store winner addresses
-        address[] memory winners = _randomDraw(_addresses, _draw);
+        address[] memory winners = _randomDraw(addresses_, amount_);
 
         // batch mint NFT for winners
         batchMint(winners);
@@ -32,15 +32,20 @@ abstract contract Lottery is BatchNFT {
     /**
      * @dev Random draw from an array of addresses and return the result.
      */
-    function _randomDraw(address[] memory _addresses, uint256 _draw)
+    function _randomDraw(address[] memory addresses_, uint256 amount_)
         public
         view
         returns (address[] memory result)
     {
-        // empty array to store result
-        result = new address[](_draw);
+        require(
+            amount_ <= addresses_.length,
+            "amount_ must be less than or equal to addresses_.length"
+        );
 
-        for (uint256 i = 0; i < _draw; i++) {
+        // empty array to store result
+        result = new address[](amount_);
+
+        for (uint256 i = 0; i < amount_; i++) {
             uint256 random = uint256(
                 keccak256(
                     abi.encodePacked(
@@ -52,11 +57,11 @@ abstract contract Lottery is BatchNFT {
                         block.timestamp
                     )
                 )
-            ) % (_addresses.length - i);
+            ) % (addresses_.length - i);
 
-            result[i] = _addresses[random];
+            result[i] = addresses_[random];
 
-            _addresses[random] = _addresses[_addresses.length - i - 1];
+            addresses_[random] = addresses_[addresses_.length - i - 1];
         }
 
         return result;

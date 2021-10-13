@@ -2,26 +2,17 @@ import fs from "fs";
 import path from "path";
 import hardhat, { ethers } from "hardhat";
 
-import { network } from "../.env.json";
-
 async function main() {
-  const networkName = hardhat.network.name;
+  const network = hardhat.network.name;
 
-  // check env and network
-  if (network !== networkName) {
-    throw Error("Environment and network do not match");
-  }
-  console.log(`Deploying to ${networkName}`);
-
-  // get the contract to deploy
-  const Matty = await ethers.getContractFactory("Matty");
-  console.log("Deploying Matty...");
-  const matty = await Matty.deploy();
-  await matty.deployed();
-  console.log("Mattty deployed to:", matty.address);
+  console.log(`Deploying to ${network}`);
 
   // read current contract state or initialize
-  const contractStatePath = path.join(__dirname, "..", `state.${network}.json`);
+  const contractStatePath = path.join(
+    __dirname,
+    "..",
+    `data/${network}/state.json`
+  );
 
   let contractState;
   try {
@@ -31,10 +22,23 @@ async function main() {
   } catch (err) {
     contractState = {};
   }
-  contractState.contract_address = matty.address;
+
+  if (contractState.contract_address) {
+    throw new Error(
+      `Contract already deployed at ${contractState.contract_address}`
+    );
+  }
+
+  // get the contract to deploy
+  const Matty = await ethers.getContractFactory("Matty");
+  console.log("Deploying Matty...");
+  const matty = await Matty.deploy();
+  await matty.deployed();
+  console.log("Mattty deployed to:", matty.address);
 
   // record contract address
-  fs.writeFileSync(contractStatePath, JSON.stringify(contractState));
+  contractState.contract_address = matty.address;
+  fs.writeFileSync(contractStatePath, JSON.stringify(contractState, null, 2));
 }
 
 main()

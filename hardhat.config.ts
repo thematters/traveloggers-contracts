@@ -11,6 +11,9 @@ import {
   coinmarketcapKey,
 } from "./.env.json";
 
+import "./tasks/batchMint";
+import "./tasks/lottery";
+
 const config: HardhatUserConfig = {
   solidity: "0.8.4",
   defaultNetwork: "hardhat",

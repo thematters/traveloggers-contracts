@@ -23,6 +23,14 @@ describe("Matty", () => {
       const addressList = createAddresses(candidateAmount);
 
       const matty = await deployMatty();
+
+      // failed to draw lottery if amount is too large
+      await expect(
+        matty.drawLottery(addressList, addressList.length + 1)
+      ).to.be.revertedWith(
+        "amount_ must be less than or equal to addresses_.length"
+      );
+
       const tx = await matty.drawLottery(addressList, winnerAmount);
 
       // get emitted event
@@ -93,20 +101,12 @@ describe("Matty", () => {
       expect(latestLog.message).to.equal(log);
     });
 
-    it("Can write with valid strings", async () => {
+    it("Can write with other valid string", async () => {
       // initial mint
       const [owner, tempOwner] = await ethers.getSigners();
       const token1Id = 1;
       const matty = await deployMatty();
       await matty.batchMint([owner.address]);
-
-      // defined a function that unlock logbook through token swapping
-      const swapToUnlock = async () => {
-        await matty.transferFrom(owner.address, tempOwner.address, token1Id);
-        await matty
-          .connect(tempOwner)
-          .transferFrom(tempOwner.address, owner.address, token1Id);
-      };
 
       // log chinese
       const logChinese =
@@ -115,21 +115,6 @@ describe("Matty", () => {
       const logbook = await matty.readLogbook(token1Id);
       const [latestLog] = logbook.logs.slice(-1);
       expect(latestLog.message).to.equal(logChinese);
-
-      // log exceeds max length
-      const logExceeds =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
-      const logChineseExceeds =
-        "綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。";
-      await swapToUnlock();
-      await expect(matty.appendLog(token1Id, logExceeds)).to.be.revertedWith(
-        "log exceeds max length"
-      );
-
-      await swapToUnlock();
-      await expect(
-        matty.appendLog(token1Id, logChineseExceeds)
-      ).to.be.revertedWith("log exceeds max length");
     });
 
     it("Should be unlocked on token transfer", async () => {

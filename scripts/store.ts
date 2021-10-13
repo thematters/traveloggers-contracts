@@ -1,20 +1,26 @@
 /**
  * Store new assets into IPFS.
- * Look for directories under `./assets`, only store assets without `uri` in `state.${network}.json` file.
- * Update `state.${network}.json` file after storage.
+ * Look for directories under `./assets`, only store assets without `uri` in `data/${network}/state.json` file.
+ * Update `data/${network}/state.json` file after storage.
  */
 
+import hardhat from "hardhat";
 import fs from "fs";
 import path from "path";
 
-import { infuraIPFSId, infuraIPFSSecret, network } from "../.env.json";
+import { infuraIPFSId, infuraIPFSSecret } from "../.env.json";
 
 async function main() {
+  const network = hardhat.network.name;
+
   // get path to assets
   const assetsDirectory = path.join(__dirname, "..", "assets");
 
   // read current asset state or initialize
-  const assetsStatePath = path.join(assetsDirectory, `state.${network}.json`);
+  const assetsStatePath = path.join(
+    assetsDirectory,
+    `data/${network}/state.json`
+  );
 
   let assetsState: any;
   try {
@@ -70,8 +76,7 @@ async function main() {
 
     // write state to file
     console.log(`Writing state to ${assetsStatePath}...`);
-    const updateAssetsState = JSON.stringify(assetsState);
-    fs.writeFileSync(assetsStatePath, updateAssetsState);
+    fs.writeFileSync(assetsStatePath, JSON.stringify(assetsState, null, 2));
     console.log("Done.");
   } else {
     console.log("No new asset to be stored, skipped.");
