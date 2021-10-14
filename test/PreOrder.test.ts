@@ -189,4 +189,45 @@ describe("PreOrder", () => {
     // start index out of bound
     await expect(preOrder.preOrderList(accounts.length + 1, 5)).to.be.reverted;
   });
+
+  it("Can batch mint to pre-order participants", async () => {
+    const preOrder = await deployPreOrder();
+    const accounts = await ethers.getSigners();
+
+    await preOrder.setSupply(1000);
+    await preOrder.setMinAmount(web3.utils.toWei("0.1", "ether"));
+    await preOrder.setParticipants(accounts.length);
+    await preOrder.setInPreOrder(true);
+
+    for (let i = 0; i < accounts.length; i++) {
+      await preOrder.connect(accounts[i]).preOrder({
+        from: accounts[i].address,
+        value: web3.utils.toWei("0.1", "ether"),
+      });
+    }
+
+    const batchSize = 7;
+    const batchRounds = Math.ceil(accounts.length / batchSize);
+
+    // cannot trigger batch when still in pre-order
+    await expect(preOrder.preOrderBatchMint(batchSize)).to.be.revertedWith(
+      "still in pre-order"
+    );
+
+    // stop pre-order
+    await preOrder.setInPreOrder(false);
+
+    for (let i = 0; i < batchRounds - 1; i++) {
+      await preOrder.preOrderBatchMint(batchSize);
+    }
+    // the last batch exceeds
+    await expect(preOrder.preOrderBatchMint(batchSize)).to.be.reverted;
+
+    // set the correct batch size for the last batch
+    await preOrder.preOrderBatchMint(accounts.length % batchSize);
+    // minted equal to pre-order participants
+    expect(await preOrder.preOrderMinted()).to.equal(
+      await preOrder.preOrderCount()
+    );
+  });
 });

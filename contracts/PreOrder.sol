@@ -9,16 +9,18 @@ contract PreOrder is BatchNFT {
     using Counters for Counters.Counter;
 
     struct Participant {
-        address sender;
+        address addr;
         uint256 amount;
         uint256 time;
     }
 
     // the key `_nextPreOrder` is incremented with each additional pre-order
     // make sure `_nextPreOrder` starts from 1 instead of 0
+    // make sure `_nextPreOrderMint` starts from 1, and always less or equal to `_nextPreOrderMint`
     mapping(address => uint256) private _preOrdered;
     mapping(uint256 => Participant) private _preOrders;
     Counters.Counter private _nextPreOrder;
+    Counters.Counter private _nextPreOrderMint;
 
     // determine whether there is an ongoing pre-order
     bool public inPreOrder;
@@ -34,29 +36,6 @@ contract PreOrder is BatchNFT {
         string memory symbol_,
         uint16 supply_
     ) BatchNFT(name_, symbol_, supply_) {}
-
-    // start pre-order, only allowed by ower
-    // function startPreOrder(uint256 amount, uint256 participants)
-    //     public
-    //     onlyOwner
-    // {
-    //     require(inPreOrder == false, "pre-order already started.");
-    //     // min contribution shall always be larger than 0
-    //     require(amount > 0, "incorrect minimum amount.");
-
-    //     require(participants > 0, "incorrect number of participants.");
-
-    //     participantsAllowed = participants;
-    //     minAmount = amount;
-    //     inPreOrder = true;
-    // }
-
-    // end pre-order, only allowed by ower
-    // function endPreOrder() public onlyOwner {
-    //     require(inPreOrder == true, "pre-order has not been started.");
-
-    //     inPreOrder = false;
-    // }
 
     // set minimum contribution amount
     function setMinAmount(uint256 amount_) public onlyOwner {
@@ -98,7 +77,7 @@ contract PreOrder is BatchNFT {
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
         if (_nextPreOrder.current() == 0) _nextPreOrder.increment();
         _preOrders[_nextPreOrder.current()] = Participant({
-            sender: msg.sender,
+            addr: msg.sender,
             amount: msg.value,
             time: block.timestamp
         });
@@ -108,17 +87,22 @@ contract PreOrder is BatchNFT {
     }
 
     // batch mint to pre-order participants
-    // @n - use size to limit unbound loop
-    function batchMintPreOrdered() public onlyOwner {
+    // @batchSize_ - to limit unbound loop
+    function preOrderBatchMint(uint16 batchSize_) public onlyOwner {
         // shall be after pre-order
         require(inPreOrder == false, "still in pre-order");
 
-        // all participant addresses
-        address[] memory addrs = new address[](_nextPreOrder.current() - 1);
-        for (uint256 i = 1; i < _nextPreOrder.current(); i++) {
-            addrs[i - 1] = _preOrders[i].sender;
+        // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
+        if (_nextPreOrderMint.current() == 0) _nextPreOrderMint.increment();
+
+        for (uint16 i = 0; i < batchSize_; i++) {
+            _tokenIds.increment();
+            uint256 newItemId = _tokenIds.current();
+            address addr = _preOrders[_nextPreOrderMint.current()].addr;
+            _safeMint(addr, newItemId);
+
+            _nextPreOrderMint.increment();
         }
-        batchMint(addrs);
     }
 
     // check if an address has placed an order
@@ -139,7 +123,15 @@ contract PreOrder is BatchNFT {
 
     // return the number of pre-orders
     function preOrderCount() public view virtual returns (uint256) {
-        return _nextPreOrder.current() - 1;
+        if (_nextPreOrder.current() > 0) return _nextPreOrder.current() - 1;
+        else return _nextPreOrder.current();
+    }
+
+    // return the number of minted
+    function preOrderMinted() public view virtual returns (uint256) {
+        if (_nextPreOrderMint.current() > 0)
+            return _nextPreOrderMint.current() - 1;
+        else return _nextPreOrderMint.current();
     }
 
     // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
