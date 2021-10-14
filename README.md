@@ -34,12 +34,6 @@ Fill in the following environment variables:
 - `infuraIPFSId`: Project ID of Infura IPFS
 - `infuraIPFSSecret`: Project Secret of Infura IPFS
 
-Source the file:
-
-```
-. ./.env
-```
-
 ## Development
 
 Build contract (optional):
