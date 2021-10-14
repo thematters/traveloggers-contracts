@@ -5,8 +5,6 @@ import hardhat, { ethers } from "hardhat";
 async function main() {
   const network = hardhat.network.name;
 
-  console.log(`Deploying to ${network}`);
-
   // read current contract state or initialize
   const contractStatePath = path.join(
     __dirname,
@@ -25,20 +23,28 @@ async function main() {
 
   if (network !== "localhost" && contractState.contract_address) {
     throw new Error(
-      `Contract already deployed at ${contractState.contract_address}`
+      `[${network}:deploy] Contract already deployed at ${contractState.contract_address}`
     );
   }
 
   // get the contract to deploy
   const Matty = await ethers.getContractFactory("Matty");
-  console.log("Deploying Matty...");
+  console.log(`[${network}:deploy] Deploying Matty...`);
   const matty = await Matty.deploy();
   await matty.deployed();
-  console.log("Mattty deployed to:", matty.address);
+  console.log(`[${network}:deploy] Mattty deployed to:`, matty.address);
 
   // record contract address
   contractState.contract_address = matty.address;
   fs.writeFileSync(contractStatePath, JSON.stringify(contractState, null, 2));
+
+  // verify contract on etherscan
+  if (network !== "localhost") {
+    console.log(`[${network}:deploy] Verifying contract on Etherscan...`);
+    await hardhat.run("verify:verify", {
+      address: matty.address,
+    });
+  }
 }
 
 main()

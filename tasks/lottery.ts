@@ -15,7 +15,7 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
   .setAction(async ({ inputs: inputsFilePath }, hardhat) => {
     const network = hardhat.network.name;
 
-    console.log(`Running task "${taskName}" on ${network}`);
+    console.log(`[${network}:${taskName}] Running task`);
 
     // get contract
     const matty = await getMattyContract({ network, hardhat });
@@ -28,10 +28,14 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
     });
 
     if (!inputs.addresses || inputs.addresses.length === 0) {
-      throw new Error(`Input file ${inputsFilePath} has no addresses`);
+      throw new Error(
+        `[${network}:${taskName}] Input file ${inputsFilePath} has no addresses`
+      );
     }
     if (!inputs.amount || typeof inputs.amount !== "number") {
-      throw new Error(`Input file ${inputsFilePath} has no amount or invalid`);
+      throw new Error(
+        `[${network}:${taskName}] Input file ${inputsFilePath} has no amount or invalid`
+      );
     }
 
     // run task
@@ -47,10 +51,10 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
       inputs.run = true;
       inputs.error = null;
 
-      console.log(`Finish running task "${taskName}" on ${network}`);
+      console.log(`[${network}:${taskName}] Finish running task "${taskName}"`);
     } catch (error) {
       inputs.error = (error as Error).message || (error as Error).toString();
-      console.log(`Failed to run task "${taskName}" on ${network}`);
+      console.log(`[${network}:${taskName}] Failed to run task "${taskName}"`);
       console.error(error);
     }
 
