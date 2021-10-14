@@ -143,22 +143,22 @@ contract PreOrder is BatchNFT {
     }
 
     // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
-    function preOrderList(uint256 start, uint256 limit)
+    function preOrderList(uint256 startIndex_, uint256 limit_)
         public
         view
         virtual
         returns (Participant[] memory)
     {
         // start index shall be less then next pre-order index
-        assert(start > 0 && start < _nextPreOrder.current());
+        assert(startIndex_ > 0 && startIndex_ < _nextPreOrder.current());
 
-        uint256 n = limit;
-        if (start + limit > _nextPreOrder.current())
-            n = _nextPreOrder.current() - start;
+        uint256 n = limit_;
+        if (startIndex_ + limit_ > _nextPreOrder.current())
+            n = _nextPreOrder.current() - startIndex_;
 
         Participant[] memory participants = new Participant[](n);
-        for (uint256 i = start; i < start + n; i++) {
-            participants[i - start] = _preOrders[i];
+        for (uint256 i = startIndex_; i < startIndex_ + n; i++) {
+            participants[i - startIndex_] = _preOrders[i];
         }
         return participants;
     }
