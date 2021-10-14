@@ -15,12 +15,12 @@ contract PreOrder is BatchNFT {
     }
 
     // the key `_nextPreOrder` is incremented with each additional pre-order
-    // make sure `_nextPreOrder` starts from 1 instead of 0
-    // make sure `_nextPreOrderMint` starts from 1, and always less or equal to `_nextPreOrderMint`
+    // make sure `_preOrderIndex` starts from 1 instead of 0
+    // make sure `_preOrderMintIndex` starts from 1, and always less or equal to `_nextPreOrderMint`
     mapping(address => uint256) private _preOrdered;
     mapping(uint256 => Participant) private _preOrders;
-    Counters.Counter private _nextPreOrder;
-    Counters.Counter private _nextPreOrderMint;
+    Counters.Counter private _preOrderIndex;
+    Counters.Counter private _preOrderMintIndex;
 
     // determine whether there is an ongoing pre-order
     bool public inPreOrder;
@@ -70,19 +70,18 @@ contract PreOrder is BatchNFT {
         // validation against the minimum contribution amount
         require(msg.value >= minAmount, "amount too small");
         require(
-            _nextPreOrder.current() <= participantsAllowed,
+            _preOrderIndex.current() < participantsAllowed,
             "reach participants limit"
         );
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
-        if (_nextPreOrder.current() == 0) _nextPreOrder.increment();
-        _preOrders[_nextPreOrder.current()] = Participant({
+        _preOrderIndex.increment();
+        _preOrders[_preOrderIndex.current()] = Participant({
             addr: msg.sender,
             amount: msg.value,
             time: block.timestamp
         });
-        _preOrdered[msg.sender] = _nextPreOrder.current();
-        _nextPreOrder.increment();
+        _preOrdered[msg.sender] = _preOrderIndex.current();
         preOrderAmountTotal += msg.value;
     }
 
@@ -93,15 +92,13 @@ contract PreOrder is BatchNFT {
         require(inPreOrder == false, "still in pre-order");
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
-        if (_nextPreOrderMint.current() == 0) _nextPreOrderMint.increment();
-
         for (uint16 i = 0; i < batchSize_; i++) {
             _tokenIds.increment();
-            uint256 newItemId = _tokenIds.current();
-            address addr = _preOrders[_nextPreOrderMint.current()].addr;
-            _safeMint(addr, newItemId);
+            _preOrderMintIndex.increment();
 
-            _nextPreOrderMint.increment();
+            uint256 newItemId = _tokenIds.current();
+            address addr = _preOrders[_preOrderMintIndex.current()].addr;
+            _safeMint(addr, newItemId);
         }
     }
 
@@ -122,16 +119,13 @@ contract PreOrder is BatchNFT {
     }
 
     // return the number of pre-orders
-    function preOrderCount() public view virtual returns (uint256) {
-        if (_nextPreOrder.current() > 0) return _nextPreOrder.current() - 1;
-        else return _nextPreOrder.current();
+    function preOrderIndex() public view virtual returns (uint256) {
+        return _preOrderIndex.current();
     }
 
     // return the number of minted
-    function preOrderMinted() public view virtual returns (uint256) {
-        if (_nextPreOrderMint.current() > 0)
-            return _nextPreOrderMint.current() - 1;
-        else return _nextPreOrderMint.current();
+    function preOrderMintIndex() public view virtual returns (uint256) {
+        return _preOrderMintIndex.current();
     }
 
     // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
@@ -142,11 +136,11 @@ contract PreOrder is BatchNFT {
         returns (Participant[] memory)
     {
         // start index shall be less then next pre-order index
-        assert(startIndex_ > 0 && startIndex_ < _nextPreOrder.current());
+        assert(startIndex_ > 0 && startIndex_ <= _preOrderIndex.current());
 
         uint256 n = limit_;
-        if (startIndex_ + limit_ > _nextPreOrder.current())
-            n = _nextPreOrder.current() - startIndex_;
+        if (startIndex_ - 1 + limit_ > _preOrderIndex.current())
+            n = _preOrderIndex.current() - (startIndex_ - 1);
 
         Participant[] memory participants = new Participant[](n);
         for (uint256 i = startIndex_; i < startIndex_ + n; i++) {
@@ -163,9 +157,9 @@ contract PreOrder is BatchNFT {
         returns (Participant[] memory)
     {
         Participant[] memory participants = new Participant[](
-            _nextPreOrder.current() - 1
+            _preOrderIndex.current()
         );
-        for (uint256 i = 1; i < _nextPreOrder.current(); i++) {
+        for (uint256 i = 1; i <= _preOrderIndex.current(); i++) {
             participants[i - 1] = _preOrders[i];
         }
         return participants;

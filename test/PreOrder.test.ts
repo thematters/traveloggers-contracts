@@ -226,8 +226,8 @@ describe("PreOrder", () => {
     // set the correct batch size for the last batch
     await preOrder.preOrderBatchMint(accounts.length % batchSize);
     // minted equal to pre-order participants
-    expect(await preOrder.preOrderMinted()).to.equal(
-      await preOrder.preOrderCount()
+    expect(await preOrder.preOrderMintIndex()).to.equal(
+      await preOrder.preOrderIndex()
     );
   });
 });
