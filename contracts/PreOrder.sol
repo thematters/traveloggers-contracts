@@ -14,7 +14,7 @@ abstract contract PreOrder is BatchNFT {
         uint256 time;
     }
 
-    // the key `_nextPreOrder` is incremented with each additional pre-order
+    // the key `_preOrderIndex` is incremented with each additional pre-order
     // make sure `_preOrderIndex` starts from 1 instead of 0
     // make sure `_preOrderMintIndex` starts from 1, and always less or equal to `_preOrderMintIndex`
     mapping(address => uint256) private _preOrdered;
