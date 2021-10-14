@@ -16,7 +16,7 @@ abstract contract PreOrder is BatchNFT {
 
     // the key `_nextPreOrder` is incremented with each additional pre-order
     // make sure `_preOrderIndex` starts from 1 instead of 0
-    // make sure `_preOrderMintIndex` starts from 1, and always less or equal to `_nextPreOrderMint`
+    // make sure `_preOrderMintIndex` starts from 1, and always less or equal to `_preOrderMintIndex`
     mapping(address => uint256) private _preOrdered;
     mapping(uint256 => Participant) private _preOrders;
     Counters.Counter private _preOrderIndex;
