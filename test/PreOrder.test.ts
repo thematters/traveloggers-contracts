@@ -219,7 +219,9 @@ describe("PreOrder", () => {
       await preOrder.preOrderBatchMint(batchSize);
     }
     // the last batch exceeds
-    await expect(preOrder.preOrderBatchMint(batchSize)).to.be.reverted;
+    await expect(preOrder.preOrderBatchMint(batchSize)).to.be.revertedWith(
+      "batch too large"
+    );
 
     // set the correct batch size for the last batch
     await preOrder.preOrderBatchMint(accounts.length % batchSize);

@@ -84,6 +84,11 @@ abstract contract PreOrder is BatchNFT {
     function preOrderBatchMint(uint16 batchSize_) public onlyOwner {
         // shall be after pre-order
         require(inPreOrder == false, "still in pre-order");
+        require(
+            _preOrderIndex.current() >=
+                _preOrderMintIndex.current() + batchSize_,
+            "batch too large"
+        );
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
         for (uint16 i = 0; i < batchSize_; i++) {
