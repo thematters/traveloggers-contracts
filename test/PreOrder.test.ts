@@ -19,35 +19,44 @@ describe("PreOrder", () => {
   it("Can start and end pre-ordering", async () => {
     const preOrder = await deployPreOrder();
     // start pre-order
-    let started = await preOrder.inPreOrder();
+    const started = await preOrder.inPreOrder();
     expect(started).to.equal(false);
 
     // cannot start pre-order if minimum contribution amount <= 0
-    await expect(preOrder.startPreOrder(0, 100)).to.be.reverted;
+    await expect(preOrder.setInPreOrder(true)).to.be.revertedWith(
+      "zero amount"
+    );
+
+    // participants allowed shall be less or equal to total NFT in supply
+    await preOrder.setSupply(500);
+    await expect(preOrder.setParticipants(501)).to.be.revertedWith(
+      "incorrect participants"
+    );
+
+    // set correct min amount
+    await preOrder.setMinAmount(web3.utils.toWei("0.1", "ether"));
+    expect(await preOrder.minAmount()).to.equal(
+      web3.utils.toWei("0.1", "ether")
+    );
     // cannot start pre-order if participants allowed <= 0
-    await expect(preOrder.startPreOrder(web3.utils.toWei("0.1", "ether"), 0)).to
-      .be.reverted;
+    await expect(preOrder.setInPreOrder(true)).to.be.revertedWith(
+      "incorrect participants"
+    );
+    // set correct participants
+    await preOrder.setParticipants(500);
+    expect(await preOrder.participantsAllowed()).to.equal(500);
+    await preOrder.setParticipants(100);
+    expect(await preOrder.participantsAllowed()).to.equal(100);
 
-    // set minimum contribution amount
-    await preOrder.startPreOrder(web3.utils.toWei("0.1", "ether"), 100);
-    const minAmount = await preOrder.minAmount();
-    expect(minAmount.toString()).to.equal(web3.utils.toWei("0.1", "ether"));
-    const participantsAllowed = await preOrder.participantsAllowed();
-    expect(participantsAllowed.toString()).to.equal("100");
-    started = await preOrder.inPreOrder();
-    expect(started).to.equal(true);
-
-    // cannot start again if already started
-    await expect(preOrder.startPreOrder(web3.utils.toWei("0.8", "ether"), 100))
-      .to.be.reverted;
+    // start pre-order
+    await preOrder.setInPreOrder(true);
+    expect(await preOrder.inPreOrder()).to.equal(true);
 
     // close pre-order & restart it
-    await preOrder.endPreOrder();
-    started = await preOrder.inPreOrder();
-    expect(started).to.equal(false);
-    await preOrder.startPreOrder(web3.utils.toWei("0.5", "ether"), 100);
-    started = await preOrder.inPreOrder();
-    expect(started).to.equal(true);
+    await preOrder.setInPreOrder(false);
+    expect(await preOrder.inPreOrder()).to.equal(false);
+    await preOrder.setInPreOrder(true);
+    expect(await preOrder.inPreOrder()).to.equal(true);
   });
 
   it("Participants can participate pre-ordering", async () => {
@@ -59,10 +68,13 @@ describe("PreOrder", () => {
         from: accounts[0].address,
         value: web3.utils.toWei("0.5", "ether"),
       })
-    ).to.be.reverted;
+    ).to.be.revertedWith("pre-order not started");
 
     // start pre-order round 1
-    await preOrder.startPreOrder(web3.utils.toWei("0.5", "ether"), 100);
+    await preOrder.setSupply(100);
+    await preOrder.setMinAmount(web3.utils.toWei("0.5", "ether"));
+    await preOrder.setParticipants(100);
+    await preOrder.setInPreOrder(true);
     // success pre-order
     await preOrder.connect(accounts[0]).preOrder({
       from: accounts[0].address,
@@ -74,26 +86,27 @@ describe("PreOrder", () => {
         from: accounts[0].address,
         value: web3.utils.toWei("1.5", "ether"),
       })
-    ).to.be.reverted;
+    ).to.be.revertedWith("");
 
     // pre-order closed
-    await preOrder.endPreOrder();
+    await preOrder.setInPreOrder(false);
     await expect(
       preOrder.connect(accounts[1]).preOrder({
         from: accounts[1].address,
         value: web3.utils.toWei("0.5", "ether"),
       })
-    ).to.be.reverted;
+    ).to.be.revertedWith("pre-order not started");
 
     // start pre-order round 2
-    await preOrder.startPreOrder(web3.utils.toWei("0.51", "ether"), 100);
+    await preOrder.setMinAmount(web3.utils.toWei("0.51", "ether"));
+    await preOrder.setInPreOrder(true);
     // cannot pre-order is sent amount is less then minimum contribution required
     await expect(
       preOrder.connect(accounts[1]).preOrder({
         from: accounts[1].address,
         value: web3.utils.toWei("0.5", "ether"),
       })
-    ).to.be.reverted;
+    ).to.be.revertedWith("amount too small");
 
     await preOrder.connect(accounts[1]).preOrder({
       from: accounts[1].address,
@@ -115,9 +128,13 @@ describe("PreOrder", () => {
 
   it("Pre-ordering participants limit cannot be exceeded", async () => {
     const preOrder = await deployPreOrder();
+    await preOrder.setSupply(9);
+    await preOrder.setMinAmount(web3.utils.toWei("0.1", "ether"));
+    await preOrder.setParticipants(9);
+    await preOrder.setInPreOrder(true);
+
     // max participants allowed is 9
     const accounts = await ethers.getSigners();
-    await preOrder.startPreOrder(web3.utils.toWei("0.1", "ether"), 9);
 
     for (let i = 0; i < 9; i++) {
       await preOrder.connect(accounts[i]).preOrder({
@@ -131,7 +148,7 @@ describe("PreOrder", () => {
         from: accounts[9].address,
         value: web3.utils.toWei("0.1", "ether"),
       })
-    ).to.be.reverted;
+    ).to.be.revertedWith("reach participants limit");
 
     // query pre-order total amounts
     const amount = await preOrder.preOrderAmountTotal();
@@ -149,7 +166,11 @@ describe("PreOrder", () => {
   it("Can list all pre-order participants", async () => {
     const preOrder = await deployPreOrder();
     const accounts = await ethers.getSigners();
-    await preOrder.startPreOrder(web3.utils.toWei("0.1", "ether"), 100);
+
+    await preOrder.setSupply(500);
+    await preOrder.setMinAmount(web3.utils.toWei("0.1", "ether"));
+    await preOrder.setParticipants(100);
+    await preOrder.setInPreOrder(true);
 
     for (let i = 0; i < accounts.length; i++) {
       await preOrder.connect(accounts[i]).preOrder({

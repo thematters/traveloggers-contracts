@@ -20,14 +20,14 @@ contract PreOrder is BatchNFT {
     mapping(uint256 => Participant) private _preOrders;
     Counters.Counter private _nextPreOrder;
 
-    // total amount pre-ordered
-    uint256 public preOrderAmountTotal;
     // determine whether there is an ongoing pre-order
     bool public inPreOrder;
     // unit (wei)
     uint256 public minAmount;
     // participants allowed
     uint256 public participantsAllowed;
+    // total amount pre-ordered
+    uint256 public preOrderAmountTotal;
 
     constructor(
         string memory name_,
@@ -36,40 +36,63 @@ contract PreOrder is BatchNFT {
     ) BatchNFT(name_, symbol_, supply_) {}
 
     // start pre-order, only allowed by ower
-    function startPreOrder(uint256 amount, uint256 participants)
-        public
-        onlyOwner
-    {
-        require(inPreOrder == false, "pre-order already started.");
-        // min contribution shall always be larger than 0
-        require(amount > 0, "incorrect minimum amount.");
+    // function startPreOrder(uint256 amount, uint256 participants)
+    //     public
+    //     onlyOwner
+    // {
+    //     require(inPreOrder == false, "pre-order already started.");
+    //     // min contribution shall always be larger than 0
+    //     require(amount > 0, "incorrect minimum amount.");
 
-        require(participants > 0, "incorrect number of participants.");
+    //     require(participants > 0, "incorrect number of participants.");
 
-        participantsAllowed = participants;
-        minAmount = amount;
-        inPreOrder = true;
-    }
+    //     participantsAllowed = participants;
+    //     minAmount = amount;
+    //     inPreOrder = true;
+    // }
 
     // end pre-order, only allowed by ower
-    function endPreOrder() public onlyOwner {
-        require(inPreOrder == true, "pre-order has not been started.");
+    // function endPreOrder() public onlyOwner {
+    //     require(inPreOrder == true, "pre-order has not been started.");
 
-        inPreOrder = false;
+    //     inPreOrder = false;
+    // }
+
+    // set minimum contribution amount
+    function setMinAmount(uint256 amount_) public onlyOwner {
+        minAmount = amount_;
+    }
+
+    // set the number of participants allowed
+    function setParticipants(uint256 participants_) public onlyOwner {
+        require(participants_ <= _totalSupply, "incorrect participants");
+        participantsAllowed = participants_;
+    }
+
+    // start or stop pre-order
+    function setInPreOrder(bool start_) public onlyOwner {
+        if (start_ == true) {
+            require(minAmount > 0, "zero amount");
+            // number of participants shall be less or equal to the number of supplied NFTs
+            require(
+                participantsAllowed > 0 && participantsAllowed <= _totalSupply,
+                "incorrect participants"
+            );
+            inPreOrder = true;
+        } else {
+            inPreOrder = false;
+        }
     }
 
     // place a pre-order
     function preOrder() public payable {
-        require(inPreOrder == true, "pre-order has not been started.");
-        require(
-            _preOrdered[msg.sender] <= 0,
-            "pre-order exists for this msg.sender."
-        );
+        require(inPreOrder == true, "pre-order not started");
+        require(_preOrdered[msg.sender] <= 0, "already ordered");
         // validation against the minimum contribution amount
-        require(msg.value >= minAmount, "incorrect minimum amount.");
+        require(msg.value >= minAmount, "amount too small");
         require(
             _nextPreOrder.current() <= participantsAllowed,
-            "maximum participants reached."
+            "reach participants limit"
         );
 
         // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
@@ -84,11 +107,11 @@ contract PreOrder is BatchNFT {
         preOrderAmountTotal += msg.value;
     }
 
-    // batch mint to pre-order participants  
+    // batch mint to pre-order participants
     // @n - use size to limit unbound loop
     function batchMintPreOrdered() public onlyOwner {
         // shall be after pre-order
-        require(inPreOrder == false, "in pre-order");
+        require(inPreOrder == false, "still in pre-order");
 
         // all participant addresses
         address[] memory addrs = new address[](_nextPreOrder.current() - 1);
@@ -99,18 +122,18 @@ contract PreOrder is BatchNFT {
     }
 
     // check if an address has placed an order
-    function preOrderExist(address addr) public view virtual returns (bool) {
-        return _preOrdered[addr] > 0;
+    function preOrderExist(address addr_) public view virtual returns (bool) {
+        return _preOrdered[addr_] > 0;
     }
 
     // return participant's pre-order detail
-    function preOrderGet(address addr)
+    function preOrderGet(address addr_)
         public
         view
         virtual
         returns (Participant memory)
     {
-        Participant memory p = _preOrders[_preOrdered[addr]];
+        Participant memory p = _preOrders[_preOrdered[addr_]];
         return p;
     }
 
