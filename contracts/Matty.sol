@@ -3,8 +3,9 @@ pragma solidity ^0.8.0;
 
 import "./Lottery.sol";
 import "./Logbook.sol";
+import "./PreOrder.sol";
 
-contract Matty is Lottery, Logbook {
+contract Matty is Lottery, Logbook, PreOrder {
     constructor() BatchNFT("Matty", "MATT", 500) {}
 
     /**
