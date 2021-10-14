@@ -1,20 +1,20 @@
 /**
  * Store new assets into IPFS.
- * Look for directories under `./assets`, only store assets without `uri` in `state.${env}.json` file.
- * Update `state.${env}.json` file after storage.
+ * Look for directories under `./assets`, only store assets without `uri` in `state.${network}.json` file.
+ * Update `state.${network}.json` file after storage.
  */
 
 import fs from "fs";
 import path from "path";
 
-import { infuraIPFSId, infuraIPFSSecret, env } from "../.env.json";
+import { infuraIPFSId, infuraIPFSSecret, network } from "../.env.json";
 
 async function main() {
   // get path to assets
   const assetsDirectory = path.join(__dirname, "..", "assets");
 
   // read current asset state or initialize
-  const assetsStatePath = path.join(assetsDirectory, `state.${env}.json`);
+  const assetsStatePath = path.join(assetsDirectory, `state.${network}.json`);
 
   let assetsState: any;
   try {
