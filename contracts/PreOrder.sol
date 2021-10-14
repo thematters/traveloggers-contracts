@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 import "./BatchNFT.sol";
 
-contract PreOrder is BatchNFT {
+abstract contract PreOrder is BatchNFT {
     using Counters for Counters.Counter;
 
     struct Participant {
@@ -30,12 +30,6 @@ contract PreOrder is BatchNFT {
     uint256 public participantsAllowed;
     // total amount pre-ordered
     uint256 public preOrderAmountTotal;
-
-    constructor(
-        string memory name_,
-        string memory symbol_,
-        uint16 supply_
-    ) BatchNFT(name_, symbol_, supply_) {}
 
     // set minimum contribution amount
     function setMinAmount(uint256 amount_) public onlyOwner {

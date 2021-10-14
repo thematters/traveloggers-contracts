@@ -7,12 +7,10 @@ import { web3 } from "./utils";
 chai.use(solidity);
 const { expect } = chai;
 
-const totalSupply = 20;
-
 const deployPreOrder = async () => {
-  const BatchNFT = await ethers.getContractFactory("PreOrder");
-  const batchNFT = await BatchNFT.deploy("Tester", "TT", totalSupply);
-  return await batchNFT.deployed();
+  const PreOrder = await ethers.getContractFactory("Matty");
+  const preOrder = await PreOrder.deploy();
+  return await preOrder.deployed();
 };
 
 describe("PreOrder", () => {
