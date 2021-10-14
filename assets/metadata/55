@@ -1,0 +1,19 @@
+{
+  "name": "Matties #55",
+  "description": "An adventurous, pragmatist Sasha.",
+  "image": "55.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

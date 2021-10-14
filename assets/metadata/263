@@ -1,0 +1,19 @@
+{
+  "name": "Matties #263",
+  "description": "A self-discipline, romatic Gena.",
+  "image": "263.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

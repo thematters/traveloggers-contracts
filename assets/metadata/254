@@ -1,0 +1,19 @@
+{
+  "name": "Matties #254",
+  "description": "An adventurous, Marxist Gena.",
+  "image": "254.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

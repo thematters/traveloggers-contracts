@@ -1,0 +1,19 @@
+{
+  "name": "Matties #172",
+  "description": "A chic, pluralistic Lesya.",
+  "image": "172.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #7",
+  "description": "An extroverted, nationalistic Valya.",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

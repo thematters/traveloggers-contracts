@@ -1,0 +1,19 @@
+{
+  "name": "Matties #3",
+  "description": "An unswerving, individualistic Sasha.",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

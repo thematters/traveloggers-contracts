@@ -1,0 +1,19 @@
+{
+  "name": "Matties #99",
+  "description": "An energetic, pluralistic Zhenya.",
+  "image": "99.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

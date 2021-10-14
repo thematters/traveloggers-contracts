@@ -1,0 +1,19 @@
+{
+  "name": "Matties #243",
+  "description": "An energetic, localist Valya.",
+  "image": "243.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #451",
+  "description": "An unswerving, existentialist Valya.",
+  "image": "451.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

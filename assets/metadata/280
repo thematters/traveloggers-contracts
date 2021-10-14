@@ -1,0 +1,19 @@
+{
+  "name": "Matties #280",
+  "description": "An extroverted, cosmopolitan Lesya.",
+  "image": "280.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

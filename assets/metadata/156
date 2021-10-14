@@ -1,0 +1,19 @@
+{
+  "name": "Matties #156",
+  "description": "A self-discipline, skeptical Gena.",
+  "image": "156.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #194",
+  "description": "An introverted, skeptical Valya.",
+  "image": "194.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

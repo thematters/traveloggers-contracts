@@ -1,0 +1,19 @@
+{
+  "name": "Matties #386",
+  "description": "A gregarious, skeptical Sasha.",
+  "image": "386.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

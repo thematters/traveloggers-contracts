@@ -1,0 +1,19 @@
+{
+  "name": "Matties #401",
+  "description": "A rebellious, localist Valya.",
+  "image": "401.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

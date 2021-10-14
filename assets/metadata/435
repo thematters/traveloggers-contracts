@@ -1,0 +1,19 @@
+{
+  "name": "Matties #435",
+  "description": "An enthusiastic, skeptical Yury.",
+  "image": "435.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

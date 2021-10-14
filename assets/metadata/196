@@ -1,0 +1,19 @@
+{
+  "name": "Matties #196",
+  "description": "An analytical, nationalistic Zhenya.",
+  "image": "196.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

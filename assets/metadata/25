@@ -1,0 +1,19 @@
+{
+  "name": "Matties #25",
+  "description": "A chic, romatic Valya.",
+  "image": "25.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

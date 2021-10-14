@@ -1,0 +1,19 @@
+{
+  "name": "Matties #477",
+  "description": "A rebellious, pacifist Valya.",
+  "image": "477.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

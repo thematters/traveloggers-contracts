@@ -1,0 +1,19 @@
+{
+  "name": "Matties #341",
+  "description": "An extroverted, nationalistic Gena.",
+  "image": "341.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

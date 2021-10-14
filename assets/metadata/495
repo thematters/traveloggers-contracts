@@ -1,0 +1,19 @@
+{
+  "name": "Matties #495",
+  "description": "A gregarious, LGBTQ friendly Sasha.",
+  "image": "495.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

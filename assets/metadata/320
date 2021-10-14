@@ -1,0 +1,19 @@
+{
+  "name": "Matties #320",
+  "description": "An observant, pragmatist Gena.",
+  "image": "320.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

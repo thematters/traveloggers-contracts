@@ -1,0 +1,19 @@
+{
+  "name": "Matties #6",
+  "description": "A rebellious, pluralistic Zhenya.",
+  "image": "6.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

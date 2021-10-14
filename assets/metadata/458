@@ -1,0 +1,19 @@
+{
+  "name": "Matties #458",
+  "description": "A confused, liberal Gena.",
+  "image": "458.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

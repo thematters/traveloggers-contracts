@@ -1,0 +1,19 @@
+{
+  "name": "Matties #443",
+  "description": "An enthusiastic, optimistic Yury.",
+  "image": "443.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

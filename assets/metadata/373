@@ -1,0 +1,19 @@
+{
+  "name": "Matties #373",
+  "description": "A chic, liberal Lesya.",
+  "image": "373.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

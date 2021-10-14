@@ -1,0 +1,19 @@
+{
+  "name": "Matties #155",
+  "description": "A confused, romatic Yury.",
+  "image": "155.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

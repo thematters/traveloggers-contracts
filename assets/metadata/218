@@ -1,0 +1,19 @@
+{
+  "name": "Matties #218",
+  "description": "An observant, anarchist Lesya.",
+  "image": "218.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #45",
+  "description": "A diligent, pluralistic Lesya.",
+  "image": "45.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

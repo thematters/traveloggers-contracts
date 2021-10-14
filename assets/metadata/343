@@ -1,0 +1,19 @@
+{
+  "name": "Matties #343",
+  "description": "A self-discipline, rationalist Sasha.",
+  "image": "343.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rationalist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}
