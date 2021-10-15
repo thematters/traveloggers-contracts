@@ -103,7 +103,7 @@ describe("Matty", () => {
 
     it("Can write with other valid string", async () => {
       // initial mint
-      const [owner, tempOwner] = await ethers.getSigners();
+      const [owner] = await ethers.getSigners();
       const token1Id = 1;
       const matty = await deployMatty();
       await matty.batchMint([owner.address]);
