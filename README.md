@@ -33,6 +33,8 @@ Fill in the following environment variables:
 - `contractAddress`: address of NFT contract
 - `infuraIPFSId`: Project ID of Infura IPFS
 - `infuraIPFSSecret`: Project Secret of Infura IPFS
+- `coinmarketcapKey`: use Coinmarketcap API to get price of ETH and estimate gas cost
+- `etherscanKey`: use Etherscan API to verify the contract
 
 ## Development
 
@@ -48,7 +50,7 @@ Unit test:
 npm run test
 ```
 
-Deploy contract to Hardhat Network (localhost):
+Deploy contract to Hardhat Network:
 
 ```
 npm run localhost:deploy
@@ -66,7 +68,7 @@ Launch interactive console:
 npm run localhost:console
 ```
 
-## Generation & Deployment CLI
+## CLI
 
 ### `npm run generate`
 
@@ -75,29 +77,31 @@ Generate avatar metadata files in `assets/metadata` according to attributes in `
 - Each file is named by avatar id.
 - Field `image` references file name in `assets/images`.
 
-### `npm run store`
+### `npm run ${network}:store`
 
-Store image and metadata to IPFS, then add `base_uri` in `state.${network}.json`.
+Store image and metadata to IPFS, then add `base_uri` in `data/${network}/state.json`.
 
 - Add to IPFS images referenced in `assets/metadata/${tokenID}`, throw error if an image doesn't exists in `assets/images`.
 - Update filed `image` in `assets/metadata/${tokenID}` with image IPFS hash.
-- Add `assets/metadata` as a whole directory to IPFS, and add `base_uri` in `state.${network}.json` with the resulting hash.
+- Add `assets/metadata` as a whole directory to IPFS, and add `base_uri` in `data/${network}/state.json` with the resulting hash.
 
 ### `npm run ${network}:deploy`
 
-Deploy contracts to the given network and add `contract_address` in `state.${network}.json`.
+Deploy contracts to the given network and add `contract_address` in `data/${network}/state.json`.
 
-- Read `base_uri` in `state.${network}.json` for deployment.
-- Add `contract_address` in `state.${network}.json`
+- Read `base_uri` in `data/${network}/state.json` for deployment.
+- Add `contract_address` in `data/${network}/state.json`.
 
-## Deployment Flow
+### `npm run ${network}:mint:batch` / `npm run ${network}:mint:lottery`
 
-- Store assets under `assets/`, with each avatar in its own directory.
-  - Each avatar has a `metadata.json` file.
-  - `image` field in `metadata.json` points to the image of the avatar.
-  - The rest of the fields will be included in the NFT metadata (we target [opensea metadata standard](https://docs.opensea.io/docs/metadata-standards)).
-- Store avatar data on IPFS with `npm run store`
-  - It writes the resulting hash into `uri` field in `data/${network}/state.json` file.
-  - It only stored the avatars that do not have `uri` in `data/${network}/state.json` yet.
-- Mint avatar assets to NFT with `npm run ${network}:mint:${type} -- --inputs ./data/${network}/${inputs}.json`.
-  - It writes the resulting back to input file.
+Mint NFTs to the given addresses with inputs file.
+
+- Result will be updated back to input files.
+
+```bash
+# batch mint
+npm run localhost:mint:batch -- --inputs ./data/localhost/sample-mint-batch.json
+
+# lottery mint
+npm run localhost:mint:lottery -- --inputs ./data/localhost/sample-mint-lottery.json
+```
