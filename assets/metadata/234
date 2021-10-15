@@ -1,0 +1,19 @@
+{
+  "name": "Matties #234",
+  "description": "A nonchalant, feminist Yury.",
+  "image": "234.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

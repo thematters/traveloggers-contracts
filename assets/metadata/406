@@ -1,0 +1,19 @@
+{
+  "name": "Matties #406",
+  "description": "A rebellious, pluralistic Gena.",
+  "image": "406.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

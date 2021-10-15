@@ -1,0 +1,19 @@
+{
+  "name": "Matties #300",
+  "description": "An analytical, pluralistic Valya.",
+  "image": "300.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

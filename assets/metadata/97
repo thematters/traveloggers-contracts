@@ -1,0 +1,19 @@
+{
+  "name": "Matties #97",
+  "description": "A chic, Marxist Yury.",
+  "image": "97.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

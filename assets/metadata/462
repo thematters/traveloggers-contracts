@@ -1,0 +1,19 @@
+{
+  "name": "Matties #462",
+  "description": "An enthusiastic, capitalistic Gena.",
+  "image": "462.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

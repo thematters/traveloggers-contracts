@@ -1,0 +1,19 @@
+{
+  "name": "Matties #141",
+  "description": "A gregarious, pragmatist Lesya.",
+  "image": "141.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #363",
+  "description": "A nonchalant, romatic Lesya.",
+  "image": "363.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

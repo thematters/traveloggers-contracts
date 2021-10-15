@@ -1,0 +1,19 @@
+{
+  "name": "Matties #307",
+  "description": "An extroverted, conservative Sasha.",
+  "image": "307.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

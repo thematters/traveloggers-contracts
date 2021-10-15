@@ -1,0 +1,19 @@
+{
+  "name": "Matties #117",
+  "description": "An analytical, capitalistic Gena.",
+  "image": "117.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

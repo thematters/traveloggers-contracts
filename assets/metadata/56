@@ -1,0 +1,19 @@
+{
+  "name": "Matties #56",
+  "description": "An energetic, pessimistic Valya.",
+  "image": "56.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

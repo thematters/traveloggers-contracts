@@ -1,0 +1,19 @@
+{
+  "name": "Matties #128",
+  "description": "A down-to-earth, feminist Sasha.",
+  "image": "128.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

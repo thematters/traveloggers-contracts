@@ -1,0 +1,19 @@
+{
+  "name": "Matties #323",
+  "description": "An adventurous, cynical Zhenya.",
+  "image": "323.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

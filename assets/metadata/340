@@ -1,0 +1,19 @@
+{
+  "name": "Matties #340",
+  "description": "A rebellious, romatic Gena.",
+  "image": "340.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

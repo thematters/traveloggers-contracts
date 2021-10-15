@@ -1,0 +1,19 @@
+{
+  "name": "Matties #1",
+  "description": "A worldly, individualistic Zhenya.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

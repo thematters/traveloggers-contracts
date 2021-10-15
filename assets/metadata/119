@@ -1,0 +1,19 @@
+{
+  "name": "Matties #119",
+  "description": "An introverted, collectivistic Zhenya.",
+  "image": "119.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

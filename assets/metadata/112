@@ -1,0 +1,19 @@
+{
+  "name": "Matties #112",
+  "description": "An observant, existentialist Gena.",
+  "image": "112.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

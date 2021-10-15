@@ -1,0 +1,19 @@
+{
+  "name": "Matties #9",
+  "description": "A diligent, capitalistic Sasha.",
+  "image": "9.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

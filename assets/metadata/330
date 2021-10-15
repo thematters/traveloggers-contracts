@@ -1,0 +1,19 @@
+{
+  "name": "Matties #330",
+  "description": "An enthusiastic, individualistic Sasha.",
+  "image": "330.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #83",
+  "description": "An unswerving, localist Valya.",
+  "image": "83.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

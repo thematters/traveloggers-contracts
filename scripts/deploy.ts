@@ -1,21 +1,15 @@
 import fs from "fs";
-import path from "path";
+import { contractStatePath } from "./util";
+
 import hardhat, { ethers } from "hardhat";
 
 async function main() {
   const network = hardhat.network.name;
 
-  // read current contract state or initialize
-  const contractStatePath = path.join(
-    __dirname,
-    "..",
-    `data/${network}/state.json`
-  );
-
   let contractState;
   try {
     contractState = JSON.parse(
-      fs.readFileSync(contractStatePath, "utf-8") || '""'
+      fs.readFileSync(contractStatePath(network), "utf-8") || '""'
     );
   } catch (err) {
     contractState = {};
@@ -36,7 +30,10 @@ async function main() {
 
   // record contract address
   contractState.contract_address = matty.address;
-  fs.writeFileSync(contractStatePath, JSON.stringify(contractState, null, 2));
+  fs.writeFileSync(
+    contractStatePath(network),
+    JSON.stringify(contractState, null, 2)
+  );
 
   // verify contract on etherscan
   if (network !== "localhost") {

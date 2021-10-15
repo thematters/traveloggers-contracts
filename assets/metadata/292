@@ -1,0 +1,19 @@
+{
+  "name": "Matties #292",
+  "description": "An energetic, LGBTQ friendly Valya.",
+  "image": "292.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #358",
+  "description": "An unswerving, collectivistic Valya.",
+  "image": "358.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

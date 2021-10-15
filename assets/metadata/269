@@ -1,0 +1,19 @@
+{
+  "name": "Matties #269",
+  "description": "A diligent, optimistic Lesya.",
+  "image": "269.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #433",
+  "description": "An unswerving, existentialist Zhenya.",
+  "image": "433.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

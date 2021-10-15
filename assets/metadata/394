@@ -1,0 +1,19 @@
+{
+  "name": "Matties #394",
+  "description": "An unswerving, optimistic Lesya.",
+  "image": "394.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

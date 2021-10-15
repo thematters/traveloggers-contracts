@@ -1,0 +1,19 @@
+{
+  "name": "Matties #235",
+  "description": "A chic, capitalistic Yury.",
+  "image": "235.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

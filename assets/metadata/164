@@ -1,0 +1,19 @@
+{
+  "name": "Matties #164",
+  "description": "A confused, pacifist Sasha.",
+  "image": "164.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

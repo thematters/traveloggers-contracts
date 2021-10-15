@@ -1,0 +1,19 @@
+{
+  "name": "Matties #301",
+  "description": "An extroverted, Marxist Sasha.",
+  "image": "301.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

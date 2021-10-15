@@ -1,0 +1,19 @@
+{
+  "name": "Matties #298",
+  "description": "An energetic, pragmatist Sasha.",
+  "image": "298.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

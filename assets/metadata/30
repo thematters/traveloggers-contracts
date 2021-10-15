@@ -1,0 +1,19 @@
+{
+  "name": "Matties #30",
+  "description": "An imaginative, cynical Gena.",
+  "image": "30.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

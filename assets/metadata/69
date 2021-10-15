@@ -1,0 +1,19 @@
+{
+  "name": "Matties #69",
+  "description": "A rebellious, LGBTQ friendly Valya.",
+  "image": "69.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

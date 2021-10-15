@@ -1,0 +1,19 @@
+{
+  "name": "Matties #139",
+  "description": "An unswerving, romatic Lesya.",
+  "image": "139.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

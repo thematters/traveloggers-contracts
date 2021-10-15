@@ -1,0 +1,19 @@
+{
+  "name": "Matties #350",
+  "description": "A nonchalant, collectivistic Gena.",
+  "image": "350.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

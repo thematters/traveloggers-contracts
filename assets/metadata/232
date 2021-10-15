@@ -1,0 +1,19 @@
+{
+  "name": "Matties #232",
+  "description": "A chic, existentialist Lesya.",
+  "image": "232.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

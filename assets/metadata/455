@@ -1,0 +1,19 @@
+{
+  "name": "Matties #455",
+  "description": "A confused, romatic Gena.",
+  "image": "455.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

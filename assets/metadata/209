@@ -1,0 +1,19 @@
+{
+  "name": "Matties #209",
+  "description": "An extroverted, conservative Valya.",
+  "image": "209.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

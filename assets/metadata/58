@@ -1,0 +1,19 @@
+{
+  "name": "Matties #58",
+  "description": "An energetic, cynical Sasha.",
+  "image": "58.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

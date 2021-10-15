@@ -1,0 +1,19 @@
+{
+  "name": "Matties #436",
+  "description": "A diligent, LGBTQ friendly Lesya.",
+  "image": "436.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

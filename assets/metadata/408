@@ -1,0 +1,19 @@
+{
+  "name": "Matties #408",
+  "description": "A self-discipline, localist Sasha.",
+  "image": "408.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

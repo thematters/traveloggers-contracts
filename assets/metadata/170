@@ -1,0 +1,19 @@
+{
+  "name": "Matties #170",
+  "description": "An imaginative, LGBTQ friendly Zhenya.",
+  "image": "170.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #291",
+  "description": "An extroverted, pragmatist Lesya.",
+  "image": "291.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

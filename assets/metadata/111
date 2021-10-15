@@ -1,0 +1,19 @@
+{
+  "name": "Matties #111",
+  "description": "A down-to-earth, optimistic Valya.",
+  "image": "111.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

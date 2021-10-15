@@ -1,0 +1,19 @@
+{
+  "name": "Matties #162",
+  "description": "A down-to-earth, collectivistic Lesya.",
+  "image": "162.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

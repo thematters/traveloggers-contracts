@@ -1,0 +1,19 @@
+{
+  "name": "Matties #352",
+  "description": "A nonchalant, Marxist Lesya.",
+  "image": "352.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

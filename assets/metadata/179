@@ -1,0 +1,19 @@
+{
+  "name": "Matties #179",
+  "description": "An observant, pluralistic Sasha.",
+  "image": "179.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #442",
+  "description": "A chic, pluralistic Valya.",
+  "image": "442.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

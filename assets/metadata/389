@@ -1,0 +1,19 @@
+{
+  "name": "Matties #389",
+  "description": "An energetic, LGBTQ friendly Sasha.",
+  "image": "389.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

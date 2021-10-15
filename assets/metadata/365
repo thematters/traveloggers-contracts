@@ -1,0 +1,19 @@
+{
+  "name": "Matties #365",
+  "description": "A diligent, cosmopolitan Lesya.",
+  "image": "365.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

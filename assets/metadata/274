@@ -1,0 +1,19 @@
+{
+  "name": "Matties #274",
+  "description": "An adventurous, localist Gena.",
+  "image": "274.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}
