@@ -1,6 +1,7 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomiclabs/hardhat-ethers";
 import "@nomiclabs/hardhat-waffle";
+import "@nomiclabs/hardhat-etherscan";
 import "hardhat-gas-reporter";
 import "solidity-coverage";
 import "hardhat-abi-exporter";
@@ -9,6 +10,7 @@ import {
   deployerPrivateKey,
   alchemyAPIKey,
   coinmarketcapKey,
+  etherscanKey,
 } from "./.env.json";
 
 import "./tasks/batchMint";
@@ -27,6 +29,9 @@ const config: HardhatUserConfig = {
     currency: "USD",
     gasPrice: 100,
     coinmarketcap: coinmarketcapKey,
+  },
+  etherscan: {
+    apiKey: etherscanKey,
   },
 };
 
