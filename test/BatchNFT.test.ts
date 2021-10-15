@@ -66,4 +66,33 @@ describe("BatchNFT", () => {
       "not enough supply"
     );
   });
+
+  it("Can withdraw all ether to a addresss", async () => {
+    const [owner, vault] = await ethers.getSigners();
+
+    const batchNFT = await deployBatchNFT();
+
+    // sending ether to contract
+    const etherAmount = ethers.utils.parseEther("1.23");
+    await owner.sendTransaction({
+      to: batchNFT.address,
+      value: etherAmount,
+    });
+    expect(await ethers.provider.getBalance(batchNFT.address)).to.equal(
+      etherAmount
+    );
+
+    // only owner can call withdraw
+    await expect(
+      batchNFT.connect(vault).withdrawAll(vault.address)
+    ).to.be.revertedWith("Ownable: caller is not the owner");
+
+    // withdraw all ether to vault address
+    const vaultBalance = await ethers.provider.getBalance(vault.address);
+    await batchNFT.withdrawAll(vault.address);
+    expect(await ethers.provider.getBalance(vault.address)).to.equal(
+      etherAmount.add(vaultBalance)
+    );
+    expect(await ethers.provider.getBalance(batchNFT.address)).to.equal(0);
+  });
 });

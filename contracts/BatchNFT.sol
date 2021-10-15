@@ -27,6 +27,16 @@ contract BatchNFT is ERC721, Ownable {
         setSupply(supply_);
     }
 
+    receive() external payable {}
+
+    /**
+     * @dev Withdraw all ether in the contract
+     */
+    function withdrawAll(address vault_) public onlyOwner {
+        uint256 balance = address(this).balance;
+        payable(vault_).transfer(balance);
+    }
+
     /**
      * @dev Update the supply of NFT.
      */
