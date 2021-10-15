@@ -1,0 +1,19 @@
+{
+  "name": "Matties #491",
+  "description": "An energetic, existentialist Gena.",
+  "image": "491.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

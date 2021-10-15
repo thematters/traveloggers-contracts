@@ -20,8 +20,6 @@ abstract contract Logbook is BatchNFT {
     // Mapping from token ID to logbook
     mapping(uint256 => TokenLogbook) private _logbook;
 
-    uint8 public constant MAX_LOG_LENGTH = 140;
-
     event LogbookNewLog(uint256 tokenId, address sender);
 
     /**
@@ -29,39 +27,35 @@ abstract contract Logbook is BatchNFT {
      *
      * Emits a {LogbookNewLog} event.
      */
-    function appendLog(uint256 tokenId, string calldata message) public {
+    function appendLog(uint256 tokenId_, string calldata message_) public {
         require(
-            _isApprovedOrOwner(_msgSender(), tokenId),
+            _isApprovedOrOwner(_msgSender(), tokenId_),
             "caller is not owner nor approved"
         );
-        require(!_logbook[tokenId].isLocked, "logbook is locked");
-        require(
-            bytes(message).length <= MAX_LOG_LENGTH,
-            "log exceeds max length"
-        );
+        require(!_logbook[tokenId_].isLocked, "logbook is locked");
 
-        address owner = ERC721.ownerOf(tokenId);
+        address owner = ERC721.ownerOf(tokenId_);
         Log memory newLog = Log({
             sender: owner,
-            message: message,
+            message: message_,
             createdAt: block.timestamp
         });
 
-        _logbook[tokenId].logs.push(newLog);
-        _logbook[tokenId].isLocked = true;
+        _logbook[tokenId_].logs.push(newLog);
+        _logbook[tokenId_].isLocked = true;
 
-        emit LogbookNewLog(tokenId, owner);
+        emit LogbookNewLog(tokenId_, owner);
     }
 
     /**
      * @dev Read logbook
      */
-    function readLogbook(uint256 tokenId)
+    function readLogbook(uint256 tokenId_)
         public
         view
         returns (TokenLogbook memory)
     {
-        return _logbook[tokenId];
+        return _logbook[tokenId_];
     }
 
     /**

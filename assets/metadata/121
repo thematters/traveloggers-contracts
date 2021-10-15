@@ -1,0 +1,19 @@
+{
+  "name": "Matties #121",
+  "description": "An observant, pragmatist Yury.",
+  "image": "121.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

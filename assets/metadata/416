@@ -1,0 +1,19 @@
+{
+  "name": "Matties #416",
+  "description": "A down-to-earth, individualistic Yury.",
+  "image": "416.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

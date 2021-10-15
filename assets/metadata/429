@@ -1,0 +1,19 @@
+{
+  "name": "Matties #429",
+  "description": "An observant, nationalistic Zhenya.",
+  "image": "429.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

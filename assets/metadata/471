@@ -1,0 +1,19 @@
+{
+  "name": "Matties #471",
+  "description": "A down-to-earth, anarchist Lesya.",
+  "image": "471.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

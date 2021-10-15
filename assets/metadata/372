@@ -1,0 +1,19 @@
+{
+  "name": "Matties #372",
+  "description": "A chic, optimistic Zhenya.",
+  "image": "372.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

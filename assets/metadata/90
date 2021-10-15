@@ -1,0 +1,19 @@
+{
+  "name": "Matties #90",
+  "description": "A diligent, pacifist Zhenya.",
+  "image": "90.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

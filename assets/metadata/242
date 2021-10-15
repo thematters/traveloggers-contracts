@@ -1,0 +1,19 @@
+{
+  "name": "Matties #242",
+  "description": "An energetic, Marxist Gena.",
+  "image": "242.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

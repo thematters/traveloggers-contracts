@@ -1,0 +1,19 @@
+{
+  "name": "Matties #334",
+  "description": "A worldly, optimistic Lesya.",
+  "image": "334.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #295",
+  "description": "An energetic, pragmatist Zhenya.",
+  "image": "295.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

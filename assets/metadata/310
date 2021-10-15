@@ -1,0 +1,19 @@
+{
+  "name": "Matties #310",
+  "description": "A nonchalant, Marxist Gena.",
+  "image": "310.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #180",
+  "description": "An analytical, conservative Zhenya.",
+  "image": "180.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

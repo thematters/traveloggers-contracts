@@ -1,0 +1,19 @@
+{
+  "name": "Matties #450",
+  "description": "A diligent, optimistic Gena.",
+  "image": "450.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

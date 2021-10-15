@@ -1,0 +1,19 @@
+{
+  "name": "Matties #239",
+  "description": "A gregarious, romatic Gena.",
+  "image": "239.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

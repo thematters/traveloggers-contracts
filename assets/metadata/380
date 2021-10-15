@@ -1,0 +1,19 @@
+{
+  "name": "Matties #380",
+  "description": "A diligent, skeptical Gena.",
+  "image": "380.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

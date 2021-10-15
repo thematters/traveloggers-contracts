@@ -1,0 +1,19 @@
+{
+  "name": "Matties #113",
+  "description": "A gregarious, anarchist Lesya.",
+  "image": "113.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

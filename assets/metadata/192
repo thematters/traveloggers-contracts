@@ -1,0 +1,19 @@
+{
+  "name": "Matties #192",
+  "description": "A rebellious, pluralistic Valya.",
+  "image": "192.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

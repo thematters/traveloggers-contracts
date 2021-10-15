@@ -1,0 +1,19 @@
+{
+  "name": "Matties #421",
+  "description": "A gregarious, anarchist Gena.",
+  "image": "421.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "gregarious"
+    }
+  ]
+}

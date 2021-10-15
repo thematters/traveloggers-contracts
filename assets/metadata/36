@@ -1,0 +1,19 @@
+{
+  "name": "Matties #36",
+  "description": "An energetic, Marxist Sasha.",
+  "image": "36.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "energetic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #260",
+  "description": "An introverted, optimistic Valya.",
+  "image": "260.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

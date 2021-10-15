@@ -1,0 +1,19 @@
+{
+  "name": "Matties #469",
+  "description": "A compassionate, skeptical Zhenya.",
+  "image": "469.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

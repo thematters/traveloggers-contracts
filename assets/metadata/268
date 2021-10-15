@@ -1,0 +1,19 @@
+{
+  "name": "Matties #268",
+  "description": "A down-to-earth, cynical Lesya.",
+  "image": "268.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

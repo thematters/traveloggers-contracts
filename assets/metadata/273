@@ -1,0 +1,19 @@
+{
+  "name": "Matties #273",
+  "description": "A chic, romatic Sasha.",
+  "image": "273.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

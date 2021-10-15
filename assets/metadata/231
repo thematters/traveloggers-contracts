@@ -1,0 +1,19 @@
+{
+  "name": "Matties #231",
+  "description": "An analytical, liberal Lesya.",
+  "image": "231.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

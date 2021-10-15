@@ -1,0 +1,19 @@
+{
+  "name": "Matties #116",
+  "description": "An extroverted, conservative Zhenya.",
+  "image": "116.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #497",
+  "description": "A chic, capitalistic Valya.",
+  "image": "497.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

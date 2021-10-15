@@ -1,0 +1,19 @@
+{
+  "name": "Matties #378",
+  "description": "An introverted, cosmopolitan Yury.",
+  "image": "378.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #487",
+  "description": "An unswerving, LGBTQ friendly Zhenya.",
+  "image": "487.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "unswerving"
+    }
+  ]
+}

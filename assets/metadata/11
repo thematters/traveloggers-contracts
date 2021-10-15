@@ -1,0 +1,19 @@
+{
+  "name": "Matties #11",
+  "description": "A nonchalant, Marxist Valya.",
+  "image": "11.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

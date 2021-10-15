@@ -1,0 +1,19 @@
+{
+  "name": "Matties #81",
+  "description": "A down-to-earth, optimistic Yury.",
+  "image": "81.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

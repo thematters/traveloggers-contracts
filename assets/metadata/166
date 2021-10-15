@@ -1,0 +1,19 @@
+{
+  "name": "Matties #166",
+  "description": "A chic, conservative Valya.",
+  "image": "166.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

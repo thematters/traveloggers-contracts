@@ -1,0 +1,19 @@
+{
+  "name": "Matties #452",
+  "description": "An analytical, romatic Sasha.",
+  "image": "452.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

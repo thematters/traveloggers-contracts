@@ -1,0 +1,19 @@
+{
+  "name": "Matties #375",
+  "description": "A confused, anarchist Zhenya.",
+  "image": "375.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

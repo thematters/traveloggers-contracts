@@ -1,0 +1,19 @@
+{
+  "name": "Matties #106",
+  "description": "An enthusiastic, romatic Yury.",
+  "image": "106.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

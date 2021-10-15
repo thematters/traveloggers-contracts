@@ -1,0 +1,19 @@
+{
+  "name": "Matties #246",
+  "description": "A worldly, collectivistic Lesya.",
+  "image": "246.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "worldly"
+    }
+  ]
+}

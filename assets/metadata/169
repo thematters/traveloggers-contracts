@@ -1,0 +1,19 @@
+{
+  "name": "Matties #169",
+  "description": "A nonchalant, localist Yury.",
+  "image": "169.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

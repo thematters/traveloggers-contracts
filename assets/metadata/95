@@ -1,0 +1,19 @@
+{
+  "name": "Matties #95",
+  "description": "A confused, optimistic Valya.",
+  "image": "95.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #448",
+  "description": "An extroverted, cynical Yury.",
+  "image": "448.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

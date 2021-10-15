@@ -1,0 +1,19 @@
+{
+  "name": "Matties #278",
+  "description": "An adventurous, romatic Yury.",
+  "image": "278.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romatic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

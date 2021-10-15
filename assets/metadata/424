@@ -1,0 +1,19 @@
+{
+  "name": "Matties #424",
+  "description": "A diligent, Marxist Gena.",
+  "image": "424.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "diligent"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Matties #86",
+  "description": "A rebellious, nationalistic Zhenya.",
+  "image": "86.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}
