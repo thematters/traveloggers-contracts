@@ -2,7 +2,7 @@ import chai from "chai";
 import { ethers } from "hardhat";
 import { solidity } from "ethereum-waffle";
 
-import { web3 } from "./utils";
+import { web3, toGasCost } from "./utils";
 
 chai.use(solidity);
 const { expect } = chai;
@@ -79,10 +79,16 @@ describe("PreOrder", () => {
     await preOrder.setParticipants(100);
     await preOrder.setInPreOrder(true);
     // success pre-order
-    await preOrder.connect(accounts[0]).preOrder({
+    const r1Tx = await preOrder.connect(accounts[0]).preOrder({
       from: accounts[0].address,
       value: web3.utils.toWei("0.5", "ether"),
     });
+    const { gasUsed: r1GasUsed } = await r1Tx.wait();
+    console.log(
+      `        Gas used for preOrder: ${r1GasUsed}. Estimated ETH: ${toGasCost(
+        r1GasUsed
+      )}`
+    );
     // no duplicated pre-ordering
     await expect(
       preOrder.connect(accounts[0]).preOrder({
@@ -111,10 +117,16 @@ describe("PreOrder", () => {
       })
     ).to.be.revertedWith("amount too small");
 
-    await preOrder.connect(accounts[1]).preOrder({
+    const r2Tx = await preOrder.connect(accounts[1]).preOrder({
       from: accounts[1].address,
       value: web3.utils.toWei("0.52", "ether"),
     });
+    const { gasUsed: r2GasUsed } = await r2Tx.wait();
+    console.log(
+      `        Gas used for preOrder: ${r2GasUsed}. Estimated ETH: ${toGasCost(
+        r2GasUsed
+      )}`
+    );
 
     // query pre-order status
     let status = await preOrder.preOrderExist(accounts[0].address);
@@ -203,10 +215,16 @@ describe("PreOrder", () => {
     await preOrder.setInPreOrder(true);
 
     for (let i = 0; i < accounts.length; i++) {
-      await preOrder.connect(accounts[i]).preOrder({
+      const tx = await preOrder.connect(accounts[i]).preOrder({
         from: accounts[i].address,
         value: web3.utils.toWei("0.1", "ether"),
       });
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for preOrder (${i}): ${gasUsed}. Estimated ETH: ${toGasCost(
+          gasUsed
+        )}`
+      );
     }
 
     const batchSize = 7;
@@ -221,7 +239,13 @@ describe("PreOrder", () => {
     await preOrder.setInPreOrder(false);
 
     for (let i = 0; i < batchRounds - 1; i++) {
-      await preOrder.preOrderBatchMint(batchSize);
+      const tx = await preOrder.preOrderBatchMint(batchSize);
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for preOrderBatchMint (round: ${i}, size: ${batchSize}): ${gasUsed}. Estimated ETH: ${toGasCost(
+          gasUsed
+        )}`
+      );
     }
     // the last batch exceeds
     await expect(preOrder.preOrderBatchMint(batchSize)).to.be.revertedWith(
