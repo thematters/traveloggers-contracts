@@ -9,7 +9,12 @@ const { expect } = chai;
 
 const deployMatty = async () => {
   const Matty = await ethers.getContractFactory("Matty");
-  const matty = await Matty.deploy();
+  const matty = await Matty.deploy(
+    "Matty_Tester",
+    "MATT",
+    20,
+    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+  );
   return await matty.deployed();
 };
 

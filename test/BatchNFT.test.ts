@@ -11,7 +11,12 @@ const totalSupply = 20;
 
 const deployBatchNFT = async () => {
   const BatchNFT = await ethers.getContractFactory("BatchNFT");
-  const batchNFT = await BatchNFT.deploy("Tester", "TT", totalSupply);
+  const batchNFT = await BatchNFT.deploy(
+    "BatchNFT_Tester",
+    "BFTT",
+    totalSupply,
+    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+  );
   return await batchNFT.deployed();
 };
 
@@ -68,28 +73,20 @@ describe("BatchNFT", () => {
   });
 
   it("Can withdraw all ether to a addresss", async () => {
-    const [owner, vault] = await ethers.getSigners();
+    const [_, vault] = await ethers.getSigners();
 
     const batchNFT = await deployBatchNFT();
 
-    // sending ether to contract
     const etherAmount = ethers.utils.parseEther("1.23");
-    await owner.sendTransaction({
-      to: batchNFT.address,
-      value: etherAmount,
-    });
-    expect(await ethers.provider.getBalance(batchNFT.address)).to.equal(
-      etherAmount
-    );
 
     // only owner can call withdraw
     await expect(
-      batchNFT.connect(vault).withdrawAll(vault.address)
+      batchNFT.connect(vault).withdrawAll(vault.address, { value: etherAmount })
     ).to.be.revertedWith("Ownable: caller is not the owner");
 
     // withdraw all ether to vault address
     const vaultBalance = await ethers.provider.getBalance(vault.address);
-    await batchNFT.withdrawAll(vault.address);
+    await batchNFT.withdrawAll(vault.address, { value: etherAmount });
     expect(await ethers.provider.getBalance(vault.address)).to.equal(
       etherAmount.add(vaultBalance)
     );

@@ -9,7 +9,12 @@ const { expect } = chai;
 
 const deployPreOrder = async () => {
   const PreOrder = await ethers.getContractFactory("Matty");
-  const preOrder = await PreOrder.deploy();
+  const preOrder = await PreOrder.deploy(
+    "PreOrder_Tester",
+    "POTT",
+    20,
+    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+  );
   return await preOrder.deployed();
 };
 
