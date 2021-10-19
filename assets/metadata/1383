@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1383",
+  "description": "An imaginative, liberal Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "imaginative b",
+    "ideology": "liberal b"
+  },
+  "image": "1383.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1410",
+  "description": "An imaginative, pragmatist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "imaginative a",
+    "ideology": "pragmatist b"
+  },
+  "image": "1410.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

@@ -1,11 +1,16 @@
 {
   "name": "Matties #50",
-  "description": "A rebellious, pragmatist Gena.",
+  "description": "A confused, pragmatist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "pragmatist a"
+  },
   "image": "50.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

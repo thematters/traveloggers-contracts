@@ -1,0 +1,24 @@
+{
+  "name": "Matties #686",
+  "description": "A rebellious, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "collectivistic a"
+  },
+  "image": "686.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

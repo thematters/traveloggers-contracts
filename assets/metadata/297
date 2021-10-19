@@ -1,6 +1,11 @@
 {
   "name": "Matties #297",
-  "description": "A worldly, skeptical Lesya.",
+  "description": "A compassionate, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate a",
+    "ideology": "romantic a"
+  },
   "image": "297.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "compassionate"
     }
   ]
 }

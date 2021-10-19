@@ -1,6 +1,11 @@
 {
   "name": "Matties #233",
-  "description": "An unswerving, optimistic Zhenya.",
+  "description": "A nonchalant, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "cynical b"
+  },
   "image": "233.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "nonchalant"
     }
   ]
 }

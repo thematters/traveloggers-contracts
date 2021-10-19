@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1279",
+  "description": "A sociable, localist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "localist a"
+  },
+  "image": "1279.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

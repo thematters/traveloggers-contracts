@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1298",
+  "description": "An extroverted, LGBTQ friendly Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "LGBTQ friendly a"
+  },
+  "image": "1298.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

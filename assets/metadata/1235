@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1235",
+  "description": "A determined, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "anarchist a"
+  },
+  "image": "1235.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #274",
-  "description": "An adventurous, localist Gena.",
+  "description": "A down-to-earth, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "Epicurean b"
+  },
   "image": "274.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

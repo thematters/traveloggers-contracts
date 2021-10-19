@@ -1,6 +1,11 @@
 {
   "name": "Matties #203",
-  "description": "An extroverted, nationalistic Zhenya.",
+  "description": "A compassionate, rational Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "rational b"
+  },
   "image": "203.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

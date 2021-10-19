@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1135",
+  "description": "An observant, cynical Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "cynical b"
+  },
+  "image": "1135.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

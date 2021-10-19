@@ -1,0 +1,24 @@
+{
+  "name": "Matties #948",
+  "description": "An imaginative, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "liberal a"
+  },
+  "image": "948.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

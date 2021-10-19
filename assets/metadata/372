@@ -1,19 +1,24 @@
 {
   "name": "Matties #372",
-  "description": "A chic, optimistic Zhenya.",
+  "description": "A sociable, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "sociable a",
+    "ideology": "Epicurean b"
+  },
   "image": "372.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

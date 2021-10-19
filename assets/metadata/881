@@ -1,0 +1,24 @@
+{
+  "name": "Matties #881",
+  "description": "A rebellious, rational Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "rational b"
+  },
+  "image": "881.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

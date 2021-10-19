@@ -1,0 +1,24 @@
+{
+  "name": "Matties #708",
+  "description": "A determined, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "nationalistic b"
+  },
+  "image": "708.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

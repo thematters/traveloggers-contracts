@@ -1,19 +1,24 @@
 {
   "name": "Matties #403",
-  "description": "An analytical, existentialist Zhenya.",
+  "description": "An adventurous, nationalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "nationalistic b"
+  },
   "image": "403.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "adventurous"
     }
   ]
 }

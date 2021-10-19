@@ -1,15 +1,20 @@
 {
   "name": "Matties #76",
-  "description": "An extroverted, romatic Zhenya.",
+  "description": "An extroverted, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "nationalistic a"
+  },
   "image": "76.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

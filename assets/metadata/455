@@ -1,19 +1,24 @@
 {
   "name": "Matties #455",
-  "description": "A confused, romatic Gena.",
+  "description": "A compassionate, skeptical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "skeptical b"
+  },
   "image": "455.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

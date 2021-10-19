@@ -1,0 +1,24 @@
+{
+  "name": "Matties #701",
+  "description": "A hard-working, liberal Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "liberal b"
+  },
+  "image": "701.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

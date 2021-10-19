@@ -1,19 +1,24 @@
 {
   "name": "Matties #276",
-  "description": "An extroverted, skeptical Yury.",
+  "description": "A confused, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "pessimistic a"
+  },
   "image": "276.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

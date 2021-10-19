@@ -1,19 +1,24 @@
 {
   "name": "Matties #124",
-  "description": "An analytical, anarchist Lesya.",
+  "description": "An observant, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "capitalistic b"
+  },
   "image": "124.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

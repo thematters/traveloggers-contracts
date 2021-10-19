@@ -1,19 +1,24 @@
 {
   "name": "Matties #324",
-  "description": "An analytical, conservative Yury.",
+  "description": "A rebellious, pragmatist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "pragmatist a"
+  },
   "image": "324.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

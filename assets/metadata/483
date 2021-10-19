@@ -1,11 +1,16 @@
 {
   "name": "Matties #483",
-  "description": "A compassionate, Epicurean Yury.",
+  "description": "A practical, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "Epicurean b"
+  },
   "image": "483.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "practical"
     }
   ]
 }

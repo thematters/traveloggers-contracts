@@ -1,19 +1,24 @@
 {
   "name": "Matties #388",
-  "description": "A down-to-earth, Epicurean Gena.",
+  "description": "An imaginative, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "optimistic a"
+  },
   "image": "388.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

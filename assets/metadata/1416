@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1416",
+  "description": "An extroverted, collectivistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "collectivistic a"
+  },
+  "image": "1416.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

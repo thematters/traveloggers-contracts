@@ -1,19 +1,24 @@
 {
   "name": "Matties #366",
-  "description": "A down-to-earth, romatic Lesya.",
+  "description": "A nonchalant, pessimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "pessimistic b"
+  },
   "image": "366.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

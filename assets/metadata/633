@@ -1,0 +1,24 @@
+{
+  "name": "Matties #633",
+  "description": "A confused, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "liberal a"
+  },
+  "image": "633.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #248",
-  "description": "A worldly, pessimistic Zhenya.",
+  "description": "A confused, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "individualistic a"
+  },
   "image": "248.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "confused"
     }
   ]
 }

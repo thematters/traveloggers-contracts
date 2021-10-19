@@ -1,19 +1,24 @@
 {
   "name": "Matties #285",
-  "description": "An enthusiastic, rationalist Valya.",
+  "description": "An imaginative, pacifist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "pacifist a"
+  },
   "image": "285.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "imaginative"
     }
   ]
 }

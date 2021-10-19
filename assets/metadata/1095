@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1095",
+  "description": "A nonchalant, nationalistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "nationalistic a"
+  },
+  "image": "1095.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

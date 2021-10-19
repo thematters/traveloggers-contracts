@@ -1,0 +1,24 @@
+{
+  "name": "Matties #839",
+  "description": "An extroverted, LGBTQ friendly Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted a",
+    "ideology": "LGBTQ friendly a"
+  },
+  "image": "839.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

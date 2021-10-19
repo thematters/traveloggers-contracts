@@ -1,6 +1,11 @@
 {
   "name": "Matties #365",
-  "description": "A diligent, cosmopolitan Lesya.",
+  "description": "An analytical, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "anarchist a"
+  },
   "image": "365.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "analytical"
     }
   ]
 }

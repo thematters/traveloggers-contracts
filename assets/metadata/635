@@ -1,0 +1,24 @@
+{
+  "name": "Matties #635",
+  "description": "A down-to-earth, nationalistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "nationalistic a"
+  },
+  "image": "635.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

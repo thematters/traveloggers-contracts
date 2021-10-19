@@ -1,0 +1,24 @@
+{
+  "name": "Matties #824",
+  "description": "A confused, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "optimistic b"
+  },
+  "image": "824.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

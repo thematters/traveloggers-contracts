@@ -1,0 +1,24 @@
+{
+  "name": "Matties #918",
+  "description": "An analytical, feminist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "feminist b"
+  },
+  "image": "918.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

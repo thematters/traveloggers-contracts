@@ -1,19 +1,24 @@
 {
   "name": "Matties #411",
-  "description": "An imaginative, feminist Valya.",
+  "description": "An extroverted, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "romantic a"
+  },
   "image": "411.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

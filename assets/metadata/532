@@ -1,0 +1,24 @@
+{
+  "name": "Matties #532",
+  "description": "An analytical, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "pacifist a"
+  },
+  "image": "532.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

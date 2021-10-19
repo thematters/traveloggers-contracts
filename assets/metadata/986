@@ -1,0 +1,24 @@
+{
+  "name": "Matties #986",
+  "description": "A self-discipline, rational Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "rational b"
+  },
+  "image": "986.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

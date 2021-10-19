@@ -1,11 +1,16 @@
 {
   "name": "Matties #367",
-  "description": "An observant, pluralistic Gena.",
+  "description": "A nonchalant, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "pluralistic b"
+  },
   "image": "367.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

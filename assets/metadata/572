@@ -1,0 +1,24 @@
+{
+  "name": "Matties #572",
+  "description": "A determined, nationalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "determined a",
+    "ideology": "nationalistic a"
+  },
+  "image": "572.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

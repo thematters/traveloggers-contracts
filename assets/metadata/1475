@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1475",
+  "description": "A down-to-earth, feminist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "feminist a"
+  },
+  "image": "1475.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

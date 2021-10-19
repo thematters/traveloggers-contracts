@@ -1,19 +1,24 @@
 {
   "name": "Matties #467",
-  "description": "A nonchalant, existentialist Yury.",
+  "description": "A compassionate, pacifist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "pacifist a"
+  },
   "image": "467.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

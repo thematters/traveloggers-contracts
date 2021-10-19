@@ -1,19 +1,24 @@
 {
   "name": "Matties #132",
-  "description": "An energetic, Epicurean Sasha.",
+  "description": "A chic, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "anarchist b"
+  },
   "image": "132.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "chic"
     }
   ]
 }

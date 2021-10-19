@@ -1,6 +1,11 @@
 {
   "name": "Matties #486",
-  "description": "A self-discipline, optimistic Valya.",
+  "description": "An observant, Marxist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "Marxist b"
+  },
   "image": "486.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

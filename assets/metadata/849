@@ -1,0 +1,24 @@
+{
+  "name": "Matties #849",
+  "description": "A hard-working, pessimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "pessimistic b"
+  },
+  "image": "849.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

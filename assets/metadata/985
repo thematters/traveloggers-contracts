@@ -1,0 +1,24 @@
+{
+  "name": "Matties #985",
+  "description": "An extroverted, localist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "localist b"
+  },
+  "image": "985.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

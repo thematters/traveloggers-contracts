@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1156",
+  "description": "A sociable, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "anarchist a"
+  },
+  "image": "1156.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

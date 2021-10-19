@@ -1,6 +1,11 @@
 {
   "name": "Matties #225",
-  "description": "A rebellious, nationalistic Lesya.",
+  "description": "An adventurous, pragmatist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "pragmatist b"
+  },
   "image": "225.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

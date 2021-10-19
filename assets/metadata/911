@@ -1,0 +1,24 @@
+{
+  "name": "Matties #911",
+  "description": "A hard-working, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working a",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "911.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

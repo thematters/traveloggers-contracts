@@ -1,15 +1,20 @@
 {
   "name": "Matties #427",
-  "description": "An analytical, LGBTQ friendly Lesya.",
+  "description": "An analytical, cosmopolitan Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "427.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",

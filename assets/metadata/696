@@ -1,0 +1,24 @@
+{
+  "name": "Matties #696",
+  "description": "A confused, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "localist a"
+  },
+  "image": "696.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

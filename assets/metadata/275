@@ -1,11 +1,16 @@
 {
   "name": "Matties #275",
-  "description": "A chic, pessimistic Zhenya.",
+  "description": "An adventurous, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "pessimistic a"
+  },
   "image": "275.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "adventurous"
     }
   ]
 }

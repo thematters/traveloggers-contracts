@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1181",
+  "description": "A confused, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "rational a"
+  },
+  "image": "1181.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

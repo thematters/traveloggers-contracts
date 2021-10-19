@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1293",
+  "description": "A chic, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "nationalistic a"
+  },
+  "image": "1293.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

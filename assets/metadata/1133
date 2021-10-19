@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1133",
+  "description": "A nonchalant, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "nationalistic a"
+  },
+  "image": "1133.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

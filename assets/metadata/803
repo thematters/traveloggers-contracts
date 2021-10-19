@@ -1,0 +1,24 @@
+{
+  "name": "Matties #803",
+  "description": "An observant, localist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "localist b"
+  },
+  "image": "803.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

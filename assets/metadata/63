@@ -1,6 +1,11 @@
 {
   "name": "Matties #63",
-  "description": "A confused, existentialist Yury.",
+  "description": "An extroverted, rational Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "rational b"
+  },
   "image": "63.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

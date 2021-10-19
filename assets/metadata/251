@@ -1,19 +1,24 @@
 {
   "name": "Matties #251",
-  "description": "A diligent, pacifist Zhenya.",
+  "description": "An introverted, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "introverted a",
+    "ideology": "individualistic b"
+  },
   "image": "251.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "introverted"
     }
   ]
 }

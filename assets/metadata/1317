@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1317",
+  "description": "A nonchalant, pessimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "nonchalant a",
+    "ideology": "pessimistic b"
+  },
+  "image": "1317.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

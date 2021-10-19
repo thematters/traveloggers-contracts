@@ -1,19 +1,24 @@
 {
   "name": "Matties #197",
-  "description": "An extroverted, pluralistic Yury.",
+  "description": "A rebellious, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "collectivistic b"
+  },
   "image": "197.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "rebellious"
     }
   ]
 }

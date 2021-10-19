@@ -1,19 +1,24 @@
 {
   "name": "Matties #261",
-  "description": "An analytical, pacifist Gena.",
+  "description": "A self-discipline, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline b",
+    "ideology": "cosmopolitan b"
+  },
   "image": "261.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,11 +1,16 @@
 {
   "name": "Matties #165",
-  "description": "An energetic, optimistic Zhenya.",
+  "description": "A rebellious, optimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "rebellious b",
+    "ideology": "optimistic b"
+  },
   "image": "165.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "rebellious"
     }
   ]
 }

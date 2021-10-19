@@ -1,15 +1,20 @@
 {
   "name": "Matties #156",
-  "description": "A self-discipline, skeptical Gena.",
+  "description": "A self-discipline, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "Epicurean b"
+  },
   "image": "156.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

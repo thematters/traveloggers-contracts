@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1396",
+  "description": "A nonchalant, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "capitalistic a"
+  },
+  "image": "1396.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

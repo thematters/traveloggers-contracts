@@ -1,0 +1,24 @@
+{
+  "name": "Matties #584",
+  "description": "A hard-working, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "existentialist b"
+  },
+  "image": "584.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

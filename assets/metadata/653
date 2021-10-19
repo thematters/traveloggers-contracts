@@ -1,0 +1,24 @@
+{
+  "name": "Matties #653",
+  "description": "A sociable, cynical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "sociable a",
+    "ideology": "cynical b"
+  },
+  "image": "653.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

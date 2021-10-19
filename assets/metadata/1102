@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1102",
+  "description": "A hard-working, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "localist b"
+  },
+  "image": "1102.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

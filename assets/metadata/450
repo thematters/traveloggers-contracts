@@ -1,19 +1,24 @@
 {
   "name": "Matties #450",
-  "description": "A diligent, optimistic Gena.",
+  "description": "A self-discipline, pessimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "pessimistic b"
+  },
   "image": "450.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "self-discipline"
     }
   ]
 }

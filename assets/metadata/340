@@ -1,15 +1,20 @@
 {
   "name": "Matties #340",
-  "description": "A rebellious, romatic Gena.",
+  "description": "A rebellious, conservative Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "rebellious b",
+    "ideology": "conservative a"
+  },
   "image": "340.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",

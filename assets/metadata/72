@@ -1,19 +1,24 @@
 {
   "name": "Matties #72",
-  "description": "An imaginative, pragmatist Valya.",
+  "description": "A confused, liberal Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused b",
+    "ideology": "liberal b"
+  },
   "image": "72.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

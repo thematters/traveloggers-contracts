@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1050",
+  "description": "An analytical, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical a",
+    "ideology": "individualistic b"
+  },
+  "image": "1050.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #171",
-  "description": "An introverted, skeptical Yury.",
+  "description": "An analytical, conservative Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical a",
+    "ideology": "conservative b"
+  },
   "image": "171.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

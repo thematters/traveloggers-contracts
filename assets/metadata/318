@@ -1,11 +1,16 @@
 {
   "name": "Matties #318",
-  "description": "A worldly, capitalistic Yury.",
+  "description": "A confused, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "capitalistic a"
+  },
   "image": "318.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "confused"
     }
   ]
 }

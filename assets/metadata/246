@@ -1,19 +1,24 @@
 {
   "name": "Matties #246",
-  "description": "A worldly, collectivistic Lesya.",
+  "description": "A practical, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "capitalistic a"
+  },
   "image": "246.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "practical"
     }
   ]
 }

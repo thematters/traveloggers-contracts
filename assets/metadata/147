@@ -1,19 +1,24 @@
 {
   "name": "Matties #147",
-  "description": "A confused, rationalist Zhenya.",
+  "description": "An observant, skeptical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "skeptical b"
+  },
   "image": "147.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

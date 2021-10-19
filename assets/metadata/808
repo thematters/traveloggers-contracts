@@ -1,0 +1,24 @@
+{
+  "name": "Matties #808",
+  "description": "An extroverted, romantic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "romantic a"
+  },
+  "image": "808.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

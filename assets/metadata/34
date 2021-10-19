@@ -1,19 +1,24 @@
 {
   "name": "Matties #34",
-  "description": "An introverted, liberal Valya.",
+  "description": "A down-to-earth, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "pacifist a"
+  },
   "image": "34.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

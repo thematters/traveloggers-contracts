@@ -1,19 +1,24 @@
 {
   "name": "Matties #16",
-  "description": "An observant, liberal Valya.",
+  "description": "An exploring, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pessimistic b"
+  },
   "image": "16.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "exploring"
     }
   ]
 }

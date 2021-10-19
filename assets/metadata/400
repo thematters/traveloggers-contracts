@@ -1,19 +1,24 @@
 {
   "name": "Matties #400",
-  "description": "An energetic, pacifist Gena.",
+  "description": "An enthusiastic, pluralistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "enthusiastic b",
+    "ideology": "pluralistic b"
+  },
   "image": "400.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #375",
-  "description": "A confused, anarchist Zhenya.",
+  "description": "An adventurous, rational Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "rational a"
+  },
   "image": "375.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

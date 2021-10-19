@@ -1,0 +1,24 @@
+{
+  "name": "Matties #615",
+  "description": "An introverted, pacifist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "pacifist a"
+  },
+  "image": "615.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

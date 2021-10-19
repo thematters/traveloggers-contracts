@@ -1,19 +1,24 @@
 {
   "name": "Matties #472",
-  "description": "A chic, pacifist Valya.",
+  "description": "A self-discipline, LGBTQ friendly Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "472.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

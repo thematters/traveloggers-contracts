@@ -1,0 +1,24 @@
+{
+  "name": "Matties #608",
+  "description": "A practical, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "Epicurean b"
+  },
+  "image": "608.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

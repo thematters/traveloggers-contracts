@@ -1,6 +1,11 @@
 {
   "name": "Matties #29",
-  "description": "An adventurous, pacifist Gena.",
+  "description": "A down-to-earth, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "pluralistic a"
+  },
   "image": "29.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

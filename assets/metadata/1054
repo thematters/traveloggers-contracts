@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1054",
+  "description": "A rebellious, Marxist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "Marxist a"
+  },
+  "image": "1054.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

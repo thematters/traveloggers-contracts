@@ -1,19 +1,24 @@
 {
   "name": "Matties #424",
-  "description": "A diligent, Marxist Gena.",
+  "description": "An introverted, individualistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "individualistic b"
+  },
   "image": "424.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "introverted"
     }
   ]
 }

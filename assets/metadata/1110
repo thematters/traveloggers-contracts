@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1110",
+  "description": "A determined, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "Epicurean a"
+  },
+  "image": "1110.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

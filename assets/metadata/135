@@ -1,19 +1,24 @@
 {
   "name": "Matties #135",
-  "description": "An observant, cosmopolitan Sasha.",
+  "description": "A determined, pluralistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "determined a",
+    "ideology": "pluralistic a"
+  },
   "image": "135.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "determined"
     }
   ]
 }

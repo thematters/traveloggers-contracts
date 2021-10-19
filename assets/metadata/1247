@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1247",
+  "description": "A compassionate, feminist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "feminist b"
+  },
+  "image": "1247.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

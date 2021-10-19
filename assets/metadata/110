@@ -1,11 +1,16 @@
 {
   "name": "Matties #110",
-  "description": "A chic, pluralistic Lesya.",
+  "description": "A self-discipline, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "pluralistic b"
+  },
   "image": "110.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

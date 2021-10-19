@@ -1,19 +1,24 @@
 {
   "name": "Matties #90",
-  "description": "A diligent, pacifist Zhenya.",
+  "description": "A down-to-earth, cynical Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "cynical b"
+  },
   "image": "90.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "down-to-earth"
     }
   ]
 }

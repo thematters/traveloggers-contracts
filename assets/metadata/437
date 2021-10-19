@@ -1,6 +1,11 @@
 {
   "name": "Matties #437",
-  "description": "A compassionate, pacifist Valya.",
+  "description": "A confused, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "437.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

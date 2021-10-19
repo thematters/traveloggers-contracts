@@ -1,19 +1,24 @@
 {
   "name": "Matties #174",
-  "description": "An adventurous, cynical Valya.",
+  "description": "A rebellious, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "Epicurean a"
+  },
   "image": "174.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "rebellious"
     }
   ]
 }

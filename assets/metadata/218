@@ -1,11 +1,16 @@
 {
   "name": "Matties #218",
-  "description": "An observant, anarchist Lesya.",
+  "description": "A compassionate, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "anarchist a"
+  },
   "image": "218.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "compassionate"
     }
   ]
 }

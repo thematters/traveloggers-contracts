@@ -1,15 +1,20 @@
 {
   "name": "Matties #224",
-  "description": "An adventurous, existentialist Zhenya.",
+  "description": "An adventurous, Marxist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "Marxist b"
+  },
   "image": "224.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

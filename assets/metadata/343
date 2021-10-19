@@ -1,19 +1,24 @@
 {
   "name": "Matties #343",
-  "description": "A self-discipline, rationalist Sasha.",
+  "description": "An imaginative, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "Epicurean b"
+  },
   "image": "343.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "imaginative"
     }
   ]
 }

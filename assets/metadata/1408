@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1408",
+  "description": "An adventurous, feminist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "feminist a"
+  },
+  "image": "1408.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

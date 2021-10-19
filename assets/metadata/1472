@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1472",
+  "description": "An exploring, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "romantic a"
+  },
+  "image": "1472.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

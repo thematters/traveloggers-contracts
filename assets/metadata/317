@@ -1,11 +1,16 @@
 {
   "name": "Matties #317",
-  "description": "A rebellious, existentialist Valya.",
+  "description": "A confused, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "existentialist a"
+  },
   "image": "317.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1490",
+  "description": "A determined, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "romantic a"
+  },
+  "image": "1490.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

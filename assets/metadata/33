@@ -1,19 +1,24 @@
 {
   "name": "Matties #33",
-  "description": "A chic, skeptical Valya.",
+  "description": "A determined, localist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "localist a"
+  },
   "image": "33.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

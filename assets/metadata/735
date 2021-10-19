@@ -1,0 +1,24 @@
+{
+  "name": "Matties #735",
+  "description": "An adventurous, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "rational a"
+  },
+  "image": "735.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

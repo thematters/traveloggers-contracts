@@ -1,0 +1,24 @@
+{
+  "name": "Matties #947",
+  "description": "A self-discipline, Marxist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "Marxist b"
+  },
+  "image": "947.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

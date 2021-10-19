@@ -1,0 +1,24 @@
+{
+  "name": "Matties #754",
+  "description": "A compassionate, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "romantic a"
+  },
+  "image": "754.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

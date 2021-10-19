@@ -1,19 +1,24 @@
 {
   "name": "Matties #180",
-  "description": "An analytical, conservative Zhenya.",
+  "description": "An imaginative, feminist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "feminist b"
+  },
   "image": "180.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "imaginative"
     }
   ]
 }

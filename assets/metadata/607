@@ -1,0 +1,24 @@
+{
+  "name": "Matties #607",
+  "description": "A down-to-earth, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "romantic a"
+  },
+  "image": "607.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

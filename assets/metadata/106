@@ -1,19 +1,24 @@
 {
   "name": "Matties #106",
-  "description": "An enthusiastic, romatic Yury.",
+  "description": "A determined, pacifist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined b",
+    "ideology": "pacifist a"
+  },
   "image": "106.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

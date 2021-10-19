@@ -1,19 +1,24 @@
 {
   "name": "Matties #298",
-  "description": "An energetic, pragmatist Sasha.",
+  "description": "A self-discipline, optimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline b",
+    "ideology": "optimistic a"
+  },
   "image": "298.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "self-discipline"
     }
   ]
 }

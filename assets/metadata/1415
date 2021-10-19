@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1415",
+  "description": "An analytical, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "optimistic a"
+  },
+  "image": "1415.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

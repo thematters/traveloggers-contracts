@@ -1,19 +1,24 @@
 {
   "name": "Matties #371",
-  "description": "An analytical, skeptical Yury.",
+  "description": "A nonchalant, conservative Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "conservative a"
+  },
   "image": "371.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #109",
-  "description": "A confused, conservative Yury.",
+  "description": "An analytical, localist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "localist a"
+  },
   "image": "109.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

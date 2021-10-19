@@ -1,11 +1,16 @@
 {
   "name": "Matties #118",
-  "description": "An enthusiastic, cosmopolitan Gena.",
+  "description": "A practical, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "118.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

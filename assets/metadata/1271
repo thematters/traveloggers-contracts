@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1271",
+  "description": "An introverted, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "cynical a"
+  },
+  "image": "1271.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

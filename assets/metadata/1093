@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1093",
+  "description": "A confused, Marxist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "Marxist a"
+  },
+  "image": "1093.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

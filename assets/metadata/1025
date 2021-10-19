@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1025",
+  "description": "A practical, feminist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "feminist a"
+  },
+  "image": "1025.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

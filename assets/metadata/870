@@ -1,0 +1,24 @@
+{
+  "name": "Matties #870",
+  "description": "A hard-working, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "capitalistic a"
+  },
+  "image": "870.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

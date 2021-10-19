@@ -1,19 +1,24 @@
 {
   "name": "Matties #23",
-  "description": "An enthusiastic, optimistic Sasha.",
+  "description": "A chic, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "anarchist a"
+  },
   "image": "23.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

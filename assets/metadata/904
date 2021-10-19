@@ -1,0 +1,24 @@
+{
+  "name": "Matties #904",
+  "description": "A compassionate, cynical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "compassionate b",
+    "ideology": "cynical a"
+  },
+  "image": "904.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #406",
-  "description": "A rebellious, pluralistic Gena.",
+  "description": "An exploring, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "anarchist b"
+  },
   "image": "406.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "exploring"
     }
   ]
 }

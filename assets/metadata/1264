@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1264",
+  "description": "A self-discipline, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "romantic a"
+  },
+  "image": "1264.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "name": "Matties #418",
-  "description": "A nonchalant, capitalistic Yury.",
+  "description": "An imaginative, collectivistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "imaginative b",
+    "ideology": "collectivistic a"
+  },
   "image": "418.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

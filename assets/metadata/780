@@ -1,0 +1,24 @@
+{
+  "name": "Matties #780",
+  "description": "A hard-working, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working a",
+    "ideology": "pacifist b"
+  },
+  "image": "780.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

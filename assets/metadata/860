@@ -1,0 +1,24 @@
+{
+  "name": "Matties #860",
+  "description": "An extroverted, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "Epicurean a"
+  },
+  "image": "860.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

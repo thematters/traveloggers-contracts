@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1171",
+  "description": "An introverted, feminist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "feminist a"
+  },
+  "image": "1171.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

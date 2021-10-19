@@ -1,0 +1,24 @@
+{
+  "name": "Matties #634",
+  "description": "A compassionate, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "Epicurean b"
+  },
+  "image": "634.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

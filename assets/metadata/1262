@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1262",
+  "description": "An adventurous, liberal Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "liberal a"
+  },
+  "image": "1262.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

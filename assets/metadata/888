@@ -1,0 +1,24 @@
+{
+  "name": "Matties #888",
+  "description": "An analytical, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "cynical a"
+  },
+  "image": "888.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

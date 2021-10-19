@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1128",
+  "description": "A nonchalant, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "liberal b"
+  },
+  "image": "1128.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1373",
+  "description": "An imaginative, rational Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "rational a"
+  },
+  "image": "1373.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

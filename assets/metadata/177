@@ -1,6 +1,11 @@
 {
   "name": "Matties #177",
-  "description": "An energetic, nationalistic Valya.",
+  "description": "A nonchalant, pluralistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "pluralistic a"
+  },
   "image": "177.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "nonchalant"
     }
   ]
 }

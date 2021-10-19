@@ -1,19 +1,24 @@
 {
   "name": "Matties #257",
-  "description": "An extroverted, feminist Sasha.",
+  "description": "An observant, liberal Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "liberal b"
+  },
   "image": "257.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

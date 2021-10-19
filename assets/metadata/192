@@ -1,19 +1,24 @@
 {
   "name": "Matties #192",
-  "description": "A rebellious, pluralistic Valya.",
+  "description": "An enthusiastic, individualistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "individualistic a"
+  },
   "image": "192.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

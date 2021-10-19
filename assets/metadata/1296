@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1296",
+  "description": "An adventurous, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "anarchist b"
+  },
+  "image": "1296.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

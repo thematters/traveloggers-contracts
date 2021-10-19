@@ -1,19 +1,24 @@
 {
   "name": "Matties #107",
-  "description": "An imaginative, anarchist Valya.",
+  "description": "A practical, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "Epicurean a"
+  },
   "image": "107.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

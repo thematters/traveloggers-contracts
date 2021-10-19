@@ -1,15 +1,20 @@
 {
   "name": "Matties #327",
-  "description": "A down-to-earth, cosmopolitan Zhenya.",
+  "description": "A down-to-earth, nationalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "nationalistic a"
+  },
   "image": "327.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

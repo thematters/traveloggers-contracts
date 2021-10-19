@@ -1,19 +1,24 @@
 {
   "name": "Matties #497",
-  "description": "A chic, capitalistic Valya.",
+  "description": "A compassionate, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "497.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

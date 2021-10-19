@@ -1,19 +1,24 @@
 {
   "name": "Matties #348",
-  "description": "A gregarious, cosmopolitan Yury.",
+  "description": "A practical, pragmatist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "pragmatist a"
+  },
   "image": "348.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "practical"
     }
   ]
 }

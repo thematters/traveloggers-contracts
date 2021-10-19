@@ -1,19 +1,24 @@
 {
   "name": "Matties #280",
-  "description": "An extroverted, cosmopolitan Lesya.",
+  "description": "An exploring, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "cynical b"
+  },
   "image": "280.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "exploring"
     }
   ]
 }

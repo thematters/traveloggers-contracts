@@ -1,19 +1,24 @@
 {
   "name": "Matties #256",
-  "description": "An enthusiastic, pragmatist Yury.",
+  "description": "A practical, Marxist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "Marxist b"
+  },
   "image": "256.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

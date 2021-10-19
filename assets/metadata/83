@@ -1,19 +1,24 @@
 {
   "name": "Matties #83",
-  "description": "An unswerving, localist Valya.",
+  "description": "A determined, pragmatist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "pragmatist a"
+  },
   "image": "83.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "determined"
     }
   ]
 }

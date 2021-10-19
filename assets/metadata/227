@@ -1,19 +1,24 @@
 {
   "name": "Matties #227",
-  "description": "An enthusiastic, individualistic Valya.",
+  "description": "An observant, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "Epicurean a"
+  },
   "image": "227.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

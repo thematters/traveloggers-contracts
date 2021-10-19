@@ -1,0 +1,24 @@
+{
+  "name": "Matties #642",
+  "description": "An extroverted, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "optimistic b"
+  },
+  "image": "642.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

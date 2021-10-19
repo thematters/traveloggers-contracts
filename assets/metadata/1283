@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1283",
+  "description": "A nonchalant, romantic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "romantic a"
+  },
+  "image": "1283.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

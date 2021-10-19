@@ -1,19 +1,24 @@
 {
   "name": "Matties #443",
-  "description": "An enthusiastic, optimistic Yury.",
+  "description": "A down-to-earth, skeptical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "skeptical b"
+  },
   "image": "443.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "down-to-earth"
     }
   ]
 }

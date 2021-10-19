@@ -1,0 +1,24 @@
+{
+  "name": "Matties #509",
+  "description": "An adventurous, collectivistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "collectivistic a"
+  },
+  "image": "509.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

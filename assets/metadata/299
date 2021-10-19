@@ -1,11 +1,16 @@
 {
   "name": "Matties #299",
-  "description": "An introverted, Marxist Zhenya.",
+  "description": "An adventurous, Marxist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "Marxist a"
+  },
   "image": "299.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "adventurous"
     }
   ]
 }

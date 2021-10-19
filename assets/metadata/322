@@ -1,19 +1,24 @@
 {
   "name": "Matties #322",
-  "description": "A down-to-earth, optimistic Gena.",
+  "description": "An analytical, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "Epicurean a"
+  },
   "image": "322.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

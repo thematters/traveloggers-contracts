@@ -1,6 +1,11 @@
 {
   "name": "Matties #145",
   "description": "An introverted, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "capitalistic b"
+  },
   "image": "145.png",
   "attributes": [
     {

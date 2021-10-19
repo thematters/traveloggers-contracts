@@ -1,19 +1,24 @@
 {
   "name": "Matties #389",
-  "description": "An energetic, LGBTQ friendly Sasha.",
+  "description": "An enthusiastic, nationalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "enthusiastic b",
+    "ideology": "nationalistic b"
+  },
   "image": "389.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "enthusiastic"
     }
   ]
 }

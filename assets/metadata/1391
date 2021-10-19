@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1391",
+  "description": "An extroverted, cynical Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "cynical b"
+  },
+  "image": "1391.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

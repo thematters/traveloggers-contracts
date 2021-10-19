@@ -1,19 +1,24 @@
 {
   "name": "Matties #492",
-  "description": "An adventurous, pessimistic Gena.",
+  "description": "A down-to-earth, pluralistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "pluralistic a"
+  },
   "image": "492.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

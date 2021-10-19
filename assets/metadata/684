@@ -1,0 +1,24 @@
+{
+  "name": "Matties #684",
+  "description": "An observant, nationalistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "nationalistic a"
+  },
+  "image": "684.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

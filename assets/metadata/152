@@ -1,19 +1,24 @@
 {
   "name": "Matties #152",
-  "description": "An enthusiastic, romatic Lesya.",
+  "description": "A chic, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "capitalistic a"
+  },
   "image": "152.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

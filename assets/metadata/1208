@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1208",
+  "description": "A determined, conservative Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "conservative a"
+  },
+  "image": "1208.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

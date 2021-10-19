@@ -1,19 +1,24 @@
 {
   "name": "Matties #282",
-  "description": "A gregarious, liberal Lesya.",
+  "description": "An exploring, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pessimistic a"
+  },
   "image": "282.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "exploring"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #243",
-  "description": "An energetic, localist Valya.",
+  "description": "An enthusiastic, collectivistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "collectivistic a"
+  },
   "image": "243.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "enthusiastic"
     }
   ]
 }

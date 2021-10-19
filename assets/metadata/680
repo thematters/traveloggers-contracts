@@ -1,0 +1,24 @@
+{
+  "name": "Matties #680",
+  "description": "A compassionate, individualistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "individualistic a"
+  },
+  "image": "680.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

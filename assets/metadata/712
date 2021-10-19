@@ -1,0 +1,24 @@
+{
+  "name": "Matties #712",
+  "description": "An analytical, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "nationalistic b"
+  },
+  "image": "712.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

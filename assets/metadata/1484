@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1484",
+  "description": "A down-to-earth, collectivistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "collectivistic b"
+  },
+  "image": "1484.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

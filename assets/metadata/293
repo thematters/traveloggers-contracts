@@ -1,19 +1,24 @@
 {
   "name": "Matties #293",
-  "description": "A confused, nationalistic Sasha.",
+  "description": "A rebellious, capitalistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "capitalistic b"
+  },
   "image": "293.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

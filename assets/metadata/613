@@ -1,0 +1,24 @@
+{
+  "name": "Matties #613",
+  "description": "An extroverted, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "capitalistic a"
+  },
+  "image": "613.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

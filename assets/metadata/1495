@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1495",
+  "description": "An exploring, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "Marxist a"
+  },
+  "image": "1495.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

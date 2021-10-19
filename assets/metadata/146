@@ -1,19 +1,24 @@
 {
   "name": "Matties #146",
-  "description": "A compassionate, rationalist Valya.",
+  "description": "A sociable, existentialist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "sociable a",
+    "ideology": "existentialist b"
+  },
   "image": "146.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "sociable"
     }
   ]
 }

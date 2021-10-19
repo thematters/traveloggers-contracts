@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1159",
+  "description": "An exploring, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "collectivistic a"
+  },
+  "image": "1159.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

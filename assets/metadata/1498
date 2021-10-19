@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1498",
+  "description": "An exploring, cosmopolitan Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "1498.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

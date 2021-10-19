@@ -1,19 +1,24 @@
 {
   "name": "Matties #194",
-  "description": "An introverted, skeptical Valya.",
+  "description": "An adventurous, rational Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "rational a"
+  },
   "image": "194.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "adventurous"
     }
   ]
 }

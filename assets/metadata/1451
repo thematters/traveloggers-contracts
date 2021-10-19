@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1451",
+  "description": "An analytical, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "analytical b",
+    "ideology": "Epicurean b"
+  },
+  "image": "1451.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

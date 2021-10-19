@@ -1,11 +1,16 @@
 {
   "name": "Matties #112",
-  "description": "An observant, existentialist Gena.",
+  "description": "A sociable, existentialist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "existentialist b"
+  },
   "image": "112.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

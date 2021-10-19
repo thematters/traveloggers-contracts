@@ -1,19 +1,24 @@
 {
   "name": "Matties #378",
-  "description": "An introverted, cosmopolitan Yury.",
+  "description": "A nonchalant, nationalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "nonchalant a",
+    "ideology": "nationalistic a"
+  },
   "image": "378.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

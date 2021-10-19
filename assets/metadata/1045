@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1045",
+  "description": "An imaginative, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "existentialist b"
+  },
+  "image": "1045.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

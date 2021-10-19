@@ -1,19 +1,24 @@
 {
   "name": "Matties #444",
-  "description": "An enthusiastic, collectivistic Sasha.",
+  "description": "An introverted, optimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "optimistic a"
+  },
   "image": "444.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "introverted"
     }
   ]
 }

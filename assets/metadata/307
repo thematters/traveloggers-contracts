@@ -1,6 +1,11 @@
 {
   "name": "Matties #307",
-  "description": "An extroverted, conservative Sasha.",
+  "description": "An enthusiastic, pluralistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "pluralistic b"
+  },
   "image": "307.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

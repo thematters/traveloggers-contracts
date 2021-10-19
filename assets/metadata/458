@@ -1,6 +1,11 @@
 {
   "name": "Matties #458",
-  "description": "A confused, liberal Gena.",
+  "description": "A compassionate, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "individualistic a"
+  },
   "image": "458.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

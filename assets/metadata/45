@@ -1,19 +1,24 @@
 {
   "name": "Matties #45",
-  "description": "A diligent, pluralistic Lesya.",
+  "description": "An imaginative, conservative Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "conservative a"
+  },
   "image": "45.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "imaginative"
     }
   ]
 }

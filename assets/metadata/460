@@ -1,19 +1,24 @@
 {
   "name": "Matties #460",
-  "description": "A chic, cynical Gena.",
+  "description": "A self-discipline, pacifist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "pacifist a"
+  },
   "image": "460.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

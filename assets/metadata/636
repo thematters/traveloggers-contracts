@@ -1,0 +1,24 @@
+{
+  "name": "Matties #636",
+  "description": "A determined, existentialist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "existentialist a"
+  },
+  "image": "636.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1437",
+  "description": "An enthusiastic, cosmopolitan Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1437.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

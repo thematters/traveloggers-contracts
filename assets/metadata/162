@@ -1,11 +1,16 @@
 {
   "name": "Matties #162",
-  "description": "A down-to-earth, collectivistic Lesya.",
+  "description": "A nonchalant, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "nonchalant b",
+    "ideology": "collectivistic a"
+  },
   "image": "162.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

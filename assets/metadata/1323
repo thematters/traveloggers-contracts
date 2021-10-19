@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1323",
+  "description": "A confused, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused b",
+    "ideology": "anarchist b"
+  },
+  "image": "1323.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

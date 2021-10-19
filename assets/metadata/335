@@ -1,11 +1,16 @@
 {
   "name": "Matties #335",
-  "description": "An analytical, skeptical Sasha.",
+  "description": "A hard-working, skeptical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "hard-working a",
+    "ideology": "skeptical b"
+  },
   "image": "335.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "hard-working"
     }
   ]
 }

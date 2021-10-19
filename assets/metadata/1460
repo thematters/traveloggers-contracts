@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1460",
+  "description": "An observant, collectivistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "collectivistic a"
+  },
+  "image": "1460.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

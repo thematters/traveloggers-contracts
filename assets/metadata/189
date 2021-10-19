@@ -1,19 +1,24 @@
 {
   "name": "Matties #189",
-  "description": "A rebellious, existentialist Valya.",
+  "description": "An adventurous, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "individualistic b"
+  },
   "image": "189.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

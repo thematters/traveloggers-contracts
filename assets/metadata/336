@@ -1,6 +1,11 @@
 {
   "name": "Matties #336",
-  "description": "A gregarious, individualistic Sasha.",
+  "description": "A practical, localist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "localist a"
+  },
   "image": "336.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "practical"
     }
   ]
 }

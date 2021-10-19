@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1365",
+  "description": "An observant, localist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "localist a"
+  },
+  "image": "1365.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

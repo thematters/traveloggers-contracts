@@ -1,0 +1,24 @@
+{
+  "name": "Matties #554",
+  "description": "An imaginative, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "collectivistic a"
+  },
+  "image": "554.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

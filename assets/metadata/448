@@ -1,19 +1,24 @@
 {
   "name": "Matties #448",
-  "description": "An extroverted, cynical Yury.",
+  "description": "A determined, localist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "localist a"
+  },
   "image": "448.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

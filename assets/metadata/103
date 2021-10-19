@@ -1,19 +1,24 @@
 {
   "name": "Matties #103",
-  "description": "A confused, Marxist Valya.",
+  "description": "A compassionate, LGBTQ friendly Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "103.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

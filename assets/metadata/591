@@ -1,0 +1,24 @@
+{
+  "name": "Matties #591",
+  "description": "An imaginative, anarchist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "anarchist b"
+  },
+  "image": "591.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

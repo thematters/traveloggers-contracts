@@ -1,19 +1,24 @@
 {
   "name": "Matties #470",
-  "description": "A chic, existentialist Valya.",
+  "description": "A down-to-earth, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "collectivistic a"
+  },
   "image": "470.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "down-to-earth"
     }
   ]
 }

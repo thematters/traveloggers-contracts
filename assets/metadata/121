@@ -1,19 +1,24 @@
 {
   "name": "Matties #121",
-  "description": "An observant, pragmatist Yury.",
+  "description": "A nonchalant, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "anarchist a"
+  },
   "image": "121.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

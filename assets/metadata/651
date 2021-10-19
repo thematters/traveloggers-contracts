@@ -1,0 +1,24 @@
+{
+  "name": "Matties #651",
+  "description": "An exploring, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "exploring b",
+    "ideology": "conservative a"
+  },
+  "image": "651.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

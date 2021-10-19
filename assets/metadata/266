@@ -1,15 +1,20 @@
 {
   "name": "Matties #266",
-  "description": "An adventurous, Epicurean Lesya.",
+  "description": "An adventurous, pluralistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "pluralistic a"
+  },
   "image": "266.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

@@ -1,19 +1,24 @@
 {
   "name": "Matties #312",
-  "description": "An energetic, feminist Lesya.",
+  "description": "An imaginative, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "pragmatist a"
+  },
   "image": "312.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "imaginative"
     }
   ]
 }

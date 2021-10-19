@@ -1,19 +1,24 @@
 {
   "name": "Matties #57",
-  "description": "A confused, collectivistic Yury.",
+  "description": "An adventurous, romantic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "romantic b"
+  },
   "image": "57.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #545",
+  "description": "A down-to-earth, cynical Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "cynical a"
+  },
+  "image": "545.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

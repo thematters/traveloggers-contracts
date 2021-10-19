@@ -1,0 +1,24 @@
+{
+  "name": "Matties #535",
+  "description": "A down-to-earth, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "535.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

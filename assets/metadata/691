@@ -1,0 +1,24 @@
+{
+  "name": "Matties #691",
+  "description": "A self-discipline, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "691.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

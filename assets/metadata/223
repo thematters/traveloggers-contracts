@@ -1,6 +1,11 @@
 {
   "name": "Matties #223",
-  "description": "A chic, pacifist Valya.",
+  "description": "A determined, cynical Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "cynical a"
+  },
   "image": "223.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

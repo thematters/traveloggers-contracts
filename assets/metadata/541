@@ -1,0 +1,24 @@
+{
+  "name": "Matties #541",
+  "description": "A rebellious, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "541.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

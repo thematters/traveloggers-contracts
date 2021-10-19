@@ -1,0 +1,24 @@
+{
+  "name": "Matties #637",
+  "description": "A self-discipline, cynical Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "cynical a"
+  },
+  "image": "637.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

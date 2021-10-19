@@ -1,19 +1,24 @@
 {
   "name": "Matties #141",
-  "description": "A gregarious, pragmatist Lesya.",
+  "description": "A chic, conservative Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "conservative a"
+  },
   "image": "141.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "chic"
     }
   ]
 }

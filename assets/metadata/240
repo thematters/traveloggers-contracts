@@ -1,19 +1,24 @@
 {
   "name": "Matties #240",
-  "description": "A compassionate, localist Gena.",
+  "description": "A nonchalant, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "anarchist b"
+  },
   "image": "240.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "nonchalant"
     }
   ]
 }

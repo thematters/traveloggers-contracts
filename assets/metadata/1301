@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1301",
+  "description": "A confused, feminist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused b",
+    "ideology": "feminist b"
+  },
+  "image": "1301.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

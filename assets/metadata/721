@@ -1,0 +1,24 @@
+{
+  "name": "Matties #721",
+  "description": "A nonchalant, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "pacifist b"
+  },
+  "image": "721.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

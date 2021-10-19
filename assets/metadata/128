@@ -1,15 +1,20 @@
 {
   "name": "Matties #128",
-  "description": "A down-to-earth, feminist Sasha.",
+  "description": "A down-to-earth, rational Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "down-to-earth a",
+    "ideology": "rational a"
+  },
   "image": "128.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",

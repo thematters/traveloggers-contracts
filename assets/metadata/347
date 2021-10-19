@@ -1,19 +1,24 @@
 {
   "name": "Matties #347",
-  "description": "An imaginative, cosmopolitan Yury.",
+  "description": "A down-to-earth, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "rational a"
+  },
   "image": "347.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

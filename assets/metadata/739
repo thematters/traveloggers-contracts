@@ -1,0 +1,24 @@
+{
+  "name": "Matties #739",
+  "description": "A sociable, feminist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "sociable b",
+    "ideology": "feminist b"
+  },
+  "image": "739.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

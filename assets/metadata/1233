@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1233",
+  "description": "An exploring, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "individualistic b"
+  },
+  "image": "1233.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1449",
+  "description": "An introverted, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "Epicurean b"
+  },
+  "image": "1449.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

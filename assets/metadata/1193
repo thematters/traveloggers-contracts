@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1193",
+  "description": "A self-discipline, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "nationalistic a"
+  },
+  "image": "1193.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

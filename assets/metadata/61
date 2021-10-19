@@ -1,19 +1,24 @@
 {
   "name": "Matties #61",
-  "description": "A diligent, liberal Zhenya.",
+  "description": "An imaginative, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative b",
+    "ideology": "nationalistic a"
+  },
   "image": "61.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "imaginative"
     }
   ]
 }

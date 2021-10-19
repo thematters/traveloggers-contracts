@@ -1,19 +1,24 @@
 {
   "name": "Matties #302",
-  "description": "An unswerving, pragmatist Zhenya.",
+  "description": "A chic, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "pessimistic b"
+  },
   "image": "302.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "chic"
     }
   ]
 }

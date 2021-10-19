@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1305",
+  "description": "A sociable, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "rational a"
+  },
+  "image": "1305.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

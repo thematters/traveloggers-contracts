@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1438",
+  "description": "An exploring, pacifist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pacifist a"
+  },
+  "image": "1438.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

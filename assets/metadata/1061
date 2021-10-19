@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1061",
+  "description": "An exploring, localist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "localist a"
+  },
+  "image": "1061.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

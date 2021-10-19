@@ -1,19 +1,24 @@
 {
   "name": "Matties #436",
-  "description": "A diligent, LGBTQ friendly Lesya.",
+  "description": "A down-to-earth, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "Epicurean a"
+  },
   "image": "436.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "down-to-earth"
     }
   ]
 }

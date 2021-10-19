@@ -1,19 +1,24 @@
 {
   "name": "Matties #396",
-  "description": "A gregarious, Epicurean Yury.",
+  "description": "An enthusiastic, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "cynical b"
+  },
   "image": "396.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "enthusiastic"
     }
   ]
 }

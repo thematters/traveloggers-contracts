@@ -1,11 +1,16 @@
 {
   "name": "Matties #148",
-  "description": "An extroverted, cynical Yury.",
+  "description": "An exploring, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "exploring b",
+    "ideology": "cynical a"
+  },
   "image": "148.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "exploring"
     }
   ]
 }

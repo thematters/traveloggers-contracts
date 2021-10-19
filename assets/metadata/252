@@ -1,19 +1,24 @@
 {
   "name": "Matties #252",
-  "description": "An imaginative, individualistic Gena.",
+  "description": "A down-to-earth, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "252.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

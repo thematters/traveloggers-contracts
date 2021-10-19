@@ -1,11 +1,16 @@
 {
   "name": "Matties #434",
-  "description": "An analytical, feminist Yury.",
+  "description": "An analytical, feminist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical a",
+    "ideology": "feminist b"
+  },
   "image": "434.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",

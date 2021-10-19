@@ -1,19 +1,24 @@
 {
   "name": "Matties #295",
-  "description": "An energetic, pragmatist Zhenya.",
+  "description": "A chic, feminist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "feminist a"
+  },
   "image": "295.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "chic"
     }
   ]
 }

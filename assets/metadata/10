@@ -1,6 +1,11 @@
 {
   "name": "Matties #10",
-  "description": "A compassionate, Epicurean Sasha.",
+  "description": "A self-discipline, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "nationalistic b"
+  },
   "image": "10.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

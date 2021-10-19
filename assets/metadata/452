@@ -1,19 +1,24 @@
 {
   "name": "Matties #452",
-  "description": "An analytical, romatic Sasha.",
+  "description": "A compassionate, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "existentialist b"
+  },
   "image": "452.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "compassionate"
     }
   ]
 }

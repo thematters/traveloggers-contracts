@@ -1,6 +1,11 @@
 {
   "name": "Matties #139",
-  "description": "An unswerving, romatic Lesya.",
+  "description": "An imaginative, pluralistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "imaginative a",
+    "ideology": "pluralistic a"
+  },
   "image": "139.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "imaginative"
     }
   ]
 }

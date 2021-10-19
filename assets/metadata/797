@@ -1,0 +1,24 @@
+{
+  "name": "Matties #797",
+  "description": "A hard-working, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "Marxist b"
+  },
+  "image": "797.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

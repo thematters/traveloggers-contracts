@@ -1,19 +1,24 @@
 {
   "name": "Matties #217",
-  "description": "A nonchalant, pacifist Sasha.",
+  "description": "An observant, pessimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "observant a",
+    "ideology": "pessimistic b"
+  },
   "image": "217.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "observant"
     }
   ]
 }

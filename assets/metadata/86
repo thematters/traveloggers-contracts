@@ -1,19 +1,24 @@
 {
   "name": "Matties #86",
-  "description": "A rebellious, nationalistic Zhenya.",
+  "description": "An analytical, feminist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "feminist a"
+  },
   "image": "86.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "analytical"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #837",
+  "description": "An adventurous, optimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "optimistic b"
+  },
+  "image": "837.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

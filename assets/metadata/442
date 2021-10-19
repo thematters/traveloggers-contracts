@@ -1,19 +1,24 @@
 {
   "name": "Matties #442",
-  "description": "A chic, pluralistic Valya.",
+  "description": "A self-discipline, nationalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "nationalistic b"
+  },
   "image": "442.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

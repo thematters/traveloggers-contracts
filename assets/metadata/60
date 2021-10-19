@@ -1,19 +1,24 @@
 {
   "name": "Matties #60",
-  "description": "An observant, skeptical Lesya.",
+  "description": "An enthusiastic, conservative Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "conservative a"
+  },
   "image": "60.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "enthusiastic"
     }
   ]
 }

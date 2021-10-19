@@ -1,0 +1,24 @@
+{
+  "name": "Matties #604",
+  "description": "An introverted, cosmopolitan Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "introverted a",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "604.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #15",
-  "description": "A diligent, liberal Gena.",
+  "description": "A chic, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic a",
+    "ideology": "Epicurean b"
+  },
   "image": "15.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "chic"
     }
   ]
 }

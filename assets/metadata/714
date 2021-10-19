@@ -1,0 +1,24 @@
+{
+  "name": "Matties #714",
+  "description": "A self-discipline, capitalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "capitalistic a"
+  },
+  "image": "714.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

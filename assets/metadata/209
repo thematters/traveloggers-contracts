@@ -1,11 +1,16 @@
 {
   "name": "Matties #209",
-  "description": "An extroverted, conservative Valya.",
+  "description": "A confused, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "conservative b"
+  },
   "image": "209.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #377",
-  "description": "A rebellious, individualistic Yury.",
+  "description": "A nonchalant, cosmopolitan Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "377.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "nonchalant"
     }
   ]
 }

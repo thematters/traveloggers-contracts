@@ -1,19 +1,24 @@
 {
   "name": "Matties #447",
-  "description": "A chic, optimistic Zhenya.",
+  "description": "An introverted, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "rational b"
+  },
   "image": "447.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

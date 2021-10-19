@@ -1,19 +1,24 @@
 {
   "name": "Matties #477",
-  "description": "A rebellious, pacifist Valya.",
+  "description": "An observant, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "nationalistic b"
+  },
   "image": "477.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

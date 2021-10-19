@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1190",
+  "description": "An adventurous, capitalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "capitalistic a"
+  },
+  "image": "1190.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "name": "Matties #301",
-  "description": "An extroverted, Marxist Sasha.",
+  "description": "An observant, pluralistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "pluralistic b"
+  },
   "image": "301.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

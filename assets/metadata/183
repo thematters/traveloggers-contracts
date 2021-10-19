@@ -1,19 +1,24 @@
 {
   "name": "Matties #183",
-  "description": "An analytical, rationalist Valya.",
+  "description": "A sociable, feminist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "feminist a"
+  },
   "image": "183.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "sociable"
     }
   ]
 }

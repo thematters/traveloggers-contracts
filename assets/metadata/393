@@ -1,19 +1,24 @@
 {
   "name": "Matties #393",
-  "description": "A compassionate, skeptical Yury.",
+  "description": "A hard-working, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "Epicurean a"
+  },
   "image": "393.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "hard-working"
     }
   ]
 }

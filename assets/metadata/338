@@ -1,19 +1,24 @@
 {
   "name": "Matties #338",
-  "description": "A diligent, rationalist Gena.",
+  "description": "An enthusiastic, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "pragmatist a"
+  },
   "image": "338.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "enthusiastic"
     }
   ]
 }

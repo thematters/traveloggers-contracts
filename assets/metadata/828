@@ -1,0 +1,24 @@
+{
+  "name": "Matties #828",
+  "description": "A compassionate, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "Epicurean b"
+  },
+  "image": "828.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

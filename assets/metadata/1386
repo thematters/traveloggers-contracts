@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1386",
+  "description": "A practical, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "practical a",
+    "ideology": "anarchist b"
+  },
+  "image": "1386.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #416",
-  "description": "A down-to-earth, individualistic Yury.",
+  "description": "A determined, capitalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "capitalistic a"
+  },
   "image": "416.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

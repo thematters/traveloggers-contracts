@@ -1,6 +1,11 @@
 {
   "name": "Matties #345",
-  "description": "An introverted, LGBTQ friendly Valya.",
+  "description": "A chic, LGBTQ friendly Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "345.png",
   "attributes": [
     {
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "chic"
     }
   ]
 }

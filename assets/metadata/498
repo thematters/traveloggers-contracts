@@ -1,15 +1,20 @@
 {
   "name": "Matties #498",
-  "description": "A down-to-earth, LGBTQ friendly Lesya.",
+  "description": "A down-to-earth, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "capitalistic b"
+  },
   "image": "498.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",

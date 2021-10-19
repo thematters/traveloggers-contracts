@@ -1,0 +1,24 @@
+{
+  "name": "Matties #995",
+  "description": "A rebellious, capitalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious a",
+    "ideology": "capitalistic a"
+  },
+  "image": "995.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #748",
+  "description": "An introverted, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "capitalistic b"
+  },
+  "image": "748.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

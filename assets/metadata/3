@@ -1,11 +1,16 @@
 {
   "name": "Matties #3",
-  "description": "An unswerving, individualistic Sasha.",
+  "description": "A determined, individualistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "individualistic a"
+  },
   "image": "3.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "determined"
     }
   ]
 }

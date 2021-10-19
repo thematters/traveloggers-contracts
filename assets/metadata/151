@@ -1,19 +1,24 @@
 {
   "name": "Matties #151",
-  "description": "A worldly, individualistic Gena.",
+  "description": "An observant, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "localist a"
+  },
   "image": "151.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "observant"
     }
   ]
 }

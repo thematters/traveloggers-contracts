@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1197",
+  "description": "A chic, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "pessimistic a"
+  },
+  "image": "1197.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

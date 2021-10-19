@@ -1,19 +1,24 @@
 {
   "name": "Matties #204",
-  "description": "A rebellious, pacifist Sasha.",
+  "description": "A down-to-earth, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "Epicurean b"
+  },
   "image": "204.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "down-to-earth"
     }
   ]
 }

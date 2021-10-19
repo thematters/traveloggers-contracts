@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1407",
+  "description": "An enthusiastic, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "enthusiastic a",
+    "ideology": "capitalistic a"
+  },
+  "image": "1407.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

@@ -1,11 +1,16 @@
 {
   "name": "Matties #428",
-  "description": "An analytical, skeptical Gena.",
+  "description": "A chic, skeptical Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "skeptical b"
+  },
   "image": "428.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "chic"
     }
   ]
 }

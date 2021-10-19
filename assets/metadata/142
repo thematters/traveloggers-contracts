@@ -1,19 +1,24 @@
 {
   "name": "Matties #142",
-  "description": "An unswerving, romatic Yury.",
+  "description": "A self-discipline, rational Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "rational b"
+  },
   "image": "142.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "self-discipline"
     }
   ]
 }

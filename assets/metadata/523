@@ -1,0 +1,24 @@
+{
+  "name": "Matties #523",
+  "description": "An enthusiastic, romantic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "enthusiastic a",
+    "ideology": "romantic a"
+  },
+  "image": "523.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

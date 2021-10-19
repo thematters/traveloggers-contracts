@@ -1,6 +1,11 @@
 {
   "name": "Matties #211",
-  "description": "An extroverted, optimistic Yury.",
+  "description": "A confused, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "Epicurean b"
+  },
   "image": "211.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

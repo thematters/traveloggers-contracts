@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1429",
+  "description": "An introverted, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted a",
+    "ideology": "localist b"
+  },
+  "image": "1429.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

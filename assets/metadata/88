@@ -1,19 +1,24 @@
 {
   "name": "Matties #88",
-  "description": "An energetic, rationalist Sasha.",
+  "description": "A down-to-earth, pluralistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "pluralistic a"
+  },
   "image": "88.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "down-to-earth"
     }
   ]
 }

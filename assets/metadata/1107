@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1107",
+  "description": "A down-to-earth, liberal Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "liberal b"
+  },
+  "image": "1107.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1288",
+  "description": "A chic, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic b",
+    "ideology": "anarchist b"
+  },
+  "image": "1288.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

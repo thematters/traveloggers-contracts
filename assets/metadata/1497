@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1497",
+  "description": "An adventurous, localist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "localist a"
+  },
+  "image": "1497.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

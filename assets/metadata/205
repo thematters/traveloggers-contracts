@@ -1,6 +1,11 @@
 {
   "name": "Matties #205",
-  "description": "An observant, Marxist Valya.",
+  "description": "A nonchalant, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant b",
+    "ideology": "nationalistic b"
+  },
   "image": "205.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

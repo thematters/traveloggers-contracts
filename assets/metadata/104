@@ -1,11 +1,16 @@
 {
   "name": "Matties #104",
-  "description": "An analytical, individualistic Gena.",
+  "description": "An enthusiastic, individualistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "individualistic a"
+  },
   "image": "104.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "enthusiastic"
     }
   ]
 }

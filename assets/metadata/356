@@ -1,6 +1,11 @@
 {
   "name": "Matties #356",
-  "description": "An imaginative, nationalistic Gena.",
+  "description": "A down-to-earth, existentialist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "existentialist b"
+  },
   "image": "356.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

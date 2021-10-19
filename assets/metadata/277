@@ -1,19 +1,24 @@
 {
   "name": "Matties #277",
-  "description": "An introverted, cynical Zhenya.",
+  "description": "A nonchalant, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "capitalistic b"
+  },
   "image": "277.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #959",
+  "description": "A chic, pragmatist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "pragmatist b"
+  },
+  "image": "959.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

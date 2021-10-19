@@ -1,19 +1,24 @@
 {
   "name": "Matties #149",
-  "description": "A compassionate, Marxist Yury.",
+  "description": "An exploring, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring b",
+    "ideology": "liberal a"
+  },
   "image": "149.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "exploring"
     }
   ]
 }

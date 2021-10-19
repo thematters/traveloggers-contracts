@@ -1,19 +1,24 @@
 {
   "name": "Matties #134",
-  "description": "A chic, feminist Sasha.",
+  "description": "A rebellious, collectivistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "collectivistic b"
+  },
   "image": "134.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "rebellious"
     }
   ]
 }

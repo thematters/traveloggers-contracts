@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1448",
+  "description": "An adventurous, conservative Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "conservative a"
+  },
+  "image": "1448.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

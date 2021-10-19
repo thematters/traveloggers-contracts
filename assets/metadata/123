@@ -1,19 +1,24 @@
 {
   "name": "Matties #123",
-  "description": "An observant, localist Zhenya.",
+  "description": "An introverted, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "123.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "introverted"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #68",
-  "description": "An observant, romatic Lesya.",
+  "description": "A rebellious, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "pessimistic b"
+  },
   "image": "68.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "rebellious"
     }
   ]
 }

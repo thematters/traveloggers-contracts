@@ -1,6 +1,11 @@
 {
   "name": "Matties #286",
-  "description": "An enthusiastic, Epicurean Valya.",
+  "description": "A determined, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "nationalistic b"
+  },
   "image": "286.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #747",
+  "description": "An imaginative, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "Epicurean b"
+  },
+  "image": "747.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

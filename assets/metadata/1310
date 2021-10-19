@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1310",
+  "description": "A nonchalant, Marxist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "Marxist b"
+  },
+  "image": "1310.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "name": "Matties #334",
-  "description": "A worldly, optimistic Lesya.",
+  "description": "An imaginative, feminist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "feminist a"
+  },
   "image": "334.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "imaginative"
     }
   ]
 }

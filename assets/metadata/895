@@ -1,0 +1,24 @@
+{
+  "name": "Matties #895",
+  "description": "An exploring, romantic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "romantic a"
+  },
+  "image": "895.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

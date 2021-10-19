@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1332",
+  "description": "A rebellious, romantic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "romantic a"
+  },
+  "image": "1332.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

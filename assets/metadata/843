@@ -1,0 +1,24 @@
+{
+  "name": "Matties #843",
+  "description": "A compassionate, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "optimistic b"
+  },
+  "image": "843.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

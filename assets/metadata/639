@@ -1,0 +1,24 @@
+{
+  "name": "Matties #639",
+  "description": "A self-discipline, optimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "optimistic b"
+  },
+  "image": "639.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

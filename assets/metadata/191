@@ -1,19 +1,24 @@
 {
   "name": "Matties #191",
-  "description": "An unswerving, pragmatist Yury.",
+  "description": "A confused, Epicurean Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "Epicurean a"
+  },
   "image": "191.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "confused"
     }
   ]
 }

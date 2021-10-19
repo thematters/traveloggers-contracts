@@ -1,11 +1,16 @@
 {
   "name": "Matties #352",
-  "description": "A nonchalant, Marxist Lesya.",
+  "description": "A hard-working, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "Marxist a"
+  },
   "image": "352.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

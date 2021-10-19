@@ -1,0 +1,24 @@
+{
+  "name": "Matties #588",
+  "description": "An exploring, individualistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "exploring a",
+    "ideology": "individualistic a"
+  },
+  "image": "588.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

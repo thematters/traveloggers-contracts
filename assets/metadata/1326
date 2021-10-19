@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1326",
+  "description": "An enthusiastic, pragmatist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "enthusiastic b",
+    "ideology": "pragmatist b"
+  },
+  "image": "1326.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

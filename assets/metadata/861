@@ -1,0 +1,24 @@
+{
+  "name": "Matties #861",
+  "description": "A determined, LGBTQ friendly Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "861.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

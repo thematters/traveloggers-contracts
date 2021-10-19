@@ -1,6 +1,11 @@
 {
   "name": "Matties #398",
-  "description": "An analytical, optimistic Valya.",
+  "description": "A down-to-earth, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan b"
+  },
   "image": "398.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

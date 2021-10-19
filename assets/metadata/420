@@ -1,6 +1,11 @@
 {
   "name": "Matties #420",
-  "description": "An imaginative, rationalist Valya.",
+  "description": "A down-to-earth, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "Epicurean b"
+  },
   "image": "420.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

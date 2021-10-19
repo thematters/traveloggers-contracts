@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1352",
+  "description": "An introverted, LGBTQ friendly Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly a"
+  },
+  "image": "1352.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

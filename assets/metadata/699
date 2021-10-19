@@ -1,0 +1,24 @@
+{
+  "name": "Matties #699",
+  "description": "An extroverted, localist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted a",
+    "ideology": "localist a"
+  },
+  "image": "699.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

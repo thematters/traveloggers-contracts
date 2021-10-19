@@ -1,19 +1,24 @@
 {
   "name": "Matties #186",
-  "description": "A compassionate, liberal Zhenya.",
+  "description": "A self-discipline, pragmatist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "pragmatist b"
+  },
   "image": "186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,15 +1,20 @@
 {
   "name": "Matties #342",
-  "description": "An adventurous, collectivistic Gena.",
+  "description": "An adventurous, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "Epicurean b"
+  },
   "image": "342.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

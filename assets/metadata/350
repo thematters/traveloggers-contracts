@@ -1,19 +1,24 @@
 {
   "name": "Matties #350",
-  "description": "A nonchalant, collectivistic Gena.",
+  "description": "A down-to-earth, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "Epicurean b"
+  },
   "image": "350.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #74",
-  "description": "An unswerving, existentialist Yury.",
+  "description": "A rebellious, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "conservative b"
+  },
   "image": "74.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "rebellious"
     }
   ]
 }

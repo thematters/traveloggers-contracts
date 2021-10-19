@@ -1,0 +1,24 @@
+{
+  "name": "Matties #706",
+  "description": "An introverted, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "collectivistic b"
+  },
+  "image": "706.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

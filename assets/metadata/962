@@ -1,0 +1,24 @@
+{
+  "name": "Matties #962",
+  "description": "A practical, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "collectivistic b"
+  },
+  "image": "962.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

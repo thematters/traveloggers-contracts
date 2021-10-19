@@ -1,19 +1,24 @@
 {
   "name": "Matties #85",
-  "description": "An observant, capitalistic Valya.",
+  "description": "An extroverted, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "cynical a"
+  },
   "image": "85.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "extroverted"
     }
   ]
 }

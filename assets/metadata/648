@@ -1,0 +1,24 @@
+{
+  "name": "Matties #648",
+  "description": "A down-to-earth, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "anarchist b"
+  },
+  "image": "648.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

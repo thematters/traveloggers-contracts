@@ -1,19 +1,24 @@
 {
   "name": "Matties #290",
-  "description": "A self-discipline, skeptical Yury.",
+  "description": "A rebellious, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious a",
+    "ideology": "Marxist a"
+  },
   "image": "290.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "rebellious"
     }
   ]
 }

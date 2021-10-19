@@ -1,19 +1,24 @@
 {
   "name": "Matties #9",
-  "description": "A diligent, capitalistic Sasha.",
+  "description": "A self-discipline, feminist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "feminist b"
+  },
   "image": "9.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1485",
+  "description": "An imaginative, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1485.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

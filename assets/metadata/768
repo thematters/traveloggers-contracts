@@ -1,0 +1,24 @@
+{
+  "name": "Matties #768",
+  "description": "An imaginative, individualistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "imaginative b",
+    "ideology": "individualistic b"
+  },
+  "image": "768.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

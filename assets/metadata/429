@@ -1,19 +1,24 @@
 {
   "name": "Matties #429",
-  "description": "An observant, nationalistic Zhenya.",
+  "description": "A sociable, romantic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "sociable b",
+    "ideology": "romantic a"
+  },
   "image": "429.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

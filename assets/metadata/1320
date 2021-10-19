@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1320",
+  "description": "A down-to-earth, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1320.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

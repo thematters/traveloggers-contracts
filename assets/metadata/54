@@ -1,19 +1,24 @@
 {
   "name": "Matties #54",
-  "description": "A gregarious, cosmopolitan Valya.",
+  "description": "A hard-working, optimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "optimistic b"
+  },
   "image": "54.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "hard-working"
     }
   ]
 }

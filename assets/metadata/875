@@ -1,0 +1,24 @@
+{
+  "name": "Matties #875",
+  "description": "A down-to-earth, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "conservative a"
+  },
+  "image": "875.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

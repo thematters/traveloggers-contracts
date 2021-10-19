@@ -1,0 +1,24 @@
+{
+  "name": "Matties #943",
+  "description": "An exploring, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "943.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

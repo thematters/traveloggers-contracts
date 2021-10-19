@@ -1,0 +1,24 @@
+{
+  "name": "Matties #630",
+  "description": "A hard-working, skeptical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "skeptical a"
+  },
+  "image": "630.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

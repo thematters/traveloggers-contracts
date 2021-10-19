@@ -1,19 +1,24 @@
 {
   "name": "Matties #463",
-  "description": "An enthusiastic, Marxist Zhenya.",
+  "description": "A determined, individualistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "individualistic b"
+  },
   "image": "463.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

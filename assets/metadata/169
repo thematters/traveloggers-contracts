@@ -1,19 +1,24 @@
 {
   "name": "Matties #169",
-  "description": "A nonchalant, localist Yury.",
+  "description": "A determined, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "optimistic b"
+  },
   "image": "169.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

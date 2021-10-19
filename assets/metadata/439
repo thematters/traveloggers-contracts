@@ -1,19 +1,24 @@
 {
   "name": "Matties #439",
-  "description": "A chic, optimistic Sasha.",
+  "description": "A hard-working, capitalistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "capitalistic b"
+  },
   "image": "439.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "hard-working"
     }
   ]
 }

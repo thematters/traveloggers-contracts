@@ -1,0 +1,24 @@
+{
+  "name": "Matties #632",
+  "description": "A practical, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "conservative a"
+  },
+  "image": "632.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

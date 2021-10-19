@@ -1,0 +1,24 @@
+{
+  "name": "Matties #1496",
+  "description": "An observant, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "pluralistic b"
+  },
+  "image": "1496.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

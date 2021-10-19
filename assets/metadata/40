@@ -1,19 +1,24 @@
 {
   "name": "Matties #40",
-  "description": "An unswerving, rationalist Yury.",
+  "description": "A practical, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "existentialist a"
+  },
   "image": "40.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "practical"
     }
   ]
 }

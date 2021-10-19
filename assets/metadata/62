@@ -1,11 +1,16 @@
 {
   "name": "Matties #62",
-  "description": "An enthusiastic, Epicurean Gena.",
+  "description": "An analytical, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "Epicurean a"
+  },
   "image": "62.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

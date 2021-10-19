@@ -1,19 +1,24 @@
 {
   "name": "Matties #376",
-  "description": "A compassionate, skeptical Sasha.",
+  "description": "An imaginative, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "imaginative a",
+    "ideology": "romantic a"
+  },
   "image": "376.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,11 +1,16 @@
 {
   "name": "Matties #8",
-  "description": "A rebellious, individualistic Sasha.",
+  "description": "A nonchalant, individualistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "individualistic b"
+  },
   "image": "8.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "nonchalant"
     }
   ]
 }

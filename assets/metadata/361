@@ -1,19 +1,24 @@
 {
   "name": "Matties #361",
-  "description": "A rebellious, nationalistic Gena.",
+  "description": "A self-discipline, pacifist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "pacifist a"
+  },
   "image": "361.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
   "name": "Matties #95",
-  "description": "A confused, optimistic Valya.",
+  "description": "An adventurous, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "cosmopolitan a"
+  },
   "image": "95.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

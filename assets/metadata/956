@@ -1,0 +1,24 @@
+{
+  "name": "Matties #956",
+  "description": "An adventurous, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "capitalistic b"
+  },
+  "image": "956.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

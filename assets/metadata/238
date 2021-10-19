@@ -1,6 +1,11 @@
 {
   "name": "Matties #238",
-  "description": "An introverted, individualistic Zhenya.",
+  "description": "An extroverted, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "Marxist b"
+  },
   "image": "238.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "extroverted"
     }
   ]
 }

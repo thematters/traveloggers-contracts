@@ -1,11 +1,16 @@
 {
   "name": "Matties #97",
-  "description": "A chic, Marxist Yury.",
+  "description": "A sociable, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "sociable b",
+    "ideology": "Marxist a"
+  },
   "image": "97.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

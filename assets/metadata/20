@@ -1,19 +1,24 @@
 {
   "name": "Matties #20",
-  "description": "A gregarious, anarchist Zhenya.",
+  "description": "A confused, nationalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "nationalistic a"
+  },
   "image": "20.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "confused"
     }
   ]
 }

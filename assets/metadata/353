@@ -1,6 +1,11 @@
 {
   "name": "Matties #353",
-  "description": "A worldly, anarchist Gena.",
+  "description": "A sociable, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "collectivistic a"
+  },
   "image": "353.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "sociable"
     }
   ]
 }

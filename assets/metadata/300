@@ -1,19 +1,24 @@
 {
   "name": "Matties #300",
-  "description": "An analytical, pluralistic Valya.",
+  "description": "An enthusiastic, pragmatist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "pragmatist b"
+  },
   "image": "300.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "enthusiastic"
     }
   ]
 }

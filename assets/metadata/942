@@ -1,0 +1,24 @@
+{
+  "name": "Matties #942",
+  "description": "An introverted, pluralistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "pluralistic b"
+  },
+  "image": "942.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

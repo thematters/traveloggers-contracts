@@ -1,19 +1,24 @@
 {
   "name": "Matties #351",
-  "description": "A nonchalant, Marxist Lesya.",
+  "description": "A practical, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "localist b"
+  },
   "image": "351.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
   "name": "Matties #329",
-  "description": "A down-to-earth, optimistic Sasha.",
+  "description": "A nonchalant, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant b",
+    "ideology": "cosmopolitan b"
+  },
   "image": "329.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

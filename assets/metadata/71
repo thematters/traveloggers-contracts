@@ -1,6 +1,11 @@
 {
   "name": "Matties #71",
-  "description": "An introverted, LGBTQ friendly Sasha.",
+  "description": "An adventurous, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "existentialist b"
+  },
   "image": "71.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "adventurous"
     }
   ]
 }

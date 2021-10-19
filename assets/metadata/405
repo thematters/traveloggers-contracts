@@ -1,15 +1,20 @@
 {
   "name": "Matties #405",
-  "description": "An observant, existentialist Valya.",
+  "description": "An observant, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "romantic b"
+  },
   "image": "405.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",

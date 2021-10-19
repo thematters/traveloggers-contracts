@@ -1,6 +1,11 @@
 {
   "name": "Matties #332",
-  "description": "An energetic, rationalist Zhenya.",
+  "description": "An enthusiastic, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic b",
+    "ideology": "pluralistic b"
+  },
   "image": "332.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "enthusiastic"
     }
   ]
 }

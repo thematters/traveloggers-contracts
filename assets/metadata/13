@@ -1,6 +1,11 @@
 {
   "name": "Matties #13",
-  "description": "A worldly, pacifist Zhenya.",
+  "description": "A hard-working, conservative Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "conservative b"
+  },
   "image": "13.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "hard-working"
     }
   ]
 }

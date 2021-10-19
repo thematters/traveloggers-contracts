@@ -1,19 +1,24 @@
 {
   "name": "Matties #432",
-  "description": "An unswerving, individualistic Zhenya.",
+  "description": "An extroverted, pluralistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "pluralistic b"
+  },
   "image": "432.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "extroverted"
     }
   ]
 }

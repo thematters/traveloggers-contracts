@@ -1,6 +1,11 @@
 {
   "name": "Matties #206",
-  "description": "A compassionate, existentialist Sasha.",
+  "description": "A determined, cynical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "cynical b"
+  },
   "image": "206.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "determined"
     }
   ]
 }

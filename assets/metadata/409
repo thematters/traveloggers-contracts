@@ -1,19 +1,24 @@
 {
   "name": "Matties #409",
-  "description": "A worldly, pragmatist Gena.",
+  "description": "A hard-working, cosmopolitan Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "cosmopolitan b"
+  },
   "image": "409.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "hard-working"
     }
   ]
 }
