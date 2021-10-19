@@ -1,10 +1,10 @@
 {
   "name": "Matties #621",
-  "description": "A compassionate, localist Yury.",
+  "description": "A self-discipline, optimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "compassionate a",
-    "ideology": "localist a"
+    "character": "self-discipline a",
+    "ideology": "optimistic a"
   },
   "image": "621.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

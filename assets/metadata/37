@@ -1,10 +1,10 @@
 {
   "name": "Matties #37",
-  "description": "An analytical, romantic Yury.",
+  "description": "A determined, liberal Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "analytical b",
-    "ideology": "romantic a"
+    "character": "determined a",
+    "ideology": "liberal a"
   },
   "image": "37.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #415",
-  "description": "A down-to-earth, rational Yury.",
+  "description": "An introverted, capitalistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "capitalistic b"
   },
   "image": "415.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "introverted"
     }
   ]
 }

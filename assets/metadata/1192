@@ -1,24 +1,24 @@
 {
   "name": "Matties #1192",
-  "description": "An extroverted, anarchist Gena.",
+  "description": "A compassionate, Marxist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "anarchist a"
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "Marxist a"
   },
   "image": "1192.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

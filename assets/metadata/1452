@@ -1,24 +1,24 @@
 {
   "name": "Matties #1452",
-  "description": "A chic, individualistic Gena.",
+  "description": "An observant, cynical Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic b",
-    "ideology": "individualistic b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "cynical a"
   },
   "image": "1452.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "observant"
     }
   ]
 }

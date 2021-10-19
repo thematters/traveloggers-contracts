@@ -1,24 +1,24 @@
 {
   "name": "Matties #209",
-  "description": "A confused, conservative Sasha.",
+  "description": "An adventurous, optimistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "conservative b"
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "optimistic b"
   },
   "image": "209.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

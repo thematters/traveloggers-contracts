@@ -1,24 +1,24 @@
 {
   "name": "Matties #1235",
-  "description": "A determined, anarchist Sasha.",
+  "description": "A hard-working, capitalistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "anarchist a"
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "capitalistic b"
   },
   "image": "1235.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "hard-working"
     }
   ]
 }

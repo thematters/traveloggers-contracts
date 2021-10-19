@@ -1,10 +1,10 @@
 {
   "name": "Matties #912",
-  "description": "An observant, localist Valya.",
+  "description": "A rebellious, capitalistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "observant a",
-    "ideology": "localist a"
+    "character": "rebellious a",
+    "ideology": "capitalistic a"
   },
   "image": "912.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "rebellious"
     }
   ]
 }

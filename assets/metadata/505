@@ -1,24 +1,24 @@
 {
   "name": "Matties #505",
-  "description": "An observant, pacifist Valya.",
+  "description": "A confused, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant b",
-    "ideology": "pacifist b"
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "505.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "confused"
     }
   ]
 }

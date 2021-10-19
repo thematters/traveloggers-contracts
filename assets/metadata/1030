@@ -1,10 +1,10 @@
 {
   "name": "Matties #1030",
-  "description": "A nonchalant, rational Yury.",
+  "description": "A rebellious, skeptical Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "rational b"
+    "character": "rebellious b",
+    "ideology": "skeptical b"
   },
   "image": "1030.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "rebellious"
     }
   ]
 }

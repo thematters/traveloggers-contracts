@@ -1,24 +1,24 @@
 {
   "name": "Matties #310",
-  "description": "An imaginative, cynical Lesya.",
+  "description": "A sociable, nationalistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "cynical a"
+    "race": "Valya",
+    "character": "sociable b",
+    "ideology": "nationalistic a"
   },
   "image": "310.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "sociable"
     }
   ]
 }

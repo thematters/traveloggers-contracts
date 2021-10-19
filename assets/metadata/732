@@ -1,16 +1,16 @@
 {
   "name": "Matties #732",
-  "description": "A confused, skeptical Yury.",
+  "description": "An enthusiastic, skeptical Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "skeptical b"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "skeptical a"
   },
   "image": "732.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #836",
-  "description": "An enthusiastic, individualistic Lesya.",
+  "description": "A self-discipline, pragmatist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "individualistic a"
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "pragmatist b"
   },
   "image": "836.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

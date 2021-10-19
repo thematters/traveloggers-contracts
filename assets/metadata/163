@@ -1,10 +1,10 @@
 {
   "name": "Matties #163",
-  "description": "A compassionate, Marxist Lesya.",
+  "description": "A practical, existentialist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "compassionate a",
-    "ideology": "Marxist b"
+    "character": "practical b",
+    "ideology": "existentialist a"
   },
   "image": "163.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "practical"
     }
   ]
 }

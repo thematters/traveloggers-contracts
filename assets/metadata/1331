@@ -1,16 +1,16 @@
 {
   "name": "Matties #1331",
-  "description": "A sociable, liberal Yury.",
+  "description": "A practical, liberal Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "sociable a",
+    "race": "Sasha",
+    "character": "practical a",
     "ideology": "liberal b"
   },
   "image": "1331.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "practical"
     }
   ]
 }

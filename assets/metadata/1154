@@ -1,16 +1,16 @@
 {
   "name": "Matties #1154",
-  "description": "An observant, capitalistic Gena.",
+  "description": "A determined, capitalistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant b",
-    "ideology": "capitalistic a"
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "capitalistic b"
   },
   "image": "1154.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "determined"
     }
   ]
 }

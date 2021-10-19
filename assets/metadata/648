@@ -1,24 +1,24 @@
 {
   "name": "Matties #648",
-  "description": "A down-to-earth, anarchist Valya.",
+  "description": "A hard-working, pluralistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "anarchist b"
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "pluralistic a"
   },
   "image": "648.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #1324",
-  "description": "An observant, capitalistic Sasha.",
+  "description": "An introverted, LGBTQ friendly Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "observant b",
-    "ideology": "capitalistic b"
+    "character": "introverted b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1324.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "introverted"
     }
   ]
 }

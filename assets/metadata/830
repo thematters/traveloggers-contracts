@@ -1,20 +1,20 @@
 {
   "name": "Matties #830",
-  "description": "An observant, Marxist Lesya.",
+  "description": "An observant, rational Sasha.",
   "_visual": {
-    "race": "Lesya",
+    "race": "Sasha",
     "character": "observant b",
-    "ideology": "Marxist a"
+    "ideology": "rational b"
   },
   "image": "830.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",

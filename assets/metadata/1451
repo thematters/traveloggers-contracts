@@ -1,24 +1,24 @@
 {
   "name": "Matties #1451",
-  "description": "An analytical, Epicurean Zhenya.",
+  "description": "An exploring, conservative Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "Epicurean b"
+    "race": "Lesya",
+    "character": "exploring b",
+    "ideology": "conservative a"
   },
   "image": "1451.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "exploring"
     }
   ]
 }

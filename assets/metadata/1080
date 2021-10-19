@@ -1,24 +1,24 @@
 {
   "name": "Matties #1080",
-  "description": "An extroverted, Epicurean Valya.",
+  "description": "An observant, existentialist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "existentialist b"
   },
   "image": "1080.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

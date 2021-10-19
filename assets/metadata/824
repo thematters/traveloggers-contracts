@@ -1,24 +1,24 @@
 {
   "name": "Matties #824",
-  "description": "A confused, optimistic Zhenya.",
+  "description": "A self-discipline, Epicurean Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "optimistic b"
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "Epicurean b"
   },
   "image": "824.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "self-discipline"
     }
   ]
 }

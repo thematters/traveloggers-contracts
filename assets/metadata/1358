@@ -1,24 +1,24 @@
 {
   "name": "Matties #1358",
-  "description": "An observant, capitalistic Valya.",
+  "description": "A down-to-earth, anarchist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "capitalistic a"
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "anarchist a"
   },
   "image": "1358.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "down-to-earth"
     }
   ]
 }

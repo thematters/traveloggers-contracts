@@ -1,10 +1,10 @@
 {
   "name": "Matties #448",
-  "description": "A determined, localist Gena.",
+  "description": "A self-discipline, Marxist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "determined a",
-    "ideology": "localist a"
+    "character": "self-discipline a",
+    "ideology": "Marxist b"
   },
   "image": "448.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "self-discipline"
     }
   ]
 }

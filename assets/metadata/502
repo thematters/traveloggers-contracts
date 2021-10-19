@@ -1,10 +1,10 @@
 {
   "name": "Matties #502",
-  "description": "A self-discipline, conservative Valya.",
+  "description": "A down-to-earth, conservative Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "conservative b"
+    "character": "down-to-earth b",
+    "ideology": "conservative a"
   },
   "image": "502.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "down-to-earth"
     }
   ]
 }

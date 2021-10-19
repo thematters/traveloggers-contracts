@@ -1,24 +1,24 @@
 {
   "name": "Matties #142",
-  "description": "A self-discipline, rational Zhenya.",
+  "description": "An exploring, feminist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "rational b"
+    "race": "Yury",
+    "character": "exploring a",
+    "ideology": "feminist b"
   },
   "image": "142.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "exploring"
     }
   ]
 }

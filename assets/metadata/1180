@@ -1,20 +1,20 @@
 {
   "name": "Matties #1180",
-  "description": "An introverted, rational Sasha.",
+  "description": "An introverted, Epicurean Zhenya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Zhenya",
     "character": "introverted a",
-    "ideology": "rational b"
+    "ideology": "Epicurean b"
   },
   "image": "1180.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

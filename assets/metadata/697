@@ -1,16 +1,16 @@
 {
   "name": "Matties #697",
-  "description": "An exploring, capitalistic Lesya.",
+  "description": "A chic, capitalistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring b",
-    "ideology": "capitalistic b"
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "capitalistic a"
   },
   "image": "697.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

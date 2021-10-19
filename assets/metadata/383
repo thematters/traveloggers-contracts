@@ -1,24 +1,24 @@
 {
   "name": "Matties #383",
-  "description": "A rebellious, pluralistic Lesya.",
+  "description": "A determined, liberal Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "pluralistic b"
+    "race": "Zhenya",
+    "character": "determined a",
+    "ideology": "liberal a"
   },
   "image": "383.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "determined"
     }
   ]
 }

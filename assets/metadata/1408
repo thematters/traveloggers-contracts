@@ -1,24 +1,24 @@
 {
   "name": "Matties #1408",
-  "description": "An adventurous, feminist Lesya.",
+  "description": "A sociable, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous b",
-    "ideology": "feminist a"
+    "race": "Zhenya",
+    "character": "sociable b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1408.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

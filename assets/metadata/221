@@ -1,24 +1,24 @@
 {
   "name": "Matties #221",
-  "description": "A nonchalant, capitalistic Yury.",
+  "description": "A chic, existentialist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "existentialist a"
   },
   "image": "221.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

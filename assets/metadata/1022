@@ -1,24 +1,24 @@
 {
   "name": "Matties #1022",
-  "description": "A self-discipline, LGBTQ friendly Zhenya.",
+  "description": "A nonchalant, Marxist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "LGBTQ friendly a"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "Marxist b"
   },
   "image": "1022.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "nonchalant"
     }
   ]
 }

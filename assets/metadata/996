@@ -1,20 +1,20 @@
 {
   "name": "Matties #996",
-  "description": "A rebellious, liberal Gena.",
+  "description": "A rebellious, Epicurean Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious a",
-    "ideology": "liberal a"
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "Epicurean b"
   },
   "image": "996.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

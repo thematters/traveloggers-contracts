@@ -1,24 +1,24 @@
 {
   "name": "Matties #528",
-  "description": "An introverted, localist Sasha.",
+  "description": "A hard-working, liberal Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "localist b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "liberal b"
   },
   "image": "528.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "hard-working"
     }
   ]
 }

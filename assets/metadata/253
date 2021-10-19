@@ -1,16 +1,16 @@
 {
   "name": "Matties #253",
-  "description": "A rebellious, individualistic Zhenya.",
+  "description": "A compassionate, individualistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious a",
-    "ideology": "individualistic a"
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "individualistic b"
   },
   "image": "253.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

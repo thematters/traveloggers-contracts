@@ -1,24 +1,24 @@
 {
   "name": "Matties #288",
-  "description": "A hard-working, cosmopolitan Gena.",
+  "description": "A practical, liberal Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working b",
-    "ideology": "cosmopolitan b"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "liberal a"
   },
   "image": "288.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #66",
-  "description": "An observant, skeptical Valya.",
+  "description": "A nonchalant, capitalistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "skeptical a"
+    "race": "Gena",
+    "character": "nonchalant b",
+    "ideology": "capitalistic a"
   },
   "image": "66.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

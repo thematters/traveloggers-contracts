@@ -1,24 +1,24 @@
 {
   "name": "Matties #1215",
-  "description": "An enthusiastic, Epicurean Yury.",
+  "description": "An introverted, conservative Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "enthusiastic b",
-    "ideology": "Epicurean a"
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "conservative a"
   },
   "image": "1215.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "introverted"
     }
   ]
 }

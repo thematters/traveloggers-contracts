@@ -1,24 +1,24 @@
 {
   "name": "Matties #1173",
-  "description": "A practical, capitalistic Zhenya.",
+  "description": "An extroverted, pacifist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "capitalistic b"
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "pacifist a"
   },
   "image": "1173.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

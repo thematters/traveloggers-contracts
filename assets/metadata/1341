@@ -1,24 +1,24 @@
 {
   "name": "Matties #1341",
-  "description": "A self-discipline, cosmopolitan Zhenya.",
+  "description": "A confused, liberal Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "liberal a"
   },
   "image": "1341.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

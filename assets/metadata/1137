@@ -1,10 +1,10 @@
 {
   "name": "Matties #1137",
-  "description": "A sociable, collectivistic Yury.",
+  "description": "An analytical, feminist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable b",
-    "ideology": "collectivistic a"
+    "character": "analytical b",
+    "ideology": "feminist a"
   },
   "image": "1137.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "analytical"
     }
   ]
 }

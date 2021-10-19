@@ -1,24 +1,24 @@
 {
   "name": "Matties #1305",
-  "description": "A sociable, rational Lesya.",
+  "description": "A nonchalant, Marxist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable a",
-    "ideology": "rational a"
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "Marxist b"
   },
   "image": "1305.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1384",
-  "description": "An exploring, skeptical Zhenya.",
+  "description": "A determined, existentialist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "skeptical b"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "existentialist b"
   },
   "image": "1384.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "determined"
     }
   ]
 }

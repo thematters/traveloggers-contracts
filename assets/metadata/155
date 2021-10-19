@@ -1,24 +1,24 @@
 {
   "name": "Matties #155",
-  "description": "A determined, LGBTQ friendly Gena.",
+  "description": "An extroverted, cosmopolitan Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "cosmopolitan b"
   },
   "image": "155.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

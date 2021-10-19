@@ -1,24 +1,24 @@
 {
   "name": "Matties #1411",
-  "description": "A compassionate, rational Valya.",
+  "description": "An observant, pacifist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "pacifist a"
   },
   "image": "1411.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

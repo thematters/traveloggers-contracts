@@ -1,20 +1,20 @@
 {
   "name": "Matties #916",
-  "description": "A practical, pluralistic Valya.",
+  "description": "A practical, individualistic Yury.",
   "_visual": {
-    "race": "Valya",
+    "race": "Yury",
     "character": "practical b",
-    "ideology": "pluralistic b"
+    "ideology": "individualistic b"
   },
   "image": "916.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",

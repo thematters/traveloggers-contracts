@@ -1,24 +1,24 @@
 {
   "name": "Matties #763",
-  "description": "A practical, Marxist Gena.",
+  "description": "An enthusiastic, existentialist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical a",
-    "ideology": "Marxist a"
+    "race": "Sasha",
+    "character": "enthusiastic a",
+    "ideology": "existentialist a"
   },
   "image": "763.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

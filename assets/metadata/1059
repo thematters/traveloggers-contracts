@@ -1,10 +1,10 @@
 {
   "name": "Matties #1059",
-  "description": "A nonchalant, pragmatist Yury.",
+  "description": "A determined, pacifist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant a",
-    "ideology": "pragmatist a"
+    "character": "determined b",
+    "ideology": "pacifist a"
   },
   "image": "1059.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

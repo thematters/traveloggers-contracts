@@ -1,24 +1,24 @@
 {
   "name": "Matties #41",
-  "description": "An observant, individualistic Sasha.",
+  "description": "A confused, anarchist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant b",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "anarchist b"
   },
   "image": "41.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "confused"
     }
   ]
 }

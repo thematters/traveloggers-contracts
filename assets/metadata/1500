@@ -1,24 +1,24 @@
 {
   "name": "Matties #1500",
-  "description": "An exploring, pessimistic Zhenya.",
+  "description": "A down-to-earth, rational Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring a",
-    "ideology": "pessimistic a"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "rational a"
   },
   "image": "1500.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

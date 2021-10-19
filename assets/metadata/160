@@ -1,10 +1,10 @@
 {
   "name": "Matties #160",
-  "description": "A sociable, cosmopolitan Lesya.",
+  "description": "A hard-working, pessimistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "cosmopolitan b"
+    "character": "hard-working a",
+    "ideology": "pessimistic a"
   },
   "image": "160.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "hard-working"
     }
   ]
 }

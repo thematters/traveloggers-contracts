@@ -1,24 +1,24 @@
 {
   "name": "Matties #337",
-  "description": "A sociable, individualistic Sasha.",
+  "description": "A confused, localist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "sociable b",
-    "ideology": "individualistic b"
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "localist b"
   },
   "image": "337.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "confused"
     }
   ]
 }

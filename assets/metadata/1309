@@ -1,24 +1,24 @@
 {
   "name": "Matties #1309",
-  "description": "An exploring, cynical Yury.",
+  "description": "A self-discipline, capitalistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "cynical b"
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "capitalistic a"
   },
   "image": "1309.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "self-discipline"
     }
   ]
 }

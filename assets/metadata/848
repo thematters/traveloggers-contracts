@@ -1,24 +1,24 @@
 {
   "name": "Matties #848",
-  "description": "An introverted, pragmatist Sasha.",
+  "description": "A sociable, capitalistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "pragmatist a"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "capitalistic a"
   },
   "image": "848.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "sociable"
     }
   ]
 }

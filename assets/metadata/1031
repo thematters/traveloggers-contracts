@@ -1,24 +1,24 @@
 {
   "name": "Matties #1031",
-  "description": "A rebellious, capitalistic Lesya.",
+  "description": "A nonchalant, Marxist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious b",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "Marxist b"
   },
   "image": "1031.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "nonchalant"
     }
   ]
 }

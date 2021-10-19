@@ -1,24 +1,24 @@
 {
   "name": "Matties #829",
-  "description": "A chic, collectivistic Yury.",
+  "description": "A nonchalant, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "chic b",
-    "ideology": "collectivistic a"
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "cosmopolitan b"
   },
   "image": "829.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

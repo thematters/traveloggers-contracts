@@ -1,16 +1,16 @@
 {
   "name": "Matties #1001",
-  "description": "An adventurous, individualistic Sasha.",
+  "description": "An introverted, individualistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous b",
+    "race": "Lesya",
+    "character": "introverted a",
     "ideology": "individualistic a"
   },
   "image": "1001.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "introverted"
     }
   ]
 }

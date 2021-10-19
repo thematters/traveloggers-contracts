@@ -1,16 +1,16 @@
 {
   "name": "Matties #307",
-  "description": "An enthusiastic, pluralistic Sasha.",
+  "description": "An extroverted, pluralistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "pluralistic a"
   },
   "image": "307.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1151",
-  "description": "A sociable, pessimistic Valya.",
+  "description": "A confused, Epicurean Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "pessimistic a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "Epicurean a"
   },
   "image": "1151.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "confused"
     }
   ]
 }

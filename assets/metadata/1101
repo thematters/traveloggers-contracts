@@ -1,24 +1,24 @@
 {
   "name": "Matties #1101",
-  "description": "A sociable, conservative Sasha.",
+  "description": "An exploring, Epicurean Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "sociable b",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "Epicurean b"
   },
   "image": "1101.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "exploring"
     }
   ]
 }

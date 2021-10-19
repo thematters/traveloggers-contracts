@@ -1,24 +1,24 @@
 {
   "name": "Matties #1139",
-  "description": "An introverted, pacifist Sasha.",
+  "description": "An enthusiastic, individualistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted a",
-    "ideology": "pacifist a"
+    "race": "Yury",
+    "character": "enthusiastic a",
+    "ideology": "individualistic b"
   },
   "image": "1139.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "enthusiastic"
     }
   ]
 }

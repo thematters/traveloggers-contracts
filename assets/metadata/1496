@@ -1,24 +1,24 @@
 {
   "name": "Matties #1496",
-  "description": "An observant, pluralistic Gena.",
+  "description": "A hard-working, pragmatist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant b",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "hard-working b",
+    "ideology": "pragmatist a"
   },
   "image": "1496.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

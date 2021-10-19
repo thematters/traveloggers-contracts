@@ -1,24 +1,24 @@
 {
   "name": "Matties #260",
-  "description": "A hard-working, Marxist Lesya.",
+  "description": "An adventurous, skeptical Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "Marxist b"
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "skeptical a"
   },
   "image": "260.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "adventurous"
     }
   ]
 }

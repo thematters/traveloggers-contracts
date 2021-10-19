@@ -1,24 +1,24 @@
 {
   "name": "Matties #1295",
-  "description": "An analytical, capitalistic Valya.",
+  "description": "An observant, pluralistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
-    "ideology": "capitalistic a"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "pluralistic b"
   },
   "image": "1295.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

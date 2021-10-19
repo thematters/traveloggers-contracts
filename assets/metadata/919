@@ -1,10 +1,10 @@
 {
   "name": "Matties #919",
-  "description": "A hard-working, localist Zhenya.",
+  "description": "A down-to-earth, pluralistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "hard-working a",
-    "ideology": "localist a"
+    "character": "down-to-earth b",
+    "ideology": "pluralistic b"
   },
   "image": "919.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "name": "Matties #1076",
-  "description": "An observant, romantic Sasha.",
+  "description": "An observant, nationalistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "romantic a"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "nationalistic b"
   },
   "image": "1076.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

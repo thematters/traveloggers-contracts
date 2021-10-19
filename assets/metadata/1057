@@ -1,24 +1,24 @@
 {
   "name": "Matties #1057",
-  "description": "An analytical, cosmopolitan Yury.",
+  "description": "An extroverted, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical a",
-    "ideology": "cosmopolitan a"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1057.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

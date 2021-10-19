@@ -1,10 +1,10 @@
 {
   "name": "Matties #1034",
-  "description": "A chic, collectivistic Valya.",
+  "description": "An observant, skeptical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "chic a",
-    "ideology": "collectivistic a"
+    "character": "observant a",
+    "ideology": "skeptical a"
   },
   "image": "1034.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "observant"
     }
   ]
 }

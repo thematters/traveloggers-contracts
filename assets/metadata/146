@@ -1,20 +1,20 @@
 {
   "name": "Matties #146",
-  "description": "A sociable, existentialist Gena.",
+  "description": "A sociable, optimistic Sasha.",
   "_visual": {
-    "race": "Gena",
+    "race": "Sasha",
     "character": "sociable a",
-    "ideology": "existentialist b"
+    "ideology": "optimistic b"
   },
   "image": "146.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
   "name": "Matties #986",
-  "description": "A self-discipline, rational Gena.",
+  "description": "A confused, romantic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline a",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "confused b",
+    "ideology": "romantic b"
   },
   "image": "986.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

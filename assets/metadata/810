@@ -1,24 +1,24 @@
 {
   "name": "Matties #810",
-  "description": "An exploring, individualistic Valya.",
+  "description": "An extroverted, nationalistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring b",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "extroverted a",
+    "ideology": "nationalistic a"
   },
   "image": "810.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "extroverted"
     }
   ]
 }

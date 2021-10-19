@@ -1,16 +1,16 @@
 {
   "name": "Matties #167",
-  "description": "A nonchalant, skeptical Gena.",
+  "description": "A practical, skeptical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant b",
+    "race": "Lesya",
+    "character": "practical a",
     "ideology": "skeptical a"
   },
   "image": "167.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

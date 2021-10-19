@@ -1,24 +1,24 @@
 {
   "name": "Matties #1345",
-  "description": "A self-discipline, cosmopolitan Valya.",
+  "description": "A determined, cynical Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "cosmopolitan a"
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "cynical b"
   },
   "image": "1345.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

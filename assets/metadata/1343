@@ -1,10 +1,10 @@
 {
   "name": "Matties #1343",
-  "description": "A compassionate, conservative Sasha.",
+  "description": "An exploring, capitalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "compassionate b",
-    "ideology": "conservative b"
+    "character": "exploring b",
+    "ideology": "capitalistic a"
   },
   "image": "1343.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "exploring"
     }
   ]
 }

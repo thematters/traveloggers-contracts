@@ -1,24 +1,24 @@
 {
   "name": "Matties #878",
-  "description": "An imaginative, cynical Yury.",
+  "description": "A confused, localist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative b",
-    "ideology": "cynical a"
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "localist b"
   },
   "image": "878.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1328",
-  "description": "A determined, pragmatist Zhenya.",
+  "description": "An imaginative, existentialist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined b",
-    "ideology": "pragmatist a"
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "existentialist b"
   },
   "image": "1328.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

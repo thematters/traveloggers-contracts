@@ -1,16 +1,16 @@
 {
   "name": "Matties #1453",
-  "description": "An adventurous, rational Zhenya.",
+  "description": "An exploring, rational Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous a",
-    "ideology": "rational a"
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "rational b"
   },
   "image": "1453.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "exploring"
     }
   ]
 }

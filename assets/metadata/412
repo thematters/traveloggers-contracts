@@ -1,10 +1,10 @@
 {
   "name": "Matties #412",
-  "description": "A nonchalant, pragmatist Valya.",
+  "description": "A hard-working, cynical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "pragmatist b"
+    "character": "hard-working b",
+    "ideology": "cynical a"
   },
   "image": "412.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "Matties #562",
-  "description": "A rebellious, pacifist Gena.",
+  "description": "A sociable, pacifist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "rebellious b",
+    "character": "sociable b",
     "ideology": "pacifist b"
   },
   "image": "562.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "sociable"
     }
   ]
 }

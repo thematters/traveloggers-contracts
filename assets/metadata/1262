@@ -1,10 +1,10 @@
 {
   "name": "Matties #1262",
-  "description": "An adventurous, liberal Gena.",
+  "description": "A nonchalant, pragmatist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "adventurous a",
-    "ideology": "liberal a"
+    "character": "nonchalant a",
+    "ideology": "pragmatist a"
   },
   "image": "1262.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

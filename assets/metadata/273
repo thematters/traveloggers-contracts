@@ -1,16 +1,16 @@
 {
   "name": "Matties #273",
-  "description": "A down-to-earth, pluralistic Lesya.",
+  "description": "An exploring, pluralistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
+    "race": "Valya",
+    "character": "exploring a",
     "ideology": "pluralistic b"
   },
   "image": "273.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "exploring"
     }
   ]
 }

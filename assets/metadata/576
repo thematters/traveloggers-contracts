@@ -1,24 +1,24 @@
 {
   "name": "Matties #576",
-  "description": "An imaginative, cosmopolitan Lesya.",
+  "description": "An exploring, liberal Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "cosmopolitan b"
+    "race": "Yury",
+    "character": "exploring a",
+    "ideology": "liberal a"
   },
   "image": "576.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "exploring"
     }
   ]
 }

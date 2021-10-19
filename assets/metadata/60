@@ -1,24 +1,24 @@
 {
   "name": "Matties #60",
-  "description": "An enthusiastic, conservative Gena.",
+  "description": "A sociable, romantic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic a",
-    "ideology": "conservative a"
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "romantic a"
   },
   "image": "60.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "sociable"
     }
   ]
 }

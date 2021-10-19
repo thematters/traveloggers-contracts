@@ -1,24 +1,24 @@
 {
   "name": "Matties #678",
-  "description": "An extroverted, Marxist Valya.",
+  "description": "A hard-working, skeptical Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "skeptical a"
   },
   "image": "678.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "hard-working"
     }
   ]
 }

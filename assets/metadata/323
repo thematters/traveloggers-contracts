@@ -1,24 +1,24 @@
 {
   "name": "Matties #323",
-  "description": "A chic, conservative Valya.",
+  "description": "An imaginative, optimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "conservative a"
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "optimistic a"
   },
   "image": "323.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "imaginative"
     }
   ]
 }

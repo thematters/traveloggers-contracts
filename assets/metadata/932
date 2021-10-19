@@ -1,24 +1,24 @@
 {
   "name": "Matties #932",
-  "description": "A hard-working, feminist Sasha.",
+  "description": "A confused, Marxist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working a",
-    "ideology": "feminist a"
+    "race": "Valya",
+    "character": "confused b",
+    "ideology": "Marxist a"
   },
   "image": "932.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "confused"
     }
   ]
 }

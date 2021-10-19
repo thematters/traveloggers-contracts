@@ -1,24 +1,24 @@
 {
   "name": "Matties #45",
-  "description": "An imaginative, conservative Gena.",
+  "description": "An introverted, localist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "conservative a"
+    "race": "Lesya",
+    "character": "introverted b",
+    "ideology": "localist b"
   },
   "image": "45.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

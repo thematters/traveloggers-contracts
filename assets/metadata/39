@@ -1,10 +1,10 @@
 {
   "name": "Matties #39",
-  "description": "A sociable, romantic Yury.",
+  "description": "A compassionate, collectivistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable a",
-    "ideology": "romantic a"
+    "character": "compassionate b",
+    "ideology": "collectivistic a"
   },
   "image": "39.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "compassionate"
     }
   ]
 }

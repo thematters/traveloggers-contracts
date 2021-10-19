@@ -1,24 +1,24 @@
 {
   "name": "Matties #1323",
-  "description": "A confused, anarchist Lesya.",
+  "description": "A compassionate, collectivistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused b",
-    "ideology": "anarchist b"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "collectivistic b"
   },
   "image": "1323.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

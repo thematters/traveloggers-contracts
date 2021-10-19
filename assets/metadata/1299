@@ -1,24 +1,24 @@
 {
   "name": "Matties #1299",
-  "description": "A nonchalant, collectivistic Zhenya.",
+  "description": "An enthusiastic, rational Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "collectivistic b"
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "rational a"
   },
   "image": "1299.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "enthusiastic"
     }
   ]
 }

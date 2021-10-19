@@ -1,10 +1,10 @@
 {
   "name": "Matties #212",
-  "description": "A chic, liberal Lesya.",
+  "description": "A hard-working, optimistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic b",
-    "ideology": "liberal b"
+    "character": "hard-working b",
+    "ideology": "optimistic b"
   },
   "image": "212.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "hard-working"
     }
   ]
 }

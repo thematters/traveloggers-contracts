@@ -1,24 +1,24 @@
 {
   "name": "Matties #1492",
-  "description": "A down-to-earth, feminist Gena.",
+  "description": "A practical, cynical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "feminist a"
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "cynical b"
   },
   "image": "1492.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "practical"
     }
   ]
 }

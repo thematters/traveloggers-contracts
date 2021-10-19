@@ -1,24 +1,24 @@
 {
   "name": "Matties #1011",
-  "description": "An extroverted, rational Lesya.",
+  "description": "A chic, Marxist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "rational a"
+    "race": "Yury",
+    "character": "chic b",
+    "ideology": "Marxist b"
   },
   "image": "1011.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

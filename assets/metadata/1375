@@ -1,16 +1,16 @@
 {
   "name": "Matties #1375",
-  "description": "A down-to-earth, pluralistic Sasha.",
+  "description": "A down-to-earth, pluralistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
+    "race": "Yury",
+    "character": "down-to-earth b",
     "ideology": "pluralistic b"
   },
   "image": "1375.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",

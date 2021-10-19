@@ -1,24 +1,24 @@
 {
   "name": "Matties #1088",
-  "description": "A chic, LGBTQ friendly Sasha.",
+  "description": "An analytical, collectivistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "collectivistic b"
   },
   "image": "1088.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "analytical"
     }
   ]
 }

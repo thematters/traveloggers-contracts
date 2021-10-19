@@ -1,24 +1,24 @@
 {
   "name": "Matties #1355",
-  "description": "A practical, skeptical Gena.",
+  "description": "A nonchalant, cynical Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical a",
-    "ideology": "skeptical a"
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "cynical b"
   },
   "image": "1355.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

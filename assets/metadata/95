@@ -1,24 +1,24 @@
 {
   "name": "Matties #95",
-  "description": "An adventurous, cosmopolitan Valya.",
+  "description": "An analytical, pessimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous a",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "pessimistic a"
   },
   "image": "95.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "analytical"
     }
   ]
 }

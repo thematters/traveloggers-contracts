@@ -1,24 +1,24 @@
 {
   "name": "Matties #98",
-  "description": "An imaginative, liberal Valya.",
+  "description": "A chic, pacifist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative b",
-    "ideology": "liberal a"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "pacifist b"
   },
   "image": "98.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "chic"
     }
   ]
 }

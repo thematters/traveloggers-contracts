@@ -1,24 +1,24 @@
 {
   "name": "Matties #446",
-  "description": "An introverted, pragmatist Lesya.",
+  "description": "A nonchalant, optimistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "introverted a",
-    "ideology": "pragmatist b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "optimistic a"
   },
   "image": "446.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1056",
-  "description": "An analytical, liberal Valya.",
+  "description": "An observant, nationalistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical a",
-    "ideology": "liberal b"
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "nationalistic a"
   },
   "image": "1056.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

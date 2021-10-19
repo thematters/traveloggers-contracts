@@ -1,24 +1,24 @@
 {
   "name": "Matties #778",
-  "description": "An enthusiastic, optimistic Valya.",
+  "description": "A confused, skeptical Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "optimistic a"
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "skeptical a"
   },
   "image": "778.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

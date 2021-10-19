@@ -1,24 +1,24 @@
 {
   "name": "Matties #1181",
-  "description": "A confused, rational Sasha.",
+  "description": "A rebellious, liberal Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused b",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "liberal b"
   },
   "image": "1181.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1363",
-  "description": "A chic, conservative Sasha.",
+  "description": "An analytical, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "conservative b"
+    "race": "Yury",
+    "character": "analytical a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1363.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "analytical"
     }
   ]
 }

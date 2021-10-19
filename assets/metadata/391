@@ -1,24 +1,24 @@
 {
   "name": "Matties #391",
-  "description": "An introverted, pessimistic Gena.",
+  "description": "An observant, skeptical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted b",
-    "ideology": "pessimistic b"
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "skeptical a"
   },
   "image": "391.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

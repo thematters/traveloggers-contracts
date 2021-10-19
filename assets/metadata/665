@@ -1,24 +1,24 @@
 {
   "name": "Matties #665",
-  "description": "A practical, romantic Gena.",
+  "description": "An introverted, nationalistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "romantic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "nationalistic b"
   },
   "image": "665.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

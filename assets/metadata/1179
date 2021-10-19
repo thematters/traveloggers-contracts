@@ -1,24 +1,24 @@
 {
   "name": "Matties #1179",
-  "description": "An analytical, existentialist Zhenya.",
+  "description": "A nonchalant, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "existentialist b"
+    "race": "Lesya",
+    "character": "nonchalant a",
+    "ideology": "pluralistic b"
   },
   "image": "1179.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #186",
-  "description": "A self-discipline, pragmatist Yury.",
+  "description": "A determined, skeptical Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "pragmatist b"
+    "race": "Lesya",
+    "character": "determined b",
+    "ideology": "skeptical b"
   },
   "image": "186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

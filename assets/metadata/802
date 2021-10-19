@@ -1,24 +1,24 @@
 {
   "name": "Matties #802",
-  "description": "A compassionate, romantic Valya.",
+  "description": "An imaginative, cosmopolitan Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "romantic a"
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "cosmopolitan b"
   },
   "image": "802.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

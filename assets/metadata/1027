@@ -1,10 +1,10 @@
 {
   "name": "Matties #1027",
-  "description": "An enthusiastic, pragmatist Sasha.",
+  "description": "A chic, collectivistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "pragmatist b"
+    "character": "chic b",
+    "ideology": "collectivistic b"
   },
   "image": "1027.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1053",
-  "description": "A chic, liberal Zhenya.",
+  "description": "An adventurous, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic b",
-    "ideology": "liberal a"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "cosmopolitan b"
   },
   "image": "1053.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "adventurous"
     }
   ]
 }

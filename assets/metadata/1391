@@ -1,24 +1,24 @@
 {
   "name": "Matties #1391",
-  "description": "An extroverted, cynical Valya.",
+  "description": "A sociable, romantic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "sociable a",
+    "ideology": "romantic a"
   },
   "image": "1391.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "sociable"
     }
   ]
 }

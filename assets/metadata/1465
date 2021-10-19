@@ -1,20 +1,20 @@
 {
   "name": "Matties #1465",
-  "description": "A practical, optimistic Sasha.",
+  "description": "A practical, pessimistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Zhenya",
     "character": "practical a",
-    "ideology": "optimistic b"
+    "ideology": "pessimistic a"
   },
   "image": "1465.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",

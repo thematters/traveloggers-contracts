@@ -1,24 +1,24 @@
 {
   "name": "Matties #800",
-  "description": "An analytical, romantic Valya.",
+  "description": "An extroverted, capitalistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
-    "ideology": "romantic b"
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "capitalistic a"
   },
   "image": "800.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

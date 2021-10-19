@@ -1,10 +1,10 @@
 {
   "name": "Matties #833",
-  "description": "An analytical, liberal Sasha.",
+  "description": "A determined, anarchist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "liberal a"
+    "character": "determined a",
+    "ideology": "anarchist b"
   },
   "image": "833.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

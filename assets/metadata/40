@@ -1,24 +1,24 @@
 {
   "name": "Matties #40",
-  "description": "A practical, existentialist Sasha.",
+  "description": "A self-discipline, cynical Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "existentialist a"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "cynical b"
   },
   "image": "40.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "self-discipline"
     }
   ]
 }

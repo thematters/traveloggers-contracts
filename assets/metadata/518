@@ -1,24 +1,24 @@
 {
   "name": "Matties #518",
-  "description": "An exploring, rational Yury.",
+  "description": "A nonchalant, cynical Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring a",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "cynical b"
   },
   "image": "518.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "nonchalant"
     }
   ]
 }

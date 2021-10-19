@@ -1,24 +1,24 @@
 {
   "name": "Matties #584",
-  "description": "A hard-working, existentialist Zhenya.",
+  "description": "A confused, liberal Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working a",
-    "ideology": "existentialist b"
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "liberal a"
   },
   "image": "584.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "confused"
     }
   ]
 }

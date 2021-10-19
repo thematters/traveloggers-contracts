@@ -1,24 +1,24 @@
 {
   "name": "Matties #1352",
-  "description": "An introverted, LGBTQ friendly Zhenya.",
+  "description": "An observant, rational Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted a",
-    "ideology": "LGBTQ friendly a"
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "rational a"
   },
   "image": "1352.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

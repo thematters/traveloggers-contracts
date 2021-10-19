@@ -1,24 +1,24 @@
 {
   "name": "Matties #1472",
-  "description": "An exploring, romantic Gena.",
+  "description": "A nonchalant, liberal Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring a",
-    "ideology": "romantic a"
+    "race": "Valya",
+    "character": "nonchalant b",
+    "ideology": "liberal a"
   },
   "image": "1472.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "nonchalant"
     }
   ]
 }

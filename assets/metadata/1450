@@ -1,10 +1,10 @@
 {
   "name": "Matties #1450",
-  "description": "An enthusiastic, optimistic Zhenya.",
+  "description": "A rebellious, cynical Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "enthusiastic a",
-    "ideology": "optimistic a"
+    "character": "rebellious a",
+    "ideology": "cynical a"
   },
   "image": "1450.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "rebellious"
     }
   ]
 }

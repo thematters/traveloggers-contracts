@@ -1,10 +1,10 @@
 {
   "name": "Matties #394",
-  "description": "An analytical, pluralistic Sasha.",
+  "description": "A confused, romantic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "pluralistic b"
+    "character": "confused a",
+    "ideology": "romantic a"
   },
   "image": "394.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "confused"
     }
   ]
 }

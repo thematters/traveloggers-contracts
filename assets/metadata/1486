@@ -1,24 +1,24 @@
 {
   "name": "Matties #1486",
-  "description": "An exploring, conservative Yury.",
+  "description": "An introverted, nationalistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring a",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "nationalistic a"
   },
   "image": "1486.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "introverted"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "Matties #220",
-  "description": "A chic, liberal Zhenya.",
+  "description": "A hard-working, liberal Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic a",
+    "race": "Yury",
+    "character": "hard-working b",
     "ideology": "liberal b"
   },
   "image": "220.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "hard-working"
     }
   ]
 }

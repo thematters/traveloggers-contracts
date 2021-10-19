@@ -1,16 +1,16 @@
 {
   "name": "Matties #1078",
-  "description": "A nonchalant, romantic Zhenya.",
+  "description": "A self-discipline, romantic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "romantic b"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "romantic a"
   },
   "image": "1078.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "self-discipline"
     }
   ]
 }

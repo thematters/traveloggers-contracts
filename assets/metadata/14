@@ -1,24 +1,24 @@
 {
   "name": "Matties #14",
-  "description": "A determined, Marxist Yury.",
+  "description": "An introverted, pragmatist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined a",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "pragmatist a"
   },
   "image": "14.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "introverted"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "Matties #1335",
-  "description": "A sociable, existentialist Lesya.",
+  "description": "A determined, existentialist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
+    "race": "Zhenya",
+    "character": "determined a",
     "ideology": "existentialist b"
   },
   "image": "1335.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "determined"
     }
   ]
 }

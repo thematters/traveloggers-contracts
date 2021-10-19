@@ -1,10 +1,10 @@
 {
   "name": "Matties #1431",
-  "description": "A nonchalant, nationalistic Zhenya.",
+  "description": "An imaginative, pragmatist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "nationalistic b"
+    "character": "imaginative b",
+    "ideology": "pragmatist b"
   },
   "image": "1431.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

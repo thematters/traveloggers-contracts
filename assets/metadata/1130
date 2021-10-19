@@ -1,24 +1,24 @@
 {
   "name": "Matties #1130",
-  "description": "A confused, pacifist Sasha.",
+  "description": "An introverted, pragmatist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "pacifist a"
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "pragmatist b"
   },
   "image": "1130.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

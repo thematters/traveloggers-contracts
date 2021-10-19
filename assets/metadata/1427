@@ -1,24 +1,24 @@
 {
   "name": "Matties #1427",
-  "description": "A confused, pluralistic Valya.",
+  "description": "An adventurous, anarchist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "anarchist a"
   },
   "image": "1427.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

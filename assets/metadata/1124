@@ -1,24 +1,24 @@
 {
   "name": "Matties #1124",
-  "description": "A confused, optimistic Lesya.",
+  "description": "A compassionate, capitalistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused b",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "capitalistic a"
   },
   "image": "1124.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

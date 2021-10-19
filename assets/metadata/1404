@@ -1,16 +1,16 @@
 {
   "name": "Matties #1404",
-  "description": "A chic, conservative Yury.",
+  "description": "A chic, conservative Valya.",
   "_visual": {
-    "race": "Yury",
+    "race": "Valya",
     "character": "chic a",
-    "ideology": "conservative b"
+    "ideology": "conservative a"
   },
   "image": "1404.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",

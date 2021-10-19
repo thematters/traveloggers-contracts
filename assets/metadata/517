@@ -1,24 +1,24 @@
 {
   "name": "Matties #517",
-  "description": "An analytical, individualistic Sasha.",
+  "description": "A compassionate, Epicurean Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "Epicurean b"
   },
   "image": "517.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #110",
-  "description": "A self-discipline, pluralistic Zhenya.",
+  "description": "A sociable, Marxist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "sociable b",
+    "ideology": "Marxist a"
   },
   "image": "110.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "sociable"
     }
   ]
 }

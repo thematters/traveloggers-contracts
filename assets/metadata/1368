@@ -1,24 +1,24 @@
 {
   "name": "Matties #1368",
-  "description": "An introverted, pragmatist Valya.",
+  "description": "A down-to-earth, localist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted b",
-    "ideology": "pragmatist b"
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "localist a"
   },
   "image": "1368.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

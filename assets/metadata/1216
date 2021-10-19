@@ -1,24 +1,24 @@
 {
   "name": "Matties #1216",
-  "description": "A nonchalant, rational Lesya.",
+  "description": "A practical, pessimistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "rational b"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "pessimistic a"
   },
   "image": "1216.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

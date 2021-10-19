@@ -1,24 +1,24 @@
 {
   "name": "Matties #1386",
-  "description": "A practical, anarchist Zhenya.",
+  "description": "A down-to-earth, rational Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "anarchist b"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "rational a"
   },
   "image": "1386.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "down-to-earth"
     }
   ]
 }

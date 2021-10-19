@@ -1,16 +1,16 @@
 {
   "name": "Matties #377",
-  "description": "A nonchalant, cosmopolitan Zhenya.",
+  "description": "A nonchalant, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
+    "race": "Lesya",
+    "character": "nonchalant a",
     "ideology": "cosmopolitan a"
   },
   "image": "377.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",

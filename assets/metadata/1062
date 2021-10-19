@@ -1,10 +1,10 @@
 {
   "name": "Matties #1062",
-  "description": "A practical, optimistic Zhenya.",
+  "description": "A practical, pluralistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
     "character": "practical a",
-    "ideology": "optimistic a"
+    "ideology": "pluralistic a"
   },
   "image": "1062.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

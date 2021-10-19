@@ -1,24 +1,24 @@
 {
   "name": "Matties #571",
-  "description": "A compassionate, pluralistic Zhenya.",
+  "description": "A confused, rational Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "compassionate b",
-    "ideology": "pluralistic a"
+    "race": "Valya",
+    "character": "confused b",
+    "ideology": "rational a"
   },
   "image": "571.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

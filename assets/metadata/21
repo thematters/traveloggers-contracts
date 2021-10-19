@@ -1,24 +1,24 @@
 {
   "name": "Matties #21",
-  "description": "A rebellious, localist Gena.",
+  "description": "A self-discipline, collectivistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious b",
-    "ideology": "localist b"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "collectivistic b"
   },
   "image": "21.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "self-discipline"
     }
   ]
 }

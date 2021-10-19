@@ -1,24 +1,24 @@
 {
   "name": "Matties #893",
-  "description": "A nonchalant, pragmatist Zhenya.",
+  "description": "A down-to-earth, conservative Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "pragmatist a"
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "conservative a"
   },
   "image": "893.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "down-to-earth"
     }
   ]
 }

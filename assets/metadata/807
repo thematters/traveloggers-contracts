@@ -1,24 +1,24 @@
 {
   "name": "Matties #807",
-  "description": "A chic, romantic Gena.",
+  "description": "A self-discipline, existentialist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic a",
-    "ideology": "romantic a"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "existentialist b"
   },
   "image": "807.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

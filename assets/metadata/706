@@ -1,24 +1,24 @@
 {
   "name": "Matties #706",
-  "description": "An introverted, collectivistic Gena.",
+  "description": "A sociable, romantic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted b",
-    "ideology": "collectivistic b"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "romantic a"
   },
   "image": "706.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "sociable"
     }
   ]
 }

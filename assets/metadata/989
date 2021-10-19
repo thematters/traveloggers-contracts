@@ -1,10 +1,10 @@
 {
   "name": "Matties #989",
-  "description": "A down-to-earth, Epicurean Zhenya.",
+  "description": "An exploring, optimistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "down-to-earth a",
-    "ideology": "Epicurean b"
+    "character": "exploring a",
+    "ideology": "optimistic a"
   },
   "image": "989.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "exploring"
     }
   ]
 }

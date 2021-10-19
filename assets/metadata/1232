@@ -1,24 +1,24 @@
 {
   "name": "Matties #1232",
-  "description": "An imaginative, optimistic Lesya.",
+  "description": "A down-to-earth, localist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "optimistic b"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "localist a"
   },
   "image": "1232.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

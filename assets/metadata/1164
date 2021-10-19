@@ -1,24 +1,24 @@
 {
   "name": "Matties #1164",
-  "description": "A compassionate, individualistic Gena.",
+  "description": "A rebellious, nationalistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "individualistic b"
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "nationalistic b"
   },
   "image": "1164.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

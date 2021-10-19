@@ -1,24 +1,24 @@
 {
   "name": "Matties #327",
-  "description": "A down-to-earth, nationalistic Gena.",
+  "description": "An exploring, cosmopolitan Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "nationalistic a"
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "cosmopolitan a"
   },
   "image": "327.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "exploring"
     }
   ]
 }

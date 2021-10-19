@@ -1,24 +1,24 @@
 {
   "name": "Matties #623",
-  "description": "An enthusiastic, romantic Gena.",
+  "description": "An observant, optimistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic b",
-    "ideology": "romantic b"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "optimistic b"
   },
   "image": "623.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

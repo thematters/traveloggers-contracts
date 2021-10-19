@@ -1,24 +1,24 @@
 {
   "name": "Matties #722",
-  "description": "A confused, cosmopolitan Sasha.",
+  "description": "A down-to-earth, rational Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "rational b"
   },
   "image": "722.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

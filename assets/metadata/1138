@@ -1,24 +1,24 @@
 {
   "name": "Matties #1138",
-  "description": "A confused, liberal Zhenya.",
+  "description": "An imaginative, skeptical Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "liberal a"
+    "race": "Valya",
+    "character": "imaginative b",
+    "ideology": "skeptical b"
   },
   "image": "1138.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

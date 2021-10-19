@@ -1,20 +1,20 @@
 {
   "name": "Matties #475",
-  "description": "A determined, LGBTQ friendly Lesya.",
+  "description": "A determined, nationalistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
+    "race": "Zhenya",
     "character": "determined a",
-    "ideology": "LGBTQ friendly a"
+    "ideology": "nationalistic a"
   },
   "image": "475.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

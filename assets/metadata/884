@@ -1,16 +1,16 @@
 {
   "name": "Matties #884",
-  "description": "An analytical, Epicurean Zhenya.",
+  "description": "An observant, Epicurean Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "Epicurean b"
   },
   "image": "884.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

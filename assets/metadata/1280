@@ -1,10 +1,10 @@
 {
   "name": "Matties #1280",
-  "description": "A determined, conservative Yury.",
+  "description": "A practical, LGBTQ friendly Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "determined a",
-    "ideology": "conservative a"
+    "character": "practical a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1280.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "practical"
     }
   ]
 }

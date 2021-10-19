@@ -1,24 +1,24 @@
 {
   "name": "Matties #1263",
-  "description": "An extroverted, rational Zhenya.",
+  "description": "An introverted, localist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "rational a"
+    "race": "Yury",
+    "character": "introverted a",
+    "ideology": "localist b"
   },
   "image": "1263.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

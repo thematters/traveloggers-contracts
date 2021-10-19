@@ -1,10 +1,10 @@
 {
   "name": "Matties #1099",
-  "description": "An adventurous, individualistic Valya.",
+  "description": "An analytical, rational Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "adventurous a",
-    "ideology": "individualistic a"
+    "character": "analytical a",
+    "ideology": "rational b"
   },
   "image": "1099.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "analytical"
     }
   ]
 }

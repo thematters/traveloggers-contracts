@@ -1,10 +1,10 @@
 {
   "name": "Matties #1412",
-  "description": "An adventurous, cosmopolitan Zhenya.",
+  "description": "An enthusiastic, romantic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "adventurous a",
-    "ideology": "cosmopolitan b"
+    "character": "enthusiastic a",
+    "ideology": "romantic a"
   },
   "image": "1412.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

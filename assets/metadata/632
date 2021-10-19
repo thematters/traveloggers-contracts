@@ -1,24 +1,24 @@
 {
   "name": "Matties #632",
-  "description": "A practical, conservative Sasha.",
+  "description": "A self-discipline, capitalistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "conservative a"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "capitalistic b"
   },
   "image": "632.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #784",
-  "description": "A sociable, nationalistic Yury.",
+  "description": "A self-discipline, capitalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable a",
-    "ideology": "nationalistic a"
+    "character": "self-discipline a",
+    "ideology": "capitalistic b"
   },
   "image": "784.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "self-discipline"
     }
   ]
 }

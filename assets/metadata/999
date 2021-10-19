@@ -1,24 +1,24 @@
 {
   "name": "Matties #999",
-  "description": "A practical, pessimistic Zhenya.",
+  "description": "An imaginative, Epicurean Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "pessimistic a"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "Epicurean a"
   },
   "image": "999.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

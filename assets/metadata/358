@@ -1,24 +1,24 @@
 {
   "name": "Matties #358",
-  "description": "A down-to-earth, rational Sasha.",
+  "description": "A rebellious, conservative Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "rational b"
+    "race": "Yury",
+    "character": "rebellious b",
+    "ideology": "conservative b"
   },
   "image": "358.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

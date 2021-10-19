@@ -1,24 +1,24 @@
 {
   "name": "Matties #399",
-  "description": "A self-discipline, Epicurean Lesya.",
+  "description": "A nonchalant, pacifist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "Epicurean a"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "pacifist b"
   },
   "image": "399.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #679",
-  "description": "A practical, liberal Zhenya.",
+  "description": "An adventurous, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "liberal a"
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "679.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

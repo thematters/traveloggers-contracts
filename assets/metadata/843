@@ -1,24 +1,24 @@
 {
   "name": "Matties #843",
-  "description": "A compassionate, optimistic Sasha.",
+  "description": "A practical, conservative Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate a",
-    "ideology": "optimistic b"
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "conservative a"
   },
   "image": "843.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "practical"
     }
   ]
 }

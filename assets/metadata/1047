@@ -1,10 +1,10 @@
 {
   "name": "Matties #1047",
-  "description": "A down-to-earth, localist Lesya.",
+  "description": "A chic, rational Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "localist b"
+    "character": "chic a",
+    "ideology": "rational b"
   },
   "image": "1047.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "chic"
     }
   ]
 }

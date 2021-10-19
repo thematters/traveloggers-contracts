@@ -1,10 +1,10 @@
 {
   "name": "Matties #244",
-  "description": "A confused, optimistic Yury.",
+  "description": "An observant, capitalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "confused b",
-    "ideology": "optimistic b"
+    "character": "observant a",
+    "ideology": "capitalistic a"
   },
   "image": "244.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

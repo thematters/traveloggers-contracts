@@ -1,16 +1,16 @@
 {
   "name": "Matties #935",
-  "description": "A determined, capitalistic Valya.",
+  "description": "A nonchalant, capitalistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined a",
+    "race": "Lesya",
+    "character": "nonchalant a",
     "ideology": "capitalistic b"
   },
   "image": "935.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "nonchalant"
     }
   ]
 }

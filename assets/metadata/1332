@@ -1,24 +1,24 @@
 {
   "name": "Matties #1332",
-  "description": "A rebellious, romantic Zhenya.",
+  "description": "A chic, nationalistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious b",
-    "ideology": "romantic a"
+    "race": "Gena",
+    "character": "chic a",
+    "ideology": "nationalistic a"
   },
   "image": "1332.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "chic"
     }
   ]
 }

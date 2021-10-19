@@ -1,10 +1,10 @@
 {
   "name": "Matties #805",
-  "description": "An imaginative, pessimistic Gena.",
+  "description": "A compassionate, romantic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "pessimistic a"
+    "character": "compassionate a",
+    "ideology": "romantic a"
   },
   "image": "805.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

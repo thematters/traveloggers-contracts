@@ -1,24 +1,24 @@
 {
   "name": "Matties #964",
-  "description": "A hard-working, cosmopolitan Yury.",
+  "description": "A nonchalant, collectivistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working b",
-    "ideology": "cosmopolitan b"
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "collectivistic b"
   },
   "image": "964.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "nonchalant"
     }
   ]
 }

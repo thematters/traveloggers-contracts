@@ -1,20 +1,20 @@
 {
   "name": "Matties #1310",
-  "description": "A nonchalant, Marxist Sasha.",
+  "description": "A nonchalant, anarchist Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "Marxist b"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "anarchist a"
   },
   "image": "1310.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

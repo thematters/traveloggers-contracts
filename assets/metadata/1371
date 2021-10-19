@@ -1,10 +1,10 @@
 {
   "name": "Matties #1371",
-  "description": "An extroverted, pacifist Sasha.",
+  "description": "An imaginative, optimistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "extroverted a",
-    "ideology": "pacifist b"
+    "character": "imaginative a",
+    "ideology": "optimistic b"
   },
   "image": "1371.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

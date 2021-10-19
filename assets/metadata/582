@@ -1,24 +1,24 @@
 {
   "name": "Matties #582",
-  "description": "A determined, anarchist Yury.",
+  "description": "An imaginative, feminist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined a",
-    "ideology": "anarchist b"
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "feminist a"
   },
   "image": "582.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

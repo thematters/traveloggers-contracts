@@ -1,16 +1,16 @@
 {
   "name": "Matties #1198",
-  "description": "A practical, pacifist Zhenya.",
+  "description": "A nonchalant, pacifist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical b",
+    "race": "Yury",
+    "character": "nonchalant b",
     "ideology": "pacifist a"
   },
   "image": "1198.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

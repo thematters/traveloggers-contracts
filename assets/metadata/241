@@ -1,24 +1,24 @@
 {
   "name": "Matties #241",
-  "description": "A determined, cynical Yury.",
+  "description": "An imaginative, skeptical Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "skeptical a"
   },
   "image": "241.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

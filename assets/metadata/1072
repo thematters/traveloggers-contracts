@@ -1,24 +1,24 @@
 {
   "name": "Matties #1072",
-  "description": "A determined, cosmopolitan Yury.",
+  "description": "An enthusiastic, pacifist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "pacifist a"
   },
   "image": "1072.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "enthusiastic"
     }
   ]
 }

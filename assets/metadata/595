@@ -1,24 +1,24 @@
 {
   "name": "Matties #595",
-  "description": "An enthusiastic, romantic Valya.",
+  "description": "An introverted, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "romantic b"
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "595.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "introverted"
     }
   ]
 }

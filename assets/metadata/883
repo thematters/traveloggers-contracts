@@ -1,10 +1,10 @@
 {
   "name": "Matties #883",
-  "description": "A chic, optimistic Lesya.",
+  "description": "An introverted, Epicurean Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic a",
-    "ideology": "optimistic a"
+    "character": "introverted a",
+    "ideology": "Epicurean a"
   },
   "image": "883.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

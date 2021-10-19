@@ -1,16 +1,16 @@
 {
   "name": "Matties #1250",
-  "description": "A self-discipline, LGBTQ friendly Yury.",
+  "description": "An imaginative, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
+    "race": "Valya",
+    "character": "imaginative b",
     "ideology": "LGBTQ friendly a"
   },
   "image": "1250.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "imaginative"
     }
   ]
 }

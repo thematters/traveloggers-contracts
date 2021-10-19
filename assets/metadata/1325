@@ -1,24 +1,24 @@
 {
   "name": "Matties #1325",
-  "description": "An enthusiastic, Marxist Yury.",
+  "description": "A determined, individualistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "enthusiastic b",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "individualistic a"
   },
   "image": "1325.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

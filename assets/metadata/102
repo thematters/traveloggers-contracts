@@ -1,24 +1,24 @@
 {
   "name": "Matties #102",
-  "description": "A hard-working, Epicurean Gena.",
+  "description": "An extroverted, feminist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "feminist a"
   },
   "image": "102.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

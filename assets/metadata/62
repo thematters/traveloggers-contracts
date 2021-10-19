@@ -1,24 +1,24 @@
 {
   "name": "Matties #62",
-  "description": "An analytical, Epicurean Sasha.",
+  "description": "An introverted, Marxist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "Epicurean a"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "Marxist a"
   },
   "image": "62.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

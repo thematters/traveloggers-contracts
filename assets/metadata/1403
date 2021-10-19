@@ -1,20 +1,20 @@
 {
   "name": "Matties #1403",
-  "description": "An analytical, liberal Lesya.",
+  "description": "An analytical, pacifist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical a",
-    "ideology": "liberal b"
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "pacifist b"
   },
   "image": "1403.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",

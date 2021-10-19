@@ -1,24 +1,24 @@
 {
   "name": "Matties #915",
-  "description": "A compassionate, conservative Valya.",
+  "description": "A chic, collectivistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "conservative a"
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "collectivistic b"
   },
   "image": "915.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "chic"
     }
   ]
 }

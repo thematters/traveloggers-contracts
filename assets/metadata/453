@@ -1,24 +1,24 @@
 {
   "name": "Matties #453",
-  "description": "An extroverted, LGBTQ friendly Zhenya.",
+  "description": "An enthusiastic, conservative Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "conservative b"
   },
   "image": "453.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

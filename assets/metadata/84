@@ -1,24 +1,24 @@
 {
   "name": "Matties #84",
-  "description": "A practical, cynical Sasha.",
+  "description": "A chic, pragmatist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical b",
-    "ideology": "cynical a"
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "pragmatist a"
   },
   "image": "84.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "chic"
     }
   ]
 }

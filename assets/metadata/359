@@ -1,10 +1,10 @@
 {
   "name": "Matties #359",
-  "description": "A confused, pragmatist Zhenya.",
+  "description": "A confused, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
     "character": "confused a",
-    "ideology": "pragmatist b"
+    "ideology": "cosmopolitan b"
   },
   "image": "359.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",

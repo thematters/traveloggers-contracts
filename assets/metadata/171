@@ -1,24 +1,24 @@
 {
   "name": "Matties #171",
-  "description": "An analytical, conservative Lesya.",
+  "description": "A self-discipline, rational Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical a",
-    "ideology": "conservative b"
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "rational b"
   },
   "image": "171.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

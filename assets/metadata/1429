@@ -1,24 +1,24 @@
 {
   "name": "Matties #1429",
-  "description": "An introverted, localist Yury.",
+  "description": "A down-to-earth, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted a",
-    "ideology": "localist b"
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan b"
   },
   "image": "1429.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

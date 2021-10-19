@@ -1,24 +1,24 @@
 {
   "name": "Matties #450",
-  "description": "A self-discipline, pessimistic Lesya.",
+  "description": "A confused, pacifist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline b",
-    "ideology": "pessimistic b"
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "pacifist a"
   },
   "image": "450.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1048",
-  "description": "An extroverted, individualistic Zhenya.",
+  "description": "A sociable, capitalistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "individualistic a"
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "capitalistic a"
   },
   "image": "1048.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "sociable"
     }
   ]
 }

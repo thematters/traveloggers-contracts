@@ -1,24 +1,24 @@
 {
   "name": "Matties #409",
-  "description": "A hard-working, cosmopolitan Lesya.",
+  "description": "A nonchalant, localist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "cosmopolitan b"
+    "race": "Gena",
+    "character": "nonchalant a",
+    "ideology": "localist a"
   },
   "image": "409.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "nonchalant"
     }
   ]
 }

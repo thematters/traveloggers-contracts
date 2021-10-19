@@ -1,24 +1,24 @@
 {
   "name": "Matties #29",
-  "description": "A down-to-earth, pluralistic Gena.",
+  "description": "An analytical, cosmopolitan Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "pluralistic a"
+    "race": "Yury",
+    "character": "analytical a",
+    "ideology": "cosmopolitan a"
   },
   "image": "29.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

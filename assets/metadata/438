@@ -1,24 +1,24 @@
 {
   "name": "Matties #438",
-  "description": "A nonchalant, nationalistic Gena.",
+  "description": "A self-discipline, feminist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant b",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "feminist b"
   },
   "image": "438.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #977",
-  "description": "A down-to-earth, Marxist Gena.",
+  "description": "A sociable, feminist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "Marxist b"
+    "character": "sociable a",
+    "ideology": "feminist b"
   },
   "image": "977.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "sociable"
     }
   ]
 }

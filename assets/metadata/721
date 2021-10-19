@@ -1,10 +1,10 @@
 {
   "name": "Matties #721",
-  "description": "A nonchalant, pacifist Sasha.",
+  "description": "A hard-working, collectivistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "pacifist b"
+    "character": "hard-working b",
+    "ideology": "collectivistic a"
   },
   "image": "721.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

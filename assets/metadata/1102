@@ -1,24 +1,24 @@
 {
   "name": "Matties #1102",
-  "description": "A hard-working, localist Yury.",
+  "description": "A sociable, collectivistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working a",
-    "ideology": "localist b"
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "collectivistic b"
   },
   "image": "1102.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "sociable"
     }
   ]
 }

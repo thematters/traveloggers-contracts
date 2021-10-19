@@ -1,10 +1,10 @@
 {
   "name": "Matties #477",
-  "description": "An observant, nationalistic Zhenya.",
+  "description": "A nonchalant, rational Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "observant a",
-    "ideology": "nationalistic b"
+    "character": "nonchalant a",
+    "ideology": "rational b"
   },
   "image": "477.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

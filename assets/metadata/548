@@ -1,10 +1,10 @@
 {
   "name": "Matties #548",
-  "description": "A sociable, individualistic Gena.",
+  "description": "A practical, cosmopolitan Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "sociable a",
-    "ideology": "individualistic b"
+    "character": "practical b",
+    "ideology": "cosmopolitan a"
   },
   "image": "548.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "practical"
     }
   ]
 }

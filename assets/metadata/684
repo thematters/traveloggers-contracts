@@ -1,20 +1,20 @@
 {
   "name": "Matties #684",
-  "description": "An observant, nationalistic Lesya.",
+  "description": "An observant, liberal Valya.",
   "_visual": {
-    "race": "Lesya",
+    "race": "Valya",
     "character": "observant a",
-    "ideology": "nationalistic a"
+    "ideology": "liberal b"
   },
   "image": "684.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
   "name": "Matties #885",
-  "description": "A rebellious, optimistic Sasha.",
+  "description": "An observant, cynical Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious a",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "cynical a"
   },
   "image": "885.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

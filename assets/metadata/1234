@@ -1,24 +1,24 @@
 {
   "name": "Matties #1234",
-  "description": "A nonchalant, individualistic Yury.",
+  "description": "A chic, anarchist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "chic b",
+    "ideology": "anarchist a"
   },
   "image": "1234.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

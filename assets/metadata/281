@@ -1,20 +1,20 @@
 {
   "name": "Matties #281",
-  "description": "An exploring, LGBTQ friendly Yury.",
+  "description": "An exploring, liberal Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "liberal a"
   },
   "image": "281.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

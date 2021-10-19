@@ -1,24 +1,24 @@
 {
   "name": "Matties #707",
-  "description": "An analytical, nationalistic Zhenya.",
+  "description": "An exploring, cynical Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "nationalistic a"
+    "race": "Sasha",
+    "character": "exploring a",
+    "ideology": "cynical a"
   },
   "image": "707.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "exploring"
     }
   ]
 }

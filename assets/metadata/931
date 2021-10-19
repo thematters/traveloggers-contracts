@@ -1,24 +1,24 @@
 {
   "name": "Matties #931",
-  "description": "An enthusiastic, Marxist Valya.",
+  "description": "A chic, romantic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "Marxist b"
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "romantic a"
   },
   "image": "931.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

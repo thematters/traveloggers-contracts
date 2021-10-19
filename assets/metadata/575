@@ -1,16 +1,16 @@
 {
   "name": "Matties #575",
-  "description": "A self-discipline, pluralistic Sasha.",
+  "description": "A determined, pluralistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "self-discipline b",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "pluralistic a"
   },
   "image": "575.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

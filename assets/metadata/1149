@@ -1,24 +1,24 @@
 {
   "name": "Matties #1149",
-  "description": "An extroverted, collectivistic Gena.",
+  "description": "A rebellious, cynical Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "collectivistic a"
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "cynical b"
   },
   "image": "1149.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "rebellious"
     }
   ]
 }

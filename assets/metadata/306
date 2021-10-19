@@ -1,24 +1,24 @@
 {
   "name": "Matties #306",
-  "description": "An exploring, rational Lesya.",
+  "description": "A hard-working, anarchist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring b",
-    "ideology": "rational b"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "anarchist b"
   },
   "image": "306.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "hard-working"
     }
   ]
 }

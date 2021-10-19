@@ -1,24 +1,24 @@
 {
   "name": "Matties #1314",
-  "description": "A sociable, Marxist Lesya.",
+  "description": "An enthusiastic, collectivistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "collectivistic a"
   },
   "image": "1314.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

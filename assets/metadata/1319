@@ -1,24 +1,24 @@
 {
   "name": "Matties #1319",
-  "description": "An exploring, pessimistic Gena.",
+  "description": "A down-to-earth, localist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring a",
-    "ideology": "pessimistic b"
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "localist b"
   },
   "image": "1319.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

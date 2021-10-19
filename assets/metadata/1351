@@ -1,24 +1,24 @@
 {
   "name": "Matties #1351",
-  "description": "An imaginative, localist Valya.",
+  "description": "A chic, individualistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "localist a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "individualistic a"
   },
   "image": "1351.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "chic"
     }
   ]
 }

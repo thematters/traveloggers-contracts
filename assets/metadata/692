@@ -1,24 +1,24 @@
 {
   "name": "Matties #692",
-  "description": "A nonchalant, feminist Zhenya.",
+  "description": "A compassionate, capitalistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "feminist a"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "capitalistic b"
   },
   "image": "692.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

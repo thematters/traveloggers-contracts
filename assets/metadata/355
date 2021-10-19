@@ -1,10 +1,10 @@
 {
   "name": "Matties #355",
-  "description": "A chic, rational Lesya.",
+  "description": "A sociable, nationalistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic b",
-    "ideology": "rational a"
+    "character": "sociable b",
+    "ideology": "nationalistic a"
   },
   "image": "355.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

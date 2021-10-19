@@ -1,24 +1,24 @@
 {
   "name": "Matties #903",
-  "description": "A confused, pacifist Yury.",
+  "description": "An observant, Epicurean Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused a",
-    "ideology": "pacifist a"
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "Epicurean b"
   },
   "image": "903.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

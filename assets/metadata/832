@@ -1,24 +1,24 @@
 {
   "name": "Matties #832",
-  "description": "A compassionate, capitalistic Yury.",
+  "description": "An introverted, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate a",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "832.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

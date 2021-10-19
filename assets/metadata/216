@@ -1,24 +1,24 @@
 {
   "name": "Matties #216",
-  "description": "An adventurous, pacifist Zhenya.",
+  "description": "A hard-working, localist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous a",
-    "ideology": "pacifist b"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "localist a"
   },
   "image": "216.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "hard-working"
     }
   ]
 }

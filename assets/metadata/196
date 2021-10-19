@@ -1,24 +1,24 @@
 {
   "name": "Matties #196",
-  "description": "An enthusiastic, individualistic Zhenya.",
+  "description": "A chic, capitalistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "individualistic b"
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "capitalistic a"
   },
   "image": "196.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #1294",
-  "description": "An analytical, skeptical Lesya.",
+  "description": "An analytical, individualistic Lesya.",
   "_visual": {
     "race": "Lesya",
     "character": "analytical a",
-    "ideology": "skeptical b"
+    "ideology": "individualistic a"
   },
   "image": "1294.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",

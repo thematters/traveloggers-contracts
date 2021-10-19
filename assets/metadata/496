@@ -1,10 +1,10 @@
 {
   "name": "Matties #496",
-  "description": "A nonchalant, romantic Lesya.",
+  "description": "An imaginative, localist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "romantic b"
+    "character": "imaginative a",
+    "ideology": "localist b"
   },
   "image": "496.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

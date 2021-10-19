@@ -1,24 +1,24 @@
 {
   "name": "Matties #1322",
-  "description": "A determined, pragmatist Gena.",
+  "description": "An observant, pluralistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "pragmatist b"
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "pluralistic a"
   },
   "image": "1322.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

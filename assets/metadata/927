@@ -1,24 +1,24 @@
 {
   "name": "Matties #927",
-  "description": "An adventurous, collectivistic Gena.",
+  "description": "A sociable, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous b",
-    "ideology": "collectivistic a"
+    "race": "Yury",
+    "character": "sociable b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "927.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

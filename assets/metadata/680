@@ -1,24 +1,24 @@
 {
   "name": "Matties #680",
-  "description": "A compassionate, individualistic Valya.",
+  "description": "An introverted, cynical Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "cynical b"
   },
   "image": "680.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

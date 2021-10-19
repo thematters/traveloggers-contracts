@@ -1,10 +1,10 @@
 {
   "name": "Matties #1306",
-  "description": "An extroverted, pluralistic Yury.",
+  "description": "An adventurous, collectivistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "pluralistic a"
+    "character": "adventurous b",
+    "ideology": "collectivistic b"
   },
   "image": "1306.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "adventurous"
     }
   ]
 }

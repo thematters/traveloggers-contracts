@@ -1,10 +1,10 @@
 {
   "name": "Matties #906",
-  "description": "A sociable, Epicurean Zhenya.",
+  "description": "An enthusiastic, romantic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "sociable a",
-    "ideology": "Epicurean a"
+    "character": "enthusiastic a",
+    "ideology": "romantic b"
   },
   "image": "906.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

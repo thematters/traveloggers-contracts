@@ -1,10 +1,10 @@
 {
   "name": "Matties #1377",
-  "description": "An introverted, LGBTQ friendly Valya.",
+  "description": "An exploring, cynical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "introverted a",
-    "ideology": "LGBTQ friendly b"
+    "character": "exploring a",
+    "ideology": "cynical b"
   },
   "image": "1377.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "exploring"
     }
   ]
 }

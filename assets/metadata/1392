@@ -1,24 +1,24 @@
 {
   "name": "Matties #1392",
-  "description": "A hard-working, individualistic Valya.",
+  "description": "An extroverted, Marxist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working a",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "Marxist a"
   },
   "image": "1392.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

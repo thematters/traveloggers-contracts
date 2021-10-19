@@ -1,24 +1,24 @@
 {
   "name": "Matties #1367",
-  "description": "A compassionate, cynical Lesya.",
+  "description": "An exploring, existentialist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate a",
-    "ideology": "cynical a"
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "existentialist b"
   },
   "image": "1367.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "exploring"
     }
   ]
 }

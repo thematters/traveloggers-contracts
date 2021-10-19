@@ -1,10 +1,10 @@
 {
   "name": "Matties #76",
-  "description": "An extroverted, nationalistic Valya.",
+  "description": "A chic, pessimistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "nationalistic a"
+    "character": "chic a",
+    "ideology": "pessimistic b"
   },
   "image": "76.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

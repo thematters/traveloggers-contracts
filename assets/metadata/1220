@@ -1,16 +1,16 @@
 {
   "name": "Matties #1220",
-  "description": "A sociable, collectivistic Lesya.",
+  "description": "A chic, collectivistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "collectivistic a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "collectivistic b"
   },
   "image": "1220.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "chic"
     }
   ]
 }

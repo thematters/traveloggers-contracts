@@ -1,16 +1,16 @@
 {
   "name": "Matties #788",
-  "description": "A chic, localist Valya.",
+  "description": "A self-discipline, localist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "localist a"
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "localist b"
   },
   "image": "788.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #750",
-  "description": "An extroverted, nationalistic Yury.",
+  "description": "A determined, individualistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted a",
-    "ideology": "nationalistic a"
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "individualistic b"
   },
   "image": "750.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

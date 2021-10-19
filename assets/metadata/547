@@ -1,10 +1,10 @@
 {
   "name": "Matties #547",
-  "description": "A down-to-earth, romantic Lesya.",
+  "description": "A rebellious, anarchist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "romantic b"
+    "character": "rebellious b",
+    "ideology": "anarchist b"
   },
   "image": "547.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1063",
-  "description": "An observant, conservative Gena.",
+  "description": "A practical, cynical Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant b",
-    "ideology": "conservative b"
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "cynical b"
   },
   "image": "1063.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

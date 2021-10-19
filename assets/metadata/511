@@ -1,16 +1,16 @@
 {
   "name": "Matties #511",
-  "description": "A hard-working, optimistic Lesya.",
+  "description": "An enthusiastic, optimistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
+    "race": "Gena",
+    "character": "enthusiastic b",
     "ideology": "optimistic b"
   },
   "image": "511.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "enthusiastic"
     }
   ]
 }

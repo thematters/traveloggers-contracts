@@ -1,24 +1,24 @@
 {
   "name": "Matties #402",
-  "description": "An adventurous, collectivistic Zhenya.",
+  "description": "A determined, nationalistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous b",
-    "ideology": "collectivistic b"
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "nationalistic b"
   },
   "image": "402.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "determined"
     }
   ]
 }

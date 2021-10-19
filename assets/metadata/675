@@ -1,16 +1,16 @@
 {
   "name": "Matties #675",
-  "description": "A self-discipline, existentialist Sasha.",
+  "description": "An observant, existentialist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "self-discipline a",
-    "ideology": "existentialist a"
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "existentialist b"
   },
   "image": "675.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

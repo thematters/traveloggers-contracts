@@ -1,24 +1,24 @@
 {
   "name": "Matties #483",
-  "description": "A practical, Epicurean Sasha.",
+  "description": "A hard-working, pacifist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "Epicurean b"
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "pacifist b"
   },
   "image": "483.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "hard-working"
     }
   ]
 }

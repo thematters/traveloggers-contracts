@@ -1,16 +1,16 @@
 {
   "name": "Matties #425",
-  "description": "A confused, Marxist Sasha.",
+  "description": "A down-to-earth, Marxist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused b",
+    "race": "Gena",
+    "character": "down-to-earth b",
     "ideology": "Marxist a"
   },
   "image": "425.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

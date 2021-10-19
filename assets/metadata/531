@@ -1,16 +1,16 @@
 {
   "name": "Matties #531",
-  "description": "A chic, capitalistic Sasha.",
+  "description": "A nonchalant, capitalistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "capitalistic b"
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "capitalistic a"
   },
   "image": "531.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

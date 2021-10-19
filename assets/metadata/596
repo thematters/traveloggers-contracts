@@ -1,24 +1,24 @@
 {
   "name": "Matties #596",
-  "description": "A self-discipline, skeptical Gena.",
+  "description": "An exploring, LGBTQ friendly Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline b",
-    "ideology": "skeptical b"
+    "race": "Sasha",
+    "character": "exploring b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "596.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "exploring"
     }
   ]
 }

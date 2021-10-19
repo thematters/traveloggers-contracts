@@ -1,20 +1,20 @@
 {
   "name": "Matties #808",
-  "description": "An extroverted, romantic Yury.",
+  "description": "An extroverted, Marxist Lesya.",
   "_visual": {
-    "race": "Yury",
+    "race": "Lesya",
     "character": "extroverted a",
-    "ideology": "romantic a"
+    "ideology": "Marxist b"
   },
   "image": "808.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

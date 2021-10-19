@@ -1,24 +1,24 @@
 {
   "name": "Matties #1185",
-  "description": "A hard-working, liberal Lesya.",
+  "description": "A compassionate, feminist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "liberal a"
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "feminist a"
   },
   "image": "1185.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "compassionate"
     }
   ]
 }

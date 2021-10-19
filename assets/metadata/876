@@ -1,24 +1,24 @@
 {
   "name": "Matties #876",
-  "description": "A compassionate, Epicurean Lesya.",
+  "description": "An observant, skeptical Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate a",
-    "ideology": "Epicurean b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "skeptical b"
   },
   "image": "876.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

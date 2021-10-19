@@ -1,16 +1,16 @@
 {
   "name": "Matties #96",
-  "description": "A confused, existentialist Valya.",
+  "description": "An extroverted, existentialist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "existentialist b"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "existentialist a"
   },
   "image": "96.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

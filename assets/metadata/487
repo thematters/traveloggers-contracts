@@ -1,24 +1,24 @@
 {
   "name": "Matties #487",
-  "description": "A sociable, optimistic Yury.",
+  "description": "An introverted, liberal Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "sociable a",
-    "ideology": "optimistic a"
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "liberal a"
   },
   "image": "487.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "introverted"
     }
   ]
 }

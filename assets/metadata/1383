@@ -1,24 +1,24 @@
 {
   "name": "Matties #1383",
-  "description": "An imaginative, liberal Lesya.",
+  "description": "An observant, Marxist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative b",
-    "ideology": "liberal b"
+    "race": "Yury",
+    "character": "observant a",
+    "ideology": "Marxist a"
   },
   "image": "1383.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "observant"
     }
   ]
 }

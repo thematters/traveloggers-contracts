@@ -1,24 +1,24 @@
 {
   "name": "Matties #890",
-  "description": "A confused, Marxist Zhenya.",
+  "description": "A sociable, pragmatist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "pragmatist b"
   },
   "image": "890.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "sociable"
     }
   ]
 }

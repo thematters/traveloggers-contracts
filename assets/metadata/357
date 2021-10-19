@@ -1,16 +1,16 @@
 {
   "name": "Matties #357",
-  "description": "A chic, romantic Yury.",
+  "description": "A down-to-earth, romantic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "chic a",
+    "race": "Sasha",
+    "character": "down-to-earth a",
     "ideology": "romantic a"
   },
   "image": "357.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "down-to-earth"
     }
   ]
 }

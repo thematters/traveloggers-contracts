@@ -1,10 +1,10 @@
 {
   "name": "Matties #452",
-  "description": "A compassionate, existentialist Zhenya.",
+  "description": "An imaginative, anarchist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "compassionate a",
-    "ideology": "existentialist b"
+    "character": "imaginative a",
+    "ideology": "anarchist a"
   },
   "image": "452.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

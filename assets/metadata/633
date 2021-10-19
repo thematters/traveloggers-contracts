@@ -1,24 +1,24 @@
 {
   "name": "Matties #633",
-  "description": "A confused, liberal Valya.",
+  "description": "A hard-working, pacifist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "liberal a"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "pacifist b"
   },
   "image": "633.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

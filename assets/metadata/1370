@@ -1,10 +1,10 @@
 {
   "name": "Matties #1370",
-  "description": "A practical, Epicurean Sasha.",
+  "description": "A nonchalant, capitalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "practical b",
-    "ideology": "Epicurean a"
+    "character": "nonchalant b",
+    "ideology": "capitalistic b"
   },
   "image": "1370.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

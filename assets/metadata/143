@@ -1,10 +1,10 @@
 {
   "name": "Matties #143",
-  "description": "A practical, individualistic Yury.",
+  "description": "A hard-working, skeptical Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "practical a",
-    "ideology": "individualistic a"
+    "character": "hard-working b",
+    "ideology": "skeptical b"
   },
   "image": "143.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "hard-working"
     }
   ]
 }

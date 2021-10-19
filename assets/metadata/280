@@ -1,24 +1,24 @@
 {
   "name": "Matties #280",
-  "description": "An exploring, cynical Zhenya.",
+  "description": "A practical, capitalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "capitalistic b"
   },
   "image": "280.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "practical"
     }
   ]
 }

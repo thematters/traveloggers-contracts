@@ -1,24 +1,24 @@
 {
   "name": "Matties #615",
-  "description": "An introverted, pacifist Zhenya.",
+  "description": "An observant, Epicurean Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted a",
-    "ideology": "pacifist a"
+    "race": "Yury",
+    "character": "observant a",
+    "ideology": "Epicurean b"
   },
   "image": "615.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

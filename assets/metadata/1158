@@ -1,24 +1,24 @@
 {
   "name": "Matties #1158",
-  "description": "A confused, pluralistic Zhenya.",
+  "description": "An observant, pessimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "pluralistic a"
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "pessimistic a"
   },
   "image": "1158.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

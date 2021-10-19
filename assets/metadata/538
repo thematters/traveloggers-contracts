@@ -1,24 +1,24 @@
 {
   "name": "Matties #538",
-  "description": "A hard-working, LGBTQ friendly Valya.",
+  "description": "A rebellious, existentialist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "existentialist b"
   },
   "image": "538.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "rebellious"
     }
   ]
 }

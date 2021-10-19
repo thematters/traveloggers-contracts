@@ -1,24 +1,24 @@
 {
   "name": "Matties #658",
-  "description": "A sociable, Epicurean Sasha.",
+  "description": "An enthusiastic, rational Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "sociable b",
-    "ideology": "Epicurean a"
+    "race": "Yury",
+    "character": "enthusiastic b",
+    "ideology": "rational b"
   },
   "image": "658.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

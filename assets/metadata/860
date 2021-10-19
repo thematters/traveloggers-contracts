@@ -1,24 +1,24 @@
 {
   "name": "Matties #860",
-  "description": "An extroverted, Epicurean Valya.",
+  "description": "An imaginative, conservative Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "imaginative b",
+    "ideology": "conservative a"
   },
   "image": "860.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1003",
-  "description": "A determined, liberal Zhenya.",
+  "description": "A rebellious, individualistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "liberal b"
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "individualistic b"
   },
   "image": "1003.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "rebellious"
     }
   ]
 }

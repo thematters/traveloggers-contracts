@@ -1,24 +1,24 @@
 {
   "name": "Matties #891",
-  "description": "An enthusiastic, capitalistic Lesya.",
+  "description": "A nonchalant, skeptical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic a",
-    "ideology": "capitalistic b"
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "skeptical b"
   },
   "image": "891.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "nonchalant"
     }
   ]
 }

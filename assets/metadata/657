@@ -1,24 +1,24 @@
 {
   "name": "Matties #657",
-  "description": "A confused, localist Zhenya.",
+  "description": "An extroverted, pacifist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "localist b"
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "pacifist b"
   },
   "image": "657.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

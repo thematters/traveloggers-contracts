@@ -1,24 +1,24 @@
 {
   "name": "Matties #960",
-  "description": "An observant, cynical Lesya.",
+  "description": "An adventurous, pluralistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant b",
-    "ideology": "cynical a"
+    "race": "Zhenya",
+    "character": "adventurous a",
+    "ideology": "pluralistic b"
   },
   "image": "960.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

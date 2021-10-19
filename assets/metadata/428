@@ -1,16 +1,16 @@
 {
   "name": "Matties #428",
-  "description": "A chic, skeptical Valya.",
+  "description": "A nonchalant, skeptical Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic b",
+    "race": "Sasha",
+    "character": "nonchalant b",
     "ideology": "skeptical b"
   },
   "image": "428.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

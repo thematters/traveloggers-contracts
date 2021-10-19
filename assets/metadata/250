@@ -1,24 +1,24 @@
 {
   "name": "Matties #250",
-  "description": "An adventurous, pessimistic Yury.",
+  "description": "An imaginative, collectivistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous b",
-    "ideology": "pessimistic b"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "collectivistic a"
   },
   "image": "250.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "imaginative"
     }
   ]
 }

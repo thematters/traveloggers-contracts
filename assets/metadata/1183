@@ -1,24 +1,24 @@
 {
   "name": "Matties #1183",
-  "description": "A down-to-earth, cynical Zhenya.",
+  "description": "A determined, skeptical Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "down-to-earth a",
-    "ideology": "cynical a"
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "skeptical b"
   },
   "image": "1183.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

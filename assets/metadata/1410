@@ -1,24 +1,24 @@
 {
   "name": "Matties #1410",
-  "description": "An imaginative, pragmatist Lesya.",
+  "description": "A determined, liberal Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "pragmatist b"
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "liberal b"
   },
   "image": "1410.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "determined"
     }
   ]
 }

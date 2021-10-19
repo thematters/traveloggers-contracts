@@ -1,24 +1,24 @@
 {
   "name": "Matties #738",
-  "description": "A nonchalant, localist Sasha.",
+  "description": "A hard-working, individualistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "localist a"
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "individualistic b"
   },
   "image": "738.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

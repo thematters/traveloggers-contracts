@@ -1,16 +1,16 @@
 {
   "name": "Matties #67",
-  "description": "An adventurous, optimistic Zhenya.",
+  "description": "A self-discipline, optimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous b",
-    "ideology": "optimistic a"
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "optimistic b"
   },
   "image": "67.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "self-discipline"
     }
   ]
 }

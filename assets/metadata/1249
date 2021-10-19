@@ -1,20 +1,20 @@
 {
   "name": "Matties #1249",
-  "description": "A nonchalant, romantic Sasha.",
+  "description": "A nonchalant, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "romantic a"
+    "race": "Gena",
+    "character": "nonchalant a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1249.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",

@@ -1,16 +1,16 @@
 {
   "name": "Matties #724",
-  "description": "A hard-working, liberal Zhenya.",
+  "description": "An extroverted, liberal Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working a",
+    "race": "Valya",
+    "character": "extroverted b",
     "ideology": "liberal a"
   },
   "image": "724.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

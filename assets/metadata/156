@@ -1,10 +1,10 @@
 {
   "name": "Matties #156",
-  "description": "A self-discipline, Epicurean Valya.",
+  "description": "A sociable, rational Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "Epicurean b"
+    "character": "sociable b",
+    "ideology": "rational a"
   },
   "image": "156.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "sociable"
     }
   ]
 }

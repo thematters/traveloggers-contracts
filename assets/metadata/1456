@@ -1,24 +1,24 @@
 {
   "name": "Matties #1456",
-  "description": "An exploring, rational Lesya.",
+  "description": "A rebellious, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "cosmopolitan a"
   },
   "image": "1456.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "rebellious"
     }
   ]
 }

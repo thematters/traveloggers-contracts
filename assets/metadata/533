@@ -1,24 +1,24 @@
 {
   "name": "Matties #533",
-  "description": "An exploring, individualistic Yury.",
+  "description": "A down-to-earth, pessimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "individualistic b"
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "pessimistic b"
   },
   "image": "533.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

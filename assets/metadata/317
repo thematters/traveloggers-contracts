@@ -1,24 +1,24 @@
 {
   "name": "Matties #317",
-  "description": "A confused, existentialist Zhenya.",
+  "description": "A compassionate, pluralistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "compassionate b",
+    "ideology": "pluralistic a"
   },
   "image": "317.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1045",
-  "description": "An imaginative, existentialist Sasha.",
+  "description": "A rebellious, rational Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "imaginative a",
-    "ideology": "existentialist b"
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "rational b"
   },
   "image": "1045.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "rebellious"
     }
   ]
 }

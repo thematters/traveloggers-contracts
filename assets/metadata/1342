@@ -1,20 +1,20 @@
 {
   "name": "Matties #1342",
-  "description": "A nonchalant, localist Zhenya.",
+  "description": "A nonchalant, anarchist Sasha.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Sasha",
     "character": "nonchalant a",
-    "ideology": "localist b"
+    "ideology": "anarchist b"
   },
   "image": "1342.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

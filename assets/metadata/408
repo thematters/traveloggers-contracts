@@ -1,24 +1,24 @@
 {
   "name": "Matties #408",
-  "description": "An introverted, LGBTQ friendly Sasha.",
+  "description": "A chic, liberal Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Zhenya",
+    "character": "chic b",
+    "ideology": "liberal a"
   },
   "image": "408.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "chic"
     }
   ]
 }

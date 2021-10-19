@@ -1,24 +1,24 @@
 {
   "name": "Matties #560",
-  "description": "An adventurous, pessimistic Zhenya.",
+  "description": "An extroverted, individualistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous b",
-    "ideology": "pessimistic b"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "individualistic b"
   },
   "image": "560.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "extroverted"
     }
   ]
 }

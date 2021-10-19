@@ -1,24 +1,24 @@
 {
   "name": "Matties #608",
-  "description": "A practical, Epicurean Yury.",
+  "description": "An observant, pacifist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical b",
-    "ideology": "Epicurean b"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "pacifist a"
   },
   "image": "608.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "observant"
     }
   ]
 }

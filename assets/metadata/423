@@ -1,24 +1,24 @@
 {
   "name": "Matties #423",
-  "description": "A determined, anarchist Lesya.",
+  "description": "A nonchalant, nationalistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined b",
-    "ideology": "anarchist a"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "nationalistic a"
   },
   "image": "423.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "nonchalant"
     }
   ]
 }

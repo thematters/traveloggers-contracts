@@ -1,24 +1,24 @@
 {
   "name": "Matties #1140",
-  "description": "A down-to-earth, pragmatist Yury.",
+  "description": "A nonchalant, Epicurean Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "pragmatist b"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "Epicurean a"
   },
   "image": "1140.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

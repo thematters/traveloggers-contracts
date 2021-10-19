@@ -1,24 +1,24 @@
 {
   "name": "Matties #406",
-  "description": "An exploring, anarchist Valya.",
+  "description": "A chic, conservative Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "anarchist b"
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "conservative b"
   },
   "image": "406.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

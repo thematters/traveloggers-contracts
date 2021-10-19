@@ -1,24 +1,24 @@
 {
   "name": "Matties #1007",
-  "description": "A self-discipline, Epicurean Sasha.",
+  "description": "A practical, individualistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "self-discipline a",
-    "ideology": "Epicurean a"
+    "race": "Valya",
+    "character": "practical b",
+    "ideology": "individualistic a"
   },
   "image": "1007.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

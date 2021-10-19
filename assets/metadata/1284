@@ -1,24 +1,24 @@
 {
   "name": "Matties #1284",
-  "description": "An exploring, individualistic Sasha.",
+  "description": "An imaginative, romantic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "individualistic b"
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "romantic a"
   },
   "image": "1284.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

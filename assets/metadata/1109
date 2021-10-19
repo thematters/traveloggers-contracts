@@ -1,10 +1,10 @@
 {
   "name": "Matties #1109",
-  "description": "A down-to-earth, romantic Yury.",
+  "description": "A self-discipline, cosmopolitan Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "romantic b"
+    "character": "self-discipline b",
+    "ideology": "cosmopolitan a"
   },
   "image": "1109.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

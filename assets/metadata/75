@@ -1,20 +1,20 @@
 {
   "name": "Matties #75",
-  "description": "An exploring, existentialist Gena.",
+  "description": "An exploring, Marxist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring a",
-    "ideology": "existentialist a"
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "Marxist b"
   },
   "image": "75.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

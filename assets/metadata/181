@@ -1,24 +1,24 @@
 {
   "name": "Matties #181",
-  "description": "An introverted, feminist Yury.",
+  "description": "An observant, optimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted a",
-    "ideology": "feminist b"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "optimistic a"
   },
   "image": "181.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

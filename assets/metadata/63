@@ -1,24 +1,24 @@
 {
   "name": "Matties #63",
-  "description": "An extroverted, rational Yury.",
+  "description": "An analytical, individualistic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "individualistic b"
   },
   "image": "63.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "analytical"
     }
   ]
 }

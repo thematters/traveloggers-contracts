@@ -1,24 +1,24 @@
 {
   "name": "Matties #27",
-  "description": "A nonchalant, capitalistic Valya.",
+  "description": "A determined, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant a",
-    "ideology": "capitalistic a"
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "cosmopolitan a"
   },
   "image": "27.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

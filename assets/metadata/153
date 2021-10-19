@@ -1,24 +1,24 @@
 {
   "name": "Matties #153",
-  "description": "An extroverted, nationalistic Zhenya.",
+  "description": "An enthusiastic, romantic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "nationalistic a"
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "romantic a"
   },
   "image": "153.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

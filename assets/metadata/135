@@ -1,24 +1,24 @@
 {
   "name": "Matties #135",
-  "description": "A determined, pluralistic Yury.",
+  "description": "A chic, pragmatist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined a",
-    "ideology": "pluralistic a"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "pragmatist a"
   },
   "image": "135.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

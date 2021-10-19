@@ -1,24 +1,24 @@
 {
   "name": "Matties #120",
-  "description": "An introverted, pessimistic Zhenya.",
+  "description": "A down-to-earth, individualistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted b",
-    "ideology": "pessimistic b"
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "individualistic a"
   },
   "image": "120.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

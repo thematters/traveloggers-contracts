@@ -1,24 +1,24 @@
 {
   "name": "Matties #686",
-  "description": "A rebellious, collectivistic Zhenya.",
+  "description": "A compassionate, feminist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious b",
-    "ideology": "collectivistic a"
+    "race": "Lesya",
+    "character": "compassionate a",
+    "ideology": "feminist b"
   },
   "image": "686.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #814",
-  "description": "An exploring, liberal Sasha.",
+  "description": "A sociable, existentialist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "liberal b"
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "existentialist a"
   },
   "image": "814.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #305",
-  "description": "A practical, romantic Zhenya.",
+  "description": "An analytical, pragmatist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "romantic b"
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "pragmatist a"
   },
   "image": "305.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "analytical"
     }
   ]
 }

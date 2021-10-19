@@ -1,24 +1,24 @@
 {
   "name": "Matties #888",
-  "description": "An analytical, cynical Lesya.",
+  "description": "A down-to-earth, optimistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "cynical a"
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "optimistic a"
   },
   "image": "888.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "Matties #1086",
-  "description": "A down-to-earth, pragmatist Gena.",
+  "description": "A rebellious, pragmatist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "pragmatist a"
+    "race": "Yury",
+    "character": "rebellious b",
+    "ideology": "pragmatist b"
   },
   "image": "1086.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

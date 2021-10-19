@@ -1,10 +1,10 @@
 {
   "name": "Matties #685",
-  "description": "A chic, Epicurean Yury.",
+  "description": "A compassionate, anarchist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "chic a",
-    "ideology": "Epicurean b"
+    "character": "compassionate b",
+    "ideology": "anarchist a"
   },
   "image": "685.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #77",
-  "description": "A chic, LGBTQ friendly Zhenya.",
+  "description": "A confused, nationalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "nationalistic a"
   },
   "image": "77.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "confused"
     }
   ]
 }

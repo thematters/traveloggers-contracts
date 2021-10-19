@@ -1,24 +1,24 @@
 {
   "name": "Matties #86",
-  "description": "An analytical, feminist Sasha.",
+  "description": "A practical, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "feminist a"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "86.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "practical"
     }
   ]
 }

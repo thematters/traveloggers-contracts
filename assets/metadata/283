@@ -1,10 +1,10 @@
 {
   "name": "Matties #283",
-  "description": "An extroverted, existentialist Zhenya.",
+  "description": "An enthusiastic, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "existentialist b"
+    "character": "enthusiastic b",
+    "ideology": "cosmopolitan b"
   },
   "image": "283.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

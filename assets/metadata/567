@@ -1,24 +1,24 @@
 {
   "name": "Matties #567",
-  "description": "An exploring, localist Zhenya.",
+  "description": "An observant, collectivistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "localist b"
+    "race": "Valya",
+    "character": "observant b",
+    "ideology": "collectivistic b"
   },
   "image": "567.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "observant"
     }
   ]
 }

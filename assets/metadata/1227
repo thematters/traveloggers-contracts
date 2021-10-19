@@ -1,24 +1,24 @@
 {
   "name": "Matties #1227",
-  "description": "A rebellious, conservative Gena.",
+  "description": "An extroverted, feminist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious a",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "feminist b"
   },
   "image": "1227.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

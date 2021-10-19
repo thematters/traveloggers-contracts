@@ -1,24 +1,24 @@
 {
   "name": "Matties #1238",
-  "description": "A nonchalant, pragmatist Sasha.",
+  "description": "A rebellious, collectivistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "pragmatist b"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "collectivistic a"
   },
   "image": "1238.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "rebellious"
     }
   ]
 }

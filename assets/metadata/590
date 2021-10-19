@@ -1,24 +1,24 @@
 {
   "name": "Matties #590",
-  "description": "A nonchalant, conservative Gena.",
+  "description": "An extroverted, existentialist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "conservative b"
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "existentialist b"
   },
   "image": "590.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #319",
-  "description": "A determined, rational Yury.",
+  "description": "A compassionate, romantic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "romantic a"
   },
   "image": "319.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

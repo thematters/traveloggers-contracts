@@ -1,24 +1,24 @@
 {
   "name": "Matties #91",
-  "description": "An imaginative, existentialist Gena.",
+  "description": "An adventurous, cynical Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "existentialist a"
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "cynical a"
   },
   "image": "91.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1269",
-  "description": "An analytical, cynical Valya.",
+  "description": "An extroverted, anarchist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
-    "ideology": "cynical a"
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "anarchist a"
   },
   "image": "1269.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

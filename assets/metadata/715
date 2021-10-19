@@ -1,24 +1,24 @@
 {
   "name": "Matties #715",
-  "description": "An analytical, capitalistic Zhenya.",
+  "description": "An introverted, cynical Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "cynical a"
   },
   "image": "715.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

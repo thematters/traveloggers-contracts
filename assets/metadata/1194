@@ -1,24 +1,24 @@
 {
   "name": "Matties #1194",
-  "description": "A confused, capitalistic Lesya.",
+  "description": "An imaginative, romantic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused a",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "romantic a"
   },
   "image": "1194.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

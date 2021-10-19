@@ -1,24 +1,24 @@
 {
   "name": "Matties #937",
-  "description": "A rebellious, LGBTQ friendly Valya.",
+  "description": "A compassionate, cynical Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "cynical a"
   },
   "image": "937.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

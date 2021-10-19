@@ -1,9 +1,9 @@
 {
   "name": "Matties #1150",
-  "description": "A nonchalant, localist Sasha.",
+  "description": "An introverted, localist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant b",
+    "character": "introverted b",
     "ideology": "localist b"
   },
   "image": "1150.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "introverted"
     }
   ]
 }

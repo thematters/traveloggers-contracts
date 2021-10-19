@@ -1,24 +1,24 @@
 {
   "name": "Matties #381",
-  "description": "An observant, collectivistic Sasha.",
+  "description": "A chic, individualistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant b",
-    "ideology": "collectivistic a"
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "individualistic b"
   },
   "image": "381.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "chic"
     }
   ]
 }

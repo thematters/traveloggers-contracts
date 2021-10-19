@@ -1,16 +1,16 @@
 {
   "name": "Matties #1477",
-  "description": "A sociable, pragmatist Valya.",
+  "description": "An extroverted, pragmatist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable b",
-    "ideology": "pragmatist b"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "pragmatist a"
   },
   "image": "1477.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "extroverted"
     }
   ]
 }

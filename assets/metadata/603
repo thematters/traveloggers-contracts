@@ -1,24 +1,24 @@
 {
   "name": "Matties #603",
-  "description": "A determined, anarchist Yury.",
+  "description": "An exploring, liberal Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "anarchist b"
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "liberal b"
   },
   "image": "603.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "exploring"
     }
   ]
 }

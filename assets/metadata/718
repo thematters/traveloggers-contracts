@@ -1,24 +1,24 @@
 {
   "name": "Matties #718",
-  "description": "A determined, existentialist Gena.",
+  "description": "A practical, nationalistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "existentialist b"
+    "race": "Zhenya",
+    "character": "practical b",
+    "ideology": "nationalistic b"
   },
   "image": "718.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "practical"
     }
   ]
 }

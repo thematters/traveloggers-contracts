@@ -1,24 +1,24 @@
 {
   "name": "Matties #1443",
-  "description": "A nonchalant, Epicurean Lesya.",
+  "description": "A practical, skeptical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "Epicurean a"
+    "race": "Zhenya",
+    "character": "practical a",
+    "ideology": "skeptical a"
   },
   "image": "1443.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

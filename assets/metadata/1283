@@ -1,24 +1,24 @@
 {
   "name": "Matties #1283",
-  "description": "A nonchalant, romantic Yury.",
+  "description": "A determined, cynical Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant a",
-    "ideology": "romantic a"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "cynical a"
   },
   "image": "1283.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

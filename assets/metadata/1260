@@ -1,16 +1,16 @@
 {
   "name": "Matties #1260",
-  "description": "A determined, pacifist Lesya.",
+  "description": "A self-discipline, pacifist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined a",
+    "race": "Yury",
+    "character": "self-discipline a",
     "ideology": "pacifist b"
   },
   "image": "1260.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "self-discipline"
     }
   ]
 }

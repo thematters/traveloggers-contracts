@@ -1,24 +1,24 @@
 {
   "name": "Matties #993",
-  "description": "An extroverted, existentialist Valya.",
+  "description": "A practical, collectivistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "collectivistic a"
   },
   "image": "993.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

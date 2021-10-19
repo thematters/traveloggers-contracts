@@ -1,24 +1,24 @@
 {
   "name": "Matties #118",
-  "description": "A practical, cosmopolitan Yury.",
+  "description": "An imaginative, existentialist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical b",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "existentialist a"
   },
   "image": "118.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #326",
-  "description": "A nonchalant, cynical Zhenya.",
+  "description": "An adventurous, Marxist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "cynical a"
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "Marxist b"
   },
   "image": "326.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "adventurous"
     }
   ]
 }

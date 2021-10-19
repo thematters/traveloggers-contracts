@@ -1,10 +1,10 @@
 {
   "name": "Matties #434",
-  "description": "An analytical, feminist Gena.",
+  "description": "A sociable, collectivistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "analytical a",
-    "ideology": "feminist b"
+    "character": "sociable a",
+    "ideology": "collectivistic a"
   },
   "image": "434.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "sociable"
     }
   ]
 }

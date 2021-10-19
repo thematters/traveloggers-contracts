@@ -1,24 +1,24 @@
 {
   "name": "Matties #625",
-  "description": "An analytical, optimistic Valya.",
+  "description": "An adventurous, capitalistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical a",
-    "ideology": "optimistic a"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "capitalistic a"
   },
   "image": "625.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #667",
-  "description": "A hard-working, feminist Lesya.",
+  "description": "A down-to-earth, skeptical Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "feminist b"
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "skeptical a"
   },
   "image": "667.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "down-to-earth"
     }
   ]
 }

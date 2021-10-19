@@ -1,10 +1,10 @@
 {
   "name": "Matties #867",
-  "description": "An imaginative, feminist Valya.",
+  "description": "A rebellious, LGBTQ friendly Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "feminist b"
+    "character": "rebellious a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "867.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "rebellious"
     }
   ]
 }

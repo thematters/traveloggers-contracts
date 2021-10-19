@@ -1,24 +1,24 @@
 {
   "name": "Matties #987",
-  "description": "An extroverted, capitalistic Gena.",
+  "description": "A rebellious, nationalistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted b",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "nationalistic b"
   },
   "image": "987.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "rebellious"
     }
   ]
 }

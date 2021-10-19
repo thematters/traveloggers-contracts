@@ -1,10 +1,10 @@
 {
   "name": "Matties #539",
-  "description": "A hard-working, optimistic Lesya.",
+  "description": "An extroverted, nationalistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "hard-working b",
-    "ideology": "optimistic a"
+    "character": "extroverted b",
+    "ideology": "nationalistic a"
   },
   "image": "539.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

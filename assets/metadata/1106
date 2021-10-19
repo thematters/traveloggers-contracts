@@ -1,24 +1,24 @@
 {
   "name": "Matties #1106",
-  "description": "A sociable, cynical Sasha.",
+  "description": "An enthusiastic, feminist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "sociable b",
-    "ideology": "cynical b"
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "feminist a"
   },
   "image": "1106.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

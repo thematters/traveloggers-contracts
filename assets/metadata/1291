@@ -1,24 +1,24 @@
 {
   "name": "Matties #1291",
-  "description": "A nonchalant, Epicurean Lesya.",
+  "description": "A self-discipline, romantic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "Epicurean a"
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "romantic a"
   },
   "image": "1291.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "self-discipline"
     }
   ]
 }

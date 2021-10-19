@@ -1,10 +1,10 @@
 {
   "name": "Matties #249",
-  "description": "A chic, localist Sasha.",
+  "description": "A down-to-earth, collectivistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "chic b",
-    "ideology": "localist a"
+    "character": "down-to-earth a",
+    "ideology": "collectivistic a"
   },
   "image": "249.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "down-to-earth"
     }
   ]
 }

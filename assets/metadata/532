@@ -1,24 +1,24 @@
 {
   "name": "Matties #532",
-  "description": "An analytical, pacifist Sasha.",
+  "description": "A practical, liberal Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "pacifist a"
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "liberal a"
   },
   "image": "532.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "practical"
     }
   ]
 }

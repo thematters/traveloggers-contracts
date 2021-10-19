@@ -1,20 +1,20 @@
 {
   "name": "Matties #881",
-  "description": "A rebellious, rational Gena.",
+  "description": "A rebellious, feminist Yury.",
   "_visual": {
-    "race": "Gena",
+    "race": "Yury",
     "character": "rebellious a",
-    "ideology": "rational b"
+    "ideology": "feminist a"
   },
   "image": "881.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

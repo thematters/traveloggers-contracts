@@ -1,24 +1,24 @@
 {
   "name": "Matties #1107",
-  "description": "A down-to-earth, liberal Yury.",
+  "description": "An introverted, pacifist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "liberal b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "pacifist a"
   },
   "image": "1107.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "introverted"
     }
   ]
 }

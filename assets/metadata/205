@@ -1,24 +1,24 @@
 {
   "name": "Matties #205",
-  "description": "A nonchalant, nationalistic Valya.",
+  "description": "A practical, capitalistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "nationalistic b"
+    "race": "Zhenya",
+    "character": "practical b",
+    "ideology": "capitalistic a"
   },
   "image": "205.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

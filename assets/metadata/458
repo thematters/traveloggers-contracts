@@ -1,24 +1,24 @@
 {
   "name": "Matties #458",
-  "description": "A compassionate, individualistic Gena.",
+  "description": "A down-to-earth, pragmatist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "individualistic a"
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "pragmatist a"
   },
   "image": "458.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "down-to-earth"
     }
   ]
 }

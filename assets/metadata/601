@@ -1,24 +1,24 @@
 {
   "name": "Matties #601",
-  "description": "A compassionate, collectivistic Sasha.",
+  "description": "An analytical, pacifist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate a",
-    "ideology": "collectivistic a"
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "pacifist b"
   },
   "image": "601.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "analytical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #980",
-  "description": "An extroverted, liberal Lesya.",
+  "description": "An introverted, Marxist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "extroverted a",
-    "ideology": "liberal a"
+    "character": "introverted b",
+    "ideology": "Marxist a"
   },
   "image": "980.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

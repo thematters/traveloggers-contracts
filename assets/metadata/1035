@@ -1,24 +1,24 @@
 {
   "name": "Matties #1035",
-  "description": "A confused, optimistic Yury.",
+  "description": "A rebellious, collectivistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "optimistic a"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "collectivistic a"
   },
   "image": "1035.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

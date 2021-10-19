@@ -1,24 +1,24 @@
 {
   "name": "Matties #1277",
-  "description": "An analytical, individualistic Lesya.",
+  "description": "An extroverted, pessimistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical a",
-    "ideology": "individualistic a"
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "pessimistic a"
   },
   "image": "1277.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

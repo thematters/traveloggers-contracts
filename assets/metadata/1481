@@ -1,24 +1,24 @@
 {
   "name": "Matties #1481",
-  "description": "An enthusiastic, conservative Valya.",
+  "description": "An analytical, pragmatist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "conservative b"
+    "race": "Zhenya",
+    "character": "analytical a",
+    "ideology": "pragmatist b"
   },
   "image": "1481.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

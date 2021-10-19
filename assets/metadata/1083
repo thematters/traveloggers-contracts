@@ -1,24 +1,24 @@
 {
   "name": "Matties #1083",
-  "description": "A confused, rational Gena.",
+  "description": "An enthusiastic, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "rational b"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1083.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "enthusiastic"
     }
   ]
 }

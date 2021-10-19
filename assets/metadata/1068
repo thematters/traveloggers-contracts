@@ -1,10 +1,10 @@
 {
   "name": "Matties #1068",
-  "description": "An adventurous, LGBTQ friendly Gena.",
+  "description": "An enthusiastic, cosmopolitan Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "adventurous a",
-    "ideology": "LGBTQ friendly a"
+    "character": "enthusiastic b",
+    "ideology": "cosmopolitan a"
   },
   "image": "1068.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

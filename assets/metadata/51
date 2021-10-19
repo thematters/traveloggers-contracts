@@ -1,24 +1,24 @@
 {
   "name": "Matties #51",
-  "description": "A practical, LGBTQ friendly Gena.",
+  "description": "A compassionate, nationalistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "nationalistic a"
   },
   "image": "51.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

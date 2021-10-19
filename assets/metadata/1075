@@ -1,24 +1,24 @@
 {
   "name": "Matties #1075",
-  "description": "An introverted, individualistic Zhenya.",
+  "description": "A nonchalant, liberal Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted a",
-    "ideology": "individualistic b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "liberal a"
   },
   "image": "1075.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

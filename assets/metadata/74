@@ -1,9 +1,9 @@
 {
   "name": "Matties #74",
-  "description": "A rebellious, conservative Sasha.",
+  "description": "An enthusiastic, conservative Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "rebellious a",
+    "character": "enthusiastic b",
     "ideology": "conservative b"
   },
   "image": "74.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

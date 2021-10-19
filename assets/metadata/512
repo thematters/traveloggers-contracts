@@ -1,16 +1,16 @@
 {
   "name": "Matties #512",
-  "description": "An analytical, optimistic Lesya.",
+  "description": "A nonchalant, optimistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical a",
+    "race": "Yury",
+    "character": "nonchalant a",
     "ideology": "optimistic b"
   },
   "image": "512.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "nonchalant"
     }
   ]
 }

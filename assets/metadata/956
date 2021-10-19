@@ -1,24 +1,24 @@
 {
   "name": "Matties #956",
-  "description": "An adventurous, capitalistic Gena.",
+  "description": "A sociable, individualistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous a",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "individualistic b"
   },
   "image": "956.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1134",
-  "description": "A determined, pluralistic Sasha.",
+  "description": "An observant, nationalistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "observant a",
+    "ideology": "nationalistic b"
   },
   "image": "1134.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

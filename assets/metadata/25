@@ -1,10 +1,10 @@
 {
   "name": "Matties #25",
-  "description": "An imaginative, cosmopolitan Gena.",
+  "description": "A nonchalant, existentialist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "cosmopolitan a"
+    "character": "nonchalant b",
+    "ideology": "existentialist a"
   },
   "image": "25.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #700",
-  "description": "A sociable, skeptical Valya.",
+  "description": "An exploring, optimistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable b",
-    "ideology": "skeptical a"
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "optimistic a"
   },
   "image": "700.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "exploring"
     }
   ]
 }

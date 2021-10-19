@@ -1,16 +1,16 @@
 {
   "name": "Matties #1019",
-  "description": "A self-discipline, romantic Zhenya.",
+  "description": "A down-to-earth, romantic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "romantic a"
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "romantic b"
   },
   "image": "1019.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "down-to-earth"
     }
   ]
 }

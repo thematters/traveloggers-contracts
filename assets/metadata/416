@@ -1,10 +1,10 @@
 {
   "name": "Matties #416",
-  "description": "A determined, capitalistic Sasha.",
+  "description": "An extroverted, liberal Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "determined a",
-    "ideology": "capitalistic a"
+    "character": "extroverted b",
+    "ideology": "liberal a"
   },
   "image": "416.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

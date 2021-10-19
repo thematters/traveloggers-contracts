@@ -1,20 +1,20 @@
 {
   "name": "Matties #284",
-  "description": "A down-to-earth, optimistic Gena.",
+  "description": "A down-to-earth, Epicurean Lesya.",
   "_visual": {
-    "race": "Gena",
+    "race": "Lesya",
     "character": "down-to-earth b",
-    "ideology": "optimistic b"
+    "ideology": "Epicurean b"
   },
   "image": "284.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

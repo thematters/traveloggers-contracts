@@ -1,10 +1,10 @@
 {
   "name": "Matties #1108",
-  "description": "A compassionate, Epicurean Sasha.",
+  "description": "A compassionate, pluralistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "compassionate b",
-    "ideology": "Epicurean a"
+    "character": "compassionate a",
+    "ideology": "pluralistic b"
   },
   "image": "1108.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

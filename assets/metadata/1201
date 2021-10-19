@@ -1,24 +1,24 @@
 {
   "name": "Matties #1201",
-  "description": "An enthusiastic, localist Zhenya.",
+  "description": "A hard-working, Marxist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "localist a"
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "Marxist b"
   },
   "image": "1201.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #189",
-  "description": "An adventurous, individualistic Gena.",
+  "description": "A practical, liberal Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous b",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "liberal b"
   },
   "image": "189.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "practical"
     }
   ]
 }

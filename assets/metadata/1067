@@ -1,24 +1,24 @@
 {
   "name": "Matties #1067",
-  "description": "A sociable, pacifist Valya.",
+  "description": "An analytical, Marxist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "pacifist b"
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "Marxist b"
   },
   "image": "1067.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "analytical"
     }
   ]
 }

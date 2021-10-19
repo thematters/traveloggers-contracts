@@ -1,24 +1,24 @@
 {
   "name": "Matties #581",
-  "description": "A chic, Marxist Gena.",
+  "description": "A down-to-earth, cynical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic b",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "cynical a"
   },
   "image": "581.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "down-to-earth"
     }
   ]
 }

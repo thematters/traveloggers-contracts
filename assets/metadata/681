@@ -1,24 +1,24 @@
 {
   "name": "Matties #681",
-  "description": "A practical, conservative Lesya.",
+  "description": "An enthusiastic, pacifist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "conservative b"
+    "race": "Zhenya",
+    "character": "enthusiastic b",
+    "ideology": "pacifist b"
   },
   "image": "681.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

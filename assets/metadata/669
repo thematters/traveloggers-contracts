@@ -1,16 +1,16 @@
 {
   "name": "Matties #669",
-  "description": "A rebellious, pessimistic Lesya.",
+  "description": "A confused, pessimistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
+    "race": "Zhenya",
+    "character": "confused a",
     "ideology": "pessimistic a"
   },
   "image": "669.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

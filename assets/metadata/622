@@ -1,24 +1,24 @@
 {
   "name": "Matties #622",
-  "description": "An extroverted, LGBTQ friendly Valya.",
+  "description": "An observant, Epicurean Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "Epicurean b"
   },
   "image": "622.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

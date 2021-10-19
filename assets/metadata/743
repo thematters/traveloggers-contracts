@@ -1,24 +1,24 @@
 {
   "name": "Matties #743",
-  "description": "A practical, anarchist Sasha.",
+  "description": "A compassionate, liberal Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "anarchist b"
+    "race": "Lesya",
+    "character": "compassionate a",
+    "ideology": "liberal a"
   },
   "image": "743.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #654",
-  "description": "A sociable, rational Gena.",
+  "description": "A down-to-earth, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable a",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "654.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "down-to-earth"
     }
   ]
 }

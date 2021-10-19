@@ -1,10 +1,10 @@
 {
   "name": "Matties #749",
-  "description": "A hard-working, individualistic Gena.",
+  "description": "A compassionate, capitalistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "individualistic a"
+    "character": "compassionate a",
+    "ideology": "capitalistic a"
   },
   "image": "749.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "compassionate"
     }
   ]
 }

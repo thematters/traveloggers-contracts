@@ -1,24 +1,24 @@
 {
   "name": "Matties #34",
-  "description": "A down-to-earth, pacifist Sasha.",
+  "description": "An adventurous, romantic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth b",
-    "ideology": "pacifist a"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "romantic b"
   },
   "image": "34.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #328",
-  "description": "A rebellious, cynical Zhenya.",
+  "description": "A compassionate, skeptical Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious a",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "skeptical b"
   },
   "image": "328.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

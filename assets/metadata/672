@@ -1,24 +1,24 @@
 {
   "name": "Matties #672",
-  "description": "A confused, optimistic Gena.",
+  "description": "An extroverted, feminist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused b",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "feminist b"
   },
   "image": "672.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

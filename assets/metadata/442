@@ -1,24 +1,24 @@
 {
   "name": "Matties #442",
-  "description": "A self-discipline, nationalistic Yury.",
+  "description": "A down-to-earth, rational Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "nationalistic b"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "rational b"
   },
   "image": "442.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "down-to-earth"
     }
   ]
 }

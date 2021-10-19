@@ -1,24 +1,24 @@
 {
   "name": "Matties #1110",
-  "description": "A determined, Epicurean Gena.",
+  "description": "An observant, optimistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined b",
-    "ideology": "Epicurean a"
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "optimistic b"
   },
   "image": "1110.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

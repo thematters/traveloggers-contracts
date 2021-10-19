@@ -1,10 +1,10 @@
 {
   "name": "Matties #127",
-  "description": "A rebellious, skeptical Valya.",
+  "description": "A down-to-earth, Epicurean Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "skeptical b"
+    "character": "down-to-earth a",
+    "ideology": "Epicurean a"
   },
   "image": "127.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "down-to-earth"
     }
   ]
 }

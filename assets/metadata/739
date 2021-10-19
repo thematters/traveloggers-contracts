@@ -1,24 +1,24 @@
 {
   "name": "Matties #739",
-  "description": "A sociable, feminist Zhenya.",
+  "description": "An enthusiastic, individualistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "sociable b",
-    "ideology": "feminist b"
+    "race": "Valya",
+    "character": "enthusiastic a",
+    "ideology": "individualistic a"
   },
   "image": "739.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

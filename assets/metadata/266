@@ -1,24 +1,24 @@
 {
   "name": "Matties #266",
-  "description": "An adventurous, pluralistic Valya.",
+  "description": "A nonchalant, liberal Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous b",
-    "ideology": "pluralistic a"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "liberal a"
   },
   "image": "266.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #347",
-  "description": "A down-to-earth, rational Sasha.",
+  "description": "A sociable, existentialist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth b",
-    "ideology": "rational a"
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "existentialist b"
   },
   "image": "347.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "sociable"
     }
   ]
 }

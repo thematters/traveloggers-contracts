@@ -1,24 +1,24 @@
 {
   "name": "Matties #68",
-  "description": "A rebellious, pessimistic Yury.",
+  "description": "A confused, localist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "pessimistic b"
+    "race": "Gena",
+    "character": "confused b",
+    "ideology": "localist a"
   },
   "image": "68.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

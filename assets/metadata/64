@@ -1,24 +1,24 @@
 {
   "name": "Matties #64",
-  "description": "A practical, anarchist Sasha.",
+  "description": "A compassionate, Epicurean Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "anarchist a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "Epicurean b"
   },
   "image": "64.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

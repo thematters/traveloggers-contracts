@@ -1,24 +1,24 @@
 {
   "name": "Matties #894",
-  "description": "An observant, pessimistic Valya.",
+  "description": "An introverted, Epicurean Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "introverted a",
+    "ideology": "Epicurean a"
   },
   "image": "894.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "introverted"
     }
   ]
 }

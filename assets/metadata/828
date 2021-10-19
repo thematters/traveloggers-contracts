@@ -1,24 +1,24 @@
 {
   "name": "Matties #828",
-  "description": "A compassionate, Epicurean Gena.",
+  "description": "An observant, rational Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "Epicurean b"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "rational a"
   },
   "image": "828.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

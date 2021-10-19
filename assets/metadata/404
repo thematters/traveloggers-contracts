@@ -1,10 +1,10 @@
 {
   "name": "Matties #404",
-  "description": "An imaginative, nationalistic Gena.",
+  "description": "An adventurous, individualistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "nationalistic a"
+    "character": "adventurous a",
+    "ideology": "individualistic b"
   },
   "image": "404.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

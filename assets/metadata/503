@@ -1,24 +1,24 @@
 {
   "name": "Matties #503",
-  "description": "A rebellious, capitalistic Gena.",
+  "description": "A hard-working, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious b",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "cosmopolitan a"
   },
   "image": "503.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "hard-working"
     }
   ]
 }

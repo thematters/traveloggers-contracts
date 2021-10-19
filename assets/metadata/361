@@ -1,10 +1,10 @@
 {
   "name": "Matties #361",
-  "description": "A self-discipline, pacifist Valya.",
+  "description": "An imaginative, collectivistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "pacifist a"
+    "character": "imaginative a",
+    "ideology": "collectivistic b"
   },
   "image": "361.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "imaginative"
     }
   ]
 }

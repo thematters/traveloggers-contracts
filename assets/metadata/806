@@ -1,16 +1,16 @@
 {
   "name": "Matties #806",
-  "description": "A practical, nationalistic Zhenya.",
+  "description": "An analytical, nationalistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
+    "race": "Valya",
+    "character": "analytical a",
     "ideology": "nationalistic a"
   },
   "image": "806.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "analytical"
     }
   ]
 }

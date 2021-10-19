@@ -1,24 +1,24 @@
 {
   "name": "Matties #1093",
-  "description": "A confused, Marxist Sasha.",
+  "description": "An observant, skeptical Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "Marxist a"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "skeptical a"
   },
   "image": "1093.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

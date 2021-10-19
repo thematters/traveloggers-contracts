@@ -1,24 +1,24 @@
 {
   "name": "Matties #1438",
-  "description": "An exploring, pacifist Yury.",
+  "description": "An observant, romantic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "pacifist a"
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "romantic a"
   },
   "image": "1438.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "observant"
     }
   ]
 }

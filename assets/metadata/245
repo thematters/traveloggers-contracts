@@ -1,24 +1,24 @@
 {
   "name": "Matties #245",
-  "description": "A down-to-earth, individualistic Lesya.",
+  "description": "An imaginative, existentialist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "individualistic a"
+    "race": "Valya",
+    "character": "imaginative b",
+    "ideology": "existentialist a"
   },
   "image": "245.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1081",
-  "description": "An introverted, collectivistic Zhenya.",
+  "description": "An analytical, rational Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted a",
-    "ideology": "collectivistic b"
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "rational a"
   },
   "image": "1081.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

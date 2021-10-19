@@ -1,24 +1,24 @@
 {
   "name": "Matties #1353",
-  "description": "A determined, nationalistic Gena.",
+  "description": "A chic, capitalistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "nationalistic b"
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "capitalistic b"
   },
   "image": "1353.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

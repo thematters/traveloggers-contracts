@@ -1,24 +1,24 @@
 {
   "name": "Matties #758",
-  "description": "A down-to-earth, LGBTQ friendly Lesya.",
+  "description": "An observant, nationalistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "nationalistic a"
   },
   "image": "758.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "observant"
     }
   ]
 }

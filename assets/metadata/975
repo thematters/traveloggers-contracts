@@ -1,16 +1,16 @@
 {
   "name": "Matties #975",
-  "description": "An analytical, existentialist Valya.",
+  "description": "A down-to-earth, existentialist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
+    "race": "Lesya",
+    "character": "down-to-earth a",
     "ideology": "existentialist b"
   },
   "image": "975.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

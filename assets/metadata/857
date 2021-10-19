@@ -1,24 +1,24 @@
 {
   "name": "Matties #857",
-  "description": "A confused, romantic Gena.",
+  "description": "An introverted, pessimistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "romantic a"
+    "race": "Sasha",
+    "character": "introverted a",
+    "ideology": "pessimistic a"
   },
   "image": "857.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

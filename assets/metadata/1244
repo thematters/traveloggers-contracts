@@ -1,10 +1,10 @@
 {
   "name": "Matties #1244",
-  "description": "A determined, pessimistic Valya.",
+  "description": "A determined, Marxist Valya.",
   "_visual": {
     "race": "Valya",
     "character": "determined a",
-    "ideology": "pessimistic a"
+    "ideology": "Marxist a"
   },
   "image": "1244.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

@@ -1,16 +1,16 @@
 {
   "name": "Matties #1488",
-  "description": "An adventurous, individualistic Valya.",
+  "description": "A nonchalant, individualistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous b",
-    "ideology": "individualistic b"
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "individualistic a"
   },
   "image": "1488.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #489",
-  "description": "An extroverted, conservative Lesya.",
+  "description": "A chic, anarchist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "extroverted a",
-    "ideology": "conservative b"
+    "character": "chic a",
+    "ideology": "anarchist b"
   },
   "image": "489.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

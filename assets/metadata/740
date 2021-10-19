@@ -1,10 +1,10 @@
 {
   "name": "Matties #740",
-  "description": "An enthusiastic, cynical Yury.",
+  "description": "A determined, cosmopolitan Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "enthusiastic a",
-    "ideology": "cynical a"
+    "character": "determined b",
+    "ideology": "cosmopolitan a"
   },
   "image": "740.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

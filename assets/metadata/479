@@ -1,24 +1,24 @@
 {
   "name": "Matties #479",
-  "description": "A nonchalant, collectivistic Gena.",
+  "description": "An exploring, optimistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "collectivistic a"
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "optimistic b"
   },
   "image": "479.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "exploring"
     }
   ]
 }

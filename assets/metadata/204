@@ -1,16 +1,16 @@
 {
   "name": "Matties #204",
-  "description": "A down-to-earth, Epicurean Gena.",
+  "description": "A practical, Epicurean Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth a",
-    "ideology": "Epicurean b"
+    "race": "Zhenya",
+    "character": "practical a",
+    "ideology": "Epicurean a"
   },
   "image": "204.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "practical"
     }
   ]
 }

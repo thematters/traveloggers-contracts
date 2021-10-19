@@ -1,24 +1,24 @@
 {
   "name": "Matties #523",
-  "description": "An enthusiastic, romantic Yury.",
+  "description": "A self-discipline, capitalistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "enthusiastic a",
-    "ideology": "romantic a"
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "capitalistic b"
   },
   "image": "523.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #639",
-  "description": "A self-discipline, optimistic Lesya.",
+  "description": "An observant, LGBTQ friendly Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "optimistic b"
+    "character": "observant b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "639.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #593",
-  "description": "A hard-working, nationalistic Lesya.",
+  "description": "An imaginative, pacifist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working b",
-    "ideology": "nationalistic b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "pacifist b"
   },
   "image": "593.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "imaginative"
     }
   ]
 }

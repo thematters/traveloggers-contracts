@@ -1,24 +1,24 @@
 {
   "name": "Matties #1240",
-  "description": "A down-to-earth, liberal Lesya.",
+  "description": "An imaginative, conservative Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "liberal b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "conservative b"
   },
   "image": "1240.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

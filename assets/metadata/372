@@ -1,24 +1,24 @@
 {
   "name": "Matties #372",
-  "description": "A sociable, Epicurean Valya.",
+  "description": "An exploring, Marxist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "Marxist a"
   },
   "image": "372.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "exploring"
     }
   ]
 }

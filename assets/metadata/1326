@@ -1,24 +1,24 @@
 {
   "name": "Matties #1326",
-  "description": "An enthusiastic, pragmatist Yury.",
+  "description": "A self-discipline, LGBTQ friendly Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "enthusiastic b",
-    "ideology": "pragmatist b"
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1326.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

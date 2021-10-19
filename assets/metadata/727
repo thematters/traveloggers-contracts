@@ -1,24 +1,24 @@
 {
   "name": "Matties #727",
-  "description": "A determined, capitalistic Gena.",
+  "description": "A chic, localist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined b",
-    "ideology": "capitalistic b"
+    "race": "Zhenya",
+    "character": "chic b",
+    "ideology": "localist a"
   },
   "image": "727.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

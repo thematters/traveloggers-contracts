@@ -1,24 +1,24 @@
 {
   "name": "Matties #1236",
-  "description": "A chic, existentialist Lesya.",
+  "description": "An imaginative, pessimistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic a",
-    "ideology": "existentialist b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "pessimistic a"
   },
   "image": "1236.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #462",
-  "description": "A nonchalant, pessimistic Yury.",
+  "description": "An observant, cosmopolitan Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "pessimistic a"
+    "character": "observant b",
+    "ideology": "cosmopolitan a"
   },
   "image": "462.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "observant"
     }
   ]
 }

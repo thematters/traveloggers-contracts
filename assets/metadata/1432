@@ -1,24 +1,24 @@
 {
   "name": "Matties #1432",
-  "description": "An imaginative, nationalistic Zhenya.",
+  "description": "An observant, pessimistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "nationalistic b"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "pessimistic a"
   },
   "image": "1432.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "observant"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #192",
-  "description": "An enthusiastic, individualistic Sasha.",
+  "description": "A confused, existentialist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "individualistic a"
+    "character": "confused a",
+    "ideology": "existentialist a"
   },
   "image": "192.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

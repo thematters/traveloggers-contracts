@@ -1,10 +1,10 @@
 {
   "name": "Matties #1264",
-  "description": "A self-discipline, romantic Lesya.",
+  "description": "A chic, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "romantic a"
+    "character": "chic b",
+    "ideology": "feminist a"
   },
   "image": "1264.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "chic"
     }
   ]
 }

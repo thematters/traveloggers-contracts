@@ -1,24 +1,24 @@
 {
   "name": "Matties #1337",
-  "description": "A down-to-earth, pessimistic Zhenya.",
+  "description": "A rebellious, liberal Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "down-to-earth b",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "liberal b"
   },
   "image": "1337.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

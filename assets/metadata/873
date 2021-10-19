@@ -1,24 +1,24 @@
 {
   "name": "Matties #873",
-  "description": "A nonchalant, feminist Zhenya.",
+  "description": "A compassionate, cynical Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "feminist b"
+    "race": "Sasha",
+    "character": "compassionate b",
+    "ideology": "cynical b"
   },
   "image": "873.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

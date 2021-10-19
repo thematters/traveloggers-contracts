@@ -1,24 +1,24 @@
 {
   "name": "Matties #1147",
-  "description": "A compassionate, optimistic Valya.",
+  "description": "A rebellious, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "optimistic a"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1147.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

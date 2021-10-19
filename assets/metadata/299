@@ -1,10 +1,10 @@
 {
   "name": "Matties #299",
-  "description": "An adventurous, Marxist Lesya.",
+  "description": "An enthusiastic, anarchist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "Marxist a"
+    "character": "enthusiastic a",
+    "ideology": "anarchist b"
   },
   "image": "299.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

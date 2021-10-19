@@ -1,24 +1,24 @@
 {
   "name": "Matties #484",
-  "description": "A hard-working, rational Gena.",
+  "description": "An analytical, cosmopolitan Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "rational b"
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "cosmopolitan b"
   },
   "image": "484.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "analytical"
     }
   ]
 }

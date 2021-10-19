@@ -1,24 +1,24 @@
 {
   "name": "Matties #1261",
-  "description": "An analytical, existentialist Lesya.",
+  "description": "A self-discipline, pacifist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "existentialist a"
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "pacifist a"
   },
   "image": "1261.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

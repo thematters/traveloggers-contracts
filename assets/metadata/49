@@ -1,24 +1,24 @@
 {
   "name": "Matties #49",
-  "description": "An enthusiastic, localist Valya.",
+  "description": "A practical, individualistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "localist b"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "individualistic a"
   },
   "image": "49.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

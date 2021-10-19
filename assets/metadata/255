@@ -1,24 +1,24 @@
 {
   "name": "Matties #255",
-  "description": "An analytical, pragmatist Lesya.",
+  "description": "A compassionate, rational Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "pragmatist a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "rational a"
   },
   "image": "255.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "compassionate"
     }
   ]
 }

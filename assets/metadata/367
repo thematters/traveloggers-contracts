@@ -1,24 +1,24 @@
 {
   "name": "Matties #367",
-  "description": "A nonchalant, pluralistic Zhenya.",
+  "description": "An extroverted, capitalistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "capitalistic a"
   },
   "image": "367.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1135",
-  "description": "An observant, cynical Valya.",
+  "description": "An enthusiastic, nationalistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "cynical b"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "nationalistic b"
   },
   "image": "1135.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "enthusiastic"
     }
   ]
 }

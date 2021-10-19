@@ -1,20 +1,20 @@
 {
   "name": "Matties #911",
-  "description": "A hard-working, cosmopolitan Sasha.",
+  "description": "A hard-working, pessimistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working a",
-    "ideology": "cosmopolitan a"
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "pessimistic b"
   },
   "image": "911.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",

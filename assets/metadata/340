@@ -1,24 +1,24 @@
 {
   "name": "Matties #340",
-  "description": "A rebellious, conservative Valya.",
+  "description": "An enthusiastic, pragmatist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "conservative a"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "pragmatist b"
   },
   "image": "340.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

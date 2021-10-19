@@ -1,24 +1,24 @@
 {
   "name": "Matties #1190",
-  "description": "An adventurous, capitalistic Sasha.",
+  "description": "A sociable, skeptical Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous b",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "sociable a",
+    "ideology": "skeptical b"
   },
   "image": "1190.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

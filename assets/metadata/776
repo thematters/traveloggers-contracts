@@ -1,24 +1,24 @@
 {
   "name": "Matties #776",
-  "description": "An introverted, individualistic Gena.",
+  "description": "An exploring, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted a",
-    "ideology": "individualistic a"
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "cosmopolitan a"
   },
   "image": "776.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "exploring"
     }
   ]
 }

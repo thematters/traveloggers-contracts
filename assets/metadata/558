@@ -1,24 +1,24 @@
 {
   "name": "Matties #558",
-  "description": "A sociable, Epicurean Zhenya.",
+  "description": "An introverted, conservative Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "sociable b",
-    "ideology": "Epicurean a"
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "conservative b"
   },
   "image": "558.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "introverted"
     }
   ]
 }

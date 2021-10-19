@@ -1,24 +1,24 @@
 {
   "name": "Matties #56",
-  "description": "A hard-working, romantic Zhenya.",
+  "description": "A sociable, cynical Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working b",
-    "ideology": "romantic b"
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "cynical a"
   },
   "image": "56.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "sociable"
     }
   ]
 }

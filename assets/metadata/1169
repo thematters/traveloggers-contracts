@@ -1,10 +1,10 @@
 {
   "name": "Matties #1169",
-  "description": "An exploring, cosmopolitan Yury.",
+  "description": "A hard-working, feminist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "exploring a",
-    "ideology": "cosmopolitan b"
+    "character": "hard-working b",
+    "ideology": "feminist a"
   },
   "image": "1169.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "hard-working"
     }
   ]
 }

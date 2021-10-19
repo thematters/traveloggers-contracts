@@ -1,10 +1,10 @@
 {
   "name": "Matties #1032",
-  "description": "An exploring, skeptical Sasha.",
+  "description": "An enthusiastic, pluralistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "exploring a",
-    "ideology": "skeptical b"
+    "character": "enthusiastic b",
+    "ideology": "pluralistic b"
   },
   "image": "1032.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "enthusiastic"
     }
   ]
 }

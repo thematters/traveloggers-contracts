@@ -1,10 +1,10 @@
 {
   "name": "Matties #550",
-  "description": "A down-to-earth, feminist Valya.",
+  "description": "A down-to-earth, liberal Valya.",
   "_visual": {
     "race": "Valya",
     "character": "down-to-earth b",
-    "ideology": "feminist b"
+    "ideology": "liberal a"
   },
   "image": "550.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

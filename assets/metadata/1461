@@ -1,10 +1,10 @@
 {
   "name": "Matties #1461",
-  "description": "An enthusiastic, cynical Zhenya.",
+  "description": "An exploring, Epicurean Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "cynical b"
+    "character": "exploring b",
+    "ideology": "Epicurean a"
   },
   "image": "1461.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "exploring"
     }
   ]
 }

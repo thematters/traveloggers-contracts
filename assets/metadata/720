@@ -1,10 +1,10 @@
 {
   "name": "Matties #720",
-  "description": "A hard-working, collectivistic Yury.",
+  "description": "A down-to-earth, Marxist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "hard-working b",
-    "ideology": "collectivistic b"
+    "character": "down-to-earth a",
+    "ideology": "Marxist a"
   },
   "image": "720.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "down-to-earth"
     }
   ]
 }

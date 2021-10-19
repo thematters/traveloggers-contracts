@@ -1,24 +1,24 @@
 {
   "name": "Matties #962",
-  "description": "A practical, collectivistic Gena.",
+  "description": "An extroverted, conservative Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "collectivistic b"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "conservative b"
   },
   "image": "962.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

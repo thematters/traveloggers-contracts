@@ -1,10 +1,10 @@
 {
   "name": "Matties #1028",
-  "description": "An introverted, nationalistic Valya.",
+  "description": "A compassionate, romantic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "introverted a",
-    "ideology": "nationalistic b"
+    "character": "compassionate b",
+    "ideology": "romantic a"
   },
   "image": "1028.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "compassionate"
     }
   ]
 }

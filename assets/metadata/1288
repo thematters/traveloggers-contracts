@@ -1,24 +1,24 @@
 {
   "name": "Matties #1288",
-  "description": "A chic, anarchist Sasha.",
+  "description": "An enthusiastic, Epicurean Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "anarchist b"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "Epicurean a"
   },
   "image": "1288.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "enthusiastic"
     }
   ]
 }

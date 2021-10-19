@@ -1,10 +1,10 @@
 {
   "name": "Matties #947",
-  "description": "A self-discipline, Marxist Valya.",
+  "description": "A rebellious, rational Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "Marxist b"
+    "character": "rebellious a",
+    "ideology": "rational a"
   },
   "image": "947.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "rebellious"
     }
   ]
 }

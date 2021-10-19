@@ -1,24 +1,24 @@
 {
   "name": "Matties #628",
-  "description": "An introverted, anarchist Valya.",
+  "description": "An extroverted, localist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted a",
-    "ideology": "anarchist b"
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "localist b"
   },
   "image": "628.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "extroverted"
     }
   ]
 }

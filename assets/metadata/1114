@@ -1,24 +1,24 @@
 {
   "name": "Matties #1114",
-  "description": "A nonchalant, optimistic Sasha.",
+  "description": "A rebellious, Epicurean Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "optimistic b"
+    "race": "Yury",
+    "character": "rebellious b",
+    "ideology": "Epicurean b"
   },
   "image": "1114.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "rebellious"
     }
   ]
 }

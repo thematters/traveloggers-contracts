@@ -1,24 +1,24 @@
 {
   "name": "Matties #1287",
-  "description": "A self-discipline, Epicurean Zhenya.",
+  "description": "A rebellious, rational Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "Epicurean b"
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "rational a"
   },
   "image": "1287.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "rebellious"
     }
   ]
 }

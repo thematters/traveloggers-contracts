@@ -1,24 +1,24 @@
 {
   "name": "Matties #982",
-  "description": "A sociable, romantic Gena.",
+  "description": "A self-discipline, Marxist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable b",
-    "ideology": "romantic a"
+    "race": "Valya",
+    "character": "self-discipline b",
+    "ideology": "Marxist a"
   },
   "image": "982.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #737",
-  "description": "A chic, conservative Zhenya.",
+  "description": "A determined, Epicurean Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic b",
-    "ideology": "conservative a"
+    "race": "Lesya",
+    "character": "determined b",
+    "ideology": "Epicurean b"
   },
   "image": "737.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

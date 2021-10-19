@@ -1,24 +1,24 @@
 {
   "name": "Matties #691",
-  "description": "A self-discipline, cosmopolitan Valya.",
+  "description": "A determined, Epicurean Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "cosmopolitan b"
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "Epicurean b"
   },
   "image": "691.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

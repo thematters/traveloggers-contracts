@@ -1,24 +1,24 @@
 {
   "name": "Matties #795",
-  "description": "An introverted, pragmatist Sasha.",
+  "description": "A nonchalant, conservative Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "pragmatist b"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "conservative a"
   },
   "image": "795.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

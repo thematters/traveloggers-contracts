@@ -1,24 +1,24 @@
 {
   "name": "Matties #491",
-  "description": "A determined, conservative Sasha.",
+  "description": "A hard-working, pluralistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "conservative a"
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "pluralistic b"
   },
   "image": "491.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "hard-working"
     }
   ]
 }

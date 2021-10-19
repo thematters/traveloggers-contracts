@@ -1,16 +1,16 @@
 {
   "name": "Matties #745",
-  "description": "An introverted, cosmopolitan Yury.",
+  "description": "An analytical, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted a",
+    "race": "Lesya",
+    "character": "analytical a",
     "ideology": "cosmopolitan b"
   },
   "image": "745.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

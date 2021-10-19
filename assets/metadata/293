@@ -1,24 +1,24 @@
 {
   "name": "Matties #293",
-  "description": "A rebellious, capitalistic Lesya.",
+  "description": "An introverted, pluralistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "capitalistic b"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "pluralistic b"
   },
   "image": "293.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "introverted"
     }
   ]
 }

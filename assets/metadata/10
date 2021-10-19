@@ -1,20 +1,20 @@
 {
   "name": "Matties #10",
-  "description": "A self-discipline, nationalistic Sasha.",
+  "description": "A self-discipline, cosmopolitan Valya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Valya",
     "character": "self-discipline a",
-    "ideology": "nationalistic b"
+    "ideology": "cosmopolitan a"
   },
   "image": "10.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",

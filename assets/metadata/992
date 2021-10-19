@@ -1,24 +1,24 @@
 {
   "name": "Matties #992",
-  "description": "A determined, Marxist Yury.",
+  "description": "A rebellious, pragmatist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "Marxist a"
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "pragmatist b"
   },
   "image": "992.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "rebellious"
     }
   ]
 }

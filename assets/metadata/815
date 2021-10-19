@@ -1,10 +1,10 @@
 {
   "name": "Matties #815",
-  "description": "An adventurous, individualistic Sasha.",
+  "description": "A sociable, skeptical Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "adventurous a",
-    "ideology": "individualistic b"
+    "character": "sociable b",
+    "ideology": "skeptical b"
   },
   "image": "815.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

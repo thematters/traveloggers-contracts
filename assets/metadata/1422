@@ -1,24 +1,24 @@
 {
   "name": "Matties #1422",
-  "description": "A down-to-earth, liberal Valya.",
+  "description": "A practical, pluralistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "liberal a"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "pluralistic b"
   },
   "image": "1422.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "practical"
     }
   ]
 }

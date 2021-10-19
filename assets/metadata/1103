@@ -1,16 +1,16 @@
 {
   "name": "Matties #1103",
-  "description": "A hard-working, nationalistic Valya.",
+  "description": "A down-to-earth, nationalistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working b",
-    "ideology": "nationalistic b"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "nationalistic a"
   },
   "image": "1103.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1127",
-  "description": "A down-to-earth, skeptical Zhenya.",
+  "description": "A compassionate, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "down-to-earth a",
-    "ideology": "skeptical b"
+    "race": "Lesya",
+    "character": "compassionate a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1127.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

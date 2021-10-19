@@ -1,10 +1,10 @@
 {
   "name": "Matties #1329",
-  "description": "A nonchalant, nationalistic Gena.",
+  "description": "A chic, feminist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "nationalistic b"
+    "character": "chic b",
+    "ideology": "feminist a"
   },
   "image": "1329.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

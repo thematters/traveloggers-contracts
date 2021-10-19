@@ -1,10 +1,10 @@
 {
   "name": "Matties #569",
-  "description": "A down-to-earth, Epicurean Yury.",
+  "description": "A compassionate, skeptical Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "Epicurean a"
+    "character": "compassionate b",
+    "ideology": "skeptical a"
   },
   "image": "569.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

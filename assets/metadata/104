@@ -1,20 +1,20 @@
 {
   "name": "Matties #104",
-  "description": "An enthusiastic, individualistic Valya.",
+  "description": "An enthusiastic, capitalistic Lesya.",
   "_visual": {
-    "race": "Valya",
+    "race": "Lesya",
     "character": "enthusiastic b",
-    "ideology": "individualistic a"
+    "ideology": "capitalistic b"
   },
   "image": "104.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",

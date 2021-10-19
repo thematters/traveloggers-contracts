@@ -1,20 +1,20 @@
 {
   "name": "Matties #1318",
-  "description": "A nonchalant, rational Sasha.",
+  "description": "A nonchalant, Marxist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "rational b"
+    "race": "Lesya",
+    "character": "nonchalant a",
+    "ideology": "Marxist a"
   },
   "image": "1318.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

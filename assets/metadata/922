@@ -1,24 +1,24 @@
 {
   "name": "Matties #922",
-  "description": "A compassionate, pragmatist Sasha.",
+  "description": "A confused, Epicurean Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate a",
-    "ideology": "pragmatist b"
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "Epicurean b"
   },
   "image": "922.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "Matties #1120",
-  "description": "A confused, optimistic Valya.",
+  "description": "A hard-working, optimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "optimistic a"
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "optimistic b"
   },
   "image": "1120.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

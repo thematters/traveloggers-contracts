@@ -1,24 +1,24 @@
 {
   "name": "Matties #708",
-  "description": "A determined, nationalistic Sasha.",
+  "description": "A down-to-earth, cynical Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "cynical b"
   },
   "image": "708.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "down-to-earth"
     }
   ]
 }

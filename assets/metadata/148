@@ -1,24 +1,24 @@
 {
   "name": "Matties #148",
-  "description": "An exploring, cynical Lesya.",
+  "description": "An introverted, optimistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring b",
-    "ideology": "cynical a"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "optimistic b"
   },
   "image": "148.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "introverted"
     }
   ]
 }

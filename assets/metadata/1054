@@ -1,24 +1,24 @@
 {
   "name": "Matties #1054",
-  "description": "A rebellious, Marxist Yury.",
+  "description": "An adventurous, feminist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "Marxist a"
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "feminist b"
   },
   "image": "1054.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

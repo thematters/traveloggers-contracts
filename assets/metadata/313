@@ -1,20 +1,20 @@
 {
   "name": "Matties #313",
-  "description": "A down-to-earth, localist Yury.",
+  "description": "A down-to-earth, romantic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "localist b"
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "romantic a"
   },
   "image": "313.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",

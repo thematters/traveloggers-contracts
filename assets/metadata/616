@@ -1,10 +1,10 @@
 {
   "name": "Matties #616",
-  "description": "An extroverted, Marxist Valya.",
+  "description": "A chic, LGBTQ friendly Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "Marxist a"
+    "character": "chic a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "616.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

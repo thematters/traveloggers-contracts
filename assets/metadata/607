@@ -1,24 +1,24 @@
 {
   "name": "Matties #607",
-  "description": "A down-to-earth, romantic Sasha.",
+  "description": "A determined, feminist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "romantic a"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "feminist a"
   },
   "image": "607.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

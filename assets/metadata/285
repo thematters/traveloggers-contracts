@@ -1,24 +1,24 @@
 {
   "name": "Matties #285",
-  "description": "An imaginative, pacifist Zhenya.",
+  "description": "A determined, pluralistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative b",
-    "ideology": "pacifist a"
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "pluralistic a"
   },
   "image": "285.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "determined"
     }
   ]
 }

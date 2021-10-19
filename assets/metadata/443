@@ -1,10 +1,10 @@
 {
   "name": "Matties #443",
-  "description": "A down-to-earth, skeptical Lesya.",
+  "description": "An extroverted, rational Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "skeptical b"
+    "character": "extroverted b",
+    "ideology": "rational b"
   },
   "image": "443.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

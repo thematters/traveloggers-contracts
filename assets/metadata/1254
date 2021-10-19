@@ -1,24 +1,24 @@
 {
   "name": "Matties #1254",
-  "description": "A hard-working, optimistic Zhenya.",
+  "description": "A determined, localist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working b",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "localist b"
   },
   "image": "1254.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "determined"
     }
   ]
 }

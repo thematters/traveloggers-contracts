@@ -1,10 +1,10 @@
 {
   "name": "Matties #1457",
-  "description": "An enthusiastic, skeptical Valya.",
+  "description": "A practical, pacifist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "skeptical b"
+    "character": "practical a",
+    "ideology": "pacifist a"
   },
   "image": "1457.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

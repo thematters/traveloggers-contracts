@@ -1,16 +1,16 @@
 {
   "name": "Matties #744",
-  "description": "An imaginative, liberal Yury.",
+  "description": "An enthusiastic, liberal Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative b",
+    "race": "Lesya",
+    "character": "enthusiastic b",
     "ideology": "liberal a"
   },
   "image": "744.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

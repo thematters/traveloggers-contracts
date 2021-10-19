@@ -1,24 +1,24 @@
 {
   "name": "Matties #966",
-  "description": "A determined, anarchist Gena.",
+  "description": "A practical, skeptical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "anarchist b"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "skeptical a"
   },
   "image": "966.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #261",
-  "description": "A self-discipline, cosmopolitan Yury.",
+  "description": "A hard-working, romantic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline b",
-    "ideology": "cosmopolitan b"
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "romantic a"
   },
   "image": "261.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "hard-working"
     }
   ]
 }

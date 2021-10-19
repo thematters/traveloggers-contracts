@@ -1,24 +1,24 @@
 {
   "name": "Matties #1015",
-  "description": "A rebellious, Epicurean Yury.",
+  "description": "An enthusiastic, Marxist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "Marxist b"
   },
   "image": "1015.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

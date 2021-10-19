@@ -1,20 +1,20 @@
 {
   "name": "Matties #821",
-  "description": "A confused, individualistic Valya.",
+  "description": "A confused, existentialist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "existentialist a"
   },
   "image": "821.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

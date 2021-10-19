@@ -1,24 +1,24 @@
 {
   "name": "Matties #238",
-  "description": "An extroverted, Marxist Zhenya.",
+  "description": "A nonchalant, nationalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "nationalistic a"
   },
   "image": "238.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "nonchalant"
     }
   ]
 }

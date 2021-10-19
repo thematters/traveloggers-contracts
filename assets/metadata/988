@@ -1,20 +1,20 @@
 {
   "name": "Matties #988",
-  "description": "A hard-working, optimistic Gena.",
+  "description": "A hard-working, conservative Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working b",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "conservative b"
   },
   "image": "988.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",

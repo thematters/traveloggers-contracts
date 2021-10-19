@@ -1,24 +1,24 @@
 {
   "name": "Matties #233",
-  "description": "A nonchalant, cynical Zhenya.",
+  "description": "A rebellious, localist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "localist a"
   },
   "image": "233.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "rebellious"
     }
   ]
 }

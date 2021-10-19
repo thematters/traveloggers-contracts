@@ -1,24 +1,24 @@
 {
   "name": "Matties #1104",
-  "description": "An observant, conservative Zhenya.",
+  "description": "A nonchalant, cynical Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "observant a",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "cynical a"
   },
   "image": "1104.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

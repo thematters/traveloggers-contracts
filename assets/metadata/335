@@ -1,24 +1,24 @@
 {
   "name": "Matties #335",
-  "description": "A hard-working, skeptical Gena.",
+  "description": "An enthusiastic, anarchist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "skeptical b"
+    "race": "Yury",
+    "character": "enthusiastic a",
+    "ideology": "anarchist a"
   },
   "image": "335.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "enthusiastic"
     }
   ]
 }

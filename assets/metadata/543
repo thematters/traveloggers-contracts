@@ -1,24 +1,24 @@
 {
   "name": "Matties #543",
-  "description": "An extroverted, rational Valya.",
+  "description": "A self-discipline, cosmopolitan Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "rational b"
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "cosmopolitan a"
   },
   "image": "543.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "self-discipline"
     }
   ]
 }

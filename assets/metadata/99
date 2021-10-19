@@ -1,24 +1,24 @@
 {
   "name": "Matties #99",
-  "description": "A sociable, pacifist Valya.",
+  "description": "An extroverted, anarchist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable b",
-    "ideology": "pacifist a"
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "anarchist a"
   },
   "image": "99.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "extroverted"
     }
   ]
 }

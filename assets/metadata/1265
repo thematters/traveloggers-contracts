@@ -1,20 +1,20 @@
 {
   "name": "Matties #1265",
-  "description": "An extroverted, pragmatist Zhenya.",
+  "description": "An extroverted, Epicurean Sasha.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Sasha",
     "character": "extroverted b",
-    "ideology": "pragmatist b"
+    "ideology": "Epicurean b"
   },
   "image": "1265.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

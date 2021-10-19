@@ -1,24 +1,24 @@
 {
   "name": "Matties #611",
-  "description": "An enthusiastic, liberal Valya.",
+  "description": "An analytical, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "liberal b"
+    "race": "Zhenya",
+    "character": "analytical a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "611.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

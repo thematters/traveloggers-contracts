@@ -1,24 +1,24 @@
 {
   "name": "Matties #647",
-  "description": "A self-discipline, pessimistic Valya.",
+  "description": "An imaginative, localist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "pessimistic b"
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "localist a"
   },
   "image": "647.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "imaginative"
     }
   ]
 }

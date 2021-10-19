@@ -1,24 +1,24 @@
 {
   "name": "Matties #88",
-  "description": "A down-to-earth, pluralistic Valya.",
+  "description": "A compassionate, optimistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth a",
-    "ideology": "pluralistic a"
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "optimistic a"
   },
   "image": "88.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

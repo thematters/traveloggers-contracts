@@ -1,24 +1,24 @@
 {
   "name": "Matties #1415",
-  "description": "An analytical, optimistic Sasha.",
+  "description": "A rebellious, capitalistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "optimistic a"
+    "race": "Valya",
+    "character": "rebellious a",
+    "ideology": "capitalistic b"
   },
   "image": "1415.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

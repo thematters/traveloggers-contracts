@@ -1,24 +1,24 @@
 {
   "name": "Matties #573",
-  "description": "A practical, rational Gena.",
+  "description": "An introverted, optimistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "optimistic b"
   },
   "image": "573.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

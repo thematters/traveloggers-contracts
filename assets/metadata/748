@@ -1,10 +1,10 @@
 {
   "name": "Matties #748",
-  "description": "An introverted, capitalistic Valya.",
+  "description": "An introverted, cynical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "introverted b",
-    "ideology": "capitalistic b"
+    "character": "introverted a",
+    "ideology": "cynical b"
   },
   "image": "748.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",

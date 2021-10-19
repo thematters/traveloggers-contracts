@@ -1,10 +1,10 @@
 {
   "name": "Matties #823",
-  "description": "An exploring, feminist Gena.",
+  "description": "An enthusiastic, feminist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "exploring b",
-    "ideology": "feminist a"
+    "character": "enthusiastic a",
+    "ideology": "feminist b"
   },
   "image": "823.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "enthusiastic"
     }
   ]
 }

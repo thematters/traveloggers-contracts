@@ -1,10 +1,10 @@
 {
   "name": "Matties #341",
-  "description": "A practical, pessimistic Zhenya.",
+  "description": "An adventurous, collectivistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "pessimistic a"
+    "character": "adventurous b",
+    "ideology": "collectivistic b"
   },
   "image": "341.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

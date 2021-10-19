@@ -1,24 +1,24 @@
 {
   "name": "Matties #519",
-  "description": "A sociable, anarchist Yury.",
+  "description": "A confused, feminist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "sociable b",
-    "ideology": "anarchist b"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "feminist a"
   },
   "image": "519.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "confused"
     }
   ]
 }

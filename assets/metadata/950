@@ -1,20 +1,20 @@
 {
   "name": "Matties #950",
-  "description": "A confused, cynical Sasha.",
+  "description": "A confused, individualistic Lesya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Lesya",
     "character": "confused a",
-    "ideology": "cynical a"
+    "ideology": "individualistic b"
   },
   "image": "950.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",

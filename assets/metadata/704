@@ -1,24 +1,24 @@
 {
   "name": "Matties #704",
-  "description": "A confused, LGBTQ friendly Gena.",
+  "description": "An analytical, cynical Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "cynical b"
   },
   "image": "704.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

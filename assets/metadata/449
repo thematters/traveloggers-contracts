@@ -1,24 +1,24 @@
 {
   "name": "Matties #449",
-  "description": "An analytical, pluralistic Zhenya.",
+  "description": "A down-to-earth, pessimistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "pessimistic a"
   },
   "image": "449.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

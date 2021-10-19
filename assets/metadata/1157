@@ -1,24 +1,24 @@
 {
   "name": "Matties #1157",
-  "description": "An exploring, individualistic Valya.",
+  "description": "An enthusiastic, romantic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "individualistic b"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "romantic b"
   },
   "image": "1157.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #26",
-  "description": "An imaginative, collectivistic Sasha.",
+  "description": "An extroverted, Epicurean Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "imaginative a",
-    "ideology": "collectivistic a"
+    "character": "extroverted a",
+    "ideology": "Epicurean a"
   },
   "image": "26.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

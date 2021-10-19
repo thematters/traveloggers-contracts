@@ -1,24 +1,24 @@
 {
   "name": "Matties #554",
-  "description": "An imaginative, collectivistic Zhenya.",
+  "description": "An analytical, localist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "collectivistic a"
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "localist b"
   },
   "image": "554.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "analytical"
     }
   ]
 }

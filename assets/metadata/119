@@ -1,24 +1,24 @@
 {
   "name": "Matties #119",
-  "description": "A rebellious, individualistic Yury.",
+  "description": "An introverted, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "119.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "introverted"
     }
   ]
 }

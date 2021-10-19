@@ -1,10 +1,10 @@
 {
   "name": "Matties #944",
-  "description": "A chic, cynical Zhenya.",
+  "description": "A nonchalant, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "chic a",
-    "ideology": "cynical a"
+    "character": "nonchalant b",
+    "ideology": "cosmopolitan a"
   },
   "image": "944.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

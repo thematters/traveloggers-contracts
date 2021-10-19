@@ -1,10 +1,10 @@
 {
   "name": "Matties #451",
-  "description": "An adventurous, pluralistic Valya.",
+  "description": "A hard-working, Epicurean Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "adventurous a",
-    "ideology": "pluralistic b"
+    "character": "hard-working a",
+    "ideology": "Epicurean b"
   },
   "image": "451.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "hard-working"
     }
   ]
 }

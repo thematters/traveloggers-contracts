@@ -1,24 +1,24 @@
 {
   "name": "Matties #297",
-  "description": "A compassionate, romantic Lesya.",
+  "description": "An analytical, skeptical Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate a",
-    "ideology": "romantic a"
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "skeptical a"
   },
   "image": "297.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "analytical"
     }
   ]
 }

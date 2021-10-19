@@ -1,24 +1,24 @@
 {
   "name": "Matties #886",
-  "description": "An observant, Marxist Gena.",
+  "description": "A practical, Epicurean Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant b",
-    "ideology": "Marxist b"
+    "race": "Valya",
+    "character": "practical b",
+    "ideology": "Epicurean a"
   },
   "image": "886.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

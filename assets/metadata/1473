@@ -1,16 +1,16 @@
 {
   "name": "Matties #1473",
-  "description": "A self-discipline, skeptical Zhenya.",
+  "description": "A confused, skeptical Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
+    "race": "Valya",
+    "character": "confused b",
     "ideology": "skeptical b"
   },
   "image": "1473.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

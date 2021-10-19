@@ -1,10 +1,10 @@
 {
   "name": "Matties #485",
-  "description": "A practical, nationalistic Yury.",
+  "description": "A compassionate, pessimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "practical a",
-    "ideology": "nationalistic b"
+    "character": "compassionate a",
+    "ideology": "pessimistic a"
   },
   "image": "485.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

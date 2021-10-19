@@ -1,24 +1,24 @@
 {
   "name": "Matties #1004",
-  "description": "A confused, cynical Zhenya.",
+  "description": "A determined, capitalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "capitalistic b"
   },
   "image": "1004.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "determined"
     }
   ]
 }

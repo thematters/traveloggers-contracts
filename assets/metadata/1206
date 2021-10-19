@@ -1,24 +1,24 @@
 {
   "name": "Matties #1206",
-  "description": "An exploring, individualistic Yury.",
+  "description": "An imaginative, Marxist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "individualistic a"
+    "race": "Valya",
+    "character": "imaginative b",
+    "ideology": "Marxist b"
   },
   "image": "1206.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

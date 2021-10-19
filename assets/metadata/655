@@ -1,24 +1,24 @@
 {
   "name": "Matties #655",
-  "description": "A practical, pessimistic Lesya.",
+  "description": "A rebellious, cosmopolitan Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical a",
-    "ideology": "pessimistic b"
+    "race": "Valya",
+    "character": "rebellious b",
+    "ideology": "cosmopolitan b"
   },
   "image": "655.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #1174",
-  "description": "An enthusiastic, rational Valya.",
+  "description": "A compassionate, LGBTQ friendly Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "rational b"
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1174.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

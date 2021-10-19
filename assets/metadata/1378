@@ -1,10 +1,10 @@
 {
   "name": "Matties #1378",
-  "description": "An exploring, nationalistic Yury.",
+  "description": "A nonchalant, nationalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "exploring b",
-    "ideology": "nationalistic a"
+    "character": "nonchalant a",
+    "ideology": "nationalistic b"
   },
   "image": "1378.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "nonchalant"
     }
   ]
 }

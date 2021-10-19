@@ -1,16 +1,16 @@
 {
   "name": "Matties #193",
-  "description": "An introverted, localist Gena.",
+  "description": "A hard-working, localist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted b",
+    "race": "Valya",
+    "character": "hard-working a",
     "ideology": "localist a"
   },
   "image": "193.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "hard-working"
     }
   ]
 }

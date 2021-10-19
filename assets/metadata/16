@@ -1,10 +1,10 @@
 {
   "name": "Matties #16",
-  "description": "An exploring, pessimistic Yury.",
+  "description": "A down-to-earth, cosmopolitan Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "exploring b",
-    "ideology": "pessimistic b"
+    "character": "down-to-earth b",
+    "ideology": "cosmopolitan b"
   },
   "image": "16.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

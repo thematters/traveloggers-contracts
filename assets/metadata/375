@@ -1,24 +1,24 @@
 {
   "name": "Matties #375",
-  "description": "An adventurous, rational Valya.",
+  "description": "An exploring, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous b",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "exploring a",
+    "ideology": "cosmopolitan a"
   },
   "image": "375.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "exploring"
     }
   ]
 }

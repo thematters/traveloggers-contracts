@@ -1,20 +1,20 @@
 {
   "name": "Matties #1312",
-  "description": "A compassionate, romantic Gena.",
+  "description": "A compassionate, nationalistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "romantic b"
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "nationalistic b"
   },
   "image": "1312.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

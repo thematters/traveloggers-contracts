@@ -1,20 +1,20 @@
 {
   "name": "Matties #781",
-  "description": "A chic, pragmatist Gena.",
+  "description": "A chic, pluralistic Lesya.",
   "_visual": {
-    "race": "Gena",
+    "race": "Lesya",
     "character": "chic b",
-    "ideology": "pragmatist a"
+    "ideology": "pluralistic a"
   },
   "image": "781.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1478",
-  "description": "An enthusiastic, feminist Valya.",
+  "description": "An observant, Marxist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "feminist a"
+    "race": "Gena",
+    "character": "observant a",
+    "ideology": "Marxist a"
   },
   "image": "1478.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

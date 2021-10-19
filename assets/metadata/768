@@ -1,10 +1,10 @@
 {
   "name": "Matties #768",
-  "description": "An imaginative, individualistic Lesya.",
+  "description": "A down-to-earth, liberal Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "imaginative b",
-    "ideology": "individualistic b"
+    "character": "down-to-earth a",
+    "ideology": "liberal b"
   },
   "image": "768.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

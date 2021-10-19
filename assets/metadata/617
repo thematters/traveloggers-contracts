@@ -1,24 +1,24 @@
 {
   "name": "Matties #617",
-  "description": "A down-to-earth, nationalistic Sasha.",
+  "description": "A confused, existentialist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth b",
-    "ideology": "nationalistic a"
+    "race": "Gena",
+    "character": "confused b",
+    "ideology": "existentialist a"
   },
   "image": "617.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

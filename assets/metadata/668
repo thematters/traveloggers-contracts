@@ -1,10 +1,10 @@
 {
   "name": "Matties #668",
-  "description": "An exploring, feminist Zhenya.",
+  "description": "A down-to-earth, optimistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "exploring a",
-    "ideology": "feminist b"
+    "character": "down-to-earth a",
+    "ideology": "optimistic b"
   },
   "image": "668.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

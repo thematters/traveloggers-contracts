@@ -1,24 +1,24 @@
 {
   "name": "Matties #275",
-  "description": "An adventurous, pessimistic Yury.",
+  "description": "A determined, localist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous a",
-    "ideology": "pessimistic a"
+    "race": "Zhenya",
+    "character": "determined a",
+    "ideology": "localist a"
   },
   "image": "275.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "determined"
     }
   ]
 }

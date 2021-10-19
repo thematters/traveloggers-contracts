@@ -1,24 +1,24 @@
 {
   "name": "Matties #887",
-  "description": "A compassionate, Epicurean Valya.",
+  "description": "A hard-working, cosmopolitan Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "Epicurean a"
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "cosmopolitan b"
   },
   "image": "887.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #524",
-  "description": "A chic, rational Lesya.",
+  "description": "A compassionate, individualistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic a",
-    "ideology": "rational b"
+    "character": "compassionate a",
+    "ideology": "individualistic a"
   },
   "image": "524.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

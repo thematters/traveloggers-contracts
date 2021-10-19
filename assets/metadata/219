@@ -1,10 +1,10 @@
 {
   "name": "Matties #219",
-  "description": "An imaginative, pessimistic Lesya.",
+  "description": "A rebellious, cynical Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "imaginative b",
-    "ideology": "pessimistic a"
+    "character": "rebellious b",
+    "ideology": "cynical a"
   },
   "image": "219.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "rebellious"
     }
   ]
 }

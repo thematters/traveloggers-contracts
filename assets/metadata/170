@@ -1,10 +1,10 @@
 {
   "name": "Matties #170",
-  "description": "A determined, pluralistic Gena.",
+  "description": "A rebellious, capitalistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "determined b",
-    "ideology": "pluralistic b"
+    "character": "rebellious a",
+    "ideology": "capitalistic a"
   },
   "image": "170.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "rebellious"
     }
   ]
 }

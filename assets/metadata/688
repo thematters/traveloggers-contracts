@@ -1,10 +1,10 @@
 {
   "name": "Matties #688",
-  "description": "A practical, pluralistic Yury.",
+  "description": "An adventurous, pluralistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "practical b",
-    "ideology": "pluralistic b"
+    "character": "adventurous b",
+    "ideology": "pluralistic a"
   },
   "image": "688.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

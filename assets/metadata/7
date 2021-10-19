@@ -1,24 +1,24 @@
 {
   "name": "Matties #7",
-  "description": "An exploring, pluralistic Valya.",
+  "description": "An imaginative, individualistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "pluralistic a"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "individualistic b"
   },
   "image": "7.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

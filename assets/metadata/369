@@ -1,16 +1,16 @@
 {
   "name": "Matties #369",
-  "description": "A compassionate, cynical Gena.",
+  "description": "A down-to-earth, cynical Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
+    "race": "Sasha",
+    "character": "down-to-earth b",
     "ideology": "cynical a"
   },
   "image": "369.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "down-to-earth"
     }
   ]
 }

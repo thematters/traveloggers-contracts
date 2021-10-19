@@ -1,16 +1,16 @@
 {
   "name": "Matties #274",
-  "description": "A down-to-earth, Epicurean Lesya.",
+  "description": "A nonchalant, Epicurean Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "Epicurean b"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "Epicurean a"
   },
   "image": "274.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

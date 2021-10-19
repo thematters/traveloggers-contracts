@@ -1,24 +1,24 @@
 {
   "name": "Matties #926",
-  "description": "A nonchalant, pessimistic Gena.",
+  "description": "An extroverted, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "pessimistic a"
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "926.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

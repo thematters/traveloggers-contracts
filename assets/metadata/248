@@ -1,10 +1,10 @@
 {
   "name": "Matties #248",
-  "description": "A confused, individualistic Gena.",
+  "description": "A compassionate, anarchist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "confused a",
-    "ideology": "individualistic a"
+    "character": "compassionate b",
+    "ideology": "anarchist a"
   },
   "image": "248.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

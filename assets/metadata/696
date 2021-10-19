@@ -1,24 +1,24 @@
 {
   "name": "Matties #696",
-  "description": "A confused, localist Yury.",
+  "description": "An analytical, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused a",
-    "ideology": "localist a"
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "696.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

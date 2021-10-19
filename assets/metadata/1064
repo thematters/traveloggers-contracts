@@ -1,16 +1,16 @@
 {
   "name": "Matties #1064",
-  "description": "A practical, liberal Zhenya.",
+  "description": "An exploring, liberal Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical b",
+    "race": "Valya",
+    "character": "exploring a",
     "ideology": "liberal b"
   },
   "image": "1064.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "exploring"
     }
   ]
 }

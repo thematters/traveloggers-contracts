@@ -1,24 +1,24 @@
 {
   "name": "Matties #872",
-  "description": "A confused, liberal Valya.",
+  "description": "A practical, skeptical Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "skeptical a"
   },
   "image": "872.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "practical"
     }
   ]
 }

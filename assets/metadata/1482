@@ -1,10 +1,10 @@
 {
   "name": "Matties #1482",
-  "description": "A rebellious, pragmatist Valya.",
+  "description": "An analytical, conservative Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "rebellious a",
-    "ideology": "pragmatist b"
+    "character": "analytical a",
+    "ideology": "conservative a"
   },
   "image": "1482.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "analytical"
     }
   ]
 }

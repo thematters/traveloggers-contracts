@@ -1,10 +1,10 @@
 {
   "name": "Matties #376",
-  "description": "An imaginative, romantic Lesya.",
+  "description": "An enthusiastic, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "romantic a"
+    "character": "enthusiastic b",
+    "ideology": "feminist b"
   },
   "image": "376.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

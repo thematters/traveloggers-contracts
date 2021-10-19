@@ -1,24 +1,24 @@
 {
   "name": "Matties #1193",
-  "description": "A self-discipline, nationalistic Zhenya.",
+  "description": "A chic, capitalistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "nationalistic a"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "capitalistic a"
   },
   "image": "1193.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "chic"
     }
   ]
 }

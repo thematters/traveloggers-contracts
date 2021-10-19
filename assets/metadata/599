@@ -1,24 +1,24 @@
 {
   "name": "Matties #599",
-  "description": "An enthusiastic, cosmopolitan Valya.",
+  "description": "A confused, pacifist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "cosmopolitan a"
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "pacifist b"
   },
   "image": "599.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

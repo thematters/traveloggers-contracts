@@ -1,24 +1,24 @@
 {
   "name": "Matties #1460",
-  "description": "An observant, collectivistic Valya.",
+  "description": "A compassionate, capitalistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "collectivistic a"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "capitalistic a"
   },
   "image": "1460.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "compassionate"
     }
   ]
 }

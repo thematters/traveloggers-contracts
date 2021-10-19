@@ -1,16 +1,16 @@
 {
   "name": "Matties #508",
-  "description": "An extroverted, capitalistic Zhenya.",
+  "description": "A confused, capitalistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "confused b",
+    "ideology": "capitalistic b"
   },
   "image": "508.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

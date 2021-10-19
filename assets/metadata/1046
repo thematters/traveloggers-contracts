@@ -1,10 +1,10 @@
 {
   "name": "Matties #1046",
-  "description": "A nonchalant, individualistic Yury.",
+  "description": "A compassionate, pragmatist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant a",
-    "ideology": "individualistic a"
+    "character": "compassionate a",
+    "ideology": "pragmatist b"
   },
   "image": "1046.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

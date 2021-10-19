@@ -1,16 +1,16 @@
 {
   "name": "Matties #1228",
-  "description": "An introverted, nationalistic Lesya.",
+  "description": "A compassionate, nationalistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "introverted a",
-    "ideology": "nationalistic a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "nationalistic b"
   },
   "image": "1228.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "compassionate"
     }
   ]
 }

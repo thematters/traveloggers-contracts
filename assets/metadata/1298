@@ -1,24 +1,24 @@
 {
   "name": "Matties #1298",
-  "description": "An extroverted, LGBTQ friendly Lesya.",
+  "description": "A practical, pluralistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Valya",
+    "character": "practical b",
+    "ideology": "pluralistic b"
   },
   "image": "1298.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #131",
-  "description": "An observant, liberal Yury.",
+  "description": "A practical, romantic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "romantic a"
   },
   "image": "131.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

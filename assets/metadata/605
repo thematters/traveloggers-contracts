@@ -1,24 +1,24 @@
 {
   "name": "Matties #605",
-  "description": "An introverted, rational Zhenya.",
+  "description": "A down-to-earth, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted b",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "pluralistic b"
   },
   "image": "605.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

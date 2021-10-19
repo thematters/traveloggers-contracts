@@ -1,10 +1,10 @@
 {
   "name": "Matties #106",
-  "description": "A determined, pacifist Lesya.",
+  "description": "An observant, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "determined b",
-    "ideology": "pacifist a"
+    "character": "observant b",
+    "ideology": "feminist b"
   },
   "image": "106.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

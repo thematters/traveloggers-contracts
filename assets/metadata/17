@@ -1,10 +1,10 @@
 {
   "name": "Matties #17",
-  "description": "An enthusiastic, nationalistic Lesya.",
+  "description": "A chic, Epicurean Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "nationalistic b"
+    "character": "chic b",
+    "ideology": "Epicurean a"
   },
   "image": "17.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

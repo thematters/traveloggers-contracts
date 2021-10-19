@@ -1,10 +1,10 @@
 {
   "name": "Matties #145",
-  "description": "An introverted, capitalistic Gena.",
+  "description": "A compassionate, existentialist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "introverted b",
-    "ideology": "capitalistic b"
+    "character": "compassionate b",
+    "ideology": "existentialist a"
   },
   "image": "145.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #1380",
-  "description": "A chic, Marxist Zhenya.",
+  "description": "A self-discipline, existentialist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "chic a",
-    "ideology": "Marxist b"
+    "character": "self-discipline b",
+    "ideology": "existentialist a"
   },
   "image": "1380.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

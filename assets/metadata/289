@@ -1,24 +1,24 @@
 {
   "name": "Matties #289",
-  "description": "A rebellious, anarchist Yury.",
+  "description": "An analytical, romantic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "anarchist a"
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "romantic b"
   },
   "image": "289.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "analytical"
     }
   ]
 }

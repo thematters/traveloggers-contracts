@@ -1,10 +1,10 @@
 {
   "name": "Matties #387",
-  "description": "A confused, collectivistic Zhenya.",
+  "description": "An extroverted, Marxist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "collectivistic b"
+    "character": "extroverted a",
+    "ideology": "Marxist b"
   },
   "image": "387.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

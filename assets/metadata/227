@@ -1,24 +1,24 @@
 {
   "name": "Matties #227",
-  "description": "An observant, Epicurean Sasha.",
+  "description": "A self-discipline, cynical Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "cynical b"
   },
   "image": "227.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "self-discipline"
     }
   ]
 }

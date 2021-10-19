@@ -1,24 +1,24 @@
 {
   "name": "Matties #775",
-  "description": "An imaginative, pluralistic Sasha.",
+  "description": "A practical, pragmatist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "imaginative b",
-    "ideology": "pluralistic b"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "pragmatist b"
   },
   "image": "775.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

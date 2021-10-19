@@ -1,24 +1,24 @@
 {
   "name": "Matties #70",
-  "description": "An analytical, pluralistic Lesya.",
+  "description": "A down-to-earth, pragmatist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "pluralistic b"
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "pragmatist a"
   },
   "image": "70.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

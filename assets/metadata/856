@@ -1,24 +1,24 @@
 {
   "name": "Matties #856",
-  "description": "A confused, romantic Sasha.",
+  "description": "An observant, optimistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "romantic a"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "optimistic a"
   },
   "image": "856.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

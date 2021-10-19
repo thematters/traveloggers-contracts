@@ -1,24 +1,24 @@
 {
   "name": "Matties #295",
-  "description": "A chic, feminist Valya.",
+  "description": "A self-discipline, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic b",
-    "ideology": "feminist a"
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "295.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

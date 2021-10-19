@@ -1,20 +1,20 @@
 {
   "name": "Matties #286",
-  "description": "A determined, nationalistic Valya.",
+  "description": "A determined, localist Sasha.",
   "_visual": {
-    "race": "Valya",
+    "race": "Sasha",
     "character": "determined a",
-    "ideology": "nationalistic b"
+    "ideology": "localist a"
   },
   "image": "286.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",

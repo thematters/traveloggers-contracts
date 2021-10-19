@@ -1,24 +1,24 @@
 {
   "name": "Matties #464",
-  "description": "A hard-working, localist Lesya.",
+  "description": "A practical, feminist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "localist a"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "feminist b"
   },
   "image": "464.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

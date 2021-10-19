@@ -1,24 +1,24 @@
 {
   "name": "Matties #838",
-  "description": "An analytical, feminist Zhenya.",
+  "description": "An observant, nationalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "feminist a"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "nationalistic b"
   },
   "image": "838.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #81",
-  "description": "An observant, Marxist Sasha.",
+  "description": "An extroverted, conservative Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "Marxist a"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "conservative b"
   },
   "image": "81.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "extroverted"
     }
   ]
 }

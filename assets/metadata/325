@@ -1,20 +1,20 @@
 {
   "name": "Matties #325",
-  "description": "An exploring, rational Sasha.",
+  "description": "An exploring, anarchist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring a",
-    "ideology": "rational a"
+    "race": "Valya",
+    "character": "exploring b",
+    "ideology": "anarchist b"
   },
   "image": "325.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

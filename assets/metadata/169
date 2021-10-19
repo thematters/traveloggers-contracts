@@ -1,24 +1,24 @@
 {
   "name": "Matties #169",
-  "description": "A determined, optimistic Sasha.",
+  "description": "An extroverted, rational Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "extroverted a",
+    "ideology": "rational b"
   },
   "image": "169.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

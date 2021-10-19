@@ -1,10 +1,10 @@
 {
   "name": "Matties #1489",
-  "description": "A self-discipline, localist Gena.",
+  "description": "A confused, pragmatist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "self-discipline b",
-    "ideology": "localist a"
+    "character": "confused b",
+    "ideology": "pragmatist b"
   },
   "image": "1489.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

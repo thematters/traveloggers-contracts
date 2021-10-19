@@ -1,24 +1,24 @@
 {
   "name": "Matties #1313",
-  "description": "A down-to-earth, capitalistic Sasha.",
+  "description": "An extroverted, existentialist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "existentialist a"
   },
   "image": "1313.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

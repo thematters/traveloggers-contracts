@@ -1,24 +1,24 @@
 {
   "name": "Matties #456",
-  "description": "An introverted, pluralistic Yury.",
+  "description": "A chic, feminist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted a",
-    "ideology": "pluralistic a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "feminist b"
   },
   "image": "456.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "chic"
     }
   ]
 }

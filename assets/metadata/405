@@ -1,10 +1,10 @@
 {
   "name": "Matties #405",
-  "description": "An observant, romantic Sasha.",
+  "description": "An analytical, anarchist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "observant a",
-    "ideology": "romantic b"
+    "character": "analytical b",
+    "ideology": "anarchist b"
   },
   "image": "405.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "analytical"
     }
   ]
 }

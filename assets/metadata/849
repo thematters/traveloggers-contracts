@@ -1,24 +1,24 @@
 {
   "name": "Matties #849",
-  "description": "A hard-working, pessimistic Zhenya.",
+  "description": "A nonchalant, existentialist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working b",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "existentialist b"
   },
   "image": "849.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "nonchalant"
     }
   ]
 }

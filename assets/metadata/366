@@ -1,10 +1,10 @@
 {
   "name": "Matties #366",
-  "description": "A nonchalant, pessimistic Zhenya.",
+  "description": "A chic, skeptical Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "pessimistic b"
+    "character": "chic a",
+    "ideology": "skeptical b"
   },
   "image": "366.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

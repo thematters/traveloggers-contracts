@@ -1,16 +1,16 @@
 {
   "name": "Matties #948",
-  "description": "An imaginative, liberal Valya.",
+  "description": "A confused, liberal Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "liberal a"
+    "race": "Yury",
+    "character": "confused b",
+    "ideology": "liberal b"
   },
   "image": "948.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

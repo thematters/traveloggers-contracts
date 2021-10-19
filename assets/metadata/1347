@@ -1,24 +1,24 @@
 {
   "name": "Matties #1347",
-  "description": "A nonchalant, capitalistic Valya.",
+  "description": "An adventurous, collectivistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "collectivistic b"
   },
   "image": "1347.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "adventurous"
     }
   ]
 }

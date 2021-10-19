@@ -1,24 +1,24 @@
 {
   "name": "Matties #18",
-  "description": "An adventurous, skeptical Sasha.",
+  "description": "A rebellious, individualistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous a",
-    "ideology": "skeptical b"
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "individualistic a"
   },
   "image": "18.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "rebellious"
     }
   ]
 }

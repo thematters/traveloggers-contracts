@@ -1,24 +1,24 @@
 {
   "name": "Matties #816",
-  "description": "A hard-working, Epicurean Zhenya.",
+  "description": "A rebellious, individualistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working b",
-    "ideology": "Epicurean b"
+    "race": "Valya",
+    "character": "rebellious b",
+    "ideology": "individualistic a"
   },
   "image": "816.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "rebellious"
     }
   ]
 }

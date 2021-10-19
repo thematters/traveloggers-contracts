@@ -1,24 +1,24 @@
 {
   "name": "Matties #270",
-  "description": "An adventurous, existentialist Lesya.",
+  "description": "A sociable, anarchist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "existentialist b"
+    "race": "Yury",
+    "character": "sociable b",
+    "ideology": "anarchist a"
   },
   "image": "270.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

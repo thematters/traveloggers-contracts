@@ -1,10 +1,10 @@
 {
   "name": "Matties #1289",
-  "description": "An analytical, anarchist Zhenya.",
+  "description": "An observant, capitalistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "anarchist b"
+    "character": "observant a",
+    "ideology": "capitalistic a"
   },
   "image": "1289.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

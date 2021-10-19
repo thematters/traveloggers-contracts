@@ -1,24 +1,24 @@
 {
   "name": "Matties #870",
-  "description": "A hard-working, capitalistic Yury.",
+  "description": "A practical, individualistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working a",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "individualistic b"
   },
   "image": "870.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1051",
-  "description": "An extroverted, collectivistic Zhenya.",
+  "description": "A compassionate, pessimistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "compassionate a",
+    "ideology": "pessimistic a"
   },
   "image": "1051.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

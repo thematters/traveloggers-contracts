@@ -1,24 +1,24 @@
 {
   "name": "Matties #1369",
-  "description": "An adventurous, cynical Yury.",
+  "description": "A determined, anarchist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous a",
-    "ideology": "cynical b"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "anarchist b"
   },
   "image": "1369.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "determined"
     }
   ]
 }

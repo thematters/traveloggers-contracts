@@ -1,10 +1,10 @@
 {
   "name": "Matties #798",
-  "description": "A rebellious, pacifist Yury.",
+  "description": "A sociable, Epicurean Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "pacifist a"
+    "character": "sociable a",
+    "ideology": "Epicurean a"
   },
   "image": "798.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "sociable"
     }
   ]
 }

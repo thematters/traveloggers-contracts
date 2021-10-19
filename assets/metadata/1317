@@ -1,10 +1,10 @@
 {
   "name": "Matties #1317",
-  "description": "A nonchalant, pessimistic Gena.",
+  "description": "An extroverted, existentialist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "pessimistic b"
+    "character": "extroverted a",
+    "ideology": "existentialist a"
   },
   "image": "1317.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

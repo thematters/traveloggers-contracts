@@ -1,24 +1,24 @@
 {
   "name": "Matties #1066",
-  "description": "An imaginative, localist Yury.",
+  "description": "An exploring, optimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative a",
-    "ideology": "localist b"
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "optimistic b"
   },
   "image": "1066.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "exploring"
     }
   ]
 }

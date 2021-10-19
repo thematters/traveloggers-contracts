@@ -1,24 +1,24 @@
 {
   "name": "Matties #660",
-  "description": "A sociable, pluralistic Yury.",
+  "description": "A chic, conservative Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "sociable a",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "conservative b"
   },
   "image": "660.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "chic"
     }
   ]
 }

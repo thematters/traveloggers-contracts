@@ -1,24 +1,24 @@
 {
   "name": "Matties #459",
-  "description": "A chic, collectivistic Sasha.",
+  "description": "An extroverted, conservative Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "collectivistic a"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "conservative a"
   },
   "image": "459.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1374",
-  "description": "A compassionate, liberal Valya.",
+  "description": "An enthusiastic, anarchist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "anarchist b"
   },
   "image": "1374.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "enthusiastic"
     }
   ]
 }

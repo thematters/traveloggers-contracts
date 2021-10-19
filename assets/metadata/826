@@ -1,24 +1,24 @@
 {
   "name": "Matties #826",
-  "description": "A chic, capitalistic Lesya.",
+  "description": "A compassionate, individualistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic b",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "individualistic b"
   },
   "image": "826.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

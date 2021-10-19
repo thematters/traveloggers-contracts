@@ -1,20 +1,20 @@
 {
   "name": "Matties #1274",
-  "description": "A self-discipline, localist Zhenya.",
+  "description": "A self-discipline, collectivistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "localist b"
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "collectivistic b"
   },
   "image": "1274.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",

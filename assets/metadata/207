@@ -1,10 +1,10 @@
 {
   "name": "Matties #207",
-  "description": "An imaginative, feminist Gena.",
+  "description": "An adventurous, localist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "feminist a"
+    "character": "adventurous a",
+    "ideology": "localist a"
   },
   "image": "207.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

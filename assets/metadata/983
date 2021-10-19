@@ -1,24 +1,24 @@
 {
   "name": "Matties #983",
-  "description": "An analytical, optimistic Sasha.",
+  "description": "A down-to-earth, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "down-to-earth a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "983.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

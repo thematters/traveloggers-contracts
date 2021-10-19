@@ -1,10 +1,10 @@
 {
   "name": "Matties #1087",
-  "description": "A down-to-earth, cosmopolitan Zhenya.",
+  "description": "An adventurous, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "down-to-earth b",
-    "ideology": "cosmopolitan b"
+    "character": "adventurous a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1087.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "adventurous"
     }
   ]
 }

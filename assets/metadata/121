@@ -1,10 +1,10 @@
 {
   "name": "Matties #121",
-  "description": "A nonchalant, anarchist Zhenya.",
+  "description": "An analytical, feminist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "anarchist a"
+    "character": "analytical b",
+    "ideology": "feminist a"
   },
   "image": "121.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

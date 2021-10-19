@@ -1,24 +1,24 @@
 {
   "name": "Matties #949",
-  "description": "A sociable, collectivistic Gena.",
+  "description": "An introverted, anarchist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable b",
-    "ideology": "collectivistic b"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "anarchist a"
   },
   "image": "949.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "introverted"
     }
   ]
 }

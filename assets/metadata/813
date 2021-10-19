@@ -1,24 +1,24 @@
 {
   "name": "Matties #813",
-  "description": "An introverted, rational Yury.",
+  "description": "An observant, existentialist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted a",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "existentialist b"
   },
   "image": "813.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

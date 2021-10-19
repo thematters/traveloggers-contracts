@@ -1,24 +1,24 @@
 {
   "name": "Matties #6",
-  "description": "A rebellious, pessimistic Sasha.",
+  "description": "A down-to-earth, cynical Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious a",
-    "ideology": "pessimistic a"
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "cynical a"
   },
   "image": "6.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "down-to-earth"
     }
   ]
 }

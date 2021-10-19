@@ -1,24 +1,24 @@
 {
   "name": "Matties #1082",
-  "description": "An imaginative, Epicurean Sasha.",
+  "description": "A practical, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "imaginative a",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1082.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

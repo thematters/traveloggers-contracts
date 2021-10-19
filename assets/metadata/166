@@ -1,24 +1,24 @@
 {
   "name": "Matties #166",
-  "description": "A nonchalant, cosmopolitan Yury.",
+  "description": "A chic, rational Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "cosmopolitan b"
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "rational a"
   },
   "image": "166.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #115",
-  "description": "A nonchalant, optimistic Lesya.",
+  "description": "A practical, liberal Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "optimistic b"
+    "character": "practical b",
+    "ideology": "liberal b"
   },
   "image": "115.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

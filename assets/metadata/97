@@ -1,24 +1,24 @@
 {
   "name": "Matties #97",
-  "description": "A sociable, Marxist Zhenya.",
+  "description": "An exploring, skeptical Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "sociable b",
-    "ideology": "Marxist a"
+    "race": "Lesya",
+    "character": "exploring a",
+    "ideology": "skeptical a"
   },
   "image": "97.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "exploring"
     }
   ]
 }

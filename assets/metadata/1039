@@ -1,10 +1,10 @@
 {
   "name": "Matties #1039",
-  "description": "A nonchalant, existentialist Valya.",
+  "description": "An exploring, LGBTQ friendly Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "existentialist b"
+    "character": "exploring a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1039.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "exploring"
     }
   ]
 }

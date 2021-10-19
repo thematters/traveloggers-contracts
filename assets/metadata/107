@@ -1,24 +1,24 @@
 {
   "name": "Matties #107",
-  "description": "A practical, Epicurean Yury.",
+  "description": "An adventurous, nationalistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical b",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "nationalistic b"
   },
   "image": "107.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

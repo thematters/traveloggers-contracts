@@ -1,10 +1,10 @@
 {
   "name": "Matties #292",
-  "description": "An imaginative, Marxist Sasha.",
+  "description": "A rebellious, Epicurean Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "imaginative b",
-    "ideology": "Marxist b"
+    "character": "rebellious b",
+    "ideology": "Epicurean b"
   },
   "image": "292.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "Matties #1267",
-  "description": "A practical, cosmopolitan Yury.",
+  "description": "An imaginative, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical b",
-    "ideology": "cosmopolitan b"
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1267.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

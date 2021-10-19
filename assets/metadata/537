@@ -1,24 +1,24 @@
 {
   "name": "Matties #537",
-  "description": "An extroverted, pluralistic Valya.",
+  "description": "A determined, pacifist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "pacifist a"
   },
   "image": "537.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

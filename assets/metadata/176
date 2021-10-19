@@ -1,24 +1,24 @@
 {
   "name": "Matties #176",
-  "description": "An adventurous, conservative Yury.",
+  "description": "A practical, feminist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous a",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "feminist a"
   },
   "image": "176.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "practical"
     }
   ]
 }

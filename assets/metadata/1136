@@ -1,24 +1,24 @@
 {
   "name": "Matties #1136",
-  "description": "An exploring, rational Gena.",
+  "description": "A practical, pacifist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring b",
-    "ideology": "rational b"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "pacifist a"
   },
   "image": "1136.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "practical"
     }
   ]
 }

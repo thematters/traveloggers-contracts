@@ -1,24 +1,24 @@
 {
   "name": "Matties #157",
-  "description": "A determined, anarchist Zhenya.",
+  "description": "A down-to-earth, feminist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "anarchist b"
+    "race": "Lesya",
+    "character": "down-to-earth b",
+    "ideology": "feminist a"
   },
   "image": "157.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #606",
-  "description": "A rebellious, cosmopolitan Lesya.",
+  "description": "A down-to-earth, Epicurean Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "cosmopolitan b"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "Epicurean b"
   },
   "image": "606.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #94",
-  "description": "A practical, rational Gena.",
+  "description": "An introverted, collectivistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical a",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "collectivistic a"
   },
   "image": "94.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #1133",
-  "description": "A nonchalant, nationalistic Sasha.",
+  "description": "A confused, individualistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "nationalistic a"
+    "character": "confused a",
+    "ideology": "individualistic a"
   },
   "image": "1133.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "confused"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #728",
-  "description": "A nonchalant, existentialist Sasha.",
+  "description": "An introverted, romantic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "existentialist a"
+    "race": "Gena",
+    "character": "introverted a",
+    "ideology": "romantic a"
   },
   "image": "728.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "introverted"
     }
   ]
 }

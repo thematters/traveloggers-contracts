@@ -1,24 +1,24 @@
 {
   "name": "Matties #1350",
-  "description": "An observant, skeptical Gena.",
+  "description": "An imaginative, feminist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant b",
-    "ideology": "skeptical b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "feminist b"
   },
   "image": "1350.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "imaginative"
     }
   ]
 }

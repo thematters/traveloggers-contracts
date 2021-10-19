@@ -1,24 +1,24 @@
 {
   "name": "Matties #1017",
-  "description": "A hard-working, LGBTQ friendly Gena.",
+  "description": "A practical, nationalistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "nationalistic b"
   },
   "image": "1017.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

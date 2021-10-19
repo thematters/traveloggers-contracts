@@ -1,24 +1,24 @@
 {
   "name": "Matties #1166",
-  "description": "An imaginative, rational Yury.",
+  "description": "A practical, pessimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative a",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "practical b",
+    "ideology": "pessimistic b"
   },
   "image": "1166.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "practical"
     }
   ]
 }

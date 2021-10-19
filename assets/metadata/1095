@@ -1,24 +1,24 @@
 {
   "name": "Matties #1095",
-  "description": "A nonchalant, nationalistic Lesya.",
+  "description": "A chic, optimistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "nationalistic a"
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "optimistic a"
   },
   "image": "1095.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

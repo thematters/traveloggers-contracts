@@ -1,24 +1,24 @@
 {
   "name": "Matties #1186",
-  "description": "An introverted, existentialist Valya.",
+  "description": "An adventurous, cosmopolitan Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted b",
-    "ideology": "existentialist b"
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "adventurous"
     }
   ]
 }

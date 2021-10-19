@@ -1,16 +1,16 @@
 {
   "name": "Matties #933",
-  "description": "A sociable, conservative Gena.",
+  "description": "A practical, conservative Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable a",
+    "race": "Lesya",
+    "character": "practical b",
     "ideology": "conservative b"
   },
   "image": "933.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1191",
-  "description": "A rebellious, individualistic Yury.",
+  "description": "A practical, Marxist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "Marxist a"
   },
   "image": "1191.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "practical"
     }
   ]
 }

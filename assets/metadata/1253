@@ -1,10 +1,10 @@
 {
   "name": "Matties #1253",
-  "description": "A compassionate, skeptical Sasha.",
+  "description": "An introverted, capitalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "compassionate b",
-    "ideology": "skeptical a"
+    "character": "introverted b",
+    "ideology": "capitalistic a"
   },
   "image": "1253.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

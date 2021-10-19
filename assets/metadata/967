@@ -1,10 +1,10 @@
 {
   "name": "Matties #967",
-  "description": "An imaginative, conservative Valya.",
+  "description": "An exploring, cosmopolitan Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "conservative a"
+    "character": "exploring b",
+    "ideology": "cosmopolitan b"
   },
   "image": "967.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "exploring"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #333",
-  "description": "A determined, pessimistic Zhenya.",
+  "description": "A sociable, anarchist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "pessimistic a"
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "anarchist a"
   },
   "image": "333.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "sociable"
     }
   ]
 }

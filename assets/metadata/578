@@ -1,24 +1,24 @@
 {
   "name": "Matties #578",
-  "description": "A rebellious, skeptical Sasha.",
+  "description": "An enthusiastic, localist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious a",
-    "ideology": "skeptical a"
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "localist a"
   },
   "image": "578.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #1156",
-  "description": "A sociable, anarchist Lesya.",
+  "description": "A down-to-earth, individualistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "anarchist a"
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "individualistic a"
   },
   "image": "1156.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "down-to-earth"
     }
   ]
 }

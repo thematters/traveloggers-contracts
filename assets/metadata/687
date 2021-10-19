@@ -1,24 +1,24 @@
 {
   "name": "Matties #687",
-  "description": "An introverted, cosmopolitan Sasha.",
+  "description": "An enthusiastic, skeptical Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted a",
-    "ideology": "cosmopolitan b"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "skeptical a"
   },
   "image": "687.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "enthusiastic"
     }
   ]
 }

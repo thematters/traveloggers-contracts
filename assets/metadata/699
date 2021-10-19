@@ -1,24 +1,24 @@
 {
   "name": "Matties #699",
-  "description": "An extroverted, localist Lesya.",
+  "description": "A determined, pacifist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted a",
-    "ideology": "localist a"
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "pacifist b"
   },
   "image": "699.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

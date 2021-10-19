@@ -1,24 +1,24 @@
 {
   "name": "Matties #308",
-  "description": "An extroverted, cynical Sasha.",
+  "description": "An introverted, cosmopolitan Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted a",
-    "ideology": "cynical b"
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "cosmopolitan a"
   },
   "image": "308.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

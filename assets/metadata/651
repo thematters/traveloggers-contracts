@@ -1,24 +1,24 @@
 {
   "name": "Matties #651",
-  "description": "An exploring, conservative Sasha.",
+  "description": "A self-discipline, anarchist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "conservative a"
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "anarchist b"
   },
   "image": "651.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "self-discipline"
     }
   ]
 }

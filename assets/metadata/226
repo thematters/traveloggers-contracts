@@ -1,24 +1,24 @@
 {
   "name": "Matties #226",
-  "description": "A sociable, capitalistic Valya.",
+  "description": "A rebellious, Epicurean Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable b",
-    "ideology": "capitalistic b"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "Epicurean b"
   },
   "image": "226.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #151",
-  "description": "An observant, localist Yury.",
+  "description": "A self-discipline, anarchist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "localist a"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "anarchist a"
   },
   "image": "151.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "self-discipline"
     }
   ]
 }

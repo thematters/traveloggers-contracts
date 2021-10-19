@@ -1,20 +1,20 @@
 {
   "name": "Matties #177",
-  "description": "A nonchalant, pluralistic Valya.",
+  "description": "A nonchalant, skeptical Gena.",
   "_visual": {
-    "race": "Valya",
+    "race": "Gena",
     "character": "nonchalant a",
-    "ideology": "pluralistic a"
+    "ideology": "skeptical b"
   },
   "image": "177.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",

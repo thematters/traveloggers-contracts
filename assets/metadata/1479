@@ -1,24 +1,24 @@
 {
   "name": "Matties #1479",
-  "description": "An enthusiastic, pacifist Sasha.",
+  "description": "A sociable, Epicurean Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic a",
-    "ideology": "pacifist b"
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "Epicurean a"
   },
   "image": "1479.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "sociable"
     }
   ]
 }

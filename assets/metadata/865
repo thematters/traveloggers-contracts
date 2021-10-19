@@ -1,10 +1,10 @@
 {
   "name": "Matties #865",
-  "description": "A hard-working, Marxist Valya.",
+  "description": "An extroverted, conservative Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "hard-working a",
-    "ideology": "Marxist b"
+    "character": "extroverted b",
+    "ideology": "conservative a"
   },
   "image": "865.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

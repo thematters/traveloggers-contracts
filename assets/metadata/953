@@ -1,24 +1,24 @@
 {
   "name": "Matties #953",
-  "description": "A nonchalant, Marxist Zhenya.",
+  "description": "A self-discipline, localist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "Marxist a"
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "localist a"
   },
   "image": "953.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "self-discipline"
     }
   ]
 }

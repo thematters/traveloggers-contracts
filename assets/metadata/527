@@ -1,10 +1,10 @@
 {
   "name": "Matties #527",
-  "description": "A sociable, pessimistic Sasha.",
+  "description": "A determined, rational Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "sociable a",
-    "ideology": "pessimistic b"
+    "character": "determined b",
+    "ideology": "rational b"
   },
   "image": "527.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "determined"
     }
   ]
 }

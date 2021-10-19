@@ -1,24 +1,24 @@
 {
   "name": "Matties #521",
-  "description": "A nonchalant, rational Zhenya.",
+  "description": "A down-to-earth, pluralistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "rational a"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "pluralistic b"
   },
   "image": "521.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #834",
-  "description": "An analytical, pessimistic Valya.",
+  "description": "A chic, conservative Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "analytical b",
-    "ideology": "pessimistic a"
+    "character": "chic a",
+    "ideology": "conservative b"
   },
   "image": "834.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "chic"
     }
   ]
 }

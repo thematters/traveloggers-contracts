@@ -1,24 +1,24 @@
 {
   "name": "Matties #1279",
-  "description": "A sociable, localist Gena.",
+  "description": "A hard-working, capitalistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable b",
-    "ideology": "localist a"
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "capitalistic a"
   },
   "image": "1279.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "hard-working"
     }
   ]
 }

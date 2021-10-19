@@ -1,10 +1,10 @@
 {
   "name": "Matties #875",
-  "description": "A down-to-earth, conservative Sasha.",
+  "description": "A determined, optimistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "conservative a"
+    "character": "determined b",
+    "ideology": "optimistic b"
   },
   "image": "875.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

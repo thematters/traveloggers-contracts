@@ -1,24 +1,24 @@
 {
   "name": "Matties #158",
-  "description": "An exploring, existentialist Zhenya.",
+  "description": "A rebellious, conservative Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "existentialist a"
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "conservative a"
   },
   "image": "158.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "rebellious"
     }
   ]
 }

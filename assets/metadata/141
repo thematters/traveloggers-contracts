@@ -1,24 +1,24 @@
 {
   "name": "Matties #141",
-  "description": "A chic, conservative Gena.",
+  "description": "A rebellious, collectivistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic b",
-    "ideology": "conservative a"
+    "race": "Valya",
+    "character": "rebellious a",
+    "ideology": "collectivistic a"
   },
   "image": "141.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "name": "Matties #454",
-  "description": "A compassionate, individualistic Lesya.",
+  "description": "A compassionate, skeptical Sasha.",
   "_visual": {
-    "race": "Lesya",
+    "race": "Sasha",
     "character": "compassionate a",
-    "ideology": "individualistic a"
+    "ideology": "skeptical a"
   },
   "image": "454.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",

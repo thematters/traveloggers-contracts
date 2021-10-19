@@ -1,10 +1,10 @@
 {
   "name": "Matties #981",
-  "description": "A nonchalant, localist Zhenya.",
+  "description": "A determined, romantic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "localist a"
+    "character": "determined a",
+    "ideology": "romantic a"
   },
   "image": "981.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

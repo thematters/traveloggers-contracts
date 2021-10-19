@@ -1,10 +1,10 @@
 {
   "name": "Matties #1018",
-  "description": "An exploring, skeptical Zhenya.",
+  "description": "A hard-working, anarchist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "skeptical a"
+    "character": "hard-working a",
+    "ideology": "anarchist b"
   },
   "image": "1018.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "hard-working"
     }
   ]
 }

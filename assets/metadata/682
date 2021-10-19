@@ -1,24 +1,24 @@
 {
   "name": "Matties #682",
-  "description": "A self-discipline, cynical Sasha.",
+  "description": "An enthusiastic, optimistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "self-discipline a",
-    "ideology": "cynical b"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "optimistic a"
   },
   "image": "682.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

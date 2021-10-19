@@ -1,24 +1,24 @@
 {
   "name": "Matties #827",
-  "description": "An analytical, pluralistic Gena.",
+  "description": "An observant, feminist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "analytical b",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "feminist b"
   },
   "image": "827.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

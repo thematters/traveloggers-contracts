@@ -1,10 +1,10 @@
 {
   "name": "Matties #968",
-  "description": "A confused, existentialist Yury.",
+  "description": "An enthusiastic, Epicurean Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "confused b",
-    "ideology": "existentialist b"
+    "character": "enthusiastic a",
+    "ideology": "Epicurean a"
   },
   "image": "968.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "enthusiastic"
     }
   ]
 }

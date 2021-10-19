@@ -1,10 +1,10 @@
 {
   "name": "Matties #602",
-  "description": "A rebellious, pessimistic Sasha.",
+  "description": "A nonchalant, nationalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "rebellious b",
-    "ideology": "pessimistic a"
+    "character": "nonchalant b",
+    "ideology": "nationalistic b"
   },
   "image": "602.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "nonchalant"
     }
   ]
 }

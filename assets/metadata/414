@@ -1,24 +1,24 @@
 {
   "name": "Matties #414",
-  "description": "A confused, capitalistic Valya.",
+  "description": "A determined, individualistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "individualistic a"
   },
   "image": "414.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "determined"
     }
   ]
 }

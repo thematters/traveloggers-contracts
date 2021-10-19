@@ -1,10 +1,10 @@
 {
   "name": "Matties #839",
-  "description": "An extroverted, LGBTQ friendly Zhenya.",
+  "description": "A rebellious, localist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "LGBTQ friendly a"
+    "character": "rebellious b",
+    "ideology": "localist a"
   },
   "image": "839.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "rebellious"
     }
   ]
 }

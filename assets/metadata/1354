@@ -1,24 +1,24 @@
 {
   "name": "Matties #1354",
-  "description": "A self-discipline, conservative Gena.",
+  "description": "An adventurous, optimistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline a",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "optimistic a"
   },
   "image": "1354.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "adventurous"
     }
   ]
 }

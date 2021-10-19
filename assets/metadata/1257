@@ -1,24 +1,24 @@
 {
   "name": "Matties #1257",
-  "description": "A practical, capitalistic Valya.",
+  "description": "An enthusiastic, rational Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "practical a",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "rational b"
   },
   "image": "1257.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

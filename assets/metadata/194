@@ -1,24 +1,24 @@
 {
   "name": "Matties #194",
-  "description": "An adventurous, rational Gena.",
+  "description": "An imaginative, liberal Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous a",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "liberal a"
   },
   "image": "194.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "imaginative"
     }
   ]
 }

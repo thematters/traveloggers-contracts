@@ -1,24 +1,24 @@
 {
   "name": "Matties #1441",
-  "description": "An analytical, pessimistic Yury.",
+  "description": "A practical, localist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical b",
-    "ideology": "pessimistic b"
+    "race": "Zhenya",
+    "character": "practical b",
+    "ideology": "localist b"
   },
   "image": "1441.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "practical"
     }
   ]
 }

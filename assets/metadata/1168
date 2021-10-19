@@ -1,10 +1,10 @@
 {
   "name": "Matties #1168",
-  "description": "A compassionate, cosmopolitan Valya.",
+  "description": "A self-discipline, feminist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "cosmopolitan b"
+    "character": "self-discipline b",
+    "ideology": "feminist a"
   },
   "image": "1168.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

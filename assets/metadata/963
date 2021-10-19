@@ -1,24 +1,24 @@
 {
   "name": "Matties #963",
-  "description": "An adventurous, romantic Valya.",
+  "description": "A down-to-earth, feminist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous b",
-    "ideology": "romantic a"
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "feminist b"
   },
   "image": "963.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

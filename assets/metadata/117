@@ -1,24 +1,24 @@
 {
   "name": "Matties #117",
-  "description": "A nonchalant, skeptical Valya.",
+  "description": "A hard-working, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "skeptical b"
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "117.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

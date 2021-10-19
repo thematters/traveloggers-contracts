@@ -1,24 +1,24 @@
 {
   "name": "Matties #331",
-  "description": "An enthusiastic, skeptical Lesya.",
+  "description": "A determined, anarchist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic a",
-    "ideology": "skeptical b"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "anarchist a"
   },
   "image": "331.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #309",
-  "description": "A sociable, romantic Zhenya.",
+  "description": "An enthusiastic, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "sociable a",
-    "ideology": "romantic a"
+    "character": "enthusiastic a",
+    "ideology": "cosmopolitan a"
   },
   "image": "309.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

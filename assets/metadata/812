@@ -1,20 +1,20 @@
 {
   "name": "Matties #812",
-  "description": "A compassionate, optimistic Gena.",
+  "description": "A compassionate, pluralistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "optimistic a"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "pluralistic b"
   },
   "image": "812.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
   "name": "Matties #278",
-  "description": "An observant, conservative Yury.",
+  "description": "A determined, collectivistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant a",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "collectivistic a"
   },
   "image": "278.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "determined"
     }
   ]
 }

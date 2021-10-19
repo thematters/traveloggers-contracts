@@ -1,24 +1,24 @@
 {
   "name": "Matties #736",
-  "description": "An enthusiastic, pacifist Lesya.",
+  "description": "A down-to-earth, rational Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "pacifist b"
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "rational b"
   },
   "image": "736.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "down-to-earth"
     }
   ]
 }

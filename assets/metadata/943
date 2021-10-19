@@ -1,24 +1,24 @@
 {
   "name": "Matties #943",
-  "description": "An exploring, LGBTQ friendly Gena.",
+  "description": "A determined, rational Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "rational b"
   },
   "image": "943.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "determined"
     }
   ]
 }

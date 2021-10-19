@@ -1,24 +1,24 @@
 {
   "name": "Matties #302",
-  "description": "A chic, pessimistic Valya.",
+  "description": "An adventurous, pragmatist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "pragmatist a"
   },
   "image": "302.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Matties #336",
-  "description": "A practical, localist Sasha.",
+  "description": "A rebellious, pragmatist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical b",
-    "ideology": "localist a"
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "pragmatist b"
   },
   "image": "336.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "rebellious"
     }
   ]
 }

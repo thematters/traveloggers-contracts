@@ -1,24 +1,24 @@
 {
   "name": "Matties #61",
-  "description": "An imaginative, nationalistic Sasha.",
+  "description": "An introverted, rational Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "imaginative b",
-    "ideology": "nationalistic a"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "rational a"
   },
   "image": "61.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

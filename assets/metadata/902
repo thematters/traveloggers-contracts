@@ -1,24 +1,24 @@
 {
   "name": "Matties #902",
-  "description": "A determined, pragmatist Zhenya.",
+  "description": "An extroverted, liberal Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined b",
-    "ideology": "pragmatist b"
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "liberal a"
   },
   "image": "902.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

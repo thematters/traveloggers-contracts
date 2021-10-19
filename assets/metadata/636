@@ -1,24 +1,24 @@
 {
   "name": "Matties #636",
-  "description": "A determined, existentialist Valya.",
+  "description": "A confused, conservative Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined b",
-    "ideology": "existentialist a"
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "conservative a"
   },
   "image": "636.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "confused"
     }
   ]
 }

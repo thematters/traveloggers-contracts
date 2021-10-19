@@ -1,24 +1,24 @@
 {
   "name": "Matties #730",
-  "description": "A down-to-earth, existentialist Yury.",
+  "description": "An adventurous, optimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "existentialist a"
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "optimistic a"
   },
   "image": "730.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "adventurous"
     }
   ]
 }

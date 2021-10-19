@@ -1,24 +1,24 @@
 {
   "name": "Matties #561",
-  "description": "A self-discipline, pessimistic Lesya.",
+  "description": "An exploring, anarchist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "pessimistic a"
+    "race": "Sasha",
+    "character": "exploring b",
+    "ideology": "anarchist b"
   },
   "image": "561.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "exploring"
     }
   ]
 }

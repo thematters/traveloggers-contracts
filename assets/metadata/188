@@ -1,24 +1,24 @@
 {
   "name": "Matties #188",
-  "description": "A down-to-earth, existentialist Lesya.",
+  "description": "A self-discipline, conservative Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "self-discipline b",
+    "ideology": "conservative b"
   },
   "image": "188.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

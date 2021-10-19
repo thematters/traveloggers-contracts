@@ -1,10 +1,10 @@
 {
   "name": "Matties #427",
-  "description": "An analytical, cosmopolitan Gena.",
+  "description": "A chic, pragmatist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "analytical b",
-    "ideology": "cosmopolitan a"
+    "character": "chic a",
+    "ideology": "pragmatist b"
   },
   "image": "427.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "chic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Matties #429",
-  "description": "A sociable, romantic Valya.",
+  "description": "A sociable, collectivistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "sociable b",
-    "ideology": "romantic a"
+    "character": "sociable a",
+    "ideology": "collectivistic b"
   },
   "image": "429.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",

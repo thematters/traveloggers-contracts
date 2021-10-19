@@ -1,10 +1,10 @@
 {
   "name": "Matties #407",
-  "description": "A determined, Epicurean Lesya.",
+  "description": "An introverted, anarchist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "determined b",
-    "ideology": "Epicurean a"
+    "character": "introverted a",
+    "ideology": "anarchist a"
   },
   "image": "407.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "introverted"
     }
   ]
 }

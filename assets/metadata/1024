@@ -1,24 +1,24 @@
 {
   "name": "Matties #1024",
-  "description": "A chic, individualistic Yury.",
+  "description": "A rebellious, rational Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "chic a",
-    "ideology": "individualistic a"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "rational a"
   },
   "image": "1024.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "rebellious"
     }
   ]
 }

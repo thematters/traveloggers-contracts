@@ -1,20 +1,20 @@
 {
   "name": "Matties #33",
-  "description": "A determined, localist Sasha.",
+  "description": "A determined, existentialist Gena.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Gena",
     "character": "determined a",
-    "ideology": "localist a"
+    "ideology": "existentialist a"
   },
   "image": "33.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
