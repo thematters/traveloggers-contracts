@@ -9,7 +9,12 @@ const { expect } = chai;
 
 const deployMatty = async () => {
   const Matty = await ethers.getContractFactory("Matty");
-  const matty = await Matty.deploy();
+  const matty = await Matty.deploy(
+    "Matty_Tester",
+    "MATT",
+    20,
+    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+  );
   return await matty.deployed();
 };
 
@@ -61,85 +66,6 @@ describe("Matty", () => {
 
       // should be no duplication in result
       expect(new Set(result).size).to.equal(result.length);
-    });
-  });
-
-  describe("Logbook", () => {
-    it("Can read or write by token owner", async () => {
-      // initial mint
-      const [owner] = await ethers.getSigners();
-      const token1Id = 1;
-      const matty = await deployMatty();
-      await matty.batchMint([owner.address]);
-
-      // append log
-      const log =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since.";
-
-      const tx = await matty.appendLog(token1Id, log);
-
-      // "LogbookNewLog" event is emitted
-      await expect(tx)
-        .to.emit(matty, "LogbookNewLog")
-        .withArgs(token1Id, owner.address);
-
-      // assuming base fee + tip ~ 100 gwei
-      const { gasUsed } = await tx.wait();
-      console.log(
-        `        Gas used for appendLog with ${
-          log.length
-        } characters: ${gasUsed}. Estimated ETH: ${toGasCost(gasUsed)}`
-      );
-
-      // logbook is locked now
-      const logbook = await matty.readLogbook(token1Id);
-      expect(logbook.isLocked).to.equal(true);
-
-      // latest log is sent by token owner
-      const [latestLog] = logbook.logs.slice(-1);
-      expect(latestLog.sender).to.equal(owner.address);
-      expect(latestLog.message).to.equal(log);
-    });
-
-    it("Can write with other valid string", async () => {
-      // initial mint
-      const [owner] = await ethers.getSigners();
-      const token1Id = 1;
-      const matty = await deployMatty();
-      await matty.batchMint([owner.address]);
-
-      // log chinese
-      const logChinese =
-        "綠正春職外也事歡發是來使要北的玩心回學：活支影現上點人。到送件票有動。手覺內心動之裝放。";
-      await matty.appendLog(token1Id, logChinese);
-      const logbook = await matty.readLogbook(token1Id);
-      const [latestLog] = logbook.logs.slice(-1);
-      expect(latestLog.message).to.equal(logChinese);
-    });
-
-    it("Should be unlocked on token transfer", async () => {
-      // initial mint
-      const [owner, receiver] = await ethers.getSigners();
-      const token1Id = 1;
-      const matty = await deployMatty();
-      await matty.batchMint([owner.address]);
-
-      const log =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
-      await matty.appendLog(token1Id, log);
-
-      // transfer
-      await matty.transferFrom(owner.address, receiver.address, token1Id);
-
-      // appendable if it's unlocked
-      await matty.connect(receiver).appendLog(token1Id, log);
-
-      // locked again
-      const receiverLogbook = await matty
-        .connect(receiver)
-        .readLogbook(token1Id);
-      expect(receiverLogbook.logs.length).to.equal(2);
-      expect(receiverLogbook.isLocked).to.equal(true);
     });
   });
 });

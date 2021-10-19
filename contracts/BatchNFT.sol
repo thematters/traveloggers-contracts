@@ -13,26 +13,25 @@ contract BatchNFT is ERC721, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter internal _tokenIds;
 
-    uint16 public _totalSupply;
+    uint16 public totalSupply;
 
     // Base URI shared by token and contract metadata
-    string private _sharedBaseURI =
-        "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/";
+    string private _sharedBaseURI = "ipfs://PLACEHOLDER_URI/";
 
     constructor(
         string memory name_,
         string memory symbol_,
-        uint16 supply_
+        uint16 supply_,
+        string memory sharedBaseURI_
     ) ERC721(name_, symbol_) {
         setSupply(supply_);
+        setSharedBaseURI(sharedBaseURI_);
     }
-
-    receive() external payable {}
 
     /**
      * @dev Withdraw all ether in the contract
      */
-    function withdrawAll(address vault_) public onlyOwner {
+    function withdrawAll(address vault_) public payable onlyOwner {
         uint256 balance = address(this).balance;
         payable(vault_).transfer(balance);
     }
@@ -41,13 +40,13 @@ contract BatchNFT is ERC721, Ownable {
      * @dev Update the supply of NFT.
      */
     function setSupply(uint16 supply_) public onlyOwner {
-        _totalSupply = supply_;
+        totalSupply = supply_;
     }
 
     /**
      * @dev Update the shared base URI
      */
-    function setSharedBaseURI(string memory uri_) external onlyOwner {
+    function setSharedBaseURI(string memory uri_) public onlyOwner {
         _sharedBaseURI = uri_;
     }
 
@@ -71,7 +70,7 @@ contract BatchNFT is ERC721, Ownable {
         returns (uint256[] memory)
     {
         require(
-            _totalSupply >= addresses_.length + _tokenIds.current(),
+            totalSupply >= addresses_.length + _tokenIds.current(),
             "not enough supply"
         );
 

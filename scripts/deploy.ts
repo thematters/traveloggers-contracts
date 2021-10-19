@@ -21,10 +21,32 @@ async function main() {
     );
   }
 
+  if (!contractState.base_uri) {
+    throw new Error(
+      `[${network}:deploy] missing "base_uri", please run "npm run ${network}:store" first`
+    );
+  }
+
+  if (
+    !contractState.name ||
+    !contractState.symbol ||
+    !contractState.supply ||
+    !contractState.base_uri
+  ) {
+    throw new Error(
+      `[${network}:deploy] "name", "symbol", "supply" are required`
+    );
+  }
+
   // get the contract to deploy
   const Matty = await ethers.getContractFactory("Matty");
   console.log(`[${network}:deploy] Deploying Matty...`);
-  const matty = await Matty.deploy();
+  const matty = await Matty.deploy(
+    contractState.name,
+    contractState.symbol,
+    contractState.supply,
+    contractState.base_uri
+  );
   await matty.deployed();
   console.log(`[${network}:deploy] Mattty deployed to:`, matty.address);
 

@@ -38,7 +38,7 @@ abstract contract PreOrder is BatchNFT {
 
     // set the number of participants allowed
     function setParticipants(uint256 participants_) public onlyOwner {
-        require(participants_ <= _totalSupply, "incorrect participants");
+        require(participants_ <= totalSupply, "incorrect participants");
         participantsAllowed = participants_;
     }
 
@@ -48,7 +48,7 @@ abstract contract PreOrder is BatchNFT {
             require(minAmount > 0, "zero amount");
             // number of participants shall be less or equal to the number of supplied NFTs
             require(
-                participantsAllowed > 0 && participantsAllowed <= _totalSupply,
+                participantsAllowed > 0 && participantsAllowed <= totalSupply,
                 "incorrect participants"
             );
             inPreOrder = true;

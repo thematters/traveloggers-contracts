@@ -1,4 +1,7 @@
 {
-  "contract_address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+  "name": "Matty",
+  "symbol": "MAT",
+  "supply": 500,
+  "contract_address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
   "base_uri": "ipfs://Qmbbyi1yDcN5QAGWkigQ9a82B5nH8Ghtxz7J5BaAJP1bCq"
 }

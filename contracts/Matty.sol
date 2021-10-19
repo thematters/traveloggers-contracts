@@ -6,7 +6,12 @@ import "./Logbook.sol";
 import "./PreOrder.sol";
 
 contract Matty is Lottery, Logbook, PreOrder {
-    constructor() BatchNFT("Matty", "MATT", 500) {}
+    constructor(
+        string memory name_,
+        string memory symbol_,
+        uint16 supply_,
+        string memory sharedBaseURI_
+    ) BatchNFT(name_, symbol_, supply_, sharedBaseURI_) {}
 
     /**
      * @dev Unlock logbook on token transfer
