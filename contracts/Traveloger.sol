@@ -5,7 +5,7 @@ import "./Lottery.sol";
 import "./Logbook.sol";
 import "./PreOrder.sol";
 
-contract Matty is Lottery, Logbook, PreOrder {
+contract Traveloger is Lottery, Logbook, PreOrder {
     constructor(
         string memory name_,
         string memory symbol_,

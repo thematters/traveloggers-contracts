@@ -8,7 +8,7 @@ chai.use(solidity);
 const { expect } = chai;
 
 const deployPreOrder = async () => {
-  const PreOrder = await ethers.getContractFactory("Matty");
+  const PreOrder = await ethers.getContractFactory("Traveloger");
   const preOrder = await PreOrder.deploy(
     "PreOrder_Tester",
     "POTT",

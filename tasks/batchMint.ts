@@ -1,7 +1,7 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getMattyContract, getTaskInputs } from "./utils";
+import { getTravelogerContract, getTaskInputs } from "./utils";
 
 const taskName = "mint:batch";
 
@@ -18,7 +18,7 @@ task(taskName, "Batch mint NFTs to given addresses")
     console.log(`[${network}:${taskName}] Running task`);
 
     // get contract
-    const matty = await getMattyContract({ network, hardhat });
+    const traveloger = await getTravelogerContract({ network, hardhat });
 
     // read input file
     const { inputs } = await getTaskInputs({
@@ -35,11 +35,11 @@ task(taskName, "Batch mint NFTs to given addresses")
 
     // run task
     try {
-      const tx = await matty.batchMint(inputs.addresses);
+      const tx = await traveloger.batchMint(inputs.addresses);
 
       const balances: { [key: string]: any } = {};
       for (const address of inputs.addresses) {
-        balances[address] = await matty.balanceOf(address);
+        balances[address] = await traveloger.balanceOf(address);
       }
 
       inputs.txHash = tx.hash;
