@@ -1,10 +1,10 @@
 {
-  "name": "Matties #190",
-  "description": "A confused, optimistic Sasha.",
+  "name": "Traveloger #190",
+  "description": "A practical, nationalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "confused b",
-    "ideology": "optimistic a"
+    "character": "practical b",
+    "ideology": "nationalistic a"
   },
   "image": "190.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "practical"
     }
   ]
 }

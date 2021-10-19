@@ -1,24 +1,24 @@
 {
-  "name": "Matties #791",
-  "description": "An extroverted, romantic Gena.",
+  "name": "Traveloger #791",
+  "description": "A self-discipline, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "romantic b"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "cosmopolitan a"
   },
   "image": "791.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "self-discipline"
     }
   ]
 }

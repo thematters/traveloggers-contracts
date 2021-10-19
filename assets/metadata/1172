@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1172",
-  "description": "An extroverted, Epicurean Sasha.",
+  "name": "Traveloger #1172",
+  "description": "A determined, liberal Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "Epicurean a"
+    "race": "Zhenya",
+    "character": "determined a",
+    "ideology": "liberal b"
   },
   "image": "1172.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

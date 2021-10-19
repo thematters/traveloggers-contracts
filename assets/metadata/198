@@ -1,24 +1,24 @@
 {
-  "name": "Matties #198",
-  "description": "An introverted, localist Sasha.",
+  "name": "Traveloger #198",
+  "description": "An exploring, Epicurean Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted a",
-    "ideology": "localist a"
+    "race": "Yury",
+    "character": "exploring a",
+    "ideology": "Epicurean b"
   },
   "image": "198.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "exploring"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1174",
-  "description": "A compassionate, LGBTQ friendly Valya.",
+  "name": "Traveloger #1174",
+  "description": "A down-to-earth, pacifist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "pacifist b"
   },
   "image": "1174.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "down-to-earth"
     }
   ]
 }

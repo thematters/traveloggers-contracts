@@ -1,24 +1,24 @@
 {
-  "name": "Matties #176",
-  "description": "A practical, feminist Gena.",
+  "name": "Traveloger #176",
+  "description": "An enthusiastic, anarchist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "feminist a"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "anarchist b"
   },
   "image": "176.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

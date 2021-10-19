@@ -1,24 +1,24 @@
 {
-  "name": "Matties #291",
-  "description": "A rebellious, LGBTQ friendly Lesya.",
+  "name": "Traveloger #291",
+  "description": "A compassionate, cynical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "cynical b"
   },
   "image": "291.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

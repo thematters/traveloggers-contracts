@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1144",
-  "description": "A sociable, pragmatist Zhenya.",
+  "name": "Traveloger #1144",
+  "description": "An enthusiastic, capitalistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "sociable a",
-    "ideology": "pragmatist b"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "capitalistic a"
   },
   "image": "1144.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "enthusiastic"
     }
   ]
 }

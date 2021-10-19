@@ -1,10 +1,10 @@
 {
-  "name": "Matties #506",
-  "description": "An exploring, pacifist Lesya.",
+  "name": "Traveloger #506",
+  "description": "An enthusiastic, capitalistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "pacifist a"
+    "character": "enthusiastic b",
+    "ideology": "capitalistic a"
   },
   "image": "506.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "enthusiastic"
     }
   ]
 }

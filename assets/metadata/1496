@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1496",
-  "description": "A hard-working, pragmatist Valya.",
+  "name": "Traveloger #1496",
+  "description": "A self-discipline, pacifist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working b",
-    "ideology": "pragmatist a"
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "pacifist a"
   },
   "image": "1496.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "self-discipline"
     }
   ]
 }

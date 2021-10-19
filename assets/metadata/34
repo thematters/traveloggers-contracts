@@ -1,10 +1,10 @@
 {
-  "name": "Matties #34",
-  "description": "An adventurous, romantic Lesya.",
+  "name": "Traveloger #34",
+  "description": "An adventurous, cynical Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "romantic b"
+    "character": "adventurous b",
+    "ideology": "cynical b"
   },
   "image": "34.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",

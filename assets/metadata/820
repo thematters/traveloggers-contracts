@@ -1,24 +1,24 @@
 {
-  "name": "Matties #820",
-  "description": "An enthusiastic, cosmopolitan Yury.",
+  "name": "Traveloger #820",
+  "description": "A compassionate, existentialist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "enthusiastic a",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "existentialist a"
   },
   "image": "820.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

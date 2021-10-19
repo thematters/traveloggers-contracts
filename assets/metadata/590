@@ -1,24 +1,24 @@
 {
-  "name": "Matties #590",
-  "description": "An extroverted, existentialist Yury.",
+  "name": "Traveloger #590",
+  "description": "A down-to-earth, optimistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "existentialist b"
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "optimistic a"
   },
   "image": "590.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "down-to-earth"
     }
   ]
 }

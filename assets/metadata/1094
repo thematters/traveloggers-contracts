@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1094",
-  "description": "An extroverted, Marxist Sasha.",
+  "name": "Traveloger #1094",
+  "description": "A practical, pacifist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted a",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "pacifist b"
   },
   "image": "1094.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

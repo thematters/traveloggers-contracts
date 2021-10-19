@@ -1,20 +1,20 @@
 {
-  "name": "Matties #965",
-  "description": "A confused, Marxist Lesya.",
+  "name": "Traveloger #965",
+  "description": "A confused, nationalistic Sasha.",
   "_visual": {
-    "race": "Lesya",
+    "race": "Sasha",
     "character": "confused a",
-    "ideology": "Marxist b"
+    "ideology": "nationalistic b"
   },
   "image": "965.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1472",
-  "description": "A nonchalant, liberal Valya.",
+  "name": "Traveloger #1472",
+  "description": "An enthusiastic, existentialist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "liberal a"
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "existentialist a"
   },
   "image": "1472.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1358",
-  "description": "A down-to-earth, anarchist Gena.",
+  "name": "Traveloger #1358",
+  "description": "An adventurous, individualistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "anarchist a"
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "individualistic a"
   },
   "image": "1358.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "adventurous"
     }
   ]
 }

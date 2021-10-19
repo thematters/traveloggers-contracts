@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1159",
-  "description": "A compassionate, Epicurean Yury.",
+  "name": "Traveloger #1159",
+  "description": "An enthusiastic, individualistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "Epicurean a"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "individualistic a"
   },
   "image": "1159.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "enthusiastic"
     }
   ]
 }

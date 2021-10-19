@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1216",
-  "description": "A practical, pessimistic Sasha.",
+  "name": "Traveloger #1216",
+  "description": "An observant, pessimistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical b",
-    "ideology": "pessimistic a"
+    "race": "Valya",
+    "character": "observant a",
+    "ideology": "pessimistic b"
   },
   "image": "1216.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "observant"
     }
   ]
 }

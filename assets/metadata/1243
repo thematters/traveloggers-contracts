@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1243",
-  "description": "An introverted, existentialist Gena.",
+  "name": "Traveloger #1243",
+  "description": "A down-to-earth, collectivistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted a",
-    "ideology": "existentialist b"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "collectivistic b"
   },
   "image": "1243.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #864",
-  "description": "A down-to-earth, rational Gena.",
+  "name": "Traveloger #864",
+  "description": "An analytical, feminist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "rational b"
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "feminist a"
   },
   "image": "864.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

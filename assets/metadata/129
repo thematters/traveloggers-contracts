@@ -1,24 +1,24 @@
 {
-  "name": "Matties #129",
-  "description": "An introverted, rational Yury.",
+  "name": "Traveloger #129",
+  "description": "A rebellious, Marxist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted b",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "rebellious b",
+    "ideology": "Marxist a"
   },
   "image": "129.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "rebellious"
     }
   ]
 }

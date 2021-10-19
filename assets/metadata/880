@@ -1,20 +1,20 @@
 {
-  "name": "Matties #880",
-  "description": "A down-to-earth, Marxist Yury.",
+  "name": "Traveloger #880",
+  "description": "A down-to-earth, collectivistic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "Marxist a"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "collectivistic b"
   },
   "image": "880.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",

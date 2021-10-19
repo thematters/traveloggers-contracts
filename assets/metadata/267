@@ -1,24 +1,24 @@
 {
-  "name": "Matties #267",
-  "description": "A sociable, pessimistic Lesya.",
+  "name": "Traveloger #267",
+  "description": "A hard-working, conservative Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "pessimistic b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "conservative a"
   },
   "image": "267.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "hard-working"
     }
   ]
 }

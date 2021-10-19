@@ -1,10 +1,10 @@
 {
-  "name": "Matties #974",
-  "description": "A chic, collectivistic Sasha.",
+  "name": "Traveloger #974",
+  "description": "A sociable, pacifist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "chic a",
-    "ideology": "collectivistic a"
+    "character": "sociable b",
+    "ideology": "pacifist b"
   },
   "image": "974.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1171",
-  "description": "An extroverted, capitalistic Yury.",
+  "name": "Traveloger #1171",
+  "description": "An introverted, localist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "capitalistic b"
+    "character": "introverted b",
+    "ideology": "localist b"
   },
   "image": "1171.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

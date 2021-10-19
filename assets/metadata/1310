@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1310",
-  "description": "A nonchalant, anarchist Yury.",
+  "name": "Traveloger #1310",
+  "description": "A confused, pessimistic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "anarchist a"
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "pessimistic a"
   },
   "image": "1310.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "confused"
     }
   ]
 }

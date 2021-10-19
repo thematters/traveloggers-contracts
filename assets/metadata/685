@@ -1,10 +1,10 @@
 {
-  "name": "Matties #685",
-  "description": "A compassionate, anarchist Yury.",
+  "name": "Traveloger #685",
+  "description": "A down-to-earth, feminist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "anarchist a"
+    "character": "down-to-earth a",
+    "ideology": "feminist b"
   },
   "image": "685.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "down-to-earth"
     }
   ]
 }

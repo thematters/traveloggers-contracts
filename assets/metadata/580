@@ -1,24 +1,24 @@
 {
-  "name": "Matties #580",
-  "description": "A practical, Marxist Yury.",
+  "name": "Traveloger #580",
+  "description": "A sociable, conservative Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical a",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "conservative a"
   },
   "image": "580.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sociable"
     }
   ]
 }

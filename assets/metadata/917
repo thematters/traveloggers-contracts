@@ -1,24 +1,24 @@
 {
-  "name": "Matties #917",
-  "description": "An extroverted, liberal Zhenya.",
+  "name": "Traveloger #917",
+  "description": "An observant, optimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "liberal b"
+    "race": "Valya",
+    "character": "observant b",
+    "ideology": "optimistic b"
   },
   "image": "917.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

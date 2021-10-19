@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1100",
-  "description": "An analytical, localist Zhenya.",
+  "name": "Traveloger #1100",
+  "description": "An imaginative, feminist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "localist b"
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "feminist a"
   },
   "image": "1100.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "imaginative"
     }
   ]
 }

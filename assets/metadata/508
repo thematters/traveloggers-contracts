@@ -1,24 +1,24 @@
 {
-  "name": "Matties #508",
-  "description": "A confused, capitalistic Valya.",
+  "name": "Traveloger #508",
+  "description": "A hard-working, Marxist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "hard-working a",
+    "ideology": "Marxist b"
   },
   "image": "508.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

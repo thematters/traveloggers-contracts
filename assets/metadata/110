@@ -1,10 +1,10 @@
 {
-  "name": "Matties #110",
-  "description": "A sociable, Marxist Yury.",
+  "name": "Traveloger #110",
+  "description": "A compassionate, pluralistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable b",
-    "ideology": "Marxist a"
+    "character": "compassionate b",
+    "ideology": "pluralistic a"
   },
   "image": "110.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "compassionate"
     }
   ]
 }

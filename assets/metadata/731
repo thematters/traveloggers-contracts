@@ -1,24 +1,24 @@
 {
-  "name": "Matties #731",
-  "description": "An exploring, existentialist Gena.",
+  "name": "Traveloger #731",
+  "description": "A determined, optimistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring b",
-    "ideology": "existentialist b"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "optimistic a"
   },
   "image": "731.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "determined"
     }
   ]
 }

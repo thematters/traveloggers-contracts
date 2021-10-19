@@ -1,24 +1,24 @@
 {
-  "name": "Matties #865",
-  "description": "An extroverted, conservative Valya.",
+  "name": "Traveloger #865",
+  "description": "An observant, pluralistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "conservative a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "pluralistic a"
   },
   "image": "865.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #278",
-  "description": "A determined, collectivistic Gena.",
+  "name": "Traveloger #278",
+  "description": "An analytical, rational Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "determined b",
-    "ideology": "collectivistic a"
+    "character": "analytical a",
+    "ideology": "rational b"
   },
   "image": "278.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "analytical"
     }
   ]
 }

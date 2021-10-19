@@ -1,10 +1,10 @@
 {
-  "name": "Matties #395",
-  "description": "An extroverted, pessimistic Lesya.",
+  "name": "Traveloger #395",
+  "description": "An analytical, rational Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "extroverted a",
-    "ideology": "pessimistic a"
+    "character": "analytical a",
+    "ideology": "rational b"
   },
   "image": "395.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "analytical"
     }
   ]
 }

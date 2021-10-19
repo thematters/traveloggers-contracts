@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1351",
-  "description": "A chic, individualistic Zhenya.",
+  "name": "Traveloger #1351",
+  "description": "An enthusiastic, existentialist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic a",
-    "ideology": "individualistic a"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "existentialist b"
   },
   "image": "1351.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "enthusiastic"
     }
   ]
 }

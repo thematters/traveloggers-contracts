@@ -1,20 +1,20 @@
 {
-  "name": "Matties #172",
-  "description": "A self-discipline, collectivistic Valya.",
+  "name": "Traveloger #172",
+  "description": "A self-discipline, liberal Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "collectivistic a"
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "liberal a"
   },
   "image": "172.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

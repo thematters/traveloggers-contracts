@@ -1,24 +1,24 @@
 {
-  "name": "Matties #464",
-  "description": "A practical, feminist Gena.",
+  "name": "Traveloger #464",
+  "description": "An adventurous, cosmopolitan Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "feminist b"
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "cosmopolitan a"
   },
   "image": "464.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

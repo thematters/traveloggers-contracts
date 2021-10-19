@@ -1,24 +1,24 @@
 {
-  "name": "Matties #807",
-  "description": "A self-discipline, existentialist Zhenya.",
+  "name": "Traveloger #807",
+  "description": "A practical, feminist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "existentialist b"
+    "race": "Yury",
+    "character": "practical a",
+    "ideology": "feminist a"
   },
   "image": "807.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1500",
-  "description": "A down-to-earth, rational Valya.",
+  "name": "Traveloger #1500",
+  "description": "A nonchalant, Epicurean Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth a",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "Epicurean a"
   },
   "image": "1500.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

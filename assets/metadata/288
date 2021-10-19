@@ -1,24 +1,24 @@
 {
-  "name": "Matties #288",
-  "description": "A practical, liberal Sasha.",
+  "name": "Traveloger #288",
+  "description": "A confused, Epicurean Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical b",
-    "ideology": "liberal a"
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "Epicurean a"
   },
   "image": "288.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "confused"
     }
   ]
 }

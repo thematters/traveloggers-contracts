@@ -1,24 +1,24 @@
 {
-  "name": "Matties #150",
-  "description": "An introverted, LGBTQ friendly Sasha.",
+  "name": "Traveloger #150",
+  "description": "An extroverted, feminist Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted a",
-    "ideology": "LGBTQ friendly a"
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "feminist b"
   },
   "image": "150.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "extroverted"
     }
   ]
 }

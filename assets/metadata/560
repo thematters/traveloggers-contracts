@@ -1,24 +1,24 @@
 {
-  "name": "Matties #560",
-  "description": "An extroverted, individualistic Gena.",
+  "name": "Traveloger #560",
+  "description": "An introverted, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted b",
-    "ideology": "individualistic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "cosmopolitan a"
   },
   "image": "560.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

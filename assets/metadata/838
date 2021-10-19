@@ -1,24 +1,24 @@
 {
-  "name": "Matties #838",
-  "description": "An observant, nationalistic Sasha.",
+  "name": "Traveloger #838",
+  "description": "An adventurous, existentialist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "nationalistic b"
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "existentialist a"
   },
   "image": "838.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

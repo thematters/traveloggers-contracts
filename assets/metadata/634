@@ -1,10 +1,10 @@
 {
-  "name": "Matties #634",
-  "description": "A down-to-earth, pessimistic Yury.",
+  "name": "Traveloger #634",
+  "description": "A confused, LGBTQ friendly Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "pessimistic a"
+    "character": "confused a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "634.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

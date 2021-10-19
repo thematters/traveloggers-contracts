@@ -1,24 +1,24 @@
 {
-  "name": "Matties #359",
-  "description": "A confused, cosmopolitan Zhenya.",
+  "name": "Traveloger #359",
+  "description": "An introverted, anarchist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "cosmopolitan b"
+    "race": "Lesya",
+    "character": "introverted a",
+    "ideology": "anarchist a"
   },
   "image": "359.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

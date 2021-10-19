@@ -1,24 +1,24 @@
 {
-  "name": "Matties #14",
-  "description": "An introverted, pragmatist Sasha.",
+  "name": "Traveloger #14",
+  "description": "An exploring, liberal Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "pragmatist a"
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "liberal a"
   },
   "image": "14.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "exploring"
     }
   ]
 }

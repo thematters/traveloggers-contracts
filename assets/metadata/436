@@ -1,24 +1,24 @@
 {
-  "name": "Matties #436",
-  "description": "A determined, Marxist Sasha.",
+  "name": "Traveloger #436",
+  "description": "A chic, individualistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "individualistic a"
   },
   "image": "436.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

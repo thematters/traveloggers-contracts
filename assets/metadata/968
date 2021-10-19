@@ -1,10 +1,10 @@
 {
-  "name": "Matties #968",
-  "description": "An enthusiastic, Epicurean Yury.",
+  "name": "Traveloger #968",
+  "description": "A practical, nationalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "enthusiastic a",
-    "ideology": "Epicurean a"
+    "character": "practical a",
+    "ideology": "nationalistic a"
   },
   "image": "968.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #793",
-  "description": "A determined, conservative Valya.",
+  "name": "Traveloger #793",
+  "description": "An exploring, romantic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined a",
-    "ideology": "conservative b"
+    "race": "Lesya",
+    "character": "exploring b",
+    "ideology": "romantic a"
   },
   "image": "793.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "exploring"
     }
   ]
 }

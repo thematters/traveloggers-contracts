@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1463",
-  "description": "An extroverted, liberal Lesya.",
+  "name": "Traveloger #1463",
+  "description": "A sociable, LGBTQ friendly Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "liberal b"
+    "character": "sociable b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1463.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "sociable"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #444",
-  "description": "A confused, feminist Yury.",
+  "name": "Traveloger #444",
+  "description": "A practical, rational Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "confused a",
-    "ideology": "feminist a"
+    "character": "practical a",
+    "ideology": "rational a"
   },
   "image": "444.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "practical"
     }
   ]
 }

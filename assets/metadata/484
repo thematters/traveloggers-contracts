@@ -1,24 +1,24 @@
 {
-  "name": "Matties #484",
-  "description": "An analytical, cosmopolitan Yury.",
+  "name": "Traveloger #484",
+  "description": "A down-to-earth, rational Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical b",
-    "ideology": "cosmopolitan b"
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "rational a"
   },
   "image": "484.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

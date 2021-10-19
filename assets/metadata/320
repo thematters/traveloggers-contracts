@@ -1,24 +1,24 @@
 {
-  "name": "Matties #320",
-  "description": "An imaginative, liberal Sasha.",
+  "name": "Traveloger #320",
+  "description": "A compassionate, skeptical Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "imaginative a",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "skeptical a"
   },
   "image": "320.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

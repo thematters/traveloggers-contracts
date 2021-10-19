@@ -1,24 +1,24 @@
 {
-  "name": "Matties #376",
-  "description": "An enthusiastic, feminist Lesya.",
+  "name": "Traveloger #376",
+  "description": "A down-to-earth, romantic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "feminist b"
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "romantic a"
   },
   "image": "376.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #263",
-  "description": "A compassionate, Marxist Yury.",
+  "name": "Traveloger #263",
+  "description": "A sociable, Marxist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
+    "race": "Gena",
+    "character": "sociable b",
     "ideology": "Marxist a"
   },
   "image": "263.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "sociable"
     }
   ]
 }

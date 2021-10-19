@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1474",
-  "description": "A practical, optimistic Lesya.",
+  "name": "Traveloger #1474",
+  "description": "An extroverted, feminist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "optimistic a"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "feminist b"
   },
   "image": "1474.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

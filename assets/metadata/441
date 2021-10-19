@@ -1,10 +1,10 @@
 {
-  "name": "Matties #441",
-  "description": "A self-discipline, pacifist Sasha.",
+  "name": "Traveloger #441",
+  "description": "An introverted, pragmatist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "self-discipline b",
-    "ideology": "pacifist b"
+    "character": "introverted a",
+    "ideology": "pragmatist b"
   },
   "image": "441.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "introverted"
     }
   ]
 }

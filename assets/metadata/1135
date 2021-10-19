@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1135",
-  "description": "An enthusiastic, nationalistic Gena.",
+  "name": "Traveloger #1135",
+  "description": "A chic, romantic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic b",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "chic b",
+    "ideology": "romantic a"
   },
   "image": "1135.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

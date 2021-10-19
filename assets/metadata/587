@@ -1,24 +1,24 @@
 {
-  "name": "Matties #587",
-  "description": "An adventurous, pragmatist Yury.",
+  "name": "Traveloger #587",
+  "description": "An extroverted, collectivistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous b",
-    "ideology": "pragmatist b"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "collectivistic b"
   },
   "image": "587.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "extroverted"
     }
   ]
 }

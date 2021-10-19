@@ -1,24 +1,24 @@
 {
-  "name": "Matties #549",
-  "description": "An observant, feminist Valya.",
+  "name": "Traveloger #549",
+  "description": "A self-discipline, optimistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "feminist b"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "optimistic a"
   },
   "image": "549.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "self-discipline"
     }
   ]
 }

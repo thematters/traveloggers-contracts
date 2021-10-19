@@ -1,20 +1,20 @@
 {
-  "name": "Matties #957",
-  "description": "A practical, rational Lesya.",
+  "name": "Traveloger #957",
+  "description": "A practical, individualistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "individualistic a"
   },
   "image": "957.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",

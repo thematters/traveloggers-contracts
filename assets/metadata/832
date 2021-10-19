@@ -1,24 +1,24 @@
 {
-  "name": "Matties #832",
-  "description": "An introverted, LGBTQ friendly Lesya.",
+  "name": "Traveloger #832",
+  "description": "A self-discipline, rational Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "introverted a",
-    "ideology": "LGBTQ friendly a"
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "rational b"
   },
   "image": "832.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "self-discipline"
     }
   ]
 }

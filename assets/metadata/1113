@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1113",
-  "description": "A rebellious, Epicurean Yury.",
+  "name": "Traveloger #1113",
+  "description": "A confused, cynical Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "Epicurean a"
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "cynical b"
   },
   "image": "1113.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

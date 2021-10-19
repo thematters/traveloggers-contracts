@@ -1,24 +1,24 @@
 {
-  "name": "Matties #123",
-  "description": "A confused, Epicurean Yury.",
+  "name": "Traveloger #123",
+  "description": "A hard-working, optimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "Epicurean b"
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "optimistic a"
   },
   "image": "123.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

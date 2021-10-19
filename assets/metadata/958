@@ -1,24 +1,24 @@
 {
-  "name": "Matties #958",
-  "description": "An observant, pessimistic Yury.",
+  "name": "Traveloger #958",
+  "description": "A sociable, Epicurean Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "pessimistic b"
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "Epicurean a"
   },
   "image": "958.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

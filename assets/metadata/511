@@ -1,24 +1,24 @@
 {
-  "name": "Matties #511",
-  "description": "An enthusiastic, optimistic Gena.",
+  "name": "Traveloger #511",
+  "description": "An extroverted, pluralistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic b",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "pluralistic a"
   },
   "image": "511.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

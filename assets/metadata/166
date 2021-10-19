@@ -1,24 +1,24 @@
 {
-  "name": "Matties #166",
-  "description": "A chic, rational Valya.",
+  "name": "Traveloger #166",
+  "description": "An enthusiastic, romantic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "enthusiastic a",
+    "ideology": "romantic b"
   },
   "image": "166.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "enthusiastic"
     }
   ]
 }

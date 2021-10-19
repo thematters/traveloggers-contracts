@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1301",
-  "description": "An enthusiastic, localist Valya.",
+  "name": "Traveloger #1301",
+  "description": "An analytical, rational Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "localist b"
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "rational a"
   },
   "image": "1301.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

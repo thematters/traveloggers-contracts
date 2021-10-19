@@ -1,10 +1,10 @@
 {
-  "name": "Matties #715",
-  "description": "An introverted, cynical Sasha.",
+  "name": "Traveloger #715",
+  "description": "A determined, existentialist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "cynical a"
+    "character": "determined b",
+    "ideology": "existentialist b"
   },
   "image": "715.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "determined"
     }
   ]
 }

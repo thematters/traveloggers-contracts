@@ -1,10 +1,10 @@
 {
-  "name": "Matties #602",
-  "description": "A nonchalant, nationalistic Sasha.",
+  "name": "Traveloger #602",
+  "description": "An extroverted, pessimistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "nationalistic b"
+    "character": "extroverted a",
+    "ideology": "pessimistic b"
   },
   "image": "602.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

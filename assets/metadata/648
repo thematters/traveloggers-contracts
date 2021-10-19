@@ -1,24 +1,24 @@
 {
-  "name": "Matties #648",
-  "description": "A hard-working, pluralistic Zhenya.",
+  "name": "Traveloger #648",
+  "description": "An observant, Marxist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working b",
-    "ideology": "pluralistic a"
+    "race": "Valya",
+    "character": "observant b",
+    "ideology": "Marxist b"
   },
   "image": "648.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "observant"
     }
   ]
 }

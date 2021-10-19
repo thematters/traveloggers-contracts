@@ -1,24 +1,24 @@
 {
-  "name": "Matties #831",
-  "description": "A practical, Marxist Lesya.",
+  "name": "Traveloger #831",
+  "description": "An adventurous, Epicurean Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "Marxist b"
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "Epicurean a"
   },
   "image": "831.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

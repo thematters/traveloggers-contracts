@@ -1,24 +1,24 @@
 {
-  "name": "Matties #387",
-  "description": "An extroverted, Marxist Zhenya.",
+  "name": "Traveloger #387",
+  "description": "A self-discipline, individualistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "individualistic b"
   },
   "image": "387.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "self-discipline"
     }
   ]
 }

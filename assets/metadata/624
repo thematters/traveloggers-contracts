@@ -1,24 +1,24 @@
 {
-  "name": "Matties #624",
-  "description": "A self-discipline, individualistic Yury.",
+  "name": "Traveloger #624",
+  "description": "An extroverted, romantic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "romantic a"
   },
   "image": "624.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

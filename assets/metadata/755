@@ -1,10 +1,10 @@
 {
-  "name": "Matties #755",
-  "description": "A determined, Epicurean Yury.",
+  "name": "Traveloger #755",
+  "description": "An extroverted, skeptical Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "determined a",
-    "ideology": "Epicurean a"
+    "character": "extroverted a",
+    "ideology": "skeptical a"
   },
   "image": "755.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

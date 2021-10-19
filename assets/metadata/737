@@ -1,24 +1,24 @@
 {
-  "name": "Matties #737",
-  "description": "A determined, Epicurean Lesya.",
+  "name": "Traveloger #737",
+  "description": "A down-to-earth, anarchist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined b",
-    "ideology": "Epicurean b"
+    "race": "Sasha",
+    "character": "down-to-earth a",
+    "ideology": "anarchist a"
   },
   "image": "737.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #948",
-  "description": "A confused, liberal Yury.",
+  "name": "Traveloger #948",
+  "description": "An analytical, individualistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "individualistic b"
   },
   "image": "948.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1498",
-  "description": "A nonchalant, rational Sasha.",
+  "name": "Traveloger #1498",
+  "description": "An imaginative, cynical Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "rational a"
+    "character": "imaginative b",
+    "ideology": "cynical a"
   },
   "image": "1498.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

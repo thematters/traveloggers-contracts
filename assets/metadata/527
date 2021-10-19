@@ -1,24 +1,24 @@
 {
-  "name": "Matties #527",
-  "description": "A determined, rational Sasha.",
+  "name": "Traveloger #527",
+  "description": "A self-discipline, nationalistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "self-discipline b",
+    "ideology": "nationalistic a"
   },
   "image": "527.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "self-discipline"
     }
   ]
 }

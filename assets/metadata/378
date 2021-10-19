@@ -1,24 +1,24 @@
 {
-  "name": "Matties #378",
-  "description": "A practical, collectivistic Sasha.",
+  "name": "Traveloger #378",
+  "description": "An enthusiastic, conservative Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical a",
-    "ideology": "collectivistic b"
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "conservative a"
   },
   "image": "378.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

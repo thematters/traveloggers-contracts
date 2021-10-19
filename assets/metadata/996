@@ -1,24 +1,24 @@
 {
-  "name": "Matties #996",
-  "description": "A rebellious, Epicurean Zhenya.",
+  "name": "Traveloger #996",
+  "description": "A determined, localist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious b",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "localist a"
   },
   "image": "996.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "determined"
     }
   ]
 }

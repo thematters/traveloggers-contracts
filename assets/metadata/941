@@ -1,24 +1,24 @@
 {
-  "name": "Matties #941",
-  "description": "An exploring, pluralistic Yury.",
+  "name": "Traveloger #941",
+  "description": "A down-to-earth, localist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "localist a"
   },
   "image": "941.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

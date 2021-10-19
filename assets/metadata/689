@@ -1,16 +1,16 @@
 {
-  "name": "Matties #689",
-  "description": "An enthusiastic, pessimistic Valya.",
+  "name": "Traveloger #689",
+  "description": "A determined, pessimistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
+    "race": "Lesya",
+    "character": "determined b",
     "ideology": "pessimistic a"
   },
   "image": "689.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

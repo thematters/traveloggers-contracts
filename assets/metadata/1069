@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1069",
-  "description": "A self-discipline, rational Sasha.",
+  "name": "Traveloger #1069",
+  "description": "A self-discipline, optimistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "self-discipline b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "optimistic b"
   },
   "image": "1069.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1175",
-  "description": "A hard-working, pessimistic Lesya.",
+  "name": "Traveloger #1175",
+  "description": "A down-to-earth, pacifist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "pessimistic b"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "pacifist a"
   },
   "image": "1175.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "down-to-earth"
     }
   ]
 }

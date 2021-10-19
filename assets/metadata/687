@@ -1,24 +1,24 @@
 {
-  "name": "Matties #687",
-  "description": "An enthusiastic, skeptical Lesya.",
+  "name": "Traveloger #687",
+  "description": "An exploring, pacifist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "skeptical a"
+    "race": "Yury",
+    "character": "exploring a",
+    "ideology": "pacifist a"
   },
   "image": "687.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "exploring"
     }
   ]
 }

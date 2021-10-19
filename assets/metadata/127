@@ -1,24 +1,24 @@
 {
-  "name": "Matties #127",
-  "description": "A down-to-earth, Epicurean Valya.",
+  "name": "Traveloger #127",
+  "description": "An adventurous, rational Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth a",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "rational b"
   },
   "image": "127.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "adventurous"
     }
   ]
 }

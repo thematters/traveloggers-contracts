@@ -1,10 +1,10 @@
 {
-  "name": "Matties #610",
-  "description": "A sociable, cosmopolitan Lesya.",
+  "name": "Traveloger #610",
+  "description": "A hard-working, pacifist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "cosmopolitan a"
+    "character": "hard-working b",
+    "ideology": "pacifist b"
   },
   "image": "610.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "hard-working"
     }
   ]
 }

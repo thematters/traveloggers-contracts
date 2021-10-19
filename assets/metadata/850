@@ -1,10 +1,10 @@
 {
-  "name": "Matties #850",
-  "description": "An observant, LGBTQ friendly Lesya.",
+  "name": "Traveloger #850",
+  "description": "A sociable, conservative Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "observant b",
-    "ideology": "LGBTQ friendly b"
+    "character": "sociable a",
+    "ideology": "conservative b"
   },
   "image": "850.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

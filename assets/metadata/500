@@ -1,9 +1,9 @@
 {
-  "name": "Matties #500",
-  "description": "An imaginative, Marxist Zhenya.",
+  "name": "Traveloger #500",
+  "description": "An enthusiastic, Marxist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "imaginative a",
+    "character": "enthusiastic a",
     "ideology": "Marxist a"
   },
   "image": "500.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

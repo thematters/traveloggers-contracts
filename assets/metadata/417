@@ -1,24 +1,24 @@
 {
-  "name": "Matties #417",
-  "description": "A rebellious, optimistic Lesya.",
+  "name": "Traveloger #417",
+  "description": "A compassionate, skeptical Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "skeptical a"
   },
   "image": "417.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

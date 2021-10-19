@@ -1,10 +1,10 @@
 {
-  "name": "Matties #890",
-  "description": "A sociable, pragmatist Sasha.",
+  "name": "Traveloger #890",
+  "description": "An extroverted, individualistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "sociable b",
-    "ideology": "pragmatist b"
+    "character": "extroverted a",
+    "ideology": "individualistic a"
   },
   "image": "890.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "extroverted"
     }
   ]
 }

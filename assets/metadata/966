@@ -1,24 +1,24 @@
 {
-  "name": "Matties #966",
-  "description": "A practical, skeptical Lesya.",
+  "name": "Traveloger #966",
+  "description": "An introverted, romantic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "skeptical a"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "romantic b"
   },
   "image": "966.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

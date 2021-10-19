@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1318",
-  "description": "A nonchalant, Marxist Lesya.",
+  "name": "Traveloger #1318",
+  "description": "An exploring, individualistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "Marxist a"
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "individualistic b"
   },
   "image": "1318.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "exploring"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #259",
-  "description": "A nonchalant, pluralistic Valya.",
+  "name": "Traveloger #259",
+  "description": "A confused, Epicurean Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant a",
-    "ideology": "pluralistic a"
+    "race": "Gena",
+    "character": "confused b",
+    "ideology": "Epicurean b"
   },
   "image": "259.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "confused"
     }
   ]
 }

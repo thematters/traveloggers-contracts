@@ -1,24 +1,24 @@
 {
-  "name": "Matties #532",
-  "description": "A practical, liberal Valya.",
+  "name": "Traveloger #532",
+  "description": "A compassionate, romantic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "practical a",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "romantic b"
   },
   "image": "532.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

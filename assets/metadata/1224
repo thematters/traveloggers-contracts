@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1224",
-  "description": "An observant, capitalistic Yury.",
+  "name": "Traveloger #1224",
+  "description": "An exploring, individualistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "individualistic a"
   },
   "image": "1224.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "exploring"
     }
   ]
 }

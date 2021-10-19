@@ -1,24 +1,24 @@
 {
-  "name": "Matties #17",
-  "description": "A chic, Epicurean Lesya.",
+  "name": "Traveloger #17",
+  "description": "A self-discipline, capitalistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic b",
-    "ideology": "Epicurean a"
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "capitalistic b"
   },
   "image": "17.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1251",
-  "description": "An imaginative, feminist Gena.",
+  "name": "Traveloger #1251",
+  "description": "An adventurous, feminist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "feminist b"
+    "character": "adventurous b",
+    "ideology": "feminist a"
   },
   "image": "1251.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

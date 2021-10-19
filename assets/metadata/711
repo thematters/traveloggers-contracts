@@ -1,24 +1,24 @@
 {
-  "name": "Matties #711",
-  "description": "A chic, conservative Sasha.",
+  "name": "Traveloger #711",
+  "description": "A compassionate, individualistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "conservative b"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "individualistic b"
   },
   "image": "711.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

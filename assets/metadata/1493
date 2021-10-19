@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1493",
-  "description": "A self-discipline, localist Sasha.",
+  "name": "Traveloger #1493",
+  "description": "A sociable, pragmatist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "self-discipline a",
-    "ideology": "localist b"
+    "character": "sociable a",
+    "ideology": "pragmatist b"
   },
   "image": "1493.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "sociable"
     }
   ]
 }

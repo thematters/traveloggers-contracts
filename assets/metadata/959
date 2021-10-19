@@ -1,24 +1,24 @@
 {
-  "name": "Matties #959",
-  "description": "A chic, romantic Valya.",
+  "name": "Traveloger #959",
+  "description": "An introverted, nationalistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic b",
-    "ideology": "romantic a"
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "nationalistic b"
   },
   "image": "959.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

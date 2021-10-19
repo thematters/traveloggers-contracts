@@ -1,24 +1,24 @@
 {
-  "name": "Matties #944",
-  "description": "A nonchalant, cosmopolitan Zhenya.",
+  "name": "Traveloger #944",
+  "description": "A determined, pessimistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "nonchalant b",
-    "ideology": "cosmopolitan a"
+    "race": "Yury",
+    "character": "determined a",
+    "ideology": "pessimistic a"
   },
   "image": "944.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

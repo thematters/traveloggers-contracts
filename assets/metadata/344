@@ -1,10 +1,10 @@
 {
-  "name": "Matties #344",
-  "description": "A confused, pluralistic Gena.",
+  "name": "Traveloger #344",
+  "description": "An analytical, liberal Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "confused b",
-    "ideology": "pluralistic a"
+    "character": "analytical b",
+    "ideology": "liberal a"
   },
   "image": "344.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

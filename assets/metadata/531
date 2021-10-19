@@ -1,10 +1,10 @@
 {
-  "name": "Matties #531",
-  "description": "A nonchalant, capitalistic Yury.",
+  "name": "Traveloger #531",
+  "description": "A determined, nationalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant a",
-    "ideology": "capitalistic a"
+    "character": "determined b",
+    "ideology": "nationalistic a"
   },
   "image": "531.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "determined"
     }
   ]
 }

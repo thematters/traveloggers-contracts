@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1444",
-  "description": "A practical, LGBTQ friendly Gena.",
+  "name": "Traveloger #1444",
+  "description": "A practical, anarchist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "anarchist b"
   },
   "image": "1444.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

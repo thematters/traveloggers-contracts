@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1489",
-  "description": "A confused, pragmatist Gena.",
+  "name": "Traveloger #1489",
+  "description": "A rebellious, liberal Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused b",
-    "ideology": "pragmatist b"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "liberal b"
   },
   "image": "1489.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

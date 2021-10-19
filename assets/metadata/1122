@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1122",
-  "description": "A hard-working, anarchist Yury.",
+  "name": "Traveloger #1122",
+  "description": "A practical, LGBTQ friendly Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working a",
-    "ideology": "anarchist a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1122.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

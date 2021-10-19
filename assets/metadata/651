@@ -1,24 +1,24 @@
 {
-  "name": "Matties #651",
-  "description": "A self-discipline, anarchist Valya.",
+  "name": "Traveloger #651",
+  "description": "An observant, LGBTQ friendly Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "anarchist b"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "651.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

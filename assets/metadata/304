@@ -1,24 +1,24 @@
 {
-  "name": "Matties #304",
-  "description": "A compassionate, rational Valya.",
+  "name": "Traveloger #304",
+  "description": "A nonchalant, Epicurean Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "rational b"
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "Epicurean b"
   },
   "image": "304.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "nonchalant"
     }
   ]
 }

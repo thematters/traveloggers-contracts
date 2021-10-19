@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1046",
-  "description": "A compassionate, pragmatist Yury.",
+  "name": "Traveloger #1046",
+  "description": "A sociable, pessimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "compassionate a",
-    "ideology": "pragmatist b"
+    "character": "sociable b",
+    "ideology": "pessimistic b"
   },
   "image": "1046.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "sociable"
     }
   ]
 }

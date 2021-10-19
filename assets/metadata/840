@@ -1,10 +1,10 @@
 {
-  "name": "Matties #840",
-  "description": "An imaginative, individualistic Yury.",
+  "name": "Traveloger #840",
+  "description": "An imaginative, anarchist Yury.",
   "_visual": {
     "race": "Yury",
     "character": "imaginative b",
-    "ideology": "individualistic b"
+    "ideology": "anarchist a"
   },
   "image": "840.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

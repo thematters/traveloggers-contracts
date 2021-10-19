@@ -1,10 +1,10 @@
 {
-  "name": "Matties #885",
-  "description": "An observant, cynical Zhenya.",
+  "name": "Traveloger #885",
+  "description": "An introverted, existentialist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "observant b",
-    "ideology": "cynical a"
+    "character": "introverted a",
+    "ideology": "existentialist a"
   },
   "image": "885.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "introverted"
     }
   ]
 }

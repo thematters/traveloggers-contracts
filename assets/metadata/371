@@ -1,10 +1,10 @@
 {
-  "name": "Matties #371",
-  "description": "A determined, optimistic Lesya.",
+  "name": "Traveloger #371",
+  "description": "An imaginative, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "determined a",
-    "ideology": "optimistic a"
+    "character": "imaginative a",
+    "ideology": "feminist b"
   },
   "image": "371.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

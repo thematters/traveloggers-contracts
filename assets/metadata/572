@@ -1,24 +1,24 @@
 {
-  "name": "Matties #572",
-  "description": "A nonchalant, individualistic Valya.",
+  "name": "Traveloger #572",
+  "description": "A compassionate, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant a",
-    "ideology": "individualistic b"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "572.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

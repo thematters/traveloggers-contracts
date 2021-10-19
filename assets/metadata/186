@@ -1,24 +1,24 @@
 {
-  "name": "Matties #186",
-  "description": "A determined, skeptical Lesya.",
+  "name": "Traveloger #186",
+  "description": "An imaginative, cynical Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined b",
-    "ideology": "skeptical b"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "cynical a"
   },
   "image": "186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1433",
-  "description": "A confused, capitalistic Yury.",
+  "name": "Traveloger #1433",
+  "description": "A compassionate, LGBTQ friendly Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused a",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1433.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

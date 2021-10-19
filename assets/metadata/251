@@ -1,24 +1,24 @@
 {
-  "name": "Matties #251",
-  "description": "A determined, cynical Sasha.",
+  "name": "Traveloger #251",
+  "description": "A compassionate, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "cynical a"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "251.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

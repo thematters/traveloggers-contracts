@@ -1,24 +1,24 @@
 {
-  "name": "Matties #157",
-  "description": "A down-to-earth, feminist Lesya.",
+  "name": "Traveloger #157",
+  "description": "A sociable, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "feminist a"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "157.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "sociable"
     }
   ]
 }

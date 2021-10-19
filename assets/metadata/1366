@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1366",
-  "description": "A hard-working, Epicurean Gena.",
+  "name": "Traveloger #1366",
+  "description": "An analytical, feminist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "Epicurean a"
+    "race": "Yury",
+    "character": "analytical a",
+    "ideology": "feminist a"
   },
   "image": "1366.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "analytical"
     }
   ]
 }

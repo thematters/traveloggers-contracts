@@ -1,16 +1,16 @@
 {
-  "name": "Matties #54",
-  "description": "An imaginative, skeptical Lesya.",
+  "name": "Traveloger #54",
+  "description": "A rebellious, skeptical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
+    "race": "Zhenya",
+    "character": "rebellious b",
     "ideology": "skeptical a"
   },
   "image": "54.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "rebellious"
     }
   ]
 }

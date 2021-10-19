@@ -1,24 +1,24 @@
 {
-  "name": "Matties #761",
-  "description": "An enthusiastic, individualistic Zhenya.",
+  "name": "Traveloger #761",
+  "description": "An introverted, Epicurean Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "individualistic b"
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "Epicurean b"
   },
   "image": "761.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "introverted"
     }
   ]
 }

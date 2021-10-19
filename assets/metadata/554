@@ -1,24 +1,24 @@
 {
-  "name": "Matties #554",
-  "description": "An analytical, localist Yury.",
+  "name": "Traveloger #554",
+  "description": "A self-discipline, individualistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical b",
-    "ideology": "localist b"
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "individualistic b"
   },
   "image": "554.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

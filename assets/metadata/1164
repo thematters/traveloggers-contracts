@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1164",
-  "description": "A rebellious, nationalistic Sasha.",
+  "name": "Traveloger #1164",
+  "description": "A rebellious, liberal Gena.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Gena",
     "character": "rebellious a",
-    "ideology": "nationalistic b"
+    "ideology": "liberal a"
   },
   "image": "1164.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

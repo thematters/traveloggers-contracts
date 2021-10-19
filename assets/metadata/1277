@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1277",
-  "description": "An extroverted, pessimistic Zhenya.",
+  "name": "Traveloger #1277",
+  "description": "An exploring, rational Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "pessimistic a"
+    "race": "Valya",
+    "character": "exploring b",
+    "ideology": "rational a"
   },
   "image": "1277.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "exploring"
     }
   ]
 }

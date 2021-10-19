@@ -1,24 +1,24 @@
 {
-  "name": "Matties #659",
-  "description": "A rebellious, pluralistic Sasha.",
+  "name": "Traveloger #659",
+  "description": "A compassionate, pragmatist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious b",
-    "ideology": "pluralistic a"
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "pragmatist a"
   },
   "image": "659.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

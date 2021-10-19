@@ -1,24 +1,24 @@
 {
-  "name": "Matties #142",
-  "description": "An exploring, feminist Yury.",
+  "name": "Traveloger #142",
+  "description": "A compassionate, conservative Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring a",
-    "ideology": "feminist b"
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "conservative a"
   },
   "image": "142.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "compassionate"
     }
   ]
 }

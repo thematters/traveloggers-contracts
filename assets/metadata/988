@@ -1,24 +1,24 @@
 {
-  "name": "Matties #988",
-  "description": "A hard-working, conservative Zhenya.",
+  "name": "Traveloger #988",
+  "description": "An analytical, capitalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working a",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "capitalistic b"
   },
   "image": "988.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "analytical"
     }
   ]
 }

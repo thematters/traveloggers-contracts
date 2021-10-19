@@ -1,24 +1,24 @@
 {
-  "name": "Matties #112",
-  "description": "An enthusiastic, feminist Sasha.",
+  "name": "Traveloger #112",
+  "description": "A compassionate, pacifist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic a",
-    "ideology": "feminist b"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "pacifist b"
   },
   "image": "112.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

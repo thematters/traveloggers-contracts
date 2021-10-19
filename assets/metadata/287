@@ -1,24 +1,24 @@
 {
-  "name": "Matties #287",
-  "description": "A confused, cosmopolitan Zhenya.",
+  "name": "Traveloger #287",
+  "description": "An introverted, pessimistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "cosmopolitan a"
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "pessimistic b"
   },
   "image": "287.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

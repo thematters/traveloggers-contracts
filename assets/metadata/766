@@ -1,24 +1,24 @@
 {
-  "name": "Matties #766",
-  "description": "A rebellious, localist Lesya.",
+  "name": "Traveloger #766",
+  "description": "An extroverted, nationalistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "localist a"
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "nationalistic a"
   },
   "image": "766.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

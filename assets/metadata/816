@@ -1,10 +1,10 @@
 {
-  "name": "Matties #816",
-  "description": "A rebellious, individualistic Valya.",
+  "name": "Traveloger #816",
+  "description": "An extroverted, optimistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "individualistic a"
+    "character": "extroverted b",
+    "ideology": "optimistic a"
   },
   "image": "816.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

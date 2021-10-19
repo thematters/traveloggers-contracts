@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1262",
-  "description": "A nonchalant, pragmatist Gena.",
+  "name": "Traveloger #1262",
+  "description": "A hard-working, anarchist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "pragmatist a"
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "anarchist a"
   },
   "image": "1262.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1137",
-  "description": "An analytical, feminist Yury.",
+  "name": "Traveloger #1137",
+  "description": "An observant, existentialist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical b",
-    "ideology": "feminist a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "existentialist b"
   },
   "image": "1137.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

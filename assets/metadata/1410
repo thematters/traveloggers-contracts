@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1410",
-  "description": "A determined, liberal Gena.",
+  "name": "Traveloger #1410",
+  "description": "An introverted, localist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "determined a",
-    "ideology": "liberal b"
+    "character": "introverted b",
+    "ideology": "localist a"
   },
   "image": "1410.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "introverted"
     }
   ]
 }

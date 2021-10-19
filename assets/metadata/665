@@ -1,10 +1,10 @@
 {
-  "name": "Matties #665",
-  "description": "An introverted, nationalistic Sasha.",
+  "name": "Traveloger #665",
+  "description": "A hard-working, existentialist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "nationalistic b"
+    "character": "hard-working a",
+    "ideology": "existentialist a"
   },
   "image": "665.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "hard-working"
     }
   ]
 }

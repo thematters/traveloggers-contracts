@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1482",
-  "description": "An analytical, conservative Valya.",
+  "name": "Traveloger #1482",
+  "description": "A determined, Epicurean Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical a",
-    "ideology": "conservative a"
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "Epicurean b"
   },
   "image": "1482.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

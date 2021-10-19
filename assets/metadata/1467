@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1467",
-  "description": "A sociable, pluralistic Yury.",
+  "name": "Traveloger #1467",
+  "description": "An adventurous, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "sociable a",
-    "ideology": "pluralistic b"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1467.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "adventurous"
     }
   ]
 }

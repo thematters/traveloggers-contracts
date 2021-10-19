@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1041",
-  "description": "An introverted, pessimistic Yury.",
+  "name": "Traveloger #1041",
+  "description": "A rebellious, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted b",
-    "ideology": "pessimistic b"
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1041.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1471",
-  "description": "A self-discipline, cosmopolitan Lesya.",
+  "name": "Traveloger #1471",
+  "description": "A determined, pessimistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline b",
-    "ideology": "cosmopolitan a"
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "pessimistic a"
   },
   "image": "1471.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

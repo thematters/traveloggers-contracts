@@ -1,24 +1,24 @@
 {
-  "name": "Matties #794",
-  "description": "A determined, conservative Yury.",
+  "name": "Traveloger #794",
+  "description": "An analytical, pacifist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined a",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "pacifist b"
   },
   "image": "794.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "analytical"
     }
   ]
 }

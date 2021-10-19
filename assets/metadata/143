@@ -1,24 +1,24 @@
 {
-  "name": "Matties #143",
-  "description": "A hard-working, skeptical Yury.",
+  "name": "Traveloger #143",
+  "description": "A determined, feminist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working b",
-    "ideology": "skeptical b"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "feminist a"
   },
   "image": "143.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "determined"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #497",
-  "description": "An analytical, skeptical Valya.",
+  "name": "Traveloger #497",
+  "description": "A rebellious, Marxist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
-    "ideology": "skeptical b"
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "Marxist b"
   },
   "image": "497.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1394",
-  "description": "A rebellious, liberal Gena.",
+  "name": "Traveloger #1394",
+  "description": "A chic, liberal Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious b",
+    "race": "Lesya",
+    "character": "chic a",
     "ideology": "liberal b"
   },
   "image": "1394.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "chic"
     }
   ]
 }

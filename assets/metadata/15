@@ -1,20 +1,20 @@
 {
-  "name": "Matties #15",
-  "description": "A confused, nationalistic Yury.",
+  "name": "Traveloger #15",
+  "description": "A confused, skeptical Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "nationalistic a"
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "skeptical a"
   },
   "image": "15.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",

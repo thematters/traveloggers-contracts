@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1154",
-  "description": "A determined, capitalistic Yury.",
+  "name": "Traveloger #1154",
+  "description": "An introverted, feminist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "determined b",
-    "ideology": "capitalistic b"
+    "character": "introverted b",
+    "ideology": "feminist b"
   },
   "image": "1154.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "introverted"
     }
   ]
 }

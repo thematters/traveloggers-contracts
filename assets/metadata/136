@@ -1,10 +1,10 @@
 {
-  "name": "Matties #136",
-  "description": "A confused, LGBTQ friendly Yury.",
+  "name": "Traveloger #136",
+  "description": "An imaginative, existentialist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "confused a",
-    "ideology": "LGBTQ friendly b"
+    "character": "imaginative a",
+    "ideology": "existentialist b"
   },
   "image": "136.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

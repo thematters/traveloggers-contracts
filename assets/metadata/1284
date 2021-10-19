@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1284",
-  "description": "An imaginative, romantic Zhenya.",
+  "name": "Traveloger #1284",
+  "description": "An adventurous, collectivistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative b",
-    "ideology": "romantic a"
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "collectivistic a"
   },
   "image": "1284.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

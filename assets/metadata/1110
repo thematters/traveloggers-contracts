@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1110",
-  "description": "An observant, optimistic Zhenya.",
+  "name": "Traveloger #1110",
+  "description": "An imaginative, cosmopolitan Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "observant a",
-    "ideology": "optimistic b"
+    "race": "Yury",
+    "character": "imaginative b",
+    "ideology": "cosmopolitan a"
   },
   "image": "1110.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #295",
-  "description": "A self-discipline, LGBTQ friendly Lesya.",
+  "name": "Traveloger #295",
+  "description": "An extroverted, capitalistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "capitalistic b"
   },
   "image": "295.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

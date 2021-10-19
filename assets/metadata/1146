@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1146",
-  "description": "A hard-working, Marxist Sasha.",
+  "name": "Traveloger #1146",
+  "description": "A determined, liberal Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working b",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "liberal b"
   },
   "image": "1146.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "determined"
     }
   ]
 }

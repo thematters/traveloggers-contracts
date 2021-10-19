@@ -1,10 +1,10 @@
 {
-  "name": "Matties #626",
-  "description": "A hard-working, pragmatist Sasha.",
+  "name": "Traveloger #626",
+  "description": "An extroverted, nationalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "hard-working b",
-    "ideology": "pragmatist b"
+    "character": "extroverted b",
+    "ideology": "nationalistic b"
   },
   "image": "626.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1378",
-  "description": "A nonchalant, nationalistic Yury.",
+  "name": "Traveloger #1378",
+  "description": "A chic, feminist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant a",
-    "ideology": "nationalistic b"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "feminist b"
   },
   "image": "1378.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

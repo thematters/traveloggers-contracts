@@ -1,24 +1,24 @@
 {
-  "name": "Matties #2",
-  "description": "An adventurous, romantic Lesya.",
+  "name": "Traveloger #2",
+  "description": "An exploring, Marxist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous b",
-    "ideology": "romantic a"
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "Marxist b"
   },
   "image": "2.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "exploring"
     }
   ]
 }

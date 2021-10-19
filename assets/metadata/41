@@ -1,24 +1,24 @@
 {
-  "name": "Matties #41",
-  "description": "A confused, anarchist Lesya.",
+  "name": "Traveloger #41",
+  "description": "An analytical, collectivistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused a",
-    "ideology": "anarchist b"
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "collectivistic b"
   },
   "image": "41.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "analytical"
     }
   ]
 }

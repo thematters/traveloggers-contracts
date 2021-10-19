@@ -1,24 +1,24 @@
 {
-  "name": "Matties #875",
-  "description": "A determined, optimistic Sasha.",
+  "name": "Traveloger #875",
+  "description": "A compassionate, collectivistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "collectivistic b"
   },
   "image": "875.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #275",
-  "description": "A determined, localist Zhenya.",
+  "name": "Traveloger #275",
+  "description": "A compassionate, skeptical Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "localist a"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "skeptical b"
   },
   "image": "275.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

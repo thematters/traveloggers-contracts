@@ -1,24 +1,24 @@
 {
-  "name": "Matties #879",
-  "description": "A confused, Epicurean Valya.",
+  "name": "Traveloger #879",
+  "description": "A nonchalant, optimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "Epicurean b"
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "optimistic b"
   },
   "image": "879.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "nonchalant"
     }
   ]
 }

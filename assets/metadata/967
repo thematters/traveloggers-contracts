@@ -1,24 +1,24 @@
 {
-  "name": "Matties #967",
-  "description": "An exploring, cosmopolitan Valya.",
+  "name": "Traveloger #967",
+  "description": "An imaginative, pessimistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring b",
-    "ideology": "cosmopolitan b"
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "pessimistic b"
   },
   "image": "967.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

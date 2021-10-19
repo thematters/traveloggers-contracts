@@ -1,24 +1,24 @@
 {
-  "name": "Matties #672",
-  "description": "An extroverted, feminist Valya.",
+  "name": "Traveloger #672",
+  "description": "A practical, optimistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "feminist b"
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "optimistic b"
   },
   "image": "672.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

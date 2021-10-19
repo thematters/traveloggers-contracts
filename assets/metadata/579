@@ -1,16 +1,16 @@
 {
-  "name": "Matties #579",
-  "description": "A confused, localist Yury.",
+  "name": "Traveloger #579",
+  "description": "A rebellious, localist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused a",
-    "ideology": "localist b"
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "localist a"
   },
   "image": "579.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

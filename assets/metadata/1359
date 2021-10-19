@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1359",
-  "description": "A chic, romantic Lesya.",
+  "name": "Traveloger #1359",
+  "description": "A sociable, individualistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic b",
-    "ideology": "romantic a"
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "individualistic a"
   },
   "image": "1359.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

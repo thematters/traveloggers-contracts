@@ -1,24 +1,24 @@
 {
-  "name": "Matties #312",
-  "description": "An observant, LGBTQ friendly Valya.",
+  "name": "Traveloger #312",
+  "description": "A practical, conservative Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "conservative b"
   },
   "image": "312.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

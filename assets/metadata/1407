@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1407",
-  "description": "An introverted, Marxist Sasha.",
+  "name": "Traveloger #1407",
+  "description": "An imaginative, skeptical Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "introverted a",
-    "ideology": "Marxist a"
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "skeptical a"
   },
   "image": "1407.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "imaginative"
     }
   ]
 }

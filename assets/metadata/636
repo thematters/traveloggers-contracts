@@ -1,16 +1,16 @@
 {
-  "name": "Matties #636",
-  "description": "A confused, conservative Lesya.",
+  "name": "Traveloger #636",
+  "description": "An observant, conservative Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused a",
+    "race": "Sasha",
+    "character": "observant a",
     "ideology": "conservative a"
   },
   "image": "636.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "observant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1311",
-  "description": "A rebellious, Epicurean Yury.",
+  "name": "Traveloger #1311",
+  "description": "A determined, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1311.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "determined"
     }
   ]
 }

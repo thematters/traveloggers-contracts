@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1032",
-  "description": "An enthusiastic, pluralistic Sasha.",
+  "name": "Traveloger #1032",
+  "description": "A chic, romantic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "pluralistic b"
+    "character": "chic a",
+    "ideology": "romantic b"
   },
   "image": "1032.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

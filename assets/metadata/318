@@ -1,20 +1,20 @@
 {
-  "name": "Matties #318",
-  "description": "An exploring, pragmatist Zhenya.",
+  "name": "Traveloger #318",
+  "description": "An exploring, optimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "pragmatist a"
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "optimistic b"
   },
   "image": "318.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",

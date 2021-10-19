@@ -1,24 +1,24 @@
 {
-  "name": "Matties #242",
-  "description": "An extroverted, rational Zhenya.",
+  "name": "Traveloger #242",
+  "description": "A confused, pacifist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted a",
-    "ideology": "rational a"
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "pacifist b"
   },
   "image": "242.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "confused"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #846",
-  "description": "An imaginative, cynical Gena.",
+  "name": "Traveloger #846",
+  "description": "A confused, pessimistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "cynical b"
+    "race": "Lesya",
+    "character": "confused b",
+    "ideology": "pessimistic b"
   },
   "image": "846.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

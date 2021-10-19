@@ -1,24 +1,24 @@
 {
-  "name": "Matties #639",
-  "description": "An observant, LGBTQ friendly Lesya.",
+  "name": "Traveloger #639",
+  "description": "A chic, individualistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "individualistic b"
   },
   "image": "639.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "chic"
     }
   ]
 }

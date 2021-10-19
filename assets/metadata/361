@@ -1,10 +1,10 @@
 {
-  "name": "Matties #361",
-  "description": "An imaginative, collectivistic Valya.",
+  "name": "Traveloger #361",
+  "description": "An adventurous, Epicurean Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "collectivistic b"
+    "character": "adventurous b",
+    "ideology": "Epicurean a"
   },
   "image": "361.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

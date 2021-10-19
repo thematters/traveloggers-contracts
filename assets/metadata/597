@@ -1,24 +1,24 @@
 {
-  "name": "Matties #597",
-  "description": "A self-discipline, individualistic Yury.",
+  "name": "Traveloger #597",
+  "description": "An adventurous, feminist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline b",
-    "ideology": "individualistic a"
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "feminist a"
   },
   "image": "597.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "adventurous"
     }
   ]
 }

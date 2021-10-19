@@ -1,24 +1,24 @@
 {
-  "name": "Matties #744",
-  "description": "An enthusiastic, liberal Lesya.",
+  "name": "Traveloger #744",
+  "description": "An extroverted, localist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "liberal a"
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "localist b"
   },
   "image": "744.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #213",
-  "description": "An enthusiastic, collectivistic Sasha.",
+  "name": "Traveloger #213",
+  "description": "An observant, nationalistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic a",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "nationalistic b"
   },
   "image": "213.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

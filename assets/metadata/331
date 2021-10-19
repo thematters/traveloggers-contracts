@@ -1,24 +1,24 @@
 {
-  "name": "Matties #331",
-  "description": "A determined, anarchist Sasha.",
+  "name": "Traveloger #331",
+  "description": "A chic, existentialist Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined a",
-    "ideology": "anarchist a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "existentialist a"
   },
   "image": "331.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

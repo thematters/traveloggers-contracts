@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1068",
-  "description": "An enthusiastic, cosmopolitan Gena.",
+  "name": "Traveloger #1068",
+  "description": "A compassionate, skeptical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic b",
-    "ideology": "cosmopolitan a"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "skeptical a"
   },
   "image": "1068.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

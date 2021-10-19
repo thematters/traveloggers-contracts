@@ -1,24 +1,24 @@
 {
-  "name": "Matties #469",
-  "description": "An adventurous, conservative Zhenya.",
+  "name": "Traveloger #469",
+  "description": "An enthusiastic, feminist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous b",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "enthusiastic a",
+    "ideology": "feminist b"
   },
   "image": "469.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

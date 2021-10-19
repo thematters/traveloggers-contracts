@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1254",
-  "description": "A determined, localist Valya.",
+  "name": "Traveloger #1254",
+  "description": "A determined, existentialist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined a",
-    "ideology": "localist b"
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "existentialist a"
   },
   "image": "1254.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

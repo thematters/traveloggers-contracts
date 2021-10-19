@@ -1,24 +1,24 @@
 {
-  "name": "Matties #138",
-  "description": "A determined, pessimistic Zhenya.",
+  "name": "Traveloger #138",
+  "description": "An exploring, pacifist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined b",
-    "ideology": "pessimistic b"
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pacifist b"
   },
   "image": "138.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "exploring"
     }
   ]
 }

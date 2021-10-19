@@ -1,24 +1,24 @@
 {
-  "name": "Matties #67",
-  "description": "A self-discipline, optimistic Valya.",
+  "name": "Traveloger #67",
+  "description": "An observant, pessimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "optimistic b"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "pessimistic a"
   },
   "image": "67.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

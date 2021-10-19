@@ -1,24 +1,24 @@
 {
-  "name": "Matties #314",
-  "description": "An analytical, Epicurean Lesya.",
+  "name": "Traveloger #314",
+  "description": "An extroverted, Marxist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "Marxist b"
   },
   "image": "314.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

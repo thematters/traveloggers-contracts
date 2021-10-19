@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1346",
-  "description": "A determined, optimistic Valya.",
+  "name": "Traveloger #1346",
+  "description": "A nonchalant, conservative Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined b",
-    "ideology": "optimistic b"
+    "race": "Yury",
+    "character": "nonchalant b",
+    "ideology": "conservative a"
   },
   "image": "1346.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "nonchalant"
     }
   ]
 }

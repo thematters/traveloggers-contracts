@@ -1,24 +1,24 @@
 {
-  "name": "Matties #183",
-  "description": "A sociable, liberal Valya.",
+  "name": "Traveloger #183",
+  "description": "A down-to-earth, skeptical Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "liberal b"
+    "race": "Yury",
+    "character": "down-to-earth b",
+    "ideology": "skeptical b"
   },
   "image": "183.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "down-to-earth"
     }
   ]
 }

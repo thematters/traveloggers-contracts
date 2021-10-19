@@ -1,24 +1,24 @@
 {
-  "name": "Matties #661",
-  "description": "An extroverted, Marxist Zhenya.",
+  "name": "Traveloger #661",
+  "description": "An enthusiastic, pragmatist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "pragmatist a"
   },
   "image": "661.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

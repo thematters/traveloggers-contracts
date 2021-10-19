@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1260",
-  "description": "A self-discipline, pacifist Yury.",
+  "name": "Traveloger #1260",
+  "description": "A down-to-earth, nationalistic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "pacifist b"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "nationalistic a"
   },
   "image": "1260.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "down-to-earth"
     }
   ]
 }

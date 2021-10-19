@@ -1,24 +1,24 @@
 {
-  "name": "Matties #855",
-  "description": "A confused, localist Gena.",
+  "name": "Traveloger #855",
+  "description": "A nonchalant, conservative Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "localist a"
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "conservative a"
   },
   "image": "855.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "nonchalant"
     }
   ]
 }

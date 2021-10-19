@@ -1,24 +1,24 @@
 {
-  "name": "Matties #655",
-  "description": "A rebellious, cosmopolitan Valya.",
+  "name": "Traveloger #655",
+  "description": "A confused, feminist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "cosmopolitan b"
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "feminist a"
   },
   "image": "655.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

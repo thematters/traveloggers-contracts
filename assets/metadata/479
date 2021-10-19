@@ -1,10 +1,10 @@
 {
-  "name": "Matties #479",
-  "description": "An exploring, optimistic Zhenya.",
+  "name": "Traveloger #479",
+  "description": "An adventurous, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "optimistic b"
+    "character": "adventurous a",
+    "ideology": "cosmopolitan b"
   },
   "image": "479.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "adventurous"
     }
   ]
 }

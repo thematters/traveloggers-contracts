@@ -1,24 +1,24 @@
 {
-  "name": "Matties #667",
-  "description": "A down-to-earth, skeptical Yury.",
+  "name": "Traveloger #667",
+  "description": "An imaginative, feminist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "skeptical a"
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "feminist b"
   },
   "image": "667.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #398",
-  "description": "A self-discipline, conservative Yury.",
+  "name": "Traveloger #398",
+  "description": "An analytical, liberal Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline b",
-    "ideology": "conservative a"
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "liberal b"
   },
   "image": "398.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "analytical"
     }
   ]
 }

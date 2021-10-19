@@ -1,24 +1,24 @@
 {
-  "name": "Matties #357",
-  "description": "A down-to-earth, romantic Sasha.",
+  "name": "Traveloger #357",
+  "description": "A determined, individualistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "romantic a"
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "individualistic b"
   },
   "image": "357.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1086",
-  "description": "A rebellious, pragmatist Yury.",
+  "name": "Traveloger #1086",
+  "description": "An introverted, pessimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "pragmatist b"
+    "character": "introverted b",
+    "ideology": "pessimistic a"
   },
   "image": "1086.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "introverted"
     }
   ]
 }

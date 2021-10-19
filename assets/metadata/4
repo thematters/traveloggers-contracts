@@ -1,24 +1,24 @@
 {
-  "name": "Matties #4",
-  "description": "An exploring, nationalistic Yury.",
+  "name": "Traveloger #4",
+  "description": "An enthusiastic, localist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "nationalistic a"
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "localist a"
   },
   "image": "4.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "enthusiastic"
     }
   ]
 }

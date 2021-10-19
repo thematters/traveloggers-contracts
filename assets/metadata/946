@@ -1,20 +1,20 @@
 {
-  "name": "Matties #946",
-  "description": "An exploring, conservative Gena.",
+  "name": "Traveloger #946",
+  "description": "An exploring, skeptical Zhenya.",
   "_visual": {
-    "race": "Gena",
+    "race": "Zhenya",
     "character": "exploring b",
-    "ideology": "conservative a"
+    "ideology": "skeptical b"
   },
   "image": "946.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",

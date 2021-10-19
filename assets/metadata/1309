@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1309",
-  "description": "A self-discipline, capitalistic Lesya.",
+  "name": "Traveloger #1309",
+  "description": "An enthusiastic, existentialist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "existentialist b"
   },
   "image": "1309.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

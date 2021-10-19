@@ -1,24 +1,24 @@
 {
-  "name": "Matties #591",
-  "description": "A sociable, optimistic Lesya.",
+  "name": "Traveloger #591",
+  "description": "An adventurous, Epicurean Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable a",
-    "ideology": "optimistic a"
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "Epicurean b"
   },
   "image": "591.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "adventurous"
     }
   ]
 }

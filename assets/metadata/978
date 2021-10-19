@@ -1,24 +1,24 @@
 {
-  "name": "Matties #978",
-  "description": "A practical, conservative Lesya.",
+  "name": "Traveloger #978",
+  "description": "A nonchalant, Marxist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "conservative a"
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "Marxist b"
   },
   "image": "978.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #316",
-  "description": "A compassionate, capitalistic Gena.",
+  "name": "Traveloger #316",
+  "description": "An enthusiastic, nationalistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "nationalistic a"
   },
   "image": "316.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "enthusiastic"
     }
   ]
 }

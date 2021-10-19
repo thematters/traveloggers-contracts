@@ -1,24 +1,24 @@
 {
-  "name": "Matties #609",
-  "description": "An adventurous, nationalistic Gena.",
+  "name": "Traveloger #609",
+  "description": "A compassionate, feminist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous b",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "feminist b"
   },
   "image": "609.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "compassionate"
     }
   ]
 }

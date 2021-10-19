@@ -1,10 +1,10 @@
 {
-  "name": "Matties #726",
-  "description": "A compassionate, romantic Gena.",
+  "name": "Traveloger #726",
+  "description": "A sociable, capitalistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "romantic a"
+    "character": "sociable a",
+    "ideology": "capitalistic b"
   },
   "image": "726.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "sociable"
     }
   ]
 }

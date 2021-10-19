@@ -1,24 +1,24 @@
 {
-  "name": "Matties #460",
-  "description": "An introverted, capitalistic Zhenya.",
+  "name": "Traveloger #460",
+  "description": "A nonchalant, optimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted a",
-    "ideology": "capitalistic b"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "optimistic b"
   },
   "image": "460.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "name": "Matties #415",
-  "description": "An introverted, capitalistic Sasha.",
+  "name": "Traveloger #415",
+  "description": "An introverted, nationalistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Zhenya",
     "character": "introverted b",
-    "ideology": "capitalistic b"
+    "ideology": "nationalistic a"
   },
   "image": "415.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

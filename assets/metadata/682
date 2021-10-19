@@ -1,24 +1,24 @@
 {
-  "name": "Matties #682",
-  "description": "An enthusiastic, optimistic Lesya.",
+  "name": "Traveloger #682",
+  "description": "A compassionate, existentialist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "optimistic a"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "existentialist b"
   },
   "image": "682.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

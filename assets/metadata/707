@@ -1,24 +1,24 @@
 {
-  "name": "Matties #707",
-  "description": "An exploring, cynical Sasha.",
+  "name": "Traveloger #707",
+  "description": "An observant, rational Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring a",
-    "ideology": "cynical a"
+    "race": "Gena",
+    "character": "observant a",
+    "ideology": "rational a"
   },
   "image": "707.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "observant"
     }
   ]
 }

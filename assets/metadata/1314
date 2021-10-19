@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1314",
-  "description": "An enthusiastic, collectivistic Gena.",
+  "name": "Traveloger #1314",
+  "description": "An observant, rational Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic a",
-    "ideology": "collectivistic a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "rational b"
   },
   "image": "1314.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

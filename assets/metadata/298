@@ -1,16 +1,16 @@
 {
-  "name": "Matties #298",
-  "description": "A determined, romantic Gena.",
+  "name": "Traveloger #298",
+  "description": "A compassionate, romantic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
+    "race": "Sasha",
+    "character": "compassionate a",
     "ideology": "romantic a"
   },
   "image": "298.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

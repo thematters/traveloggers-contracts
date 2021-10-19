@@ -1,24 +1,24 @@
 {
-  "name": "Matties #797",
-  "description": "An analytical, individualistic Zhenya.",
+  "name": "Traveloger #797",
+  "description": "An extroverted, optimistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "individualistic b"
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "optimistic b"
   },
   "image": "797.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1476",
-  "description": "A practical, pessimistic Zhenya.",
+  "name": "Traveloger #1476",
+  "description": "An introverted, conservative Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "conservative a"
   },
   "image": "1476.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

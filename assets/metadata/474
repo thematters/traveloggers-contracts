@@ -1,10 +1,10 @@
 {
-  "name": "Matties #474",
-  "description": "A determined, rational Yury.",
+  "name": "Traveloger #474",
+  "description": "A determined, Epicurean Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "determined a",
-    "ideology": "rational a"
+    "character": "determined b",
+    "ideology": "Epicurean a"
   },
   "image": "474.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

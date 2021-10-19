@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1448",
-  "description": "A confused, pragmatist Gena.",
+  "name": "Traveloger #1448",
+  "description": "A practical, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "pragmatist a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1448.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "practical"
     }
   ]
 }

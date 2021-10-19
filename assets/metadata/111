@@ -1,24 +1,24 @@
 {
-  "name": "Matties #111",
-  "description": "A down-to-earth, pluralistic Zhenya.",
+  "name": "Traveloger #111",
+  "description": "A nonchalant, pessimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "down-to-earth b",
-    "ideology": "pluralistic a"
+    "race": "Valya",
+    "character": "nonchalant b",
+    "ideology": "pessimistic a"
   },
   "image": "111.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "nonchalant"
     }
   ]
 }

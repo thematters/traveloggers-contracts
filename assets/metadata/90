@@ -1,24 +1,24 @@
 {
-  "name": "Matties #90",
-  "description": "A hard-working, LGBTQ friendly Gena.",
+  "name": "Traveloger #90",
+  "description": "A chic, anarchist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "hard-working a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Zhenya",
+    "character": "chic b",
+    "ideology": "anarchist a"
   },
   "image": "90.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "chic"
     }
   ]
 }

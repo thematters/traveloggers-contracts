@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1435",
-  "description": "A chic, skeptical Sasha.",
+  "name": "Traveloger #1435",
+  "description": "A nonchalant, anarchist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "skeptical b"
+    "race": "Gena",
+    "character": "nonchalant b",
+    "ideology": "anarchist a"
   },
   "image": "1435.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

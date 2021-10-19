@@ -1,24 +1,24 @@
 {
-  "name": "Matties #806",
-  "description": "An analytical, nationalistic Valya.",
+  "name": "Traveloger #806",
+  "description": "An observant, pluralistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical a",
-    "ideology": "nationalistic a"
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "pluralistic b"
   },
   "image": "806.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

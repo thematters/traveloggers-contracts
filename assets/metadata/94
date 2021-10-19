@@ -1,10 +1,10 @@
 {
-  "name": "Matties #94",
-  "description": "An introverted, collectivistic Sasha.",
+  "name": "Traveloger #94",
+  "description": "A determined, cosmopolitan Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "introverted b",
-    "ideology": "collectivistic a"
+    "character": "determined a",
+    "ideology": "cosmopolitan a"
   },
   "image": "94.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "determined"
     }
   ]
 }

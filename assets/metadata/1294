@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1294",
-  "description": "An analytical, individualistic Lesya.",
+  "name": "Traveloger #1294",
+  "description": "An observant, Marxist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical a",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "Marxist a"
   },
   "image": "1294.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "observant"
     }
   ]
 }

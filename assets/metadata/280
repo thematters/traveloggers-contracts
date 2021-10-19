@@ -1,10 +1,10 @@
 {
-  "name": "Matties #280",
-  "description": "A practical, capitalistic Sasha.",
+  "name": "Traveloger #280",
+  "description": "An observant, pacifist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "practical a",
-    "ideology": "capitalistic b"
+    "character": "observant a",
+    "ideology": "pacifist b"
   },
   "image": "280.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "observant"
     }
   ]
 }

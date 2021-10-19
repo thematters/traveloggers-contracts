@@ -1,24 +1,24 @@
 {
-  "name": "Matties #73",
-  "description": "A confused, romantic Zhenya.",
+  "name": "Traveloger #73",
+  "description": "A hard-working, pacifist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "romantic b"
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "pacifist b"
   },
   "image": "73.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

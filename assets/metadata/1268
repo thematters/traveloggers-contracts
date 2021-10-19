@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1268",
-  "description": "A compassionate, liberal Sasha.",
+  "name": "Traveloger #1268",
+  "description": "A sociable, collectivistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate a",
-    "ideology": "liberal a"
+    "race": "Valya",
+    "character": "sociable a",
+    "ideology": "collectivistic b"
   },
   "image": "1268.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "sociable"
     }
   ]
 }

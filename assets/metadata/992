@@ -1,10 +1,10 @@
 {
-  "name": "Matties #992",
-  "description": "A rebellious, pragmatist Lesya.",
+  "name": "Traveloger #992",
+  "description": "A sociable, existentialist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "pragmatist b"
+    "character": "sociable a",
+    "ideology": "existentialist a"
   },
   "image": "992.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "sociable"
     }
   ]
 }

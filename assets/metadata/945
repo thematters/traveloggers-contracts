@@ -1,24 +1,24 @@
 {
-  "name": "Matties #945",
-  "description": "An analytical, existentialist Gena.",
+  "name": "Traveloger #945",
+  "description": "An introverted, cynical Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "analytical b",
-    "ideology": "existentialist b"
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "cynical b"
   },
   "image": "945.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

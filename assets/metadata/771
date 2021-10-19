@@ -1,24 +1,24 @@
 {
-  "name": "Matties #771",
-  "description": "A confused, capitalistic Yury.",
+  "name": "Traveloger #771",
+  "description": "A practical, skeptical Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "confused b",
-    "ideology": "capitalistic a"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "skeptical b"
   },
   "image": "771.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "practical"
     }
   ]
 }

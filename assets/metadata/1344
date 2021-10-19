@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1344",
-  "description": "A nonchalant, capitalistic Lesya.",
+  "name": "Traveloger #1344",
+  "description": "A sociable, conservative Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "sociable a",
+    "ideology": "conservative b"
   },
   "image": "1344.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "sociable"
     }
   ]
 }

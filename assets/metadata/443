@@ -1,24 +1,24 @@
 {
-  "name": "Matties #443",
-  "description": "An extroverted, rational Lesya.",
+  "name": "Traveloger #443",
+  "description": "A hard-working, Epicurean Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "rational b"
+    "race": "Zhenya",
+    "character": "hard-working b",
+    "ideology": "Epicurean b"
   },
   "image": "443.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "hard-working"
     }
   ]
 }

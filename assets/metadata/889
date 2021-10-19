@@ -1,24 +1,24 @@
 {
-  "name": "Matties #889",
-  "description": "A chic, pessimistic Sasha.",
+  "name": "Traveloger #889",
+  "description": "An introverted, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "pessimistic b"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "889.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #405",
-  "description": "An analytical, anarchist Sasha.",
+  "name": "Traveloger #405",
+  "description": "A self-discipline, capitalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "anarchist b"
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "capitalistic b"
   },
   "image": "405.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

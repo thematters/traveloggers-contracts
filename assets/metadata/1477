@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1477",
-  "description": "An extroverted, pragmatist Sasha.",
+  "name": "Traveloger #1477",
+  "description": "An introverted, capitalistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "pragmatist a"
+    "character": "introverted a",
+    "ideology": "capitalistic b"
   },
   "image": "1477.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

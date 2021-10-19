@@ -1,24 +1,24 @@
 {
-  "name": "Matties #241",
-  "description": "An imaginative, skeptical Zhenya.",
+  "name": "Traveloger #241",
+  "description": "A compassionate, pessimistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "skeptical a"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "pessimistic b"
   },
   "image": "241.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

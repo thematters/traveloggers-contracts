@@ -1,24 +1,24 @@
 {
-  "name": "Matties #313",
-  "description": "A down-to-earth, romantic Zhenya.",
+  "name": "Traveloger #313",
+  "description": "An imaginative, nationalistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "down-to-earth b",
-    "ideology": "romantic a"
+    "race": "Lesya",
+    "character": "imaginative b",
+    "ideology": "nationalistic b"
   },
   "image": "313.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

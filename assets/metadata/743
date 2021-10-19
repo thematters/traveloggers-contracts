@@ -1,24 +1,24 @@
 {
-  "name": "Matties #743",
-  "description": "A compassionate, liberal Lesya.",
+  "name": "Traveloger #743",
+  "description": "A determined, anarchist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate a",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "anarchist b"
   },
   "image": "743.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "determined"
     }
   ]
 }

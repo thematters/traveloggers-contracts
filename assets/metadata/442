@@ -1,24 +1,24 @@
 {
-  "name": "Matties #442",
-  "description": "A down-to-earth, rational Sasha.",
+  "name": "Traveloger #442",
+  "description": "A chic, Marxist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "rational b"
+    "race": "Lesya",
+    "character": "chic b",
+    "ideology": "Marxist b"
   },
   "image": "442.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "chic"
     }
   ]
 }

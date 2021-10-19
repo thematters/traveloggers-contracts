@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1450",
-  "description": "A rebellious, cynical Zhenya.",
+  "name": "Traveloger #1450",
+  "description": "A chic, optimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "rebellious a",
-    "ideology": "cynical a"
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "optimistic b"
   },
   "image": "1450.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "chic"
     }
   ]
 }

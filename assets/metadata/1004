@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1004",
-  "description": "A determined, capitalistic Sasha.",
+  "name": "Traveloger #1004",
+  "description": "A practical, collectivistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined a",
-    "ideology": "capitalistic b"
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "collectivistic b"
   },
   "image": "1004.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "practical"
     }
   ]
 }

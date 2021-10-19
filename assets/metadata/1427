@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1427",
-  "description": "An adventurous, anarchist Yury.",
+  "name": "Traveloger #1427",
+  "description": "An enthusiastic, conservative Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous a",
-    "ideology": "anarchist a"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "conservative b"
   },
   "image": "1427.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

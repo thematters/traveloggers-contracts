@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1368",
-  "description": "A down-to-earth, localist Yury.",
+  "name": "Traveloger #1368",
+  "description": "A confused, skeptical Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "localist a"
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "skeptical a"
   },
   "image": "1368.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #97",
-  "description": "An exploring, skeptical Lesya.",
+  "name": "Traveloger #97",
+  "description": "An imaginative, feminist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "skeptical a"
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "feminist b"
   },
   "image": "97.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

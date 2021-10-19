@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1242",
-  "description": "An adventurous, pluralistic Sasha.",
+  "name": "Traveloger #1242",
+  "description": "A practical, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous a",
-    "ideology": "pluralistic b"
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1242.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "practical"
     }
   ]
 }

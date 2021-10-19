@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1014",
-  "description": "An introverted, capitalistic Gena.",
+  "name": "Traveloger #1014",
+  "description": "An imaginative, nationalistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "introverted a",
-    "ideology": "capitalistic a"
+    "character": "imaginative a",
+    "ideology": "nationalistic b"
   },
   "image": "1014.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "imaginative"
     }
   ]
 }

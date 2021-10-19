@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1274",
-  "description": "A self-discipline, collectivistic Valya.",
+  "name": "Traveloger #1274",
+  "description": "A nonchalant, pessimistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "pessimistic a"
   },
   "image": "1274.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "nonchalant"
     }
   ]
 }

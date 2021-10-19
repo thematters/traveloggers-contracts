@@ -1,24 +1,24 @@
 {
-  "name": "Matties #692",
-  "description": "A compassionate, capitalistic Valya.",
+  "name": "Traveloger #692",
+  "description": "A hard-working, cynical Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "hard-working a",
+    "ideology": "cynical b"
   },
   "image": "692.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "hard-working"
     }
   ]
 }

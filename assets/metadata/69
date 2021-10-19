@@ -1,24 +1,24 @@
 {
-  "name": "Matties #69",
-  "description": "An enthusiastic, nationalistic Valya.",
+  "name": "Traveloger #69",
+  "description": "A compassionate, localist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "nationalistic a"
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "localist b"
   },
   "image": "69.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #192",
-  "description": "A confused, existentialist Sasha.",
+  "name": "Traveloger #192",
+  "description": "An enthusiastic, conservative Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "existentialist a"
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "conservative b"
   },
   "image": "192.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "enthusiastic"
     }
   ]
 }

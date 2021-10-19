@@ -1,24 +1,24 @@
 {
-  "name": "Matties #485",
-  "description": "A compassionate, pessimistic Yury.",
+  "name": "Traveloger #485",
+  "description": "A self-discipline, localist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate a",
-    "ideology": "pessimistic a"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "localist b"
   },
   "image": "485.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

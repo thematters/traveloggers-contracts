@@ -1,24 +1,24 @@
 {
-  "name": "Matties #227",
-  "description": "A self-discipline, cynical Lesya.",
+  "name": "Traveloger #227",
+  "description": "An extroverted, cosmopolitan Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline b",
-    "ideology": "cynical b"
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "cosmopolitan b"
   },
   "image": "227.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

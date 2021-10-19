@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1232",
-  "description": "A down-to-earth, localist Sasha.",
+  "name": "Traveloger #1232",
+  "description": "A compassionate, conservative Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "localist a"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "conservative a"
   },
   "image": "1232.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

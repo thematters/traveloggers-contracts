@@ -1,20 +1,20 @@
 {
-  "name": "Matties #637",
-  "description": "An analytical, rational Zhenya.",
+  "name": "Traveloger #637",
+  "description": "An analytical, feminist Gena.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Gena",
     "character": "analytical b",
-    "ideology": "rational a"
+    "ideology": "feminist a"
   },
   "image": "637.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

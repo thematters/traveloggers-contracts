@@ -1,24 +1,24 @@
 {
-  "name": "Matties #3",
-  "description": "An enthusiastic, pluralistic Lesya.",
+  "name": "Traveloger #3",
+  "description": "A confused, rational Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic a",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "rational b"
   },
   "image": "3.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

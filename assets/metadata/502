@@ -1,24 +1,24 @@
 {
-  "name": "Matties #502",
-  "description": "A down-to-earth, conservative Valya.",
+  "name": "Traveloger #502",
+  "description": "A sociable, feminist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "conservative a"
+    "race": "Zhenya",
+    "character": "sociable a",
+    "ideology": "feminist a"
   },
   "image": "502.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #13",
-  "description": "An introverted, cosmopolitan Valya.",
+  "name": "Traveloger #13",
+  "description": "An analytical, Marxist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted b",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "Marxist b"
   },
   "image": "13.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #384",
-  "description": "An imaginative, pragmatist Lesya.",
+  "name": "Traveloger #384",
+  "description": "A hard-working, anarchist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "pragmatist a"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "anarchist a"
   },
   "image": "384.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "hard-working"
     }
   ]
 }

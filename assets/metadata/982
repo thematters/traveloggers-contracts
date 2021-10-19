@@ -1,10 +1,10 @@
 {
-  "name": "Matties #982",
-  "description": "A self-discipline, Marxist Valya.",
+  "name": "Traveloger #982",
+  "description": "A chic, skeptical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "Marxist a"
+    "character": "chic b",
+    "ideology": "skeptical a"
   },
   "image": "982.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "chic"
     }
   ]
 }

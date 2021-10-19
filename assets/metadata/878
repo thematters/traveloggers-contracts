@@ -1,24 +1,24 @@
 {
-  "name": "Matties #878",
-  "description": "A confused, localist Zhenya.",
+  "name": "Traveloger #878",
+  "description": "A nonchalant, existentialist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "localist b"
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "existentialist a"
   },
   "image": "878.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #258",
-  "description": "An adventurous, pessimistic Valya.",
+  "name": "Traveloger #258",
+  "description": "A confused, liberal Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "adventurous b",
-    "ideology": "pessimistic a"
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "liberal b"
   },
   "image": "258.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "confused"
     }
   ]
 }

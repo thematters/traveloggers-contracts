@@ -1,24 +1,24 @@
 {
-  "name": "Matties #727",
-  "description": "A chic, localist Zhenya.",
+  "name": "Traveloger #727",
+  "description": "A nonchalant, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic b",
-    "ideology": "localist a"
+    "race": "Lesya",
+    "character": "nonchalant a",
+    "ideology": "pluralistic a"
   },
   "image": "727.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "nonchalant"
     }
   ]
 }

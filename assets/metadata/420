@@ -1,10 +1,10 @@
 {
-  "name": "Matties #420",
-  "description": "A rebellious, romantic Valya.",
+  "name": "Traveloger #420",
+  "description": "A compassionate, existentialist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "rebellious a",
-    "ideology": "romantic b"
+    "character": "compassionate a",
+    "ideology": "existentialist a"
   },
   "image": "420.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

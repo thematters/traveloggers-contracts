@@ -1,10 +1,10 @@
 {
-  "name": "Matties #281",
-  "description": "An exploring, liberal Gena.",
+  "name": "Traveloger #281",
+  "description": "An analytical, skeptical Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "exploring a",
-    "ideology": "liberal a"
+    "character": "analytical a",
+    "ideology": "skeptical b"
   },
   "image": "281.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "analytical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1370",
-  "description": "A nonchalant, capitalistic Sasha.",
+  "name": "Traveloger #1370",
+  "description": "A chic, cosmopolitan Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant b",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "chic a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1370.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

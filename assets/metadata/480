@@ -1,24 +1,24 @@
 {
-  "name": "Matties #480",
-  "description": "An adventurous, LGBTQ friendly Yury.",
+  "name": "Traveloger #480",
+  "description": "A rebellious, optimistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Sasha",
+    "character": "rebellious a",
+    "ideology": "optimistic b"
   },
   "image": "480.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "rebellious"
     }
   ]
 }

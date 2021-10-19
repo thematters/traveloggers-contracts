@@ -1,24 +1,24 @@
 {
-  "name": "Matties #75",
-  "description": "An exploring, Marxist Zhenya.",
+  "name": "Traveloger #75",
+  "description": "An imaginative, romantic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "Marxist b"
+    "race": "Yury",
+    "character": "imaginative b",
+    "ideology": "romantic b"
   },
   "image": "75.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }

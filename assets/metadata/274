@@ -1,10 +1,10 @@
 {
-  "name": "Matties #274",
-  "description": "A nonchalant, Epicurean Yury.",
+  "name": "Traveloger #274",
+  "description": "An adventurous, capitalistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "Epicurean a"
+    "character": "adventurous a",
+    "ideology": "capitalistic a"
   },
   "image": "274.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "adventurous"
     }
   ]
 }

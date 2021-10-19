@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1061",
-  "description": "A hard-working, anarchist Sasha.",
+  "name": "Traveloger #1061",
+  "description": "A practical, pacifist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "hard-working b",
-    "ideology": "anarchist b"
+    "character": "practical b",
+    "ideology": "pacifist a"
   },
   "image": "1061.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "practical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #383",
-  "description": "A determined, liberal Zhenya.",
+  "name": "Traveloger #383",
+  "description": "An enthusiastic, capitalistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "liberal a"
+    "character": "enthusiastic b",
+    "ideology": "capitalistic b"
   },
   "image": "383.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "enthusiastic"
     }
   ]
 }

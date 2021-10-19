@@ -1,10 +1,10 @@
 {
-  "name": "Matties #206",
-  "description": "A confused, nationalistic Valya.",
+  "name": "Traveloger #206",
+  "description": "An imaginative, pluralistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "confused a",
-    "ideology": "nationalistic a"
+    "character": "imaginative b",
+    "ideology": "pluralistic a"
   },
   "image": "206.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

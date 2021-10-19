@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1016",
-  "description": "An exploring, liberal Zhenya.",
+  "name": "Traveloger #1016",
+  "description": "A chic, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "liberal a"
+    "race": "Lesya",
+    "character": "chic b",
+    "ideology": "pluralistic b"
   },
   "image": "1016.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

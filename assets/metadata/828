@@ -1,24 +1,24 @@
 {
-  "name": "Matties #828",
-  "description": "An observant, rational Yury.",
+  "name": "Traveloger #828",
+  "description": "A hard-working, conservative Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "rational a"
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "conservative b"
   },
   "image": "828.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

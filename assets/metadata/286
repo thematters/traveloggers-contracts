@@ -1,24 +1,24 @@
 {
-  "name": "Matties #286",
-  "description": "A determined, localist Sasha.",
+  "name": "Traveloger #286",
+  "description": "An imaginative, feminist Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined a",
-    "ideology": "localist a"
+    "race": "Yury",
+    "character": "imaginative a",
+    "ideology": "feminist b"
   },
   "image": "286.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "imaginative"
     }
   ]
 }

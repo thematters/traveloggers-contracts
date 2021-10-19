@@ -1,24 +1,24 @@
 {
-  "name": "Matties #84",
-  "description": "A chic, pragmatist Valya.",
+  "name": "Traveloger #84",
+  "description": "A sociable, romantic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "pragmatist a"
+    "race": "Gena",
+    "character": "sociable a",
+    "ideology": "romantic a"
   },
   "image": "84.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

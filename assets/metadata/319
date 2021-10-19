@@ -1,24 +1,24 @@
 {
-  "name": "Matties #319",
-  "description": "A compassionate, romantic Zhenya.",
+  "name": "Traveloger #319",
+  "description": "A confused, individualistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "compassionate a",
-    "ideology": "romantic a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "individualistic b"
   },
   "image": "319.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

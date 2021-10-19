@@ -1,24 +1,24 @@
 {
-  "name": "Matties #418",
-  "description": "A rebellious, romantic Yury.",
+  "name": "Traveloger #418",
+  "description": "An introverted, capitalistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "romantic b"
+    "race": "Gena",
+    "character": "introverted a",
+    "ideology": "capitalistic a"
   },
   "image": "418.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "introverted"
     }
   ]
 }

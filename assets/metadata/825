@@ -1,24 +1,24 @@
 {
-  "name": "Matties #825",
-  "description": "A nonchalant, skeptical Valya.",
+  "name": "Traveloger #825",
+  "description": "An adventurous, pluralistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant b",
-    "ideology": "skeptical b"
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "pluralistic a"
   },
   "image": "825.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "adventurous"
     }
   ]
 }

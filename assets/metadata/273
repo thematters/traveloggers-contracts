@@ -1,20 +1,20 @@
 {
-  "name": "Matties #273",
-  "description": "An exploring, pluralistic Valya.",
+  "name": "Traveloger #273",
+  "description": "An exploring, cynical Lesya.",
   "_visual": {
-    "race": "Valya",
+    "race": "Lesya",
     "character": "exploring a",
-    "ideology": "pluralistic b"
+    "ideology": "cynical b"
   },
   "image": "273.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1093",
-  "description": "An observant, skeptical Yury.",
+  "name": "Traveloger #1093",
+  "description": "A determined, skeptical Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant b",
-    "ideology": "skeptical a"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "skeptical b"
   },
   "image": "1093.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "determined"
     }
   ]
 }

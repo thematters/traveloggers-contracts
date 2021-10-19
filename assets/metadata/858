@@ -1,10 +1,10 @@
 {
-  "name": "Matties #858",
-  "description": "A determined, LGBTQ friendly Zhenya.",
+  "name": "Traveloger #858",
+  "description": "An observant, rational Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "LGBTQ friendly b"
+    "character": "observant b",
+    "ideology": "rational b"
   },
   "image": "858.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

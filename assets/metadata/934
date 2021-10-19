@@ -1,10 +1,10 @@
 {
-  "name": "Matties #934",
-  "description": "A nonchalant, pacifist Lesya.",
+  "name": "Traveloger #934",
+  "description": "A practical, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "pacifist b"
+    "character": "practical a",
+    "ideology": "feminist a"
   },
   "image": "934.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

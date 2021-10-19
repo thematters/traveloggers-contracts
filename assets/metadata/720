@@ -1,24 +1,24 @@
 {
-  "name": "Matties #720",
-  "description": "A down-to-earth, Marxist Yury.",
+  "name": "Traveloger #720",
+  "description": "An extroverted, Epicurean Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth a",
-    "ideology": "Marxist a"
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "Epicurean a"
   },
   "image": "720.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

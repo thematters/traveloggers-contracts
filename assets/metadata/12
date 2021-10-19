@@ -1,10 +1,10 @@
 {
-  "name": "Matties #12",
-  "description": "A chic, cynical Lesya.",
+  "name": "Traveloger #12",
+  "description": "A self-discipline, individualistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic a",
-    "ideology": "cynical b"
+    "character": "self-discipline b",
+    "ideology": "individualistic b"
   },
   "image": "12.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

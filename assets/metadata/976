@@ -1,24 +1,24 @@
 {
-  "name": "Matties #976",
-  "description": "An observant, Marxist Sasha.",
+  "name": "Traveloger #976",
+  "description": "A hard-working, localist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant b",
-    "ideology": "Marxist a"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "localist b"
   },
   "image": "976.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

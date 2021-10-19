@@ -1,16 +1,16 @@
 {
-  "name": "Matties #285",
-  "description": "A determined, pluralistic Yury.",
+  "name": "Traveloger #285",
+  "description": "An enthusiastic, pluralistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "pluralistic a"
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "pluralistic b"
   },
   "image": "285.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "enthusiastic"
     }
   ]
 }

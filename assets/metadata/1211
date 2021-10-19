@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1211",
-  "description": "An exploring, existentialist Valya.",
+  "name": "Traveloger #1211",
+  "description": "A confused, Marxist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring b",
-    "ideology": "existentialist b"
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "Marxist b"
   },
   "image": "1211.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "confused"
     }
   ]
 }

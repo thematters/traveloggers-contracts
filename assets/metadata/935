@@ -1,10 +1,10 @@
 {
-  "name": "Matties #935",
-  "description": "A nonchalant, capitalistic Lesya.",
+  "name": "Traveloger #935",
+  "description": "An analytical, capitalistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "capitalistic b"
+    "character": "analytical b",
+    "ideology": "capitalistic a"
   },
   "image": "935.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

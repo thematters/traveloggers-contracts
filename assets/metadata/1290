@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1290",
-  "description": "A down-to-earth, skeptical Valya.",
+  "name": "Traveloger #1290",
+  "description": "An enthusiastic, pessimistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "skeptical a"
+    "race": "Yury",
+    "character": "enthusiastic b",
+    "ideology": "pessimistic a"
   },
   "image": "1290.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "enthusiastic"
     }
   ]
 }

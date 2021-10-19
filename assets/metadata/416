@@ -1,24 +1,24 @@
 {
-  "name": "Matties #416",
-  "description": "An extroverted, liberal Sasha.",
+  "name": "Traveloger #416",
+  "description": "An analytical, collectivistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "liberal a"
+    "race": "Gena",
+    "character": "analytical a",
+    "ideology": "collectivistic b"
   },
   "image": "416.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "analytical"
     }
   ]
 }

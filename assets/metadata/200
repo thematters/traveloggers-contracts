@@ -1,24 +1,24 @@
 {
-  "name": "Matties #200",
-  "description": "A chic, LGBTQ friendly Sasha.",
+  "name": "Traveloger #200",
+  "description": "An enthusiastic, liberal Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Gena",
+    "character": "enthusiastic a",
+    "ideology": "liberal b"
   },
   "image": "200.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "enthusiastic"
     }
   ]
 }

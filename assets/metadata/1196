@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1196",
-  "description": "A down-to-earth, pragmatist Zhenya.",
+  "name": "Traveloger #1196",
+  "description": "An observant, cosmopolitan Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "down-to-earth b",
-    "ideology": "pragmatist b"
+    "character": "observant a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1196.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "observant"
     }
   ]
 }

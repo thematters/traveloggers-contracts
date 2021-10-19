@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1481",
-  "description": "An analytical, pragmatist Zhenya.",
+  "name": "Traveloger #1481",
+  "description": "An introverted, pacifist Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "pragmatist b"
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "pacifist b"
   },
   "image": "1481.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

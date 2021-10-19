@@ -1,8 +1,8 @@
 {
-  "name": "Matties #215",
-  "description": "A practical, Epicurean Sasha.",
+  "name": "Traveloger #215",
+  "description": "A practical, Epicurean Lesya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Lesya",
     "character": "practical b",
     "ideology": "Epicurean b"
   },
@@ -10,7 +10,7 @@
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",

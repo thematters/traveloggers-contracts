@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1082",
-  "description": "A practical, cosmopolitan Lesya.",
+  "name": "Traveloger #1082",
+  "description": "A sociable, anarchist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "practical b",
-    "ideology": "cosmopolitan b"
+    "character": "sociable b",
+    "ideology": "anarchist b"
   },
   "image": "1082.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sociable"
     }
   ]
 }

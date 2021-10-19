@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1325",
-  "description": "A determined, individualistic Gena.",
+  "name": "Traveloger #1325",
+  "description": "An enthusiastic, LGBTQ friendly Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "individualistic a"
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1325.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "enthusiastic"
     }
   ]
 }

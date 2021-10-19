@@ -1,24 +1,24 @@
 {
-  "name": "Matties #60",
-  "description": "A sociable, romantic Lesya.",
+  "name": "Traveloger #60",
+  "description": "A compassionate, liberal Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "romantic a"
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "liberal a"
   },
   "image": "60.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "compassionate"
     }
   ]
 }

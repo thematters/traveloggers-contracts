@@ -1,24 +1,24 @@
 {
-  "name": "Matties #814",
-  "description": "A sociable, existentialist Lesya.",
+  "name": "Traveloger #814",
+  "description": "A practical, pluralistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "pluralistic b"
   },
   "image": "814.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "practical"
     }
   ]
 }

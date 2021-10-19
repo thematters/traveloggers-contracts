@@ -1,24 +1,24 @@
 {
-  "name": "Matties #82",
-  "description": "A practical, nationalistic Gena.",
+  "name": "Traveloger #82",
+  "description": "An extroverted, conservative Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "practical a",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "conservative b"
   },
   "image": "82.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

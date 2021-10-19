@@ -1,16 +1,16 @@
 {
-  "name": "Matties #990",
-  "description": "A compassionate, nationalistic Zhenya.",
+  "name": "Traveloger #990",
+  "description": "An observant, nationalistic Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "compassionate a",
-    "ideology": "nationalistic b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "nationalistic a"
   },
   "image": "990.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

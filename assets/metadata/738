@@ -1,24 +1,24 @@
 {
-  "name": "Matties #738",
-  "description": "A hard-working, individualistic Lesya.",
+  "name": "Traveloger #738",
+  "description": "A determined, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working a",
-    "ideology": "individualistic b"
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "cosmopolitan b"
   },
   "image": "738.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "determined"
     }
   ]
 }

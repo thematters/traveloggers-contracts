@@ -1,24 +1,24 @@
 {
-  "name": "Matties #377",
-  "description": "A nonchalant, cosmopolitan Lesya.",
+  "name": "Traveloger #377",
+  "description": "An extroverted, individualistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "individualistic b"
   },
   "image": "377.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

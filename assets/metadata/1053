@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1053",
-  "description": "An adventurous, cosmopolitan Lesya.",
+  "name": "Traveloger #1053",
+  "description": "A down-to-earth, collectivistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "cosmopolitan b"
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "collectivistic b"
   },
   "image": "1053.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

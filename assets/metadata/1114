@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1114",
-  "description": "A rebellious, Epicurean Yury.",
+  "name": "Traveloger #1114",
+  "description": "A rebellious, nationalistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "nationalistic b"
   },
   "image": "1114.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

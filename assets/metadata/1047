@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1047",
-  "description": "A chic, rational Lesya.",
+  "name": "Traveloger #1047",
+  "description": "A compassionate, optimistic Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "chic a",
-    "ideology": "rational b"
+    "character": "compassionate b",
+    "ideology": "optimistic b"
   },
   "image": "1047.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #601",
-  "description": "An analytical, pacifist Gena.",
+  "name": "Traveloger #601",
+  "description": "An introverted, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "analytical b",
-    "ideology": "pacifist b"
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "601.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

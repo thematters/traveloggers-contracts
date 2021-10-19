@@ -1,10 +1,10 @@
 {
-  "name": "Matties #80",
-  "description": "A hard-working, liberal Valya.",
+  "name": "Traveloger #80",
+  "description": "An observant, liberal Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "hard-working a",
-    "ideology": "liberal a"
+    "character": "observant b",
+    "ideology": "liberal b"
   },
   "image": "80.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "observant"
     }
   ]
 }

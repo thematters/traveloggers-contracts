@@ -1,24 +1,24 @@
 {
-  "name": "Matties #767",
-  "description": "An exploring, cynical Lesya.",
+  "name": "Traveloger #767",
+  "description": "A chic, pragmatist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "pragmatist a"
   },
   "image": "767.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

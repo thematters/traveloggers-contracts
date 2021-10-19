@@ -1,24 +1,24 @@
 {
-  "name": "Matties #401",
-  "description": "A compassionate, Marxist Valya.",
+  "name": "Traveloger #401",
+  "description": "A practical, romantic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "romantic a"
   },
   "image": "401.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "practical"
     }
   ]
 }

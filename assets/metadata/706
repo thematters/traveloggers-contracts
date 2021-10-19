@@ -1,10 +1,10 @@
 {
-  "name": "Matties #706",
-  "description": "A sociable, romantic Yury.",
+  "name": "Traveloger #706",
+  "description": "An analytical, localist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable a",
-    "ideology": "romantic a"
+    "character": "analytical b",
+    "ideology": "localist a"
   },
   "image": "706.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "analytical"
     }
   ]
 }

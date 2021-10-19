@@ -1,24 +1,24 @@
 {
-  "name": "Matties #358",
-  "description": "A rebellious, conservative Yury.",
+  "name": "Traveloger #358",
+  "description": "An analytical, Epicurean Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious b",
-    "ideology": "conservative b"
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "Epicurean a"
   },
   "image": "358.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "analytical"
     }
   ]
 }

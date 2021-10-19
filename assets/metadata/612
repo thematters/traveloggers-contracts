@@ -1,24 +1,24 @@
 {
-  "name": "Matties #612",
-  "description": "A determined, capitalistic Sasha.",
+  "name": "Traveloger #612",
+  "description": "A compassionate, liberal Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "liberal b"
   },
   "image": "612.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

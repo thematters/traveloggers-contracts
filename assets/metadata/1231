@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1231",
-  "description": "A chic, collectivistic Gena.",
+  "name": "Traveloger #1231",
+  "description": "A practical, existentialist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "chic b",
-    "ideology": "collectivistic b"
+    "character": "practical b",
+    "ideology": "existentialist a"
   },
   "image": "1231.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #391",
-  "description": "An observant, skeptical Lesya.",
+  "name": "Traveloger #391",
+  "description": "An imaginative, Epicurean Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant a",
-    "ideology": "skeptical a"
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "Epicurean a"
   },
   "image": "391.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "imaginative"
     }
   ]
 }

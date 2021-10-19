@@ -1,24 +1,24 @@
 {
-  "name": "Matties #367",
-  "description": "An extroverted, capitalistic Valya.",
+  "name": "Traveloger #367",
+  "description": "A chic, pluralistic Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "capitalistic a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "pluralistic b"
   },
   "image": "367.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

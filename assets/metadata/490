@@ -1,24 +1,24 @@
 {
-  "name": "Matties #490",
-  "description": "An imaginative, pessimistic Valya.",
+  "name": "Traveloger #490",
+  "description": "A hard-working, collectivistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative b",
-    "ideology": "pessimistic a"
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "collectivistic a"
   },
   "image": "490.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "hard-working"
     }
   ]
 }

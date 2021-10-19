@@ -1,24 +1,24 @@
 {
-  "name": "Matties #345",
-  "description": "A determined, skeptical Lesya.",
+  "name": "Traveloger #345",
+  "description": "A practical, existentialist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined a",
-    "ideology": "skeptical b"
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "existentialist a"
   },
   "image": "345.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "practical"
     }
   ]
 }

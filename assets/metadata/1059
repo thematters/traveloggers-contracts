@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1059",
-  "description": "A determined, pacifist Yury.",
+  "name": "Traveloger #1059",
+  "description": "A confused, nationalistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined b",
-    "ideology": "pacifist a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "nationalistic b"
   },
   "image": "1059.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "confused"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #154",
-  "description": "An exploring, pragmatist Gena.",
+  "name": "Traveloger #154",
+  "description": "A confused, pragmatist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring b",
+    "race": "Valya",
+    "character": "confused a",
     "ideology": "pragmatist a"
   },
   "image": "154.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "confused"
     }
   ]
 }

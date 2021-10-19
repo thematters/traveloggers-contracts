@@ -1,24 +1,24 @@
 {
-  "name": "Matties #20",
-  "description": "A chic, feminist Sasha.",
+  "name": "Traveloger #20",
+  "description": "An adventurous, Epicurean Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "feminist b"
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "Epicurean b"
   },
   "image": "20.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "adventurous"
     }
   ]
 }

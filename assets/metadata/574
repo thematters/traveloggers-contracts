@@ -1,24 +1,24 @@
 {
-  "name": "Matties #574",
-  "description": "An observant, Marxist Lesya.",
+  "name": "Traveloger #574",
+  "description": "A hard-working, rational Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant b",
-    "ideology": "Marxist b"
+    "race": "Valya",
+    "character": "hard-working b",
+    "ideology": "rational b"
   },
   "image": "574.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1070",
-  "description": "An observant, pragmatist Gena.",
+  "name": "Traveloger #1070",
+  "description": "A hard-working, nationalistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant a",
-    "ideology": "pragmatist b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "nationalistic a"
   },
   "image": "1070.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

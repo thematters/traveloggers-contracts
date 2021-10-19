@@ -1,24 +1,24 @@
 {
-  "name": "Matties #189",
-  "description": "A practical, liberal Lesya.",
+  "name": "Traveloger #189",
+  "description": "A compassionate, Epicurean Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical a",
-    "ideology": "liberal b"
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "Epicurean b"
   },
   "image": "189.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

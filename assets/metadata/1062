@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1062",
-  "description": "A practical, pluralistic Zhenya.",
+  "name": "Traveloger #1062",
+  "description": "An imaginative, liberal Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "pluralistic a"
+    "race": "Yury",
+    "character": "imaginative a",
+    "ideology": "liberal b"
   },
   "image": "1062.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

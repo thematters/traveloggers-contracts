@@ -1,10 +1,10 @@
 {
-  "name": "Matties #647",
-  "description": "An imaginative, localist Zhenya.",
+  "name": "Traveloger #647",
+  "description": "A nonchalant, nationalistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "imaginative b",
-    "ideology": "localist a"
+    "character": "nonchalant a",
+    "ideology": "nationalistic a"
   },
   "image": "647.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "nonchalant"
     }
   ]
 }

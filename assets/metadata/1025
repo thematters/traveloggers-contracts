@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1025",
-  "description": "An adventurous, individualistic Gena.",
+  "name": "Traveloger #1025",
+  "description": "A rebellious, feminist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "adventurous b",
-    "ideology": "individualistic a"
+    "character": "rebellious a",
+    "ideology": "feminist a"
   },
   "image": "1025.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "rebellious"
     }
   ]
 }

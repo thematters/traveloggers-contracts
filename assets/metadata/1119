@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1119",
-  "description": "A confused, cosmopolitan Gena.",
+  "name": "Traveloger #1119",
+  "description": "An adventurous, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused a",
-    "ideology": "cosmopolitan a"
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1119.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "adventurous"
     }
   ]
 }

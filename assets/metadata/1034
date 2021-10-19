@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1034",
-  "description": "An observant, skeptical Valya.",
+  "name": "Traveloger #1034",
+  "description": "A sociable, cynical Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant a",
-    "ideology": "skeptical a"
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "cynical a"
   },
   "image": "1034.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1266",
-  "description": "A determined, pacifist Gena.",
+  "name": "Traveloger #1266",
+  "description": "A determined, feminist Lesya.",
   "_visual": {
-    "race": "Gena",
+    "race": "Lesya",
     "character": "determined a",
-    "ideology": "pacifist b"
+    "ideology": "feminist b"
   },
   "image": "1266.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

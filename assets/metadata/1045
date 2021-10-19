@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1045",
-  "description": "A rebellious, rational Gena.",
+  "name": "Traveloger #1045",
+  "description": "An adventurous, cynical Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious a",
-    "ideology": "rational b"
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "cynical b"
   },
   "image": "1045.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1341",
-  "description": "A confused, liberal Sasha.",
+  "name": "Traveloger #1341",
+  "description": "A confused, existentialist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "confused a",
-    "ideology": "liberal a"
+    "character": "confused b",
+    "ideology": "existentialist b"
   },
   "image": "1341.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

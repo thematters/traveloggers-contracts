@@ -1,24 +1,24 @@
 {
-  "name": "Matties #780",
-  "description": "An exploring, pacifist Sasha.",
+  "name": "Traveloger #780",
+  "description": "A sociable, romantic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "pacifist a"
+    "race": "Valya",
+    "character": "sociable b",
+    "ideology": "romantic b"
   },
   "image": "780.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #812",
-  "description": "A compassionate, pluralistic Valya.",
+  "name": "Traveloger #812",
+  "description": "An exploring, feminist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate b",
-    "ideology": "pluralistic b"
+    "race": "Sasha",
+    "character": "exploring b",
+    "ideology": "feminist a"
   },
   "image": "812.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "exploring"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #618",
-  "description": "A compassionate, existentialist Valya.",
+  "name": "Traveloger #618",
+  "description": "An analytical, existentialist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "compassionate a",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "existentialist b"
   },
   "image": "618.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "analytical"
     }
   ]
 }

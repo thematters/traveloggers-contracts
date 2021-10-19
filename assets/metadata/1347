@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1347",
-  "description": "An adventurous, collectivistic Lesya.",
+  "name": "Traveloger #1347",
+  "description": "A nonchalant, existentialist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "collectivistic b"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "existentialist b"
   },
   "image": "1347.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

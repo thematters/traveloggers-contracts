@@ -1,10 +1,10 @@
 {
-  "name": "Matties #537",
-  "description": "A determined, pacifist Sasha.",
+  "name": "Traveloger #537",
+  "description": "An enthusiastic, pragmatist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "determined b",
-    "ideology": "pacifist a"
+    "character": "enthusiastic a",
+    "ideology": "pragmatist a"
   },
   "image": "537.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "enthusiastic"
     }
   ]
 }

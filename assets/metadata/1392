@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1392",
-  "description": "An extroverted, Marxist Sasha.",
+  "name": "Traveloger #1392",
+  "description": "An adventurous, nationalistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "Marxist a"
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "nationalistic a"
   },
   "image": "1392.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "adventurous"
     }
   ]
 }

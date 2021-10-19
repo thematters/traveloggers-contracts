@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1002",
-  "description": "A rebellious, skeptical Sasha.",
+  "name": "Traveloger #1002",
+  "description": "An introverted, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious a",
-    "ideology": "skeptical a"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "1002.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "introverted"
     }
   ]
 }

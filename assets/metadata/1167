@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1167",
-  "description": "A sociable, conservative Valya.",
+  "name": "Traveloger #1167",
+  "description": "An extroverted, optimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable b",
-    "ideology": "conservative a"
+    "race": "Sasha",
+    "character": "extroverted b",
+    "ideology": "optimistic a"
   },
   "image": "1167.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "extroverted"
     }
   ]
 }

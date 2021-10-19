@@ -1,24 +1,24 @@
 {
-  "name": "Matties #513",
-  "description": "An introverted, rational Lesya.",
+  "name": "Traveloger #513",
+  "description": "A nonchalant, capitalistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "introverted b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "capitalistic b"
   },
   "image": "513.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

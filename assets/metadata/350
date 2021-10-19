@@ -1,24 +1,24 @@
 {
-  "name": "Matties #350",
-  "description": "A self-discipline, romantic Valya.",
+  "name": "Traveloger #350",
+  "description": "An extroverted, collectivistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "romantic b"
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "collectivistic b"
   },
   "image": "350.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

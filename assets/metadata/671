@@ -1,24 +1,24 @@
 {
-  "name": "Matties #671",
-  "description": "An enthusiastic, optimistic Valya.",
+  "name": "Traveloger #671",
+  "description": "An imaginative, anarchist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "optimistic b"
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "anarchist a"
   },
   "image": "671.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "imaginative"
     }
   ]
 }

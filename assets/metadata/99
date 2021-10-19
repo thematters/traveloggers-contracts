@@ -1,24 +1,24 @@
 {
-  "name": "Matties #99",
-  "description": "An extroverted, anarchist Sasha.",
+  "name": "Traveloger #99",
+  "description": "An exploring, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted a",
-    "ideology": "anarchist a"
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "99.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "exploring"
     }
   ]
 }

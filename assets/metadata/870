@@ -1,10 +1,10 @@
 {
-  "name": "Matties #870",
-  "description": "A practical, individualistic Sasha.",
+  "name": "Traveloger #870",
+  "description": "An analytical, pluralistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "practical a",
-    "ideology": "individualistic b"
+    "character": "analytical a",
+    "ideology": "pluralistic a"
   },
   "image": "870.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "analytical"
     }
   ]
 }

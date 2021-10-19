@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1390",
-  "description": "A rebellious, nationalistic Gena.",
+  "name": "Traveloger #1390",
+  "description": "An extroverted, nationalistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious b",
-    "ideology": "nationalistic b"
+    "race": "Lesya",
+    "character": "extroverted a",
+    "ideology": "nationalistic a"
   },
   "image": "1390.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

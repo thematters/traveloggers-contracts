@@ -1,24 +1,24 @@
 {
-  "name": "Matties #109",
-  "description": "An imaginative, romantic Zhenya.",
+  "name": "Traveloger #109",
+  "description": "A determined, liberal Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative b",
-    "ideology": "romantic b"
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "liberal b"
   },
   "image": "109.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "determined"
     }
   ]
 }

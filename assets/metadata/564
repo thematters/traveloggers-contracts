@@ -1,24 +1,24 @@
 {
-  "name": "Matties #564",
-  "description": "An extroverted, LGBTQ friendly Yury.",
+  "name": "Traveloger #564",
+  "description": "An adventurous, localist Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "localist b"
   },
   "image": "564.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "adventurous"
     }
   ]
 }

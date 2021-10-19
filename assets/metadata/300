@@ -1,24 +1,24 @@
 {
-  "name": "Matties #300",
-  "description": "A determined, existentialist Sasha.",
+  "name": "Traveloger #300",
+  "description": "A down-to-earth, rational Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "existentialist b"
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "rational a"
   },
   "image": "300.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #152",
-  "description": "An observant, collectivistic Sasha.",
+  "name": "Traveloger #152",
+  "description": "A self-discipline, feminist Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "collectivistic b"
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "feminist b"
   },
   "image": "152.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "self-discipline"
     }
   ]
 }

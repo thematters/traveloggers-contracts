@@ -1,10 +1,10 @@
 {
-  "name": "Matties #47",
-  "description": "An exploring, optimistic Lesya.",
+  "name": "Traveloger #47",
+  "description": "An observant, skeptical Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "optimistic b"
+    "character": "observant a",
+    "ideology": "skeptical a"
   },
   "image": "47.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "observant"
     }
   ]
 }

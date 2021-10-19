@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1048",
-  "description": "A sociable, capitalistic Lesya.",
+  "name": "Traveloger #1048",
+  "description": "An extroverted, collectivistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable a",
-    "ideology": "capitalistic a"
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "collectivistic a"
   },
   "image": "1048.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "extroverted"
     }
   ]
 }

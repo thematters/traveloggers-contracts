@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1214",
-  "description": "An observant, pragmatist Lesya.",
+  "name": "Traveloger #1214",
+  "description": "A nonchalant, cosmopolitan Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant a",
-    "ideology": "pragmatist b"
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "cosmopolitan a"
   },
   "image": "1214.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

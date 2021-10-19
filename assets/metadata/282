@@ -1,10 +1,10 @@
 {
-  "name": "Matties #282",
-  "description": "An enthusiastic, optimistic Sasha.",
+  "name": "Traveloger #282",
+  "description": "A confused, skeptical Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "optimistic a"
+    "character": "confused a",
+    "ideology": "skeptical b"
   },
   "image": "282.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

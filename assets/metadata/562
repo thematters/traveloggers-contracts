@@ -1,10 +1,10 @@
 {
-  "name": "Matties #562",
-  "description": "A sociable, pacifist Gena.",
+  "name": "Traveloger #562",
+  "description": "An imaginative, skeptical Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "sociable b",
-    "ideology": "pacifist b"
+    "character": "imaginative a",
+    "ideology": "skeptical a"
   },
   "image": "562.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "imaginative"
     }
   ]
 }

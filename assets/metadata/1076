@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1076",
-  "description": "An observant, nationalistic Zhenya.",
+  "name": "Traveloger #1076",
+  "description": "A hard-working, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "observant b",
-    "ideology": "nationalistic b"
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "pluralistic a"
   },
   "image": "1076.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #704",
-  "description": "An analytical, cynical Yury.",
+  "name": "Traveloger #704",
+  "description": "An enthusiastic, skeptical Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "analytical b",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "enthusiastic b",
+    "ideology": "skeptical a"
   },
   "image": "704.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "enthusiastic"
     }
   ]
 }

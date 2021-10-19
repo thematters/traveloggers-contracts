@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1",
-  "description": "A practical, Marxist Lesya.",
+  "name": "Traveloger #1",
+  "description": "A down-to-earth, cosmopolitan Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical a",
-    "ideology": "Marxist a"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan b"
   },
   "image": "1.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "down-to-earth"
     }
   ]
 }

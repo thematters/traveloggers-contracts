@@ -1,4 +1,4 @@
-NFT avatar for Matties.
+NFT avatar for Travelogers.
 
 Tools and components:
 

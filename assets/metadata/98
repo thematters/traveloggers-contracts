@@ -1,24 +1,24 @@
 {
-  "name": "Matties #98",
-  "description": "A chic, pacifist Lesya.",
+  "name": "Traveloger #98",
+  "description": "A self-discipline, individualistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic a",
-    "ideology": "pacifist b"
+    "race": "Yury",
+    "character": "self-discipline b",
+    "ideology": "individualistic b"
   },
   "image": "98.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

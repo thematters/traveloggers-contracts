@@ -1,24 +1,24 @@
 {
-  "name": "Matties #25",
-  "description": "A nonchalant, existentialist Gena.",
+  "name": "Traveloger #25",
+  "description": "A compassionate, Marxist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant b",
-    "ideology": "existentialist a"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "Marxist b"
   },
   "image": "25.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

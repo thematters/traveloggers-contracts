@@ -1,16 +1,16 @@
 {
-  "name": "Matties #222",
-  "description": "A compassionate, LGBTQ friendly Gena.",
+  "name": "Traveloger #222",
+  "description": "An imaginative, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Lesya",
+    "character": "imaginative a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "222.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

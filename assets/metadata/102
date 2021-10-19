@@ -1,16 +1,16 @@
 {
-  "name": "Matties #102",
-  "description": "An extroverted, feminist Lesya.",
+  "name": "Traveloger #102",
+  "description": "An imaginative, feminist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
+    "race": "Valya",
+    "character": "imaginative b",
     "ideology": "feminist a"
   },
   "image": "102.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

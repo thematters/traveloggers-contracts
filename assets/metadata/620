@@ -1,10 +1,10 @@
 {
-  "name": "Matties #620",
-  "description": "An exploring, optimistic Gena.",
+  "name": "Traveloger #620",
+  "description": "An introverted, romantic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "exploring a",
-    "ideology": "optimistic b"
+    "character": "introverted b",
+    "ideology": "romantic a"
   },
   "image": "620.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "introverted"
     }
   ]
 }

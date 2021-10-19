@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1204",
-  "description": "A confused, pessimistic Sasha.",
+  "name": "Traveloger #1204",
+  "description": "A hard-working, pessimistic Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused b",
-    "ideology": "pessimistic b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "pessimistic a"
   },
   "image": "1204.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "hard-working"
     }
   ]
 }

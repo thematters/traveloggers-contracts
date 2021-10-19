@@ -1,24 +1,24 @@
 {
-  "name": "Matties #276",
-  "description": "An analytical, anarchist Lesya.",
+  "name": "Traveloger #276",
+  "description": "An extroverted, liberal Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "anarchist b"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "liberal a"
   },
   "image": "276.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

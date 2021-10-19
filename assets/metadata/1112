@@ -1,9 +1,9 @@
 {
-  "name": "Matties #1112",
-  "description": "An extroverted, pragmatist Yury.",
+  "name": "Traveloger #1112",
+  "description": "An observant, pragmatist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "extroverted a",
+    "character": "observant b",
     "ideology": "pragmatist a"
   },
   "image": "1112.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

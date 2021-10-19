@@ -1,24 +1,24 @@
 {
-  "name": "Matties #932",
-  "description": "A confused, Marxist Valya.",
+  "name": "Traveloger #932",
+  "description": "A compassionate, LGBTQ friendly Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "Marxist a"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "932.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

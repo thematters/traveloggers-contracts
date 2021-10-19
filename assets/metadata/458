@@ -1,10 +1,10 @@
 {
-  "name": "Matties #458",
-  "description": "A down-to-earth, pragmatist Lesya.",
+  "name": "Traveloger #458",
+  "description": "A compassionate, cosmopolitan Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "pragmatist a"
+    "character": "compassionate b",
+    "ideology": "cosmopolitan b"
   },
   "image": "458.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

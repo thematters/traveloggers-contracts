@@ -1,24 +1,24 @@
 {
-  "name": "Matties #520",
-  "description": "An analytical, anarchist Valya.",
+  "name": "Traveloger #520",
+  "description": "An imaginative, existentialist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
-    "ideology": "anarchist a"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "existentialist a"
   },
   "image": "520.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "imaginative"
     }
   ]
 }

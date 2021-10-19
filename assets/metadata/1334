@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1334",
-  "description": "An analytical, localist Zhenya.",
+  "name": "Traveloger #1334",
+  "description": "A nonchalant, rational Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "localist a"
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "rational b"
   },
   "image": "1334.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "nonchalant"
     }
   ]
 }

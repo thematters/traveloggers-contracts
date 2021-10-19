@@ -1,24 +1,24 @@
 {
-  "name": "Matties #768",
-  "description": "A down-to-earth, liberal Lesya.",
+  "name": "Traveloger #768",
+  "description": "An extroverted, cynical Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "liberal b"
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "cynical a"
   },
   "image": "768.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

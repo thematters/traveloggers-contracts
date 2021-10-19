@@ -1,10 +1,10 @@
 {
-  "name": "Matties #87",
-  "description": "A sociable, pacifist Yury.",
+  "name": "Traveloger #87",
+  "description": "A nonchalant, feminist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "sociable b",
-    "ideology": "pacifist b"
+    "character": "nonchalant a",
+    "ideology": "feminist b"
   },
   "image": "87.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "nonchalant"
     }
   ]
 }

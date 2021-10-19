@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1340",
-  "description": "A rebellious, pacifist Yury.",
+  "name": "Traveloger #1340",
+  "description": "An observant, pluralistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "pacifist a"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "pluralistic b"
   },
   "image": "1340.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

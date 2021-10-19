@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1432",
-  "description": "An observant, pessimistic Lesya.",
+  "name": "Traveloger #1432",
+  "description": "A confused, romantic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant b",
-    "ideology": "pessimistic a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "romantic b"
   },
   "image": "1432.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "confused"
     }
   ]
 }

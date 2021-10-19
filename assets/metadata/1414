@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1414",
-  "description": "A confused, romantic Zhenya.",
+  "name": "Traveloger #1414",
+  "description": "An extroverted, optimistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "romantic b"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "optimistic a"
   },
   "image": "1414.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "extroverted"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1412",
-  "description": "An enthusiastic, romantic Zhenya.",
+  "name": "Traveloger #1412",
+  "description": "An exploring, skeptical Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic a",
-    "ideology": "romantic a"
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "skeptical a"
   },
   "image": "1412.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "exploring"
     }
   ]
 }

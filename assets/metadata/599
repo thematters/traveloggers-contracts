@@ -1,10 +1,10 @@
 {
-  "name": "Matties #599",
-  "description": "A confused, pacifist Zhenya.",
+  "name": "Traveloger #599",
+  "description": "A rebellious, rational Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "pacifist b"
+    "character": "rebellious b",
+    "ideology": "rational b"
   },
   "image": "599.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

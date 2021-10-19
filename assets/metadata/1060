@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1060",
-  "description": "A hard-working, nationalistic Zhenya.",
+  "name": "Traveloger #1060",
+  "description": "An enthusiastic, LGBTQ friendly Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working a",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "enthusiastic a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1060.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "enthusiastic"
     }
   ]
 }

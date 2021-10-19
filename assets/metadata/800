@@ -1,10 +1,10 @@
 {
-  "name": "Matties #800",
-  "description": "An extroverted, capitalistic Zhenya.",
+  "name": "Traveloger #800",
+  "description": "A hard-working, individualistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "capitalistic a"
+    "character": "hard-working a",
+    "ideology": "individualistic a"
   },
   "image": "800.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "hard-working"
     }
   ]
 }

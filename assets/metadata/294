@@ -1,24 +1,24 @@
 {
-  "name": "Matties #294",
-  "description": "A determined, anarchist Yury.",
+  "name": "Traveloger #294",
+  "description": "An extroverted, pluralistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "determined a",
-    "ideology": "anarchist b"
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "pluralistic a"
   },
   "image": "294.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "extroverted"
     }
   ]
 }

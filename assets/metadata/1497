@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1497",
-  "description": "An observant, Epicurean Gena.",
+  "name": "Traveloger #1497",
+  "description": "An adventurous, pragmatist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant a",
-    "ideology": "Epicurean b"
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "pragmatist a"
   },
   "image": "1497.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

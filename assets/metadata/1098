@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1098",
-  "description": "An introverted, localist Yury.",
+  "name": "Traveloger #1098",
+  "description": "An introverted, existentialist Sasha.",
   "_visual": {
-    "race": "Yury",
+    "race": "Sasha",
     "character": "introverted a",
-    "ideology": "localist a"
+    "ideology": "existentialist b"
   },
   "image": "1098.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

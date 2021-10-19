@@ -1,10 +1,10 @@
 {
-  "name": "Matties #199",
-  "description": "An extroverted, LGBTQ friendly Gena.",
+  "name": "Traveloger #199",
+  "description": "A rebellious, localist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "LGBTQ friendly b"
+    "character": "rebellious a",
+    "ideology": "localist b"
   },
   "image": "199.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1066",
-  "description": "An exploring, optimistic Zhenya.",
+  "name": "Traveloger #1066",
+  "description": "A self-discipline, conservative Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "exploring a",
-    "ideology": "optimistic b"
+    "character": "self-discipline b",
+    "ideology": "conservative a"
   },
   "image": "1066.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "self-discipline"
     }
   ]
 }

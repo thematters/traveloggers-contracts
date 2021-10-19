@@ -1,24 +1,24 @@
 {
-  "name": "Matties #46",
-  "description": "A chic, pessimistic Gena.",
+  "name": "Traveloger #46",
+  "description": "A determined, individualistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic a",
-    "ideology": "pessimistic a"
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "individualistic b"
   },
   "image": "46.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #841",
-  "description": "A nonchalant, localist Valya.",
+  "name": "Traveloger #841",
+  "description": "An extroverted, optimistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "nonchalant a",
-    "ideology": "localist b"
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "optimistic a"
   },
   "image": "841.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

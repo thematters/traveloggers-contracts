@@ -1,10 +1,10 @@
 {
-  "name": "Matties #773",
-  "description": "A down-to-earth, rational Sasha.",
+  "name": "Traveloger #773",
+  "description": "A rebellious, collectivistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "down-to-earth b",
-    "ideology": "rational b"
+    "character": "rebellious a",
+    "ideology": "collectivistic a"
   },
   "image": "773.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

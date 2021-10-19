@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1269",
-  "description": "An extroverted, anarchist Lesya.",
+  "name": "Traveloger #1269",
+  "description": "A down-to-earth, capitalistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "anarchist a"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "capitalistic b"
   },
   "image": "1269.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1156",
-  "description": "A down-to-earth, individualistic Gena.",
+  "name": "Traveloger #1156",
+  "description": "An observant, individualistic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
+    "race": "Zhenya",
+    "character": "observant a",
     "ideology": "individualistic a"
   },
   "image": "1156.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "observant"
     }
   ]
 }

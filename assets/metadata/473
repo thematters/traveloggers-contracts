@@ -1,24 +1,24 @@
 {
-  "name": "Matties #473",
-  "description": "A self-discipline, pluralistic Zhenya.",
+  "name": "Traveloger #473",
+  "description": "A confused, collectivistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "confused a",
+    "ideology": "collectivistic a"
   },
   "image": "473.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

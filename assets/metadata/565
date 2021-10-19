@@ -1,24 +1,24 @@
 {
-  "name": "Matties #565",
-  "description": "A practical, Epicurean Zhenya.",
+  "name": "Traveloger #565",
+  "description": "An extroverted, conservative Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "Epicurean a"
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "conservative b"
   },
   "image": "565.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

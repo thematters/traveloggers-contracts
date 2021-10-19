@@ -1,10 +1,10 @@
 {
-  "name": "Matties #900",
-  "description": "A confused, rational Zhenya.",
+  "name": "Traveloger #900",
+  "description": "A down-to-earth, individualistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "confused b",
-    "ideology": "rational b"
+    "character": "down-to-earth a",
+    "ideology": "individualistic b"
   },
   "image": "900.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

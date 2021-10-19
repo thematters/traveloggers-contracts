@@ -1,24 +1,24 @@
 {
-  "name": "Matties #351",
-  "description": "An observant, liberal Yury.",
+  "name": "Traveloger #351",
+  "description": "An extroverted, romantic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant a",
-    "ideology": "liberal a"
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "romantic a"
   },
   "image": "351.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "extroverted"
     }
   ]
 }

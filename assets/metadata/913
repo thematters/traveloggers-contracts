@@ -1,24 +1,24 @@
 {
-  "name": "Matties #913",
-  "description": "A compassionate, Epicurean Sasha.",
+  "name": "Traveloger #913",
+  "description": "An introverted, pacifist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate b",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "introverted a",
+    "ideology": "pacifist a"
   },
   "image": "913.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

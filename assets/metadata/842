@@ -1,10 +1,10 @@
 {
-  "name": "Matties #842",
-  "description": "A compassionate, LGBTQ friendly Yury.",
+  "name": "Traveloger #842",
+  "description": "A compassionate, localist Yury.",
   "_visual": {
     "race": "Yury",
     "character": "compassionate a",
-    "ideology": "LGBTQ friendly b"
+    "ideology": "localist a"
   },
   "image": "842.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",

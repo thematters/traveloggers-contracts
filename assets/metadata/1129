@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1129",
-  "description": "An imaginative, pragmatist Gena.",
+  "name": "Traveloger #1129",
+  "description": "A confused, romantic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "pragmatist a"
+    "character": "confused b",
+    "ideology": "romantic b"
   },
   "image": "1129.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

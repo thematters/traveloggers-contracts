@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1153",
-  "description": "An imaginative, conservative Yury.",
+  "name": "Traveloger #1153",
+  "description": "An enthusiastic, Marxist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative b",
-    "ideology": "conservative a"
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "Marxist b"
   },
   "image": "1153.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

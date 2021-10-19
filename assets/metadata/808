@@ -1,24 +1,24 @@
 {
-  "name": "Matties #808",
-  "description": "An extroverted, Marxist Lesya.",
+  "name": "Traveloger #808",
+  "description": "A self-discipline, individualistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted a",
-    "ideology": "Marxist b"
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "individualistic b"
   },
   "image": "808.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "self-discipline"
     }
   ]
 }

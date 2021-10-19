@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1271",
-  "description": "A sociable, nationalistic Lesya.",
+  "name": "Traveloger #1271",
+  "description": "An introverted, Epicurean Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable a",
-    "ideology": "nationalistic a"
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "Epicurean a"
   },
   "image": "1271.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "introverted"
     }
   ]
 }

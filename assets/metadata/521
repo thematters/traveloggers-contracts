@@ -1,16 +1,16 @@
 {
-  "name": "Matties #521",
-  "description": "A down-to-earth, pluralistic Gena.",
+  "name": "Traveloger #521",
+  "description": "A chic, pluralistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth a",
-    "ideology": "pluralistic b"
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "pluralistic a"
   },
   "image": "521.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "chic"
     }
   ]
 }

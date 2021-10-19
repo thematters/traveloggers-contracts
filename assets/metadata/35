@@ -1,24 +1,24 @@
 {
-  "name": "Matties #35",
-  "description": "An extroverted, skeptical Lesya.",
+  "name": "Traveloger #35",
+  "description": "An enthusiastic, romantic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "skeptical a"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "romantic b"
   },
   "image": "35.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

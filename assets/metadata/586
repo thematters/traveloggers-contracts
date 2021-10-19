@@ -1,24 +1,24 @@
 {
-  "name": "Matties #586",
-  "description": "A down-to-earth, pragmatist Lesya.",
+  "name": "Traveloger #586",
+  "description": "A determined, collectivistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "pragmatist b"
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "collectivistic b"
   },
   "image": "586.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "determined"
     }
   ]
 }

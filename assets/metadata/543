@@ -1,24 +1,24 @@
 {
-  "name": "Matties #543",
-  "description": "A self-discipline, cosmopolitan Gena.",
+  "name": "Traveloger #543",
+  "description": "A practical, liberal Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline b",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "practical b",
+    "ideology": "liberal a"
   },
   "image": "543.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

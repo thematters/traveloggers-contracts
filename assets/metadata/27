@@ -1,10 +1,10 @@
 {
-  "name": "Matties #27",
-  "description": "A determined, cosmopolitan Zhenya.",
+  "name": "Traveloger #27",
+  "description": "An exploring, skeptical Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "determined b",
-    "ideology": "cosmopolitan a"
+    "character": "exploring a",
+    "ideology": "skeptical a"
   },
   "image": "27.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "exploring"
     }
   ]
 }

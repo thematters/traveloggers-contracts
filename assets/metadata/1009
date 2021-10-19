@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1009",
-  "description": "A down-to-earth, skeptical Sasha.",
+  "name": "Traveloger #1009",
+  "description": "An imaginative, pluralistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "skeptical a"
+    "race": "Lesya",
+    "character": "imaginative a",
+    "ideology": "pluralistic a"
   },
   "image": "1009.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

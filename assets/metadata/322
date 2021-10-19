@@ -1,24 +1,24 @@
 {
-  "name": "Matties #322",
-  "description": "An imaginative, nationalistic Lesya.",
+  "name": "Traveloger #322",
+  "description": "A confused, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "nationalistic b"
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "322.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

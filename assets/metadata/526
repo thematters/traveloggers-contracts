@@ -1,24 +1,24 @@
 {
-  "name": "Matties #526",
-  "description": "A down-to-earth, pragmatist Valya.",
+  "name": "Traveloger #526",
+  "description": "An extroverted, pacifist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "pragmatist b"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "pacifist a"
   },
   "image": "526.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

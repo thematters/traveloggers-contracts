@@ -1,24 +1,24 @@
 {
-  "name": "Matties #16",
-  "description": "A down-to-earth, cosmopolitan Yury.",
+  "name": "Traveloger #16",
+  "description": "An enthusiastic, pessimistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "cosmopolitan b"
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "pessimistic a"
   },
   "image": "16.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "enthusiastic"
     }
   ]
 }

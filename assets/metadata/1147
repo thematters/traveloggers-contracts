@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1147",
-  "description": "A rebellious, LGBTQ friendly Lesya.",
+  "name": "Traveloger #1147",
+  "description": "A hard-working, rational Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "rational b"
   },
   "image": "1147.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "hard-working"
     }
   ]
 }

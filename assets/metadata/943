@@ -1,10 +1,10 @@
 {
-  "name": "Matties #943",
-  "description": "A determined, rational Lesya.",
+  "name": "Traveloger #943",
+  "description": "A chic, LGBTQ friendly Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "determined a",
-    "ideology": "rational b"
+    "character": "chic b",
+    "ideology": "LGBTQ friendly b"
   },
   "image": "943.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

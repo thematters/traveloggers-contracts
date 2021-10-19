@@ -1,24 +1,24 @@
 {
-  "name": "Matties #567",
-  "description": "An observant, collectivistic Valya.",
+  "name": "Traveloger #567",
+  "description": "A practical, rational Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "observant b",
-    "ideology": "collectivistic b"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "rational a"
   },
   "image": "567.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

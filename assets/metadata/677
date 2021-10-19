@@ -1,24 +1,24 @@
 {
-  "name": "Matties #677",
-  "description": "A compassionate, romantic Yury.",
+  "name": "Traveloger #677",
+  "description": "A practical, anarchist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "romantic a"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "anarchist a"
   },
   "image": "677.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1124",
-  "description": "A compassionate, capitalistic Zhenya.",
+  "name": "Traveloger #1124",
+  "description": "A self-discipline, localist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "compassionate a",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "self-discipline b",
+    "ideology": "localist b"
   },
   "image": "1124.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #340",
-  "description": "An enthusiastic, pragmatist Sasha.",
+  "name": "Traveloger #340",
+  "description": "An imaginative, pessimistic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "pragmatist b"
+    "character": "imaginative b",
+    "ideology": "pessimistic b"
   },
   "image": "340.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "imaginative"
     }
   ]
 }

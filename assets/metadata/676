@@ -1,24 +1,24 @@
 {
-  "name": "Matties #676",
-  "description": "An introverted, pluralistic Zhenya.",
+  "name": "Traveloger #676",
+  "description": "An observant, liberal Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted b",
-    "ideology": "pluralistic b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "liberal a"
   },
   "image": "676.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "observant"
     }
   ]
 }

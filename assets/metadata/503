@@ -1,24 +1,24 @@
 {
-  "name": "Matties #503",
-  "description": "A hard-working, cosmopolitan Sasha.",
+  "name": "Traveloger #503",
+  "description": "A determined, pacifist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working b",
-    "ideology": "cosmopolitan a"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "pacifist b"
   },
   "image": "503.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "determined"
     }
   ]
 }

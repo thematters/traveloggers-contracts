@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1451",
-  "description": "An exploring, conservative Lesya.",
+  "name": "Traveloger #1451",
+  "description": "An adventurous, individualistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring b",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "individualistic b"
   },
   "image": "1451.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "adventurous"
     }
   ]
 }

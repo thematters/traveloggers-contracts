@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1285",
-  "description": "A rebellious, liberal Lesya.",
+  "name": "Traveloger #1285",
+  "description": "A confused, pessimistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious b",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "pessimistic a"
   },
   "image": "1285.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

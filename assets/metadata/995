@@ -1,24 +1,24 @@
 {
-  "name": "Matties #995",
-  "description": "An enthusiastic, capitalistic Sasha.",
+  "name": "Traveloger #995",
+  "description": "A hard-working, optimistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic a",
-    "ideology": "capitalistic a"
+    "race": "Valya",
+    "character": "hard-working b",
+    "ideology": "optimistic a"
   },
   "image": "995.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "hard-working"
     }
   ]
 }

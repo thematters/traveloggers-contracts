@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1208",
-  "description": "A hard-working, liberal Lesya.",
+  "name": "Traveloger #1208",
+  "description": "An introverted, localist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "hard-working b",
-    "ideology": "liberal a"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "localist a"
   },
   "image": "1208.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "introverted"
     }
   ]
 }

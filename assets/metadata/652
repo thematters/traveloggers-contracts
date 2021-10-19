@@ -1,24 +1,24 @@
 {
-  "name": "Matties #652",
-  "description": "An adventurous, liberal Yury.",
+  "name": "Traveloger #652",
+  "description": "A compassionate, Epicurean Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous a",
-    "ideology": "liberal a"
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "Epicurean a"
   },
   "image": "652.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "compassionate"
     }
   ]
 }

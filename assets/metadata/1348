@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1348",
-  "description": "A rebellious, cynical Valya.",
+  "name": "Traveloger #1348",
+  "description": "A compassionate, Epicurean Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious b",
-    "ideology": "cynical b"
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "Epicurean a"
   },
   "image": "1348.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #217",
-  "description": "A nonchalant, liberal Yury.",
+  "name": "Traveloger #217",
+  "description": "An observant, capitalistic Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "capitalistic a"
   },
   "image": "217.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "observant"
     }
   ]
 }

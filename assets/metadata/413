@@ -1,10 +1,10 @@
 {
-  "name": "Matties #413",
-  "description": "A confused, pessimistic Gena.",
+  "name": "Traveloger #413",
+  "description": "A sociable, conservative Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "confused b",
-    "ideology": "pessimistic b"
+    "character": "sociable a",
+    "ideology": "conservative b"
   },
   "image": "413.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "sociable"
     }
   ]
 }

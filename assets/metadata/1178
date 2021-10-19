@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1178",
-  "description": "An extroverted, optimistic Sasha.",
+  "name": "Traveloger #1178",
+  "description": "A nonchalant, rational Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "optimistic b"
+    "race": "Gena",
+    "character": "nonchalant b",
+    "ideology": "rational b"
   },
   "image": "1178.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "nonchalant"
     }
   ]
 }

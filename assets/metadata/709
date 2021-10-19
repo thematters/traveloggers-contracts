@@ -1,10 +1,10 @@
 {
-  "name": "Matties #709",
-  "description": "An introverted, feminist Gena.",
+  "name": "Traveloger #709",
+  "description": "An adventurous, romantic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "introverted a",
-    "ideology": "feminist a"
+    "character": "adventurous a",
+    "ideology": "romantic b"
   },
   "image": "709.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "adventurous"
     }
   ]
 }

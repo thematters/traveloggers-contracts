@@ -1,24 +1,24 @@
 {
-  "name": "Matties #425",
-  "description": "A down-to-earth, Marxist Gena.",
+  "name": "Traveloger #425",
+  "description": "A practical, existentialist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth b",
-    "ideology": "Marxist a"
+    "race": "Yury",
+    "character": "practical b",
+    "ideology": "existentialist a"
   },
   "image": "425.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "practical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #611",
-  "description": "An analytical, LGBTQ friendly Zhenya.",
+  "name": "Traveloger #611",
+  "description": "A down-to-earth, nationalistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "LGBTQ friendly b"
+    "character": "down-to-earth b",
+    "ideology": "nationalistic a"
   },
   "image": "611.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "down-to-earth"
     }
   ]
 }

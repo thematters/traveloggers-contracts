@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1354",
-  "description": "An adventurous, optimistic Sasha.",
+  "name": "Traveloger #1354",
+  "description": "A compassionate, existentialist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "adventurous a",
-    "ideology": "optimistic a"
+    "character": "compassionate b",
+    "ideology": "existentialist a"
   },
   "image": "1354.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "compassionate"
     }
   ]
 }

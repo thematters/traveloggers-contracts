@@ -1,24 +1,24 @@
 {
-  "name": "Matties #569",
-  "description": "A compassionate, skeptical Yury.",
+  "name": "Traveloger #569",
+  "description": "A self-discipline, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "skeptical a"
+    "race": "Valya",
+    "character": "self-discipline b",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "569.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "self-discipline"
     }
   ]
 }

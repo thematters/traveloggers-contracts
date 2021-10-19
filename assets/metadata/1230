@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1230",
-  "description": "An analytical, liberal Gena.",
+  "name": "Traveloger #1230",
+  "description": "A confused, collectivistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "analytical b",
-    "ideology": "liberal a"
+    "character": "confused b",
+    "ideology": "collectivistic b"
   },
   "image": "1230.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "confused"
     }
   ]
 }

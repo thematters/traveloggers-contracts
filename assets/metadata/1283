@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1283",
-  "description": "A determined, cynical Sasha.",
+  "name": "Traveloger #1283",
+  "description": "A self-discipline, Marxist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined a",
-    "ideology": "cynical a"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "Marxist b"
   },
   "image": "1283.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "self-discipline"
     }
   ]
 }

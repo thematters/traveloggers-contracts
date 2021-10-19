@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1012",
-  "description": "A sociable, pessimistic Zhenya.",
+  "name": "Traveloger #1012",
+  "description": "A sociable, romantic Sasha.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Sasha",
     "character": "sociable a",
-    "ideology": "pessimistic b"
+    "ideology": "romantic a"
   },
   "image": "1012.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #466",
-  "description": "An imaginative, nationalistic Gena.",
+  "name": "Traveloger #466",
+  "description": "An introverted, pragmatist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "nationalistic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "pragmatist b"
   },
   "image": "466.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

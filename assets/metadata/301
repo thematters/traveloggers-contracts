@@ -1,9 +1,9 @@
 {
-  "name": "Matties #301",
-  "description": "A practical, cynical Zhenya.",
+  "name": "Traveloger #301",
+  "description": "A nonchalant, cynical Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "practical b",
+    "character": "nonchalant b",
     "ideology": "cynical b"
   },
   "image": "301.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

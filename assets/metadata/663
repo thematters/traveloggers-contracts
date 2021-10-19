@@ -1,24 +1,24 @@
 {
-  "name": "Matties #663",
-  "description": "An enthusiastic, pessimistic Valya.",
+  "name": "Traveloger #663",
+  "description": "A sociable, existentialist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic a",
-    "ideology": "pessimistic b"
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "existentialist b"
   },
   "image": "663.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "sociable"
     }
   ]
 }

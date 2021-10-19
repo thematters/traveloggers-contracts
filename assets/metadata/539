@@ -1,24 +1,24 @@
 {
-  "name": "Matties #539",
-  "description": "An extroverted, nationalistic Lesya.",
+  "name": "Traveloger #539",
+  "description": "A compassionate, pragmatist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "extroverted b",
-    "ideology": "nationalistic a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "pragmatist a"
   },
   "image": "539.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

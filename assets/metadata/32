@@ -1,24 +1,24 @@
 {
-  "name": "Matties #32",
-  "description": "A determined, Marxist Lesya.",
+  "name": "Traveloger #32",
+  "description": "A compassionate, cynical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "determined a",
-    "ideology": "Marxist a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "cynical a"
   },
   "image": "32.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "compassionate"
     }
   ]
 }

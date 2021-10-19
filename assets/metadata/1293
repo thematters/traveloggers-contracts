@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1293",
-  "description": "A rebellious, pragmatist Lesya.",
+  "name": "Traveloger #1293",
+  "description": "An observant, localist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "pragmatist a"
+    "race": "Yury",
+    "character": "observant a",
+    "ideology": "localist a"
   },
   "image": "1293.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

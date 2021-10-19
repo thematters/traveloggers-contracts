@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1492",
-  "description": "A practical, cynical Lesya.",
+  "name": "Traveloger #1492",
+  "description": "An introverted, liberal Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical a",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "liberal b"
   },
   "image": "1492.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "introverted"
     }
   ]
 }

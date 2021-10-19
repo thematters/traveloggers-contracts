@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1337",
-  "description": "A rebellious, liberal Sasha.",
+  "name": "Traveloger #1337",
+  "description": "An observant, liberal Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "rebellious b",
-    "ideology": "liberal b"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "liberal a"
   },
   "image": "1337.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "observant"
     }
   ]
 }

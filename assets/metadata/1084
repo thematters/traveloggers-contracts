@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1084",
-  "description": "A nonchalant, collectivistic Gena.",
+  "name": "Traveloger #1084",
+  "description": "An imaginative, collectivistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "nonchalant a",
-    "ideology": "collectivistic a"
+    "race": "Yury",
+    "character": "imaginative b",
+    "ideology": "collectivistic b"
   },
   "image": "1084.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #236",
-  "description": "An adventurous, existentialist Zhenya.",
+  "name": "Traveloger #236",
+  "description": "An extroverted, pluralistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous a",
-    "ideology": "existentialist a"
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "pluralistic a"
   },
   "image": "236.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "extroverted"
     }
   ]
 }

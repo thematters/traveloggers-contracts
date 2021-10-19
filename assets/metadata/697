@@ -1,24 +1,24 @@
 {
-  "name": "Matties #697",
-  "description": "A chic, capitalistic Valya.",
+  "name": "Traveloger #697",
+  "description": "An introverted, romantic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "introverted a",
+    "ideology": "romantic a"
   },
   "image": "697.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

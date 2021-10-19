@@ -1,24 +1,24 @@
 {
-  "name": "Matties #776",
-  "description": "An exploring, cosmopolitan Zhenya.",
+  "name": "Traveloger #776",
+  "description": "A chic, pessimistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring a",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "pessimistic a"
   },
   "image": "776.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

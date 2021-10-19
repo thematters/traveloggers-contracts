@@ -1,24 +1,24 @@
 {
-  "name": "Matties #561",
-  "description": "An exploring, anarchist Sasha.",
+  "name": "Traveloger #561",
+  "description": "A sociable, individualistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "anarchist b"
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "individualistic b"
   },
   "image": "561.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "sociable"
     }
   ]
 }

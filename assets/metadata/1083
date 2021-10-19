@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1083",
-  "description": "An enthusiastic, cosmopolitan Lesya.",
+  "name": "Traveloger #1083",
+  "description": "A confused, Epicurean Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "cosmopolitan b"
+    "character": "confused b",
+    "ideology": "Epicurean a"
   },
   "image": "1083.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

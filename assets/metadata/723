@@ -1,10 +1,10 @@
 {
-  "name": "Matties #723",
-  "description": "An analytical, conservative Valya.",
+  "name": "Traveloger #723",
+  "description": "A rebellious, existentialist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "analytical b",
-    "ideology": "conservative b"
+    "character": "rebellious a",
+    "ideology": "existentialist a"
   },
   "image": "723.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1097",
-  "description": "An extroverted, pessimistic Gena.",
+  "name": "Traveloger #1097",
+  "description": "An observant, romantic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "pessimistic b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "romantic a"
   },
   "image": "1097.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

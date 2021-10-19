@@ -1,24 +1,24 @@
 {
-  "name": "Matties #118",
-  "description": "An imaginative, existentialist Valya.",
+  "name": "Traveloger #118",
+  "description": "A down-to-earth, pacifist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "existentialist a"
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "pacifist b"
   },
   "image": "118.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

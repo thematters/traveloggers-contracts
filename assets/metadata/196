@@ -1,24 +1,24 @@
 {
-  "name": "Matties #196",
-  "description": "A chic, capitalistic Yury.",
+  "name": "Traveloger #196",
+  "description": "A sociable, nationalistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "chic a",
-    "ideology": "capitalistic a"
+    "race": "Sasha",
+    "character": "sociable a",
+    "ideology": "nationalistic b"
   },
   "image": "196.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "sociable"
     }
   ]
 }

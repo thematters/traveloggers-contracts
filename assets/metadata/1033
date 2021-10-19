@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1033",
-  "description": "A compassionate, pacifist Lesya.",
+  "name": "Traveloger #1033",
+  "description": "A down-to-earth, rational Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate b",
-    "ideology": "pacifist b"
+    "race": "Zhenya",
+    "character": "down-to-earth a",
+    "ideology": "rational a"
   },
   "image": "1033.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "down-to-earth"
     }
   ]
 }

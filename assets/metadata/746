@@ -1,24 +1,24 @@
 {
-  "name": "Matties #746",
-  "description": "An exploring, cosmopolitan Valya.",
+  "name": "Traveloger #746",
+  "description": "A down-to-earth, localist Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "cosmopolitan b"
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "localist a"
   },
   "image": "746.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

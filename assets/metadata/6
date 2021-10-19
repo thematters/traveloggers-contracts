@@ -1,24 +1,24 @@
 {
-  "name": "Matties #6",
-  "description": "A down-to-earth, cynical Valya.",
+  "name": "Traveloger #6",
+  "description": "A self-discipline, Epicurean Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "cynical a"
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "Epicurean b"
   },
   "image": "6.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

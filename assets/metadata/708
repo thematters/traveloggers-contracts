@@ -1,24 +1,24 @@
 {
-  "name": "Matties #708",
-  "description": "A down-to-earth, cynical Yury.",
+  "name": "Traveloger #708",
+  "description": "A self-discipline, pessimistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "pessimistic a"
   },
   "image": "708.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

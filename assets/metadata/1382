@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1382",
-  "description": "An observant, pragmatist Gena.",
+  "name": "Traveloger #1382",
+  "description": "An enthusiastic, pragmatist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "observant a",
-    "ideology": "pragmatist a"
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "pragmatist b"
   },
   "image": "1382.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "enthusiastic"
     }
   ]
 }

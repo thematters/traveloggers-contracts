@@ -1,24 +1,24 @@
 {
-  "name": "Matties #717",
-  "description": "A practical, Epicurean Lesya.",
+  "name": "Traveloger #717",
+  "description": "An enthusiastic, cynical Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "Epicurean a"
+    "race": "Valya",
+    "character": "enthusiastic a",
+    "ideology": "cynical a"
   },
   "image": "717.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "enthusiastic"
     }
   ]
 }

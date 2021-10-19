@@ -1,24 +1,24 @@
 {
-  "name": "Matties #203",
-  "description": "An analytical, pluralistic Valya.",
+  "name": "Traveloger #203",
+  "description": "A rebellious, pragmatist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical a",
-    "ideology": "pluralistic b"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "pragmatist b"
   },
   "image": "203.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

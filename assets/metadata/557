@@ -1,10 +1,10 @@
 {
-  "name": "Matties #557",
-  "description": "A sociable, nationalistic Valya.",
+  "name": "Traveloger #557",
+  "description": "A confused, optimistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "sociable b",
-    "ideology": "nationalistic b"
+    "character": "confused b",
+    "ideology": "optimistic b"
   },
   "image": "557.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "confused"
     }
   ]
 }

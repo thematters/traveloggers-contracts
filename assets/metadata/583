@@ -1,24 +1,24 @@
 {
-  "name": "Matties #583",
-  "description": "A practical, pragmatist Lesya.",
+  "name": "Traveloger #583",
+  "description": "A sociable, optimistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical a",
-    "ideology": "pragmatist b"
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "optimistic a"
   },
   "image": "583.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "sociable"
     }
   ]
 }

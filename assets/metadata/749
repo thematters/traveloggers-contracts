@@ -1,24 +1,24 @@
 {
-  "name": "Matties #749",
-  "description": "A compassionate, capitalistic Gena.",
+  "name": "Traveloger #749",
+  "description": "An imaginative, conservative Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "imaginative b",
+    "ideology": "conservative b"
   },
   "image": "749.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

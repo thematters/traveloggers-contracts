@@ -1,20 +1,20 @@
 {
-  "name": "Matties #955",
-  "description": "A chic, cynical Sasha.",
+  "name": "Traveloger #955",
+  "description": "A chic, localist Lesya.",
   "_visual": {
-    "race": "Sasha",
+    "race": "Lesya",
     "character": "chic a",
-    "ideology": "cynical b"
+    "ideology": "localist b"
   },
   "image": "955.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "localist"
     },
     {
       "trait_type": "Character",

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #613",
-  "description": "An imaginative, capitalistic Gena.",
+  "name": "Traveloger #613",
+  "description": "A chic, localist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "capitalistic b"
+    "race": "Lesya",
+    "character": "chic b",
+    "ideology": "localist a"
   },
   "image": "613.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "chic"
     }
   ]
 }

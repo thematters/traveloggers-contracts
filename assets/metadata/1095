@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1095",
-  "description": "A chic, optimistic Gena.",
+  "name": "Traveloger #1095",
+  "description": "A chic, Marxist Valya.",
   "_visual": {
-    "race": "Gena",
+    "race": "Valya",
     "character": "chic b",
-    "ideology": "optimistic a"
+    "ideology": "Marxist b"
   },
   "image": "1095.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

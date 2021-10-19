@@ -1,24 +1,24 @@
 {
-  "name": "Matties #39",
-  "description": "A compassionate, collectivistic Yury.",
+  "name": "Traveloger #39",
+  "description": "An observant, anarchist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "collectivistic a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "anarchist b"
   },
   "image": "39.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

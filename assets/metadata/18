@@ -1,16 +1,16 @@
 {
-  "name": "Matties #18",
-  "description": "A rebellious, individualistic Gena.",
+  "name": "Traveloger #18",
+  "description": "A nonchalant, individualistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious b",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "individualistic b"
   },
   "image": "18.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #40",
-  "description": "A self-discipline, cynical Zhenya.",
+  "name": "Traveloger #40",
+  "description": "A practical, pessimistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "cynical b"
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "pessimistic a"
   },
   "image": "40.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

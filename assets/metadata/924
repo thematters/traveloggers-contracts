@@ -1,24 +1,24 @@
 {
-  "name": "Matties #924",
-  "description": "An extroverted, rational Zhenya.",
+  "name": "Traveloger #924",
+  "description": "An enthusiastic, pacifist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "extroverted b",
-    "ideology": "rational b"
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "pacifist a"
   },
   "image": "924.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1449",
-  "description": "An enthusiastic, cosmopolitan Zhenya.",
+  "name": "Traveloger #1449",
+  "description": "A confused, pragmatist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "cosmopolitan a"
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "pragmatist a"
   },
   "image": "1449.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "confused"
     }
   ]
 }

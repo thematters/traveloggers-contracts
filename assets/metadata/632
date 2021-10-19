@@ -1,24 +1,24 @@
 {
-  "name": "Matties #632",
-  "description": "A self-discipline, capitalistic Zhenya.",
+  "name": "Traveloger #632",
+  "description": "A practical, nationalistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline a",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "nationalistic a"
   },
   "image": "632.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

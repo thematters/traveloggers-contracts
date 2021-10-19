@@ -1,10 +1,10 @@
 {
-  "name": "Matties #348",
-  "description": "A down-to-earth, existentialist Valya.",
+  "name": "Traveloger #348",
+  "description": "An observant, skeptical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "down-to-earth b",
-    "ideology": "existentialist b"
+    "character": "observant b",
+    "ideology": "skeptical b"
   },
   "image": "348.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "observant"
     }
   ]
 }

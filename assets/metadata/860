@@ -1,10 +1,10 @@
 {
-  "name": "Matties #860",
-  "description": "An imaginative, conservative Lesya.",
+  "name": "Traveloger #860",
+  "description": "An extroverted, feminist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "imaginative b",
-    "ideology": "conservative a"
+    "character": "extroverted a",
+    "ideology": "feminist a"
   },
   "image": "860.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

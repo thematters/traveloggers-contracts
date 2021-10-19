@@ -1,24 +1,24 @@
 {
-  "name": "Matties #399",
-  "description": "A nonchalant, pacifist Yury.",
+  "name": "Traveloger #399",
+  "description": "An analytical, Marxist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "pacifist b"
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "Marxist a"
   },
   "image": "399.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

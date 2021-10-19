@@ -1,10 +1,10 @@
 {
-  "name": "Matties #427",
-  "description": "A chic, pragmatist Gena.",
+  "name": "Traveloger #427",
+  "description": "A determined, liberal Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "chic a",
-    "ideology": "pragmatist b"
+    "character": "determined a",
+    "ideology": "liberal a"
   },
   "image": "427.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

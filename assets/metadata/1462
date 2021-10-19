@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1462",
-  "description": "A hard-working, cynical Sasha.",
+  "name": "Traveloger #1462",
+  "description": "An observant, optimistic Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working a",
-    "ideology": "cynical b"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "optimistic b"
   },
   "image": "1462.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "observant"
     }
   ]
 }

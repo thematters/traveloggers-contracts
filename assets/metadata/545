@@ -1,24 +1,24 @@
 {
-  "name": "Matties #545",
-  "description": "A confused, LGBTQ friendly Gena.",
+  "name": "Traveloger #545",
+  "description": "A rebellious, optimistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "confused b",
-    "ideology": "LGBTQ friendly b"
+    "race": "Valya",
+    "character": "rebellious b",
+    "ideology": "optimistic a"
   },
   "image": "545.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

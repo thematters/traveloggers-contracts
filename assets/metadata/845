@@ -1,16 +1,16 @@
 {
-  "name": "Matties #845",
-  "description": "An introverted, pluralistic Lesya.",
+  "name": "Traveloger #845",
+  "description": "A compassionate, pluralistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "introverted a",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "pluralistic a"
   },
   "image": "845.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "compassionate"
     }
   ]
 }

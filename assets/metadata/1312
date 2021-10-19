@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1312",
-  "description": "A compassionate, nationalistic Yury.",
+  "name": "Traveloger #1312",
+  "description": "An analytical, skeptical Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate a",
-    "ideology": "nationalistic b"
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "skeptical b"
   },
   "image": "1312.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "analytical"
     }
   ]
 }

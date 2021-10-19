@@ -1,24 +1,24 @@
 {
-  "name": "Matties #308",
-  "description": "An introverted, cosmopolitan Yury.",
+  "name": "Traveloger #308",
+  "description": "A nonchalant, pragmatist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "introverted b",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "pragmatist b"
   },
   "image": "308.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "nonchalant"
     }
   ]
 }

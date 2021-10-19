@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1330",
-  "description": "A compassionate, anarchist Yury.",
+  "name": "Traveloger #1330",
+  "description": "An analytical, skeptical Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "anarchist b"
+    "character": "analytical b",
+    "ideology": "skeptical b"
   },
   "image": "1330.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "analytical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #360",
-  "description": "A self-discipline, cynical Zhenya.",
+  "name": "Traveloger #360",
+  "description": "An analytical, romantic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "cynical a"
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "romantic b"
   },
   "image": "360.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "analytical"
     }
   ]
 }

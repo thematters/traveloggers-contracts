@@ -1,24 +1,24 @@
 {
-  "name": "Matties #414",
-  "description": "A determined, individualistic Gena.",
+  "name": "Traveloger #414",
+  "description": "An exploring, optimistic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined b",
-    "ideology": "individualistic a"
+    "race": "Sasha",
+    "character": "exploring b",
+    "ideology": "optimistic b"
   },
   "image": "414.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "exploring"
     }
   ]
 }

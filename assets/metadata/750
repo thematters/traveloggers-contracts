@@ -1,20 +1,20 @@
 {
-  "name": "Matties #750",
-  "description": "A determined, individualistic Zhenya.",
+  "name": "Traveloger #750",
+  "description": "A determined, skeptical Sasha.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Sasha",
     "character": "determined b",
-    "ideology": "individualistic b"
+    "ideology": "skeptical b"
   },
   "image": "750.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",

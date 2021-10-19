@@ -1,24 +1,24 @@
 {
-  "name": "Matties #194",
-  "description": "An imaginative, liberal Zhenya.",
+  "name": "Traveloger #194",
+  "description": "An introverted, Epicurean Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "liberal a"
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "Epicurean b"
   },
   "image": "194.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

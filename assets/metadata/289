@@ -1,10 +1,10 @@
 {
-  "name": "Matties #289",
-  "description": "An analytical, romantic Valya.",
+  "name": "Traveloger #289",
+  "description": "An exploring, pluralistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "analytical a",
-    "ideology": "romantic b"
+    "character": "exploring a",
+    "ideology": "pluralistic b"
   },
   "image": "289.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "exploring"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #926",
-  "description": "An extroverted, LGBTQ friendly Valya.",
+  "name": "Traveloger #926",
+  "description": "A sociable, rational Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "rational b"
   },
   "image": "926.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "sociable"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #903",
-  "description": "An observant, Epicurean Valya.",
+  "name": "Traveloger #903",
+  "description": "A nonchalant, Epicurean Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "observant a",
-    "ideology": "Epicurean b"
+    "character": "nonchalant b",
+    "ideology": "Epicurean a"
   },
   "image": "903.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

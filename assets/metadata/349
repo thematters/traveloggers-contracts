@@ -1,24 +1,24 @@
 {
-  "name": "Matties #349",
-  "description": "A hard-working, conservative Yury.",
+  "name": "Traveloger #349",
+  "description": "An exploring, skeptical Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "hard-working b",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "exploring b",
+    "ideology": "skeptical a"
   },
   "image": "349.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "exploring"
     }
   ]
 }

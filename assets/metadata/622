@@ -1,24 +1,24 @@
 {
-  "name": "Matties #622",
-  "description": "An observant, Epicurean Lesya.",
+  "name": "Traveloger #622",
+  "description": "A sociable, localist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant b",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "localist b"
   },
   "image": "622.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

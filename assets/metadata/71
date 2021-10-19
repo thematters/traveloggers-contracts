@@ -1,10 +1,10 @@
 {
-  "name": "Matties #71",
-  "description": "An observant, pluralistic Gena.",
+  "name": "Traveloger #71",
+  "description": "An imaginative, conservative Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "observant a",
-    "ideology": "pluralistic a"
+    "character": "imaginative a",
+    "ideology": "conservative a"
   },
   "image": "71.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "imaginative"
     }
   ]
 }

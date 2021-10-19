@@ -1,16 +1,16 @@
 {
-  "name": "Matties #260",
-  "description": "An adventurous, skeptical Yury.",
+  "name": "Traveloger #260",
+  "description": "A nonchalant, skeptical Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "adventurous b",
+    "race": "Gena",
+    "character": "nonchalant b",
     "ideology": "skeptical a"
   },
   "image": "260.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

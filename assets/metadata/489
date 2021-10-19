@@ -1,24 +1,24 @@
 {
-  "name": "Matties #489",
-  "description": "A chic, anarchist Lesya.",
+  "name": "Traveloger #489",
+  "description": "A compassionate, Marxist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic a",
-    "ideology": "anarchist b"
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "Marxist b"
   },
   "image": "489.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #581",
-  "description": "A down-to-earth, cynical Lesya.",
+  "name": "Traveloger #581",
+  "description": "An extroverted, skeptical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "cynical a"
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "skeptical b"
   },
   "image": "581.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

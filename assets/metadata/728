@@ -1,24 +1,24 @@
 {
-  "name": "Matties #728",
-  "description": "An introverted, romantic Gena.",
+  "name": "Traveloger #728",
+  "description": "A rebellious, pacifist Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "introverted a",
-    "ideology": "romantic a"
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "pacifist b"
   },
   "image": "728.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "rebellious"
     }
   ]
 }

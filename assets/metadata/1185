@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1185",
-  "description": "A compassionate, feminist Yury.",
+  "name": "Traveloger #1185",
+  "description": "An observant, optimistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "compassionate b",
-    "ideology": "feminist a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "optimistic b"
   },
   "image": "1185.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "observant"
     }
   ]
 }

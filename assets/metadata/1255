@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1255",
-  "description": "A confused, pluralistic Valya.",
+  "name": "Traveloger #1255",
+  "description": "A determined, skeptical Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "pluralistic a"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "skeptical a"
   },
   "image": "1255.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "determined"
     }
   ]
 }

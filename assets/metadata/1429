@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1429",
-  "description": "A down-to-earth, cosmopolitan Lesya.",
+  "name": "Traveloger #1429",
+  "description": "A practical, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth a",
-    "ideology": "cosmopolitan b"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "cosmopolitan a"
   },
   "image": "1429.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "practical"
     }
   ]
 }

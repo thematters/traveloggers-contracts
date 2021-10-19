@@ -1,20 +1,20 @@
 {
-  "name": "Matties #735",
-  "description": "A compassionate, pragmatist Lesya.",
+  "name": "Traveloger #735",
+  "description": "A compassionate, liberal Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate b",
-    "ideology": "pragmatist b"
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "liberal b"
   },
   "image": "735.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

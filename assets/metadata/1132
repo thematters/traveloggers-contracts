@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1132",
-  "description": "An analytical, Epicurean Yury.",
+  "name": "Traveloger #1132",
+  "description": "An analytical, anarchist Sasha.",
   "_visual": {
-    "race": "Yury",
+    "race": "Sasha",
     "character": "analytical b",
-    "ideology": "Epicurean b"
+    "ideology": "anarchist a"
   },
   "image": "1132.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

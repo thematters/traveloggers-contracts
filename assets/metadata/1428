@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1428",
-  "description": "A sociable, cosmopolitan Valya.",
+  "name": "Traveloger #1428",
+  "description": "A determined, feminist Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "cosmopolitan b"
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "feminist b"
   },
   "image": "1428.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "determined"
     }
   ]
 }

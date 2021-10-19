@@ -1,24 +1,24 @@
 {
-  "name": "Matties #302",
-  "description": "An adventurous, pragmatist Sasha.",
+  "name": "Traveloger #302",
+  "description": "An exploring, pacifist Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous b",
-    "ideology": "pragmatist a"
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pacifist a"
   },
   "image": "302.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "exploring"
     }
   ]
 }

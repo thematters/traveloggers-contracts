@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1252",
-  "description": "A confused, Marxist Valya.",
+  "name": "Traveloger #1252",
+  "description": "A compassionate, collectivistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "confused a",
-    "ideology": "Marxist a"
+    "character": "compassionate b",
+    "ideology": "collectivistic b"
   },
   "image": "1252.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

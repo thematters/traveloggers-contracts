@@ -1,20 +1,20 @@
 {
-  "name": "Matties #929",
-  "description": "A self-discipline, anarchist Valya.",
+  "name": "Traveloger #929",
+  "description": "A self-discipline, existentialist Yury.",
   "_visual": {
-    "race": "Valya",
+    "race": "Yury",
     "character": "self-discipline a",
-    "ideology": "anarchist a"
+    "ideology": "existentialist a"
   },
   "image": "929.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

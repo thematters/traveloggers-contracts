@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1381",
-  "description": "A confused, individualistic Sasha.",
+  "name": "Traveloger #1381",
+  "description": "A rebellious, cynical Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "individualistic b"
+    "race": "Yury",
+    "character": "rebellious a",
+    "ideology": "cynical a"
   },
   "image": "1381.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

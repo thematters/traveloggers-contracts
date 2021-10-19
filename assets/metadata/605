@@ -1,24 +1,24 @@
 {
-  "name": "Matties #605",
-  "description": "A down-to-earth, pluralistic Lesya.",
+  "name": "Traveloger #605",
+  "description": "A hard-working, localist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "localist a"
   },
   "image": "605.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "hard-working"
     }
   ]
 }

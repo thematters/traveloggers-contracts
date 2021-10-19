@@ -1,24 +1,24 @@
 {
-  "name": "Matties #691",
-  "description": "A determined, Epicurean Sasha.",
+  "name": "Traveloger #691",
+  "description": "A chic, individualistic Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "determined b",
-    "ideology": "Epicurean b"
+    "race": "Yury",
+    "character": "chic b",
+    "ideology": "individualistic a"
   },
   "image": "691.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

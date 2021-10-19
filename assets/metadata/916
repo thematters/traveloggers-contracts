@@ -1,10 +1,10 @@
 {
-  "name": "Matties #916",
-  "description": "A practical, individualistic Yury.",
+  "name": "Traveloger #916",
+  "description": "A hard-working, optimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "practical b",
-    "ideology": "individualistic b"
+    "character": "hard-working a",
+    "ideology": "optimistic a"
   },
   "image": "916.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "hard-working"
     }
   ]
 }

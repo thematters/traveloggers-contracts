@@ -1,24 +1,24 @@
 {
-  "name": "Matties #912",
-  "description": "A rebellious, capitalistic Valya.",
+  "name": "Traveloger #912",
+  "description": "A compassionate, nationalistic Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious a",
-    "ideology": "capitalistic a"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "nationalistic b"
   },
   "image": "912.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "compassionate"
     }
   ]
 }

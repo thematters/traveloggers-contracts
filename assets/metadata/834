@@ -1,24 +1,24 @@
 {
-  "name": "Matties #834",
-  "description": "A chic, conservative Valya.",
+  "name": "Traveloger #834",
+  "description": "An adventurous, cynical Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "chic a",
-    "ideology": "conservative b"
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "cynical b"
   },
   "image": "834.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #615",
-  "description": "An observant, Epicurean Yury.",
+  "name": "Traveloger #615",
+  "description": "A sociable, individualistic Zhenya.",
   "_visual": {
-    "race": "Yury",
-    "character": "observant a",
-    "ideology": "Epicurean b"
+    "race": "Zhenya",
+    "character": "sociable a",
+    "ideology": "individualistic b"
   },
   "image": "615.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "sociable"
     }
   ]
 }

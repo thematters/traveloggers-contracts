@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1199",
-  "description": "A chic, liberal Gena.",
+  "name": "Traveloger #1199",
+  "description": "An exploring, liberal Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic b",
-    "ideology": "liberal a"
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "liberal b"
   },
   "image": "1199.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "exploring"
     }
   ]
 }

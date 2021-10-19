@@ -1,24 +1,24 @@
 {
-  "name": "Matties #389",
-  "description": "An exploring, romantic Sasha.",
+  "name": "Traveloger #389",
+  "description": "A determined, pacifist Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring b",
-    "ideology": "romantic a"
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "pacifist b"
   },
   "image": "389.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "determined"
     }
   ]
 }

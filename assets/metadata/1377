@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1377",
-  "description": "An exploring, cynical Valya.",
+  "name": "Traveloger #1377",
+  "description": "A down-to-earth, capitalistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "capitalistic b"
   },
   "image": "1377.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "down-to-earth"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1209",
-  "description": "An introverted, individualistic Lesya.",
+  "name": "Traveloger #1209",
+  "description": "An enthusiastic, liberal Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "introverted b",
-    "ideology": "individualistic b"
+    "character": "enthusiastic b",
+    "ideology": "liberal b"
   },
   "image": "1209.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #284",
-  "description": "A down-to-earth, Epicurean Lesya.",
+  "name": "Traveloger #284",
+  "description": "A confused, feminist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "down-to-earth b",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "feminist a"
   },
   "image": "284.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

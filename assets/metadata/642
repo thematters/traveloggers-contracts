@@ -1,16 +1,16 @@
 {
-  "name": "Matties #642",
-  "description": "A self-discipline, feminist Yury.",
+  "name": "Traveloger #642",
+  "description": "A rebellious, feminist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "feminist a"
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "feminist b"
   },
   "image": "642.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "rebellious"
     }
   ]
 }

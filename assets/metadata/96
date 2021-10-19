@@ -1,24 +1,24 @@
 {
-  "name": "Matties #96",
-  "description": "An extroverted, existentialist Sasha.",
+  "name": "Traveloger #96",
+  "description": "A nonchalant, anarchist Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted b",
-    "ideology": "existentialist a"
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "anarchist a"
   },
   "image": "96.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "nonchalant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #7",
-  "description": "An imaginative, individualistic Gena.",
+  "name": "Traveloger #7",
+  "description": "An exploring, conservative Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "individualistic b"
+    "race": "Lesya",
+    "character": "exploring a",
+    "ideology": "conservative b"
   },
   "image": "7.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "exploring"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #861",
-  "description": "A practical, capitalistic Valya.",
+  "name": "Traveloger #861",
+  "description": "An exploring, pragmatist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "practical b",
-    "ideology": "capitalistic a"
+    "character": "exploring a",
+    "ideology": "pragmatist b"
   },
   "image": "861.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "exploring"
     }
   ]
 }

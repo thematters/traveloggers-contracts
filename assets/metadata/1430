@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1430",
-  "description": "A practical, liberal Zhenya.",
+  "name": "Traveloger #1430",
+  "description": "A nonchalant, existentialist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical a",
-    "ideology": "liberal b"
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "existentialist a"
   },
   "image": "1430.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "nonchalant"
     }
   ]
 }

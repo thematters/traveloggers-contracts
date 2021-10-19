@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1022",
-  "description": "A nonchalant, Marxist Yury.",
+  "name": "Traveloger #1022",
+  "description": "A rebellious, rational Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "nonchalant b",
-    "ideology": "Marxist b"
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "rational b"
   },
   "image": "1022.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "rebellious"
     }
   ]
 }

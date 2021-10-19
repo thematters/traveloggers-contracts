@@ -1,24 +1,24 @@
 {
-  "name": "Matties #434",
-  "description": "A sociable, collectivistic Gena.",
+  "name": "Traveloger #434",
+  "description": "An analytical, romantic Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable a",
-    "ideology": "collectivistic a"
+    "race": "Zhenya",
+    "character": "analytical b",
+    "ideology": "romantic a"
   },
   "image": "434.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "analytical"
     }
   ]
 }

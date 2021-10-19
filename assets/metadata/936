@@ -1,24 +1,24 @@
 {
-  "name": "Matties #936",
-  "description": "A confused, optimistic Zhenya.",
+  "name": "Traveloger #936",
+  "description": "An introverted, pragmatist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "confused a",
-    "ideology": "optimistic b"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "pragmatist b"
   },
   "image": "936.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

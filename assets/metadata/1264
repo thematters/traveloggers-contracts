@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1264",
-  "description": "A chic, feminist Lesya.",
+  "name": "Traveloger #1264",
+  "description": "A compassionate, cosmopolitan Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic b",
-    "ideology": "feminist a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "cosmopolitan b"
   },
   "image": "1264.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

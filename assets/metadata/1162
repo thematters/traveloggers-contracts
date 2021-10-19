@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1162",
-  "description": "An introverted, individualistic Zhenya.",
+  "name": "Traveloger #1162",
+  "description": "An analytical, optimistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "introverted b",
-    "ideology": "individualistic a"
+    "character": "analytical b",
+    "ideology": "optimistic b"
   },
   "image": "1162.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "analytical"
     }
   ]
 }

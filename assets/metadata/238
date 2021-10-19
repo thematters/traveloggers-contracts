@@ -1,10 +1,10 @@
 {
-  "name": "Matties #238",
-  "description": "A nonchalant, nationalistic Sasha.",
+  "name": "Traveloger #238",
+  "description": "A chic, romantic Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "nationalistic a"
+    "character": "chic a",
+    "ideology": "romantic a"
   },
   "image": "238.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

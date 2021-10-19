@@ -1,24 +1,24 @@
 {
-  "name": "Matties #26",
-  "description": "An extroverted, Epicurean Sasha.",
+  "name": "Traveloger #26",
+  "description": "An enthusiastic, capitalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "extroverted a",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "capitalistic b"
   },
   "image": "26.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "enthusiastic"
     }
   ]
 }

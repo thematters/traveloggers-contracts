@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1036",
-  "description": "A practical, Marxist Zhenya.",
+  "name": "Traveloger #1036",
+  "description": "A chic, existentialist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "chic b",
+    "ideology": "existentialist b"
   },
   "image": "1036.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "chic"
     }
   ]
 }

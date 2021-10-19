@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1233",
-  "description": "A self-discipline, cynical Yury.",
+  "name": "Traveloger #1233",
+  "description": "A nonchalant, capitalistic Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "self-discipline a",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "capitalistic a"
   },
   "image": "1233.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "nonchalant"
     }
   ]
 }

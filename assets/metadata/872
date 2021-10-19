@@ -1,24 +1,24 @@
 {
-  "name": "Matties #872",
-  "description": "A practical, skeptical Sasha.",
+  "name": "Traveloger #872",
+  "description": "A confused, pragmatist Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "practical b",
-    "ideology": "skeptical a"
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "pragmatist a"
   },
   "image": "872.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "confused"
     }
   ]
 }

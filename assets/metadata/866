@@ -1,20 +1,20 @@
 {
-  "name": "Matties #866",
-  "description": "A hard-working, rational Valya.",
+  "name": "Traveloger #866",
+  "description": "A hard-working, cynical Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working b",
-    "ideology": "rational b"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "cynical b"
   },
   "image": "866.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",

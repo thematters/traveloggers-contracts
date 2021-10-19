@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1491",
-  "description": "A chic, rational Sasha.",
+  "name": "Traveloger #1491",
+  "description": "A practical, capitalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic a",
-    "ideology": "rational b"
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "capitalistic b"
   },
   "image": "1491.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "practical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #623",
-  "description": "An observant, optimistic Yury.",
+  "name": "Traveloger #623",
+  "description": "An imaginative, pragmatist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "observant b",
-    "ideology": "optimistic b"
+    "character": "imaginative a",
+    "ideology": "pragmatist a"
   },
   "image": "623.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "imaginative"
     }
   ]
 }

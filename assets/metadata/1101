@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1101",
-  "description": "An exploring, Epicurean Gena.",
+  "name": "Traveloger #1101",
+  "description": "A nonchalant, collectivistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "exploring b",
-    "ideology": "Epicurean b"
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "collectivistic a"
   },
   "image": "1101.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "nonchalant"
     }
   ]
 }

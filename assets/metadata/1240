@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1240",
-  "description": "An imaginative, conservative Zhenya.",
+  "name": "Traveloger #1240",
+  "description": "An extroverted, pacifist Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "conservative b"
+    "character": "extroverted b",
+    "ideology": "pacifist b"
   },
   "image": "1240.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

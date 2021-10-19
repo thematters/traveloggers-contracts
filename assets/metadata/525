@@ -1,20 +1,20 @@
 {
-  "name": "Matties #525",
-  "description": "An exploring, localist Sasha.",
+  "name": "Traveloger #525",
+  "description": "An exploring, conservative Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "exploring a",
-    "ideology": "localist a"
+    "race": "Lesya",
+    "character": "exploring b",
+    "ideology": "conservative a"
   },
   "image": "525.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",

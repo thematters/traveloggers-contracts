@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1323",
-  "description": "A compassionate, collectivistic Gena.",
+  "name": "Traveloger #1323",
+  "description": "A nonchalant, pacifist Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "pacifist b"
   },
   "image": "1323.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "nonchalant"
     }
   ]
 }

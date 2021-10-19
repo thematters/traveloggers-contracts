@@ -1,24 +1,24 @@
 {
-  "name": "Matties #448",
-  "description": "A self-discipline, Marxist Gena.",
+  "name": "Traveloger #448",
+  "description": "A chic, pluralistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline a",
-    "ideology": "Marxist b"
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "pluralistic b"
   },
   "image": "448.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "chic"
     }
   ]
 }

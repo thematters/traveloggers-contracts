@@ -1,24 +1,24 @@
 {
-  "name": "Matties #327",
-  "description": "An exploring, cosmopolitan Yury.",
+  "name": "Traveloger #327",
+  "description": "A compassionate, pessimistic Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "exploring b",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "pessimistic a"
   },
   "image": "327.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "compassionate"
     }
   ]
 }

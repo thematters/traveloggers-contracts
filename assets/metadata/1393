@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1393",
-  "description": "An analytical, rational Zhenya.",
+  "name": "Traveloger #1393",
+  "description": "A determined, rational Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "rational b"
+    "character": "determined b",
+    "ideology": "rational a"
   },
   "image": "1393.png",
   "attributes": [
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

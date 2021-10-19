@@ -1,24 +1,24 @@
 {
-  "name": "Matties #918",
-  "description": "A practical, nationalistic Yury.",
+  "name": "Traveloger #918",
+  "description": "A compassionate, Marxist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "practical a",
-    "ideology": "nationalistic a"
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "Marxist a"
   },
   "image": "918.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "compassionate"
     }
   ]
 }

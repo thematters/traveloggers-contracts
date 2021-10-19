@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1063",
-  "description": "A practical, cynical Valya.",
+  "name": "Traveloger #1063",
+  "description": "An observant, cynical Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "practical a",
-    "ideology": "cynical b"
+    "race": "Zhenya",
+    "character": "observant a",
+    "ideology": "cynical a"
   },
   "image": "1063.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "observant"
     }
   ]
 }

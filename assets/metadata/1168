@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1168",
-  "description": "A self-discipline, feminist Valya.",
+  "name": "Traveloger #1168",
+  "description": "A self-discipline, anarchist Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline b",
-    "ideology": "feminist a"
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "anarchist b"
   },
   "image": "1168.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

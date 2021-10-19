@@ -1,10 +1,10 @@
 {
-  "name": "Matties #999",
-  "description": "An imaginative, Epicurean Gena.",
+  "name": "Traveloger #999",
+  "description": "A confused, localist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative a",
-    "ideology": "Epicurean a"
+    "character": "confused a",
+    "ideology": "localist b"
   },
   "image": "999.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

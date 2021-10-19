@@ -1,20 +1,20 @@
 {
-  "name": "Matties #867",
-  "description": "A rebellious, LGBTQ friendly Valya.",
+  "name": "Traveloger #867",
+  "description": "A rebellious, anarchist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious a",
-    "ideology": "LGBTQ friendly a"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "anarchist b"
   },
   "image": "867.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",

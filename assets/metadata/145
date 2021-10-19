@@ -1,24 +1,24 @@
 {
-  "name": "Matties #145",
-  "description": "A compassionate, existentialist Gena.",
+  "name": "Traveloger #145",
+  "description": "A confused, pacifist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "compassionate b",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "pacifist a"
   },
   "image": "145.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1419",
-  "description": "A determined, capitalistic Gena.",
+  "name": "Traveloger #1419",
+  "description": "A rebellious, capitalistic Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "capitalistic b"
+    "race": "Lesya",
+    "character": "rebellious b",
+    "ideology": "capitalistic a"
   },
   "image": "1419.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "rebellious"
     }
   ]
 }

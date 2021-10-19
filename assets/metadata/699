@@ -1,24 +1,24 @@
 {
-  "name": "Matties #699",
-  "description": "A determined, pacifist Valya.",
+  "name": "Traveloger #699",
+  "description": "An observant, liberal Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined b",
-    "ideology": "pacifist b"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "liberal a"
   },
   "image": "699.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "observant"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "name": "Matties #762",
-  "description": "A self-discipline, romantic Gena.",
+  "name": "Traveloger #762",
+  "description": "A practical, romantic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "self-discipline b",
+    "character": "practical a",
     "ideology": "romantic b"
   },
   "image": "762.png",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "practical"
     }
   ]
 }

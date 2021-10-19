@@ -1,24 +1,24 @@
 {
-  "name": "Matties #827",
-  "description": "An observant, feminist Sasha.",
+  "name": "Traveloger #827",
+  "description": "A compassionate, localist Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant b",
-    "ideology": "feminist b"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "localist b"
   },
   "image": "827.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "compassionate"
     }
   ]
 }

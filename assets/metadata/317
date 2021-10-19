@@ -1,24 +1,24 @@
 {
-  "name": "Matties #317",
-  "description": "A compassionate, pluralistic Sasha.",
+  "name": "Traveloger #317",
+  "description": "An adventurous, rational Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "compassionate b",
-    "ideology": "pluralistic a"
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "rational a"
   },
   "image": "317.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "adventurous"
     }
   ]
 }

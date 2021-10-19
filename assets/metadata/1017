@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1017",
-  "description": "A practical, nationalistic Lesya.",
+  "name": "Traveloger #1017",
+  "description": "An extroverted, collectivistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "nationalistic b"
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "collectivistic a"
   },
   "image": "1017.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "extroverted"
     }
   ]
 }

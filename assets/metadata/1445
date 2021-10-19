@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1445",
-  "description": "A chic, feminist Sasha.",
+  "name": "Traveloger #1445",
+  "description": "A determined, nationalistic Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "feminist a"
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "nationalistic a"
   },
   "image": "1445.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "determined"
     }
   ]
 }

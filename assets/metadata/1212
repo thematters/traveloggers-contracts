@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1212",
-  "description": "An introverted, nationalistic Valya.",
+  "name": "Traveloger #1212",
+  "description": "An extroverted, optimistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted b",
-    "ideology": "nationalistic b"
+    "race": "Yury",
+    "character": "extroverted a",
+    "ideology": "optimistic a"
   },
   "image": "1212.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "extroverted"
     }
   ]
 }

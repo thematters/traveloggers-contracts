@@ -1,10 +1,10 @@
 {
-  "name": "Matties #835",
-  "description": "A sociable, rational Valya.",
+  "name": "Traveloger #835",
+  "description": "An observant, pessimistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "sociable b",
-    "ideology": "rational b"
+    "character": "observant a",
+    "ideology": "pessimistic a"
   },
   "image": "835.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "observant"
     }
   ]
 }

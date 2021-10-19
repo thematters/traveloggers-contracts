@@ -1,10 +1,10 @@
 {
-  "name": "Matties #205",
-  "description": "A practical, capitalistic Zhenya.",
+  "name": "Traveloger #205",
+  "description": "An exploring, collectivistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "capitalistic a"
+    "character": "exploring b",
+    "ideology": "collectivistic b"
   },
   "image": "205.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "exploring"
     }
   ]
 }

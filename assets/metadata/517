@@ -1,24 +1,24 @@
 {
-  "name": "Matties #517",
-  "description": "A compassionate, Epicurean Lesya.",
+  "name": "Traveloger #517",
+  "description": "A chic, nationalistic Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "compassionate b",
-    "ideology": "Epicurean b"
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "nationalistic b"
   },
   "image": "517.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "chic"
     }
   ]
 }

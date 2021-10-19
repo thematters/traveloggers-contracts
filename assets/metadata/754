@@ -1,24 +1,24 @@
 {
-  "name": "Matties #754",
-  "description": "An extroverted, individualistic Gena.",
+  "name": "Traveloger #754",
+  "description": "A compassionate, anarchist Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "extroverted a",
-    "ideology": "individualistic a"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "anarchist a"
   },
   "image": "754.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

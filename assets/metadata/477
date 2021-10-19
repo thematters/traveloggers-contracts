@@ -1,10 +1,10 @@
 {
-  "name": "Matties #477",
-  "description": "A nonchalant, rational Zhenya.",
+  "name": "Traveloger #477",
+  "description": "A practical, optimistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "nonchalant a",
-    "ideology": "rational b"
+    "character": "practical a",
+    "ideology": "optimistic a"
   },
   "image": "477.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "practical"
     }
   ]
 }

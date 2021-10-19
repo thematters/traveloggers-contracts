@@ -1,24 +1,24 @@
 {
-  "name": "Matties #712",
-  "description": "An adventurous, collectivistic Sasha.",
+  "name": "Traveloger #712",
+  "description": "An introverted, skeptical Yury.",
   "_visual": {
-    "race": "Sasha",
-    "character": "adventurous b",
-    "ideology": "collectivistic a"
+    "race": "Yury",
+    "character": "introverted a",
+    "ideology": "skeptical b"
   },
   "image": "712.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "introverted"
     }
   ]
 }

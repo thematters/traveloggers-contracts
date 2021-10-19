@@ -1,24 +1,24 @@
 {
-  "name": "Matties #211",
-  "description": "A sociable, collectivistic Gena.",
+  "name": "Traveloger #211",
+  "description": "An adventurous, cosmopolitan Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "sociable b",
-    "ideology": "collectivistic a"
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "cosmopolitan a"
   },
   "image": "211.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "adventurous"
     }
   ]
 }

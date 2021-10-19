@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1221",
-  "description": "An imaginative, liberal Yury.",
+  "name": "Traveloger #1221",
+  "description": "An enthusiastic, liberal Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative b",
+    "race": "Gena",
+    "character": "enthusiastic a",
     "ideology": "liberal a"
   },
   "image": "1221.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "name": "Matties #91",
-  "description": "An adventurous, cynical Valya.",
+  "name": "Traveloger #91",
+  "description": "An adventurous, cynical Zhenya.",
   "_visual": {
-    "race": "Valya",
+    "race": "Zhenya",
     "character": "adventurous a",
     "ideology": "cynical a"
   },
@@ -10,7 +10,7 @@
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",

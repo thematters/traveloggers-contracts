@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1386",
-  "description": "A down-to-earth, rational Gena.",
+  "name": "Traveloger #1386",
+  "description": "A sociable, romantic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "down-to-earth a",
-    "ideology": "rational a"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "romantic b"
   },
   "image": "1386.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "sociable"
     }
   ]
 }

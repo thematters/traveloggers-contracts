@@ -1,24 +1,24 @@
 {
-  "name": "Matties #881",
-  "description": "A rebellious, feminist Yury.",
+  "name": "Traveloger #881",
+  "description": "A self-discipline, cosmopolitan Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "rebellious a",
-    "ideology": "feminist a"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "cosmopolitan a"
   },
   "image": "881.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "self-discipline"
     }
   ]
 }

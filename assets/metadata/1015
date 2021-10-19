@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1015",
-  "description": "An enthusiastic, Marxist Gena.",
+  "name": "Traveloger #1015",
+  "description": "A practical, localist Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "enthusiastic a",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "localist a"
   },
   "image": "1015.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "practical"
     }
   ]
 }

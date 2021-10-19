@@ -1,20 +1,20 @@
 {
-  "name": "Matties #1190",
-  "description": "A sociable, skeptical Valya.",
+  "name": "Traveloger #1190",
+  "description": "A sociable, nationalistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "sociable a",
-    "ideology": "skeptical b"
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "nationalistic b"
   },
   "image": "1190.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

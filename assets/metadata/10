@@ -1,24 +1,24 @@
 {
-  "name": "Matties #10",
-  "description": "A self-discipline, cosmopolitan Valya.",
+  "name": "Traveloger #10",
+  "description": "An observant, existentialist Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "self-discipline a",
-    "ideology": "cosmopolitan a"
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "existentialist b"
   },
   "image": "10.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

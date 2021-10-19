@@ -1,10 +1,10 @@
 {
-  "name": "Matties #786",
-  "description": "An analytical, nationalistic Yury.",
+  "name": "Traveloger #786",
+  "description": "A sociable, collectivistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "analytical a",
-    "ideology": "nationalistic b"
+    "character": "sociable b",
+    "ideology": "collectivistic b"
   },
   "image": "786.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "sociable"
     }
   ]
 }

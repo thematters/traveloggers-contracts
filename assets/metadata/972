@@ -1,10 +1,10 @@
 {
-  "name": "Matties #972",
-  "description": "A self-discipline, cynical Sasha.",
+  "name": "Traveloger #972",
+  "description": "A sociable, rational Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "self-discipline b",
-    "ideology": "cynical b"
+    "character": "sociable a",
+    "ideology": "rational b"
   },
   "image": "972.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "sociable"
     }
   ]
 }

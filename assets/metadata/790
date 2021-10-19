@@ -1,10 +1,10 @@
 {
-  "name": "Matties #790",
-  "description": "An enthusiastic, capitalistic Sasha.",
+  "name": "Traveloger #790",
+  "description": "A self-discipline, liberal Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "capitalistic b"
+    "character": "self-discipline a",
+    "ideology": "liberal a"
   },
   "image": "790.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

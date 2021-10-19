@@ -1,24 +1,24 @@
 {
-  "name": "Matties #952",
-  "description": "A hard-working, conservative Sasha.",
+  "name": "Traveloger #952",
+  "description": "A sociable, romantic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "hard-working b",
-    "ideology": "conservative a"
+    "race": "Gena",
+    "character": "sociable b",
+    "ideology": "romantic b"
   },
   "image": "952.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #558",
-  "description": "An introverted, conservative Valya.",
+  "name": "Traveloger #558",
+  "description": "A hard-working, pragmatist Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "introverted b",
-    "ideology": "conservative b"
+    "race": "Sasha",
+    "character": "hard-working a",
+    "ideology": "pragmatist b"
   },
   "image": "558.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "hard-working"
     }
   ]
 }

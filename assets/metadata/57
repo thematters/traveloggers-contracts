@@ -1,24 +1,24 @@
 {
-  "name": "Matties #57",
-  "description": "A chic, collectivistic Lesya.",
+  "name": "Traveloger #57",
+  "description": "An observant, existentialist Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic b",
-    "ideology": "collectivistic b"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "existentialist b"
   },
   "image": "57.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "observant"
     }
   ]
 }

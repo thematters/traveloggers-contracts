@@ -1,24 +1,24 @@
 {
-  "name": "Matties #760",
-  "description": "An analytical, rational Zhenya.",
+  "name": "Traveloger #760",
+  "description": "A determined, anarchist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical a",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "anarchist b"
   },
   "image": "760.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

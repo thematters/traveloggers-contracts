@@ -1,24 +1,24 @@
 {
-  "name": "Matties #435",
-  "description": "An analytical, pacifist Zhenya.",
+  "name": "Traveloger #435",
+  "description": "An extroverted, skeptical Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "pacifist b"
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "skeptical b"
   },
   "image": "435.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

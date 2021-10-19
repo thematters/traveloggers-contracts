@@ -1,10 +1,10 @@
 {
-  "name": "Matties #886",
-  "description": "A practical, Epicurean Valya.",
+  "name": "Traveloger #886",
+  "description": "A practical, feminist Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "practical b",
-    "ideology": "Epicurean a"
+    "character": "practical a",
+    "ideology": "feminist b"
   },
   "image": "886.png",
   "attributes": [
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",

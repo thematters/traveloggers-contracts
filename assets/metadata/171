@@ -1,24 +1,24 @@
 {
-  "name": "Matties #171",
-  "description": "A self-discipline, rational Gena.",
+  "name": "Traveloger #171",
+  "description": "An introverted, pluralistic Yury.",
   "_visual": {
-    "race": "Gena",
-    "character": "self-discipline b",
-    "ideology": "rational b"
+    "race": "Yury",
+    "character": "introverted a",
+    "ideology": "pluralistic b"
   },
   "image": "171.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "introverted"
     }
   ]
 }

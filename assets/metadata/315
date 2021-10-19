@@ -1,24 +1,24 @@
 {
-  "name": "Matties #315",
-  "description": "A nonchalant, liberal Lesya.",
+  "name": "Traveloger #315",
+  "description": "A sociable, anarchist Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "nonchalant b",
-    "ideology": "liberal b"
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "anarchist b"
   },
   "image": "315.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "sociable"
     }
   ]
 }

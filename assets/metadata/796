@@ -1,10 +1,10 @@
 {
-  "name": "Matties #796",
-  "description": "An enthusiastic, feminist Yury.",
+  "name": "Traveloger #796",
+  "description": "A self-discipline, individualistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "enthusiastic a",
-    "ideology": "feminist b"
+    "character": "self-discipline b",
+    "ideology": "individualistic a"
   },
   "image": "796.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

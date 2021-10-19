@@ -1,24 +1,24 @@
 {
-  "name": "Matties #254",
-  "description": "A nonchalant, liberal Sasha.",
+  "name": "Traveloger #254",
+  "description": "An introverted, nationalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "nonchalant a",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "introverted b",
+    "ideology": "nationalistic b"
   },
   "image": "254.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "introverted"
     }
   ]
 }

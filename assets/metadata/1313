@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1313",
-  "description": "An extroverted, existentialist Valya.",
+  "name": "Traveloger #1313",
+  "description": "A chic, collectivistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "extroverted a",
-    "ideology": "existentialist a"
+    "character": "chic a",
+    "ideology": "collectivistic b"
   },
   "image": "1313.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

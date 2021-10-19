@@ -1,24 +1,24 @@
 {
-  "name": "Matties #523",
-  "description": "A self-discipline, capitalistic Lesya.",
+  "name": "Traveloger #523",
+  "description": "A determined, nationalistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "self-discipline a",
-    "ideology": "capitalistic b"
+    "race": "Yury",
+    "character": "determined a",
+    "ideology": "nationalistic a"
   },
   "image": "523.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #542",
-  "description": "A determined, capitalistic Zhenya.",
+  "name": "Traveloger #542",
+  "description": "An introverted, Epicurean Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "capitalistic b"
+    "race": "Sasha",
+    "character": "introverted b",
+    "ideology": "Epicurean b"
   },
   "image": "542.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "introverted"
     }
   ]
 }

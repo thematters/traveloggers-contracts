@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1406",
-  "description": "An extroverted, Marxist Yury.",
+  "name": "Traveloger #1406",
+  "description": "A compassionate, localist Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted a",
-    "ideology": "Marxist a"
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "localist a"
   },
   "image": "1406.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

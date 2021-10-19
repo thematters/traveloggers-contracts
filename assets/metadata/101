@@ -1,24 +1,24 @@
 {
-  "name": "Matties #101",
-  "description": "An enthusiastic, localist Sasha.",
+  "name": "Traveloger #101",
+  "description": "An exploring, Marxist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "enthusiastic b",
-    "ideology": "localist b"
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "Marxist a"
   },
   "image": "101.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "exploring"
     }
   ]
 }

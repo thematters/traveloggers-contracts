@@ -1,24 +1,24 @@
 {
-  "name": "Matties #468",
-  "description": "A compassionate, pragmatist Zhenya.",
+  "name": "Traveloger #468",
+  "description": "A confused, pluralistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "compassionate a",
-    "ideology": "pragmatist a"
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "pluralistic b"
   },
   "image": "468.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

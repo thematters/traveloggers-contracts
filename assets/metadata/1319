@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1319",
-  "description": "A down-to-earth, localist Yury.",
+  "name": "Traveloger #1319",
+  "description": "A self-discipline, optimistic Lesya.",
   "_visual": {
-    "race": "Yury",
-    "character": "down-to-earth b",
-    "ideology": "localist b"
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "optimistic b"
   },
   "image": "1319.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "self-discipline"
     }
   ]
 }

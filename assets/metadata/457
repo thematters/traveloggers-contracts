@@ -1,10 +1,10 @@
 {
-  "name": "Matties #457",
-  "description": "A nonchalant, Epicurean Gena.",
+  "name": "Traveloger #457",
+  "description": "A compassionate, Marxist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "nonchalant b",
-    "ideology": "Epicurean a"
+    "character": "compassionate b",
+    "ideology": "Marxist b"
   },
   "image": "457.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "compassionate"
     }
   ]
 }

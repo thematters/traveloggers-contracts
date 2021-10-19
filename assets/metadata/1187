@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1187",
-  "description": "A practical, pluralistic Gena.",
+  "name": "Traveloger #1187",
+  "description": "An adventurous, Marxist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "practical a",
-    "ideology": "pluralistic a"
+    "character": "adventurous a",
+    "ideology": "Marxist a"
   },
   "image": "1187.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "adventurous"
     }
   ]
 }

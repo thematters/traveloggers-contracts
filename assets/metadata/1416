@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1416",
-  "description": "A practical, pluralistic Valya.",
+  "name": "Traveloger #1416",
+  "description": "An imaginative, skeptical Zhenya.",
   "_visual": {
-    "race": "Valya",
-    "character": "practical a",
-    "ideology": "pluralistic a"
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "skeptical a"
   },
   "image": "1416.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "imaginative"
     }
   ]
 }

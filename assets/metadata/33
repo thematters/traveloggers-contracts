@@ -1,24 +1,24 @@
 {
-  "name": "Matties #33",
-  "description": "A determined, existentialist Gena.",
+  "name": "Traveloger #33",
+  "description": "An analytical, rational Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "existentialist a"
+    "race": "Valya",
+    "character": "analytical b",
+    "ideology": "rational b"
   },
   "image": "33.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "analytical"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #627",
-  "description": "A determined, cosmopolitan Gena.",
+  "name": "Traveloger #627",
+  "description": "A down-to-earth, individualistic Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "determined b",
-    "ideology": "cosmopolitan b"
+    "character": "down-to-earth b",
+    "ideology": "individualistic a"
   },
   "image": "627.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "down-to-earth"
     }
   ]
 }

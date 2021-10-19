@@ -1,10 +1,10 @@
 {
-  "name": "Matties #30",
-  "description": "An observant, Marxist Yury.",
+  "name": "Traveloger #30",
+  "description": "A chic, localist Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "observant b",
-    "ideology": "Marxist a"
+    "character": "chic a",
+    "ideology": "localist b"
   },
   "image": "30.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "chic"
     }
   ]
 }

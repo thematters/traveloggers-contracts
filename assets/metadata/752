@@ -1,10 +1,10 @@
 {
-  "name": "Matties #752",
-  "description": "An analytical, LGBTQ friendly Sasha.",
+  "name": "Traveloger #752",
+  "description": "An extroverted, localist Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "LGBTQ friendly b"
+    "character": "extroverted a",
+    "ideology": "localist a"
   },
   "image": "752.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "extroverted"
     }
   ]
 }

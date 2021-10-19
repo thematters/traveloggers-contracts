@@ -1,24 +1,24 @@
 {
-  "name": "Matties #573",
-  "description": "An introverted, optimistic Zhenya.",
+  "name": "Traveloger #573",
+  "description": "A determined, cynical Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "introverted b",
-    "ideology": "optimistic b"
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "cynical a"
   },
   "image": "573.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "determined"
     }
   ]
 }

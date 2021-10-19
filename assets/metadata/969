@@ -1,10 +1,10 @@
 {
-  "name": "Matties #969",
-  "description": "A down-to-earth, individualistic Valya.",
+  "name": "Traveloger #969",
+  "description": "A rebellious, nationalistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "down-to-earth a",
-    "ideology": "individualistic b"
+    "character": "rebellious b",
+    "ideology": "nationalistic a"
   },
   "image": "969.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #476",
-  "description": "A self-discipline, Epicurean Zhenya.",
+  "name": "Traveloger #476",
+  "description": "A nonchalant, optimistic Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "Epicurean b"
+    "race": "Gena",
+    "character": "nonchalant a",
+    "ideology": "optimistic a"
   },
   "image": "476.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "nonchalant"
     }
   ]
 }

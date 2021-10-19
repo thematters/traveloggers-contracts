@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1000",
-  "description": "An enthusiastic, anarchist Zhenya.",
+  "name": "Traveloger #1000",
+  "description": "An observant, Marxist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic b",
-    "ideology": "anarchist a"
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "Marxist a"
   },
   "image": "1000.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "observant"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1296",
-  "description": "A confused, pluralistic Lesya.",
+  "name": "Traveloger #1296",
+  "description": "A sociable, optimistic Yury.",
   "_visual": {
-    "race": "Lesya",
-    "character": "confused a",
-    "ideology": "pluralistic b"
+    "race": "Yury",
+    "character": "sociable b",
+    "ideology": "optimistic a"
   },
   "image": "1296.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "sociable"
     }
   ]
 }

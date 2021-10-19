@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1179",
-  "description": "A nonchalant, pluralistic Lesya.",
+  "name": "Traveloger #1179",
+  "description": "An imaginative, pragmatist Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "nonchalant a",
-    "ideology": "pluralistic b"
+    "character": "imaginative a",
+    "ideology": "pragmatist b"
   },
   "image": "1179.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "imaginative"
     }
   ]
 }

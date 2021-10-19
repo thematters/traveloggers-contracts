@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1131",
-  "description": "An analytical, feminist Zhenya.",
+  "name": "Traveloger #1131",
+  "description": "A rebellious, LGBTQ friendly Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "analytical b",
-    "ideology": "feminist b"
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "LGBTQ friendly a"
   },
   "image": "1131.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "rebellious"
     }
   ]
 }

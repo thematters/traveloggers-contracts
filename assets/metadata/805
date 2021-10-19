@@ -1,10 +1,10 @@
 {
-  "name": "Matties #805",
-  "description": "A compassionate, romantic Gena.",
+  "name": "Traveloger #805",
+  "description": "A rebellious, rational Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "compassionate a",
-    "ideology": "romantic a"
+    "character": "rebellious a",
+    "ideology": "rational a"
   },
   "image": "805.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1473",
-  "description": "A confused, skeptical Valya.",
+  "name": "Traveloger #1473",
+  "description": "A sociable, optimistic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused b",
-    "ideology": "skeptical b"
+    "race": "Sasha",
+    "character": "sociable a",
+    "ideology": "optimistic b"
   },
   "image": "1473.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "sociable"
     }
   ]
 }

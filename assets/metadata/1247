@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1247",
-  "description": "An observant, anarchist Sasha.",
+  "name": "Traveloger #1247",
+  "description": "A hard-working, pacifist Valya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "observant a",
-    "ideology": "anarchist b"
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "pacifist a"
   },
   "image": "1247.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "hard-working"
     }
   ]
 }

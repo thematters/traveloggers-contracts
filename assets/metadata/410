@@ -1,16 +1,16 @@
 {
-  "name": "Matties #410",
-  "description": "An enthusiastic, Marxist Zhenya.",
+  "name": "Traveloger #410",
+  "description": "A self-discipline, Marxist Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "enthusiastic a",
+    "race": "Yury",
+    "character": "self-discipline a",
     "ideology": "Marxist a"
   },
   "image": "410.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

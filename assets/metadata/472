@@ -1,16 +1,16 @@
 {
-  "name": "Matties #472",
-  "description": "An enthusiastic, nationalistic Valya.",
+  "name": "Traveloger #472",
+  "description": "A chic, nationalistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "enthusiastic b",
-    "ideology": "nationalistic b"
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "nationalistic a"
   },
   "image": "472.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "chic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1235",
-  "description": "A hard-working, capitalistic Lesya.",
+  "name": "Traveloger #1235",
+  "description": "An exploring, cynical Lesya.",
   "_visual": {
     "race": "Lesya",
-    "character": "hard-working b",
-    "ideology": "capitalistic b"
+    "character": "exploring a",
+    "ideology": "cynical a"
   },
   "image": "1235.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "exploring"
     }
   ]
 }

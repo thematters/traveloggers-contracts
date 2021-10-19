@@ -1,10 +1,10 @@
 {
-  "name": "Matties #802",
-  "description": "An imaginative, cosmopolitan Gena.",
+  "name": "Traveloger #802",
+  "description": "A self-discipline, Epicurean Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "cosmopolitan b"
+    "character": "self-discipline a",
+    "ideology": "Epicurean a"
   },
   "image": "802.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "self-discipline"
     }
   ]
 }

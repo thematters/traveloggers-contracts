@@ -1,20 +1,20 @@
 {
-  "name": "Matties #470",
-  "description": "An observant, LGBTQ friendly Zhenya.",
+  "name": "Traveloger #470",
+  "description": "An observant, localist Gena.",
   "_visual": {
-    "race": "Zhenya",
+    "race": "Gena",
     "character": "observant a",
-    "ideology": "LGBTQ friendly b"
+    "ideology": "localist b"
   },
   "image": "470.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "localist"
     },
     {
       "trait_type": "Character",

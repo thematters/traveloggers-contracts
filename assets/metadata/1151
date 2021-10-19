@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1151",
-  "description": "A confused, Epicurean Sasha.",
+  "name": "Traveloger #1151",
+  "description": "An imaginative, nationalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused b",
-    "ideology": "Epicurean a"
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "nationalistic a"
   },
   "image": "1151.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

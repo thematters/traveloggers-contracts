@@ -1,16 +1,16 @@
 {
-  "name": "Matties #1400",
-  "description": "An adventurous, pragmatist Zhenya.",
+  "name": "Traveloger #1400",
+  "description": "An observant, pragmatist Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "adventurous b",
-    "ideology": "pragmatist b"
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "pragmatist a"
   },
   "image": "1400.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "observant"
     }
   ]
 }

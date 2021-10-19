@@ -1,24 +1,24 @@
 {
-  "name": "Matties #509",
-  "description": "An analytical, Marxist Sasha.",
+  "name": "Traveloger #509",
+  "description": "A self-discipline, pluralistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "analytical b",
-    "ideology": "Marxist b"
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "pluralistic b"
   },
   "image": "509.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

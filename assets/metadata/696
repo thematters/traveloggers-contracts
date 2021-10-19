@@ -1,24 +1,24 @@
 {
-  "name": "Matties #696",
-  "description": "An analytical, LGBTQ friendly Lesya.",
+  "name": "Traveloger #696",
+  "description": "An introverted, pragmatist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "LGBTQ friendly a"
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "pragmatist a"
   },
   "image": "696.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

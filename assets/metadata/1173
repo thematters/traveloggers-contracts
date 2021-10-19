@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1173",
-  "description": "An extroverted, pacifist Valya.",
+  "name": "Traveloger #1173",
+  "description": "A chic, capitalistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "extroverted b",
-    "ideology": "pacifist a"
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "capitalistic b"
   },
   "image": "1173.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "chic"
     }
   ]
 }

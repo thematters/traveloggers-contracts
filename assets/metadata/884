@@ -1,24 +1,24 @@
 {
-  "name": "Matties #884",
-  "description": "An observant, Epicurean Lesya.",
+  "name": "Traveloger #884",
+  "description": "A nonchalant, rational Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "observant a",
-    "ideology": "Epicurean b"
+    "race": "Zhenya",
+    "character": "nonchalant b",
+    "ideology": "rational b"
   },
   "image": "884.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "nonchalant"
     }
   ]
 }

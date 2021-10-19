@@ -1,10 +1,10 @@
 {
-  "name": "Matties #765",
-  "description": "A practical, collectivistic Zhenya.",
+  "name": "Traveloger #765",
+  "description": "An exploring, optimistic Zhenya.",
   "_visual": {
     "race": "Zhenya",
-    "character": "practical b",
-    "ideology": "collectivistic b"
+    "character": "exploring a",
+    "ideology": "optimistic b"
   },
   "image": "765.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "exploring"
     }
   ]
 }

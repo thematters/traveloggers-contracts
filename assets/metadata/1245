@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1245",
-  "description": "A chic, individualistic Gena.",
+  "name": "Traveloger #1245",
+  "description": "An introverted, collectivistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "chic b",
-    "ideology": "individualistic a"
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "collectivistic b"
   },
   "image": "1245.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "introverted"
     }
   ]
 }

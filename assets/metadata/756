@@ -1,24 +1,24 @@
 {
-  "name": "Matties #756",
-  "description": "A determined, capitalistic Valya.",
+  "name": "Traveloger #756",
+  "description": "An adventurous, nationalistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "determined b",
-    "ideology": "capitalistic a"
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "nationalistic a"
   },
   "image": "756.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "adventurous"
     }
   ]
 }

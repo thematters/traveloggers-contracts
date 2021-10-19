@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1067",
-  "description": "An analytical, Marxist Lesya.",
+  "name": "Traveloger #1067",
+  "description": "A hard-working, Epicurean Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "analytical b",
-    "ideology": "Marxist b"
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "Epicurean a"
   },
   "image": "1067.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "hard-working"
     }
   ]
 }

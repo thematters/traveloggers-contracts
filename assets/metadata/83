@@ -1,24 +1,24 @@
 {
-  "name": "Matties #83",
-  "description": "An exploring, rational Zhenya.",
+  "name": "Traveloger #83",
+  "description": "A hard-working, Marxist Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "rational b"
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "Marxist a"
   },
   "image": "83.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "hard-working"
     }
   ]
 }

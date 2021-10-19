@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1195",
-  "description": "An analytical, cosmopolitan Sasha.",
+  "name": "Traveloger #1195",
+  "description": "A chic, Epicurean Sasha.",
   "_visual": {
     "race": "Sasha",
-    "character": "analytical a",
-    "ideology": "cosmopolitan a"
+    "character": "chic b",
+    "ideology": "Epicurean a"
   },
   "image": "1195.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "chic"
     }
   ]
 }

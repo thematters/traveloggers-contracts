@@ -1,10 +1,10 @@
 {
-  "name": "Matties #871",
-  "description": "An extroverted, existentialist Yury.",
+  "name": "Traveloger #871",
+  "description": "An imaginative, optimistic Yury.",
   "_visual": {
     "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "existentialist a"
+    "character": "imaginative a",
+    "ideology": "optimistic a"
   },
   "image": "871.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #225",
-  "description": "A determined, rational Zhenya.",
+  "name": "Traveloger #225",
+  "description": "A chic, anarchist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "determined a",
-    "ideology": "rational a"
+    "race": "Sasha",
+    "character": "chic a",
+    "ideology": "anarchist a"
   },
   "image": "225.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "chic"
     }
   ]
 }

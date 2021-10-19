@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1315",
-  "description": "An exploring, pluralistic Zhenya.",
+  "name": "Traveloger #1315",
+  "description": "A chic, existentialist Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring a",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "chic b",
+    "ideology": "existentialist a"
   },
   "image": "1315.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

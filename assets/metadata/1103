@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1103",
-  "description": "A down-to-earth, nationalistic Sasha.",
+  "name": "Traveloger #1103",
+  "description": "A chic, capitalistic Gena.",
   "_visual": {
-    "race": "Sasha",
-    "character": "down-to-earth a",
-    "ideology": "nationalistic a"
+    "race": "Gena",
+    "character": "chic a",
+    "ideology": "capitalistic b"
   },
   "image": "1103.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "chic"
     }
   ]
 }

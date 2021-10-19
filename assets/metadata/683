@@ -1,24 +1,24 @@
 {
-  "name": "Matties #683",
-  "description": "An imaginative, Epicurean Lesya.",
+  "name": "Traveloger #683",
+  "description": "A chic, skeptical Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "imaginative a",
-    "ideology": "Epicurean a"
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "skeptical a"
   },
   "image": "683.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "chic"
     }
   ]
 }

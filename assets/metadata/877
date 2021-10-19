@@ -1,24 +1,24 @@
 {
-  "name": "Matties #877",
-  "description": "A sociable, pessimistic Lesya.",
+  "name": "Traveloger #877",
+  "description": "An introverted, pragmatist Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable a",
-    "ideology": "pessimistic b"
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "pragmatist a"
   },
   "image": "877.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "introverted"
     }
   ]
 }

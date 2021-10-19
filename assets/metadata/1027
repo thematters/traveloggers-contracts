@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1027",
-  "description": "A chic, collectivistic Sasha.",
+  "name": "Traveloger #1027",
+  "description": "An analytical, cynical Lesya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "chic b",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "cynical b"
   },
   "image": "1027.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "analytical"
     }
   ]
 }

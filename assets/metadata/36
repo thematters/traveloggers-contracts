@@ -1,24 +1,24 @@
 {
-  "name": "Matties #36",
-  "description": "An exploring, feminist Lesya.",
+  "name": "Traveloger #36",
+  "description": "A practical, existentialist Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "feminist b"
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "existentialist a"
   },
   "image": "36.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "practical"
     }
   ]
 }

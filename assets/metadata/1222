@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1222",
-  "description": "An adventurous, capitalistic Lesya.",
+  "name": "Traveloger #1222",
+  "description": "A hard-working, optimistic Gena.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "capitalistic b"
+    "race": "Gena",
+    "character": "hard-working a",
+    "ideology": "optimistic a"
   },
   "image": "1222.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "hard-working"
     }
   ]
 }

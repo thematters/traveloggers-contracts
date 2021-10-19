@@ -1,10 +1,10 @@
 {
-  "name": "Matties #256",
-  "description": "A practical, pessimistic Valya.",
+  "name": "Traveloger #256",
+  "description": "A hard-working, skeptical Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "practical a",
-    "ideology": "pessimistic b"
+    "character": "hard-working b",
+    "ideology": "skeptical a"
   },
   "image": "256.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "hard-working"
     }
   ]
 }

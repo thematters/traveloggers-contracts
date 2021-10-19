@@ -1,24 +1,24 @@
 {
-  "name": "Matties #307",
-  "description": "An extroverted, pluralistic Yury.",
+  "name": "Traveloger #307",
+  "description": "An observant, Marxist Sasha.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "pluralistic a"
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "Marxist b"
   },
   "image": "307.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

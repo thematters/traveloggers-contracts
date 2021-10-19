@@ -1,24 +1,24 @@
 {
-  "name": "Matties #625",
-  "description": "An adventurous, capitalistic Lesya.",
+  "name": "Traveloger #625",
+  "description": "A hard-working, individualistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "adventurous a",
-    "ideology": "capitalistic a"
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "individualistic b"
   },
   "image": "625.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "hard-working"
     }
   ]
 }

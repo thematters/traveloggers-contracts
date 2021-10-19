@@ -1,24 +1,24 @@
 {
-  "name": "Matties #8",
-  "description": "An analytical, conservative Gena.",
+  "name": "Traveloger #8",
+  "description": "A hard-working, cynical Lesya.",
   "_visual": {
-    "race": "Gena",
-    "character": "analytical a",
-    "ideology": "conservative b"
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "cynical b"
   },
   "image": "8.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "hard-working"
     }
   ]
 }

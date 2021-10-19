@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1142",
-  "description": "A rebellious, existentialist Lesya.",
+  "name": "Traveloger #1142",
+  "description": "A practical, conservative Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "rebellious a",
-    "ideology": "existentialist b"
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "conservative b"
   },
   "image": "1142.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "practical"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1434",
-  "description": "An adventurous, cosmopolitan Gena.",
+  "name": "Traveloger #1434",
+  "description": "An analytical, individualistic Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "adventurous b",
-    "ideology": "cosmopolitan a"
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "individualistic a"
   },
   "image": "1434.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "analytical"
     }
   ]
 }

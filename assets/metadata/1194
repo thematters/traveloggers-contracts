@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1194",
-  "description": "An imaginative, romantic Gena.",
+  "name": "Traveloger #1194",
+  "description": "A sociable, localist Gena.",
   "_visual": {
     "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "romantic a"
+    "character": "sociable a",
+    "ideology": "localist a"
   },
   "image": "1194.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "sociable"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #584",
-  "description": "A confused, liberal Valya.",
+  "name": "Traveloger #584",
+  "description": "A chic, optimistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "confused a",
-    "ideology": "liberal a"
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "optimistic a"
   },
   "image": "584.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "chic"
     }
   ]
 }

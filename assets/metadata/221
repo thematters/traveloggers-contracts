@@ -1,24 +1,24 @@
 {
-  "name": "Matties #221",
-  "description": "A chic, existentialist Lesya.",
+  "name": "Traveloger #221",
+  "description": "A rebellious, pluralistic Sasha.",
   "_visual": {
-    "race": "Lesya",
-    "character": "chic a",
-    "ideology": "existentialist a"
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "pluralistic a"
   },
   "image": "221.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "rebellious"
     }
   ]
 }

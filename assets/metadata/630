@@ -1,16 +1,16 @@
 {
-  "name": "Matties #630",
-  "description": "An analytical, pessimistic Valya.",
+  "name": "Traveloger #630",
+  "description": "A self-discipline, pessimistic Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "analytical b",
+    "race": "Yury",
+    "character": "self-discipline a",
     "ideology": "pessimistic b"
   },
   "image": "630.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "self-discipline"
     }
   ]
 }

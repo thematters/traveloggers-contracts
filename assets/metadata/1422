@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1422",
-  "description": "A practical, pluralistic Lesya.",
+  "name": "Traveloger #1422",
+  "description": "A down-to-earth, conservative Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "practical b",
-    "ideology": "pluralistic b"
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "conservative a"
   },
   "image": "1422.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "practical"
+      "value": "down-to-earth"
     }
   ]
 }

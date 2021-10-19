@@ -1,24 +1,24 @@
 {
-  "name": "Matties #854",
-  "description": "An extroverted, liberal Yury.",
+  "name": "Traveloger #854",
+  "description": "An observant, existentialist Gena.",
   "_visual": {
-    "race": "Yury",
-    "character": "extroverted b",
-    "ideology": "liberal b"
+    "race": "Gena",
+    "character": "observant a",
+    "ideology": "existentialist b"
   },
   "image": "854.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

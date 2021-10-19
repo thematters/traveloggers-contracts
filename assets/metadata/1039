@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1039",
-  "description": "An exploring, LGBTQ friendly Valya.",
+  "name": "Traveloger #1039",
+  "description": "A chic, pessimistic Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring a",
-    "ideology": "LGBTQ friendly b"
+    "race": "Gena",
+    "character": "chic a",
+    "ideology": "pessimistic a"
   },
   "image": "1039.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "chic"
     }
   ]
 }

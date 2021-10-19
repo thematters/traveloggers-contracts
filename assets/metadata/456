@@ -1,24 +1,24 @@
 {
-  "name": "Matties #456",
-  "description": "A chic, feminist Zhenya.",
+  "name": "Traveloger #456",
+  "description": "A hard-working, rational Gena.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "chic a",
-    "ideology": "feminist b"
+    "race": "Gena",
+    "character": "hard-working b",
+    "ideology": "rational b"
   },
   "image": "456.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "hard-working"
     }
   ]
 }

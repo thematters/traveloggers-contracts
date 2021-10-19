@@ -1,24 +1,24 @@
 {
-  "name": "Matties #633",
-  "description": "A hard-working, pacifist Zhenya.",
+  "name": "Traveloger #633",
+  "description": "A chic, pessimistic Yury.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "hard-working a",
-    "ideology": "pacifist b"
+    "race": "Yury",
+    "character": "chic b",
+    "ideology": "pessimistic b"
   },
   "image": "633.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "chic"
     }
   ]
 }

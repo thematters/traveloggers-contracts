@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1056",
-  "description": "An observant, nationalistic Zhenya.",
+  "name": "Traveloger #1056",
+  "description": "A practical, collectivistic Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "observant a",
-    "ideology": "nationalistic a"
+    "race": "Valya",
+    "character": "practical b",
+    "ideology": "collectivistic b"
   },
   "image": "1056.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "practical"
     }
   ]
 }

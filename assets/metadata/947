@@ -1,24 +1,24 @@
 {
-  "name": "Matties #947",
-  "description": "A rebellious, rational Valya.",
+  "name": "Traveloger #947",
+  "description": "An extroverted, skeptical Yury.",
   "_visual": {
-    "race": "Valya",
-    "character": "rebellious a",
-    "ideology": "rational a"
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "skeptical b"
   },
   "image": "947.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

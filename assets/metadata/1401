@@ -1,10 +1,10 @@
 {
-  "name": "Matties #1401",
-  "description": "An imaginative, romantic Valya.",
+  "name": "Traveloger #1401",
+  "description": "An extroverted, pessimistic Valya.",
   "_visual": {
     "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "romantic b"
+    "character": "extroverted b",
+    "ideology": "pessimistic a"
   },
   "image": "1401.png",
   "attributes": [
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romantic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "extroverted"
     }
   ]
 }

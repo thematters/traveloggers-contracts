@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1490",
-  "description": "An enthusiastic, rational Lesya.",
+  "name": "Traveloger #1490",
+  "description": "An analytical, feminist Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "enthusiastic b",
-    "ideology": "rational a"
+    "race": "Zhenya",
+    "character": "analytical a",
+    "ideology": "feminist a"
   },
   "image": "1490.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

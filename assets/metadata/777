@@ -1,24 +1,24 @@
 {
-  "name": "Matties #777",
-  "description": "A rebellious, cosmopolitan Gena.",
+  "name": "Traveloger #777",
+  "description": "A confused, liberal Zhenya.",
   "_visual": {
-    "race": "Gena",
-    "character": "rebellious a",
-    "ideology": "cosmopolitan a"
+    "race": "Zhenya",
+    "character": "confused a",
+    "ideology": "liberal a"
   },
   "image": "777.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "confused"
     }
   ]
 }

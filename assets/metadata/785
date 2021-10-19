@@ -1,16 +1,16 @@
 {
-  "name": "Matties #785",
-  "description": "An imaginative, Marxist Yury.",
+  "name": "Traveloger #785",
+  "description": "A hard-working, Marxist Valya.",
   "_visual": {
-    "race": "Yury",
-    "character": "imaginative b",
-    "ideology": "Marxist a"
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "Marxist b"
   },
   "image": "785.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Matties #1345",
-  "description": "A determined, cynical Gena.",
+  "name": "Traveloger #1345",
+  "description": "An adventurous, romantic Sasha.",
   "_visual": {
-    "race": "Gena",
-    "character": "determined a",
-    "ideology": "cynical b"
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "romantic b"
   },
   "image": "1345.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "determined"
+      "value": "adventurous"
     }
   ]
 }

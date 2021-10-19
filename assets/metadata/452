@@ -1,24 +1,24 @@
 {
-  "name": "Matties #452",
-  "description": "An imaginative, anarchist Zhenya.",
+  "name": "Traveloger #452",
+  "description": "A confused, conservative Sasha.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "imaginative a",
-    "ideology": "anarchist a"
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "conservative b"
   },
   "image": "452.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "confused"
     }
   ]
 }

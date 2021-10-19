@@ -1,24 +1,24 @@
 {
-  "name": "Matties #733",
-  "description": "A sociable, liberal Lesya.",
+  "name": "Traveloger #733",
+  "description": "An observant, pessimistic Zhenya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "sociable b",
-    "ideology": "liberal a"
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "pessimistic b"
   },
   "image": "733.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "sociable"
+      "value": "observant"
     }
   ]
 }
