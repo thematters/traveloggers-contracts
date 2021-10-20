@@ -1,6 +1,11 @@
 {
-  "name": "Matties #29",
-  "description": "An adventurous, pacifist Gena.",
+  "name": "Traveloger #29",
+  "description": "An adventurous, pragmatist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "pragmatist b"
+  },
   "image": "29.png",
   "attributes": [
     {
@@ -9,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",

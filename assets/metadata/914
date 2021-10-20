@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #914",
+  "description": "A self-discipline, pluralistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "self-discipline a",
+    "ideology": "pluralistic b"
+  },
+  "image": "914.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

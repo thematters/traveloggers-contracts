@@ -1,19 +1,24 @@
 {
-  "name": "Matties #73",
-  "description": "A worldly, capitalistic Zhenya.",
+  "name": "Traveloger #73",
+  "description": "A hard-working, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "pacifist b"
+  },
   "image": "73.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "hard-working"
     }
   ]
 }

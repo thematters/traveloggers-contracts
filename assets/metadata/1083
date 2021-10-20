@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1083",
+  "description": "A confused, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused b",
+    "ideology": "Epicurean a"
+  },
+  "image": "1083.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1427",
+  "description": "An enthusiastic, conservative Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "conservative b"
+  },
+  "image": "1427.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

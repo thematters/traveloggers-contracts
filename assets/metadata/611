@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #611",
+  "description": "A down-to-earth, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "down-to-earth b",
+    "ideology": "nationalistic a"
+  },
+  "image": "611.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

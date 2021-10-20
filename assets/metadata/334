@@ -1,11 +1,16 @@
 {
-  "name": "Matties #334",
-  "description": "A worldly, optimistic Lesya.",
+  "name": "Traveloger #334",
+  "description": "A hard-working, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "optimistic b"
+  },
   "image": "334.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "hard-working"
     }
   ]
 }

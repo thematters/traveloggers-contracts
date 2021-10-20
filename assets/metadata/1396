@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1396",
+  "description": "A rebellious, collectivistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "collectivistic a"
+  },
+  "image": "1396.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

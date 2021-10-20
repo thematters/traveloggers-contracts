@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1369",
+  "description": "An imaginative, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative b",
+    "ideology": "rational b"
+  },
+  "image": "1369.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

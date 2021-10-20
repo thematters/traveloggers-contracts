@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1127",
+  "description": "A hard-working, skeptical Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "skeptical b"
+  },
+  "image": "1127.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

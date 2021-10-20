@@ -1,19 +1,24 @@
 {
-  "name": "Matties #477",
-  "description": "A rebellious, pacifist Valya.",
+  "name": "Traveloger #477",
+  "description": "A practical, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "practical a",
+    "ideology": "optimistic a"
+  },
   "image": "477.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "practical"
     }
   ]
 }

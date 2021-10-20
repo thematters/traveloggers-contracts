@@ -1,19 +1,24 @@
 {
-  "name": "Matties #197",
-  "description": "An extroverted, pluralistic Yury.",
+  "name": "Traveloger #197",
+  "description": "A compassionate, localist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "compassionate a",
+    "ideology": "localist b"
+  },
   "image": "197.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

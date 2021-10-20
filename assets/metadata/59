@@ -1,19 +1,24 @@
 {
-  "name": "Matties #59",
-  "description": "A confused, optimistic Zhenya.",
+  "name": "Traveloger #59",
+  "description": "A rebellious, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "individualistic a"
+  },
   "image": "59.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

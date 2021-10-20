@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #823",
+  "description": "A down-to-earth, existentialist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "down-to-earth a",
+    "ideology": "existentialist b"
+  },
+  "image": "823.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

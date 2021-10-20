@@ -1,6 +1,11 @@
 {
-  "name": "Matties #72",
-  "description": "An imaginative, pragmatist Valya.",
+  "name": "Traveloger #72",
+  "description": "An introverted, romantic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted a",
+    "ideology": "romantic a"
+  },
   "image": "72.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "introverted"
     }
   ]
 }

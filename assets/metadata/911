@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #911",
+  "description": "An analytical, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "analytical b",
+    "ideology": "anarchist b"
+  },
+  "image": "911.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

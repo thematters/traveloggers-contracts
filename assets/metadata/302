@@ -1,19 +1,24 @@
 {
-  "name": "Matties #302",
-  "description": "An unswerving, pragmatist Zhenya.",
+  "name": "Traveloger #302",
+  "description": "An exploring, pacifist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pacifist a"
+  },
   "image": "302.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "exploring"
     }
   ]
 }

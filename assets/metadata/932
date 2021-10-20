@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #932",
+  "description": "A compassionate, LGBTQ friendly Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "932.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

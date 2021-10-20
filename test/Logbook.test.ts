@@ -8,7 +8,7 @@ chai.use(solidity);
 const { expect } = chai;
 
 const deployLogbook = async () => {
-  const Logbook = await ethers.getContractFactory("Matty");
+  const Logbook = await ethers.getContractFactory("Traveloger");
   const logbookContract = await Logbook.deploy(
     "Logbook_Tester",
     "LTT",

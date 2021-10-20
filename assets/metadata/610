@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #610",
+  "description": "A hard-working, pacifist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "pacifist b"
+  },
+  "image": "610.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

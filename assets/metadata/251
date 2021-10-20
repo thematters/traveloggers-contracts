@@ -1,19 +1,24 @@
 {
-  "name": "Matties #251",
-  "description": "A diligent, pacifist Zhenya.",
+  "name": "Traveloger #251",
+  "description": "A compassionate, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "251.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "compassionate"
     }
   ]
 }

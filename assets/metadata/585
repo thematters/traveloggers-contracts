@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #585",
+  "description": "A chic, existentialist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "existentialist b"
+  },
+  "image": "585.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

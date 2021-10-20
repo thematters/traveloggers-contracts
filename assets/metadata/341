@@ -1,11 +1,16 @@
 {
-  "name": "Matties #341",
-  "description": "An extroverted, nationalistic Gena.",
+  "name": "Traveloger #341",
+  "description": "A practical, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical a",
+    "ideology": "nationalistic a"
+  },
   "image": "341.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

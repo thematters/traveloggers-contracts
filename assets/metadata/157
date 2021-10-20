@@ -1,6 +1,11 @@
 {
-  "name": "Matties #157",
-  "description": "A self-discipline, pluralistic Yury.",
+  "name": "Traveloger #157",
+  "description": "A sociable, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "157.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "sociable"
     }
   ]
 }

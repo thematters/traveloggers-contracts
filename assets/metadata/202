@@ -1,19 +1,24 @@
 {
-  "name": "Matties #202",
-  "description": "A rebellious, LGBTQ friendly Lesya.",
+  "name": "Traveloger #202",
+  "description": "A chic, Marxist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "chic b",
+    "ideology": "Marxist b"
+  },
   "image": "202.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "chic"
     }
   ]
 }

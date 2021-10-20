@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1487",
+  "description": "A self-discipline, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "Epicurean b"
+  },
+  "image": "1487.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #503",
+  "description": "A determined, pacifist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "pacifist b"
+  },
+  "image": "503.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

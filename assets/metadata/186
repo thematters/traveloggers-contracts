@@ -1,19 +1,24 @@
 {
-  "name": "Matties #186",
-  "description": "A compassionate, liberal Zhenya.",
+  "name": "Traveloger #186",
+  "description": "An imaginative, cynical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative a",
+    "ideology": "cynical a"
+  },
   "image": "186.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "imaginative"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #415",
-  "description": "An analytical, LGBTQ friendly Lesya.",
+  "name": "Traveloger #415",
+  "description": "An introverted, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "nationalistic a"
+  },
   "image": "415.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

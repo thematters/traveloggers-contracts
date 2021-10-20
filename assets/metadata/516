@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #516",
+  "description": "A determined, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "pluralistic a"
+  },
+  "image": "516.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

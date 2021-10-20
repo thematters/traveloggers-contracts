@@ -1,6 +1,11 @@
 {
-  "name": "Matties #287",
-  "description": "A compassionate, skeptical Yury.",
+  "name": "Traveloger #287",
+  "description": "An introverted, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "pessimistic b"
+  },
   "image": "287.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "introverted"
     }
   ]
 }

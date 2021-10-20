@@ -1,19 +1,24 @@
 {
-  "name": "Matties #130",
-  "description": "An energetic, LGBTQ friendly Yury.",
+  "name": "Traveloger #130",
+  "description": "An adventurous, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "pluralistic b"
+  },
   "image": "130.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

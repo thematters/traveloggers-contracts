@@ -1,19 +1,24 @@
 {
-  "name": "Matties #404",
-  "description": "An enthusiastic, Marxist Gena.",
+  "name": "Traveloger #404",
+  "description": "A determined, pacifist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "pacifist b"
+  },
   "image": "404.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

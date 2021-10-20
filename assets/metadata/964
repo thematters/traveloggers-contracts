@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #964",
+  "description": "An observant, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "observant a",
+    "ideology": "localist b"
+  },
+  "image": "964.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

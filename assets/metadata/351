@@ -1,19 +1,24 @@
 {
-  "name": "Matties #351",
-  "description": "A nonchalant, Marxist Lesya.",
+  "name": "Traveloger #351",
+  "description": "An extroverted, romantic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "romantic a"
+  },
   "image": "351.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

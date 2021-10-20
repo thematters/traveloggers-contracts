@@ -1,19 +1,24 @@
 {
-  "name": "Matties #227",
-  "description": "An enthusiastic, individualistic Valya.",
+  "name": "Traveloger #227",
+  "description": "An extroverted, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "extroverted b",
+    "ideology": "cosmopolitan b"
+  },
   "image": "227.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

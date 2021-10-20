@@ -1,15 +1,20 @@
 {
-  "name": "Matties #434",
-  "description": "An analytical, feminist Yury.",
+  "name": "Traveloger #434",
+  "description": "An analytical, romantic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "analytical b",
+    "ideology": "romantic a"
+  },
   "image": "434.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",

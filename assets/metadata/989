@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #989",
+  "description": "A hard-working, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "rational b"
+  },
+  "image": "989.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

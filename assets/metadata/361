@@ -1,19 +1,24 @@
 {
-  "name": "Matties #361",
-  "description": "A rebellious, nationalistic Gena.",
+  "name": "Traveloger #361",
+  "description": "An adventurous, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous b",
+    "ideology": "Epicurean a"
+  },
   "image": "361.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "adventurous"
     }
   ]
 }

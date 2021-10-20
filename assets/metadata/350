@@ -1,6 +1,11 @@
 {
-  "name": "Matties #350",
-  "description": "A nonchalant, collectivistic Gena.",
+  "name": "Traveloger #350",
+  "description": "An extroverted, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "collectivistic b"
+  },
   "image": "350.png",
   "attributes": [
     {
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "extroverted"
     }
   ]
 }

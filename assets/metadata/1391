@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1391",
+  "description": "An enthusiastic, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "pragmatist b"
+  },
+  "image": "1391.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

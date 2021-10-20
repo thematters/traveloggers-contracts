@@ -1,11 +1,16 @@
 {
-  "name": "Matties #219",
-  "description": "A diligent, pragmatist Yury.",
+  "name": "Traveloger #219",
+  "description": "An analytical, pragmatist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "pragmatist b"
+  },
   "image": "219.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "analytical"
     }
   ]
 }

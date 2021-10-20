@@ -1,11 +1,16 @@
 {
-  "name": "Matties #377",
-  "description": "A rebellious, individualistic Yury.",
+  "name": "Traveloger #377",
+  "description": "An extroverted, individualistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "individualistic b"
+  },
   "image": "377.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "extroverted"
     }
   ]
 }

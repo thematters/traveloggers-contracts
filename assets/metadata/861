@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #861",
+  "description": "An exploring, pragmatist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "pragmatist b"
+  },
+  "image": "861.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

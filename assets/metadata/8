@@ -1,19 +1,24 @@
 {
-  "name": "Matties #8",
-  "description": "A rebellious, individualistic Sasha.",
+  "name": "Traveloger #8",
+  "description": "A hard-working, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "cynical b"
+  },
   "image": "8.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "hard-working"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #195",
-  "description": "A compassionate, conservative Yury.",
+  "name": "Traveloger #195",
+  "description": "A rebellious, liberal Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious a",
+    "ideology": "liberal b"
+  },
   "image": "195.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "rebellious"
     }
   ]
 }

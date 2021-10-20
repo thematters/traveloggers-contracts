@@ -1,11 +1,16 @@
 {
-  "name": "Matties #94",
-  "description": "A worldly, cosmopolitan Gena.",
+  "name": "Traveloger #94",
+  "description": "A determined, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "cosmopolitan a"
+  },
   "image": "94.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "determined"
     }
   ]
 }

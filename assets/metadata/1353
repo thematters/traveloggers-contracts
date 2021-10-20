@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1353",
+  "description": "An extroverted, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "individualistic b"
+  },
+  "image": "1353.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

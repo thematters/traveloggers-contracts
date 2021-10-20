@@ -1,6 +1,11 @@
 {
-  "name": "Matties #322",
-  "description": "A down-to-earth, optimistic Gena.",
+  "name": "Traveloger #322",
+  "description": "A confused, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "322.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "confused"
     }
   ]
 }

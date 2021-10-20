@@ -1,15 +1,20 @@
 {
-  "name": "Matties #175",
-  "description": "A compassionate, Epicurean Gena.",
+  "name": "Traveloger #175",
+  "description": "A compassionate, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "nationalistic a"
+  },
   "image": "175.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",

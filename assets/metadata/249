@@ -1,19 +1,24 @@
 {
-  "name": "Matties #249",
-  "description": "An extroverted, individualistic Valya.",
+  "name": "Traveloger #249",
+  "description": "A compassionate, feminist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "feminist a"
+  },
   "image": "249.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1264",
+  "description": "A compassionate, cosmopolitan Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1264.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

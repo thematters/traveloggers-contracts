@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #710",
+  "description": "A nonchalant, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "Epicurean a"
+  },
+  "image": "710.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

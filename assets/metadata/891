@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #891",
+  "description": "A self-discipline, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "self-discipline b",
+    "ideology": "conservative a"
+  },
+  "image": "891.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

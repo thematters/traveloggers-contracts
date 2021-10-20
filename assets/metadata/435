@@ -1,11 +1,16 @@
 {
-  "name": "Matties #435",
-  "description": "An enthusiastic, skeptical Yury.",
+  "name": "Traveloger #435",
+  "description": "An extroverted, skeptical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "skeptical b"
+  },
   "image": "435.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

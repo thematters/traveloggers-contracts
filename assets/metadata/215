@@ -1,19 +1,24 @@
 {
-  "name": "Matties #215",
-  "description": "An unswerving, feminist Sasha.",
+  "name": "Traveloger #215",
+  "description": "A practical, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "Epicurean b"
+  },
   "image": "215.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "practical"
     }
   ]
 }

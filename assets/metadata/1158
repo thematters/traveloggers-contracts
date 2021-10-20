@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1158",
+  "description": "A nonchalant, anarchist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "nonchalant a",
+    "ideology": "anarchist a"
+  },
+  "image": "1158.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #940",
+  "description": "A self-discipline, anarchist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "anarchist a"
+  },
+  "image": "940.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

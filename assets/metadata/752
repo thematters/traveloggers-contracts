@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #752",
+  "description": "An extroverted, localist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "localist a"
+  },
+  "image": "752.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

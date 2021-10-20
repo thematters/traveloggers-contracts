@@ -1,19 +1,24 @@
 {
-  "name": "Matties #221",
-  "description": "A self-discipline, conservative Gena.",
+  "name": "Traveloger #221",
+  "description": "A rebellious, pluralistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "pluralistic a"
+  },
   "image": "221.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "rebellious"
     }
   ]
 }

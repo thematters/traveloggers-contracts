@@ -1,19 +1,24 @@
 {
-  "name": "Matties #412",
-  "description": "A confused, nationalistic Sasha.",
+  "name": "Traveloger #412",
+  "description": "A down-to-earth, Marxist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "Marxist b"
+  },
   "image": "412.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "down-to-earth"
     }
   ]
 }

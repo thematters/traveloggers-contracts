@@ -1,19 +1,24 @@
 {
-  "name": "Matties #121",
-  "description": "An observant, pragmatist Yury.",
+  "name": "Traveloger #121",
+  "description": "An enthusiastic, optimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "optimistic a"
+  },
   "image": "121.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "enthusiastic"
     }
   ]
 }

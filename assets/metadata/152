@@ -1,19 +1,24 @@
 {
-  "name": "Matties #152",
-  "description": "An enthusiastic, romatic Lesya.",
+  "name": "Traveloger #152",
+  "description": "A self-discipline, feminist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline b",
+    "ideology": "feminist b"
+  },
   "image": "152.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "self-discipline"
     }
   ]
 }

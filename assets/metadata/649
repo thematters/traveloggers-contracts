@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #649",
+  "description": "A rebellious, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "rebellious b",
+    "ideology": "pacifist a"
+  },
+  "image": "649.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #133",
-  "description": "An extroverted, romatic Zhenya.",
+  "name": "Traveloger #133",
+  "description": "A determined, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "cynical b"
+  },
   "image": "133.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "determined"
     }
   ]
 }

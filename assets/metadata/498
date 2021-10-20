@@ -1,6 +1,11 @@
 {
-  "name": "Matties #498",
-  "description": "A down-to-earth, LGBTQ friendly Lesya.",
+  "name": "Traveloger #498",
+  "description": "A compassionate, feminist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "feminist b"
+  },
   "image": "498.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

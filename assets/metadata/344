@@ -1,19 +1,24 @@
 {
-  "name": "Matties #344",
-  "description": "An energetic, Marxist Yury.",
+  "name": "Traveloger #344",
+  "description": "An analytical, liberal Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "liberal a"
+  },
   "image": "344.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "analytical"
     }
   ]
 }

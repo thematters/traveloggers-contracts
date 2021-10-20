@@ -1,19 +1,24 @@
 {
-  "name": "Matties #145",
-  "description": "An introverted, capitalistic Gena.",
+  "name": "Traveloger #145",
+  "description": "A confused, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "pacifist a"
+  },
   "image": "145.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "confused"
     }
   ]
 }

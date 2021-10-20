@@ -1,6 +1,11 @@
 {
-  "name": "Matties #151",
-  "description": "A worldly, individualistic Gena.",
+  "name": "Traveloger #151",
+  "description": "An adventurous, optimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "optimistic b"
+  },
   "image": "151.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "adventurous"
     }
   ]
 }

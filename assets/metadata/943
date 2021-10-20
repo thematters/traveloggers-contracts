@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #943",
+  "description": "A chic, LGBTQ friendly Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic b",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "943.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

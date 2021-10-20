@@ -1,19 +1,24 @@
 {
-  "name": "Matties #400",
-  "description": "An energetic, pacifist Gena.",
+  "name": "Traveloger #400",
+  "description": "An adventurous, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous a",
+    "ideology": "anarchist b"
+  },
   "image": "400.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #363",
-  "description": "A nonchalant, romatic Lesya.",
+  "name": "Traveloger #363",
+  "description": "A self-discipline, collectivistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "self-discipline b",
+    "ideology": "collectivistic a"
+  },
   "image": "363.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "self-discipline"
     }
   ]
 }

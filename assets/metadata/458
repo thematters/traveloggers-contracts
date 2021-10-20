@@ -1,19 +1,24 @@
 {
-  "name": "Matties #458",
-  "description": "A confused, liberal Gena.",
+  "name": "Traveloger #458",
+  "description": "A compassionate, cosmopolitan Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "cosmopolitan b"
+  },
   "image": "458.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
   ]
 }

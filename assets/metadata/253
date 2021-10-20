@@ -1,19 +1,24 @@
 {
-  "name": "Matties #253",
-  "description": "An adventurous, pragmatist Gena.",
+  "name": "Traveloger #253",
+  "description": "A sociable, collectivistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "collectivistic a"
+  },
   "image": "253.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "sociable"
     }
   ]
 }

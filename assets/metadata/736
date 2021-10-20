@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #736",
+  "description": "A practical, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "736.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

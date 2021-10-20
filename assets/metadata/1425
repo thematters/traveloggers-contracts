@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1425",
+  "description": "An adventurous, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "conservative a"
+  },
+  "image": "1425.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #115",
-  "description": "An extroverted, pragmatist Yury.",
+  "name": "Traveloger #115",
+  "description": "An introverted, LGBTQ friendly Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "115.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

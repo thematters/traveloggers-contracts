@@ -1,11 +1,16 @@
 {
-  "name": "Matties #196",
-  "description": "An analytical, nationalistic Zhenya.",
+  "name": "Traveloger #196",
+  "description": "A sociable, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "sociable a",
+    "ideology": "nationalistic b"
+  },
   "image": "196.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "sociable"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #373",
-  "description": "A chic, liberal Lesya.",
+  "name": "Traveloger #373",
+  "description": "An extroverted, conservative Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "conservative b"
+  },
   "image": "373.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "extroverted"
     }
   ]
 }

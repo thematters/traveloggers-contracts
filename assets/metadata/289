@@ -1,11 +1,16 @@
 {
-  "name": "Matties #289",
-  "description": "An adventurous, pluralistic Sasha.",
+  "name": "Traveloger #289",
+  "description": "An exploring, pluralistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "pluralistic b"
+  },
   "image": "289.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "exploring"
     }
   ]
 }

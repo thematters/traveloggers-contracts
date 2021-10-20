@@ -1,15 +1,20 @@
 {
-  "name": "Matties #496",
-  "description": "A rebellious, anarchist Yury.",
+  "name": "Traveloger #496",
+  "description": "A rebellious, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious a",
+    "ideology": "Epicurean a"
+  },
   "image": "496.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

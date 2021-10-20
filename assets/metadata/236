@@ -1,6 +1,11 @@
 {
-  "name": "Matties #236",
-  "description": "An unswerving, optimistic Gena.",
+  "name": "Traveloger #236",
+  "description": "An extroverted, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "pluralistic a"
+  },
   "image": "236.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "extroverted"
     }
   ]
 }

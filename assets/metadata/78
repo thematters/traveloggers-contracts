@@ -1,6 +1,11 @@
 {
-  "name": "Matties #78",
-  "description": "An analytical, Epicurean Gena.",
+  "name": "Traveloger #78",
+  "description": "An adventurous, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous a",
+    "ideology": "pluralistic b"
+  },
   "image": "78.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "adventurous"
     }
   ]
 }

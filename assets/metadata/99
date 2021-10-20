@@ -1,19 +1,24 @@
 {
-  "name": "Matties #99",
-  "description": "An energetic, pluralistic Zhenya.",
+  "name": "Traveloger #99",
+  "description": "An exploring, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "99.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "exploring"
     }
   ]
 }

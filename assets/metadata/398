@@ -1,6 +1,11 @@
 {
-  "name": "Matties #398",
-  "description": "An analytical, optimistic Valya.",
+  "name": "Traveloger #398",
+  "description": "An analytical, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "liberal b"
+  },
   "image": "398.png",
   "attributes": [
     {
@@ -9,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

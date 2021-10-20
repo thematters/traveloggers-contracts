@@ -1,6 +1,11 @@
 {
-  "name": "Matties #26",
-  "description": "A self-discipline, individualistic Gena.",
+  "name": "Traveloger #26",
+  "description": "An enthusiastic, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "capitalistic b"
+  },
   "image": "26.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #252",
-  "description": "An imaginative, individualistic Gena.",
+  "name": "Traveloger #252",
+  "description": "A compassionate, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "Epicurean b"
+  },
   "image": "252.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #191",
-  "description": "An unswerving, pragmatist Yury.",
+  "name": "Traveloger #191",
+  "description": "A rebellious, collectivistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "rebellious b",
+    "ideology": "collectivistic b"
+  },
   "image": "191.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "rebellious"
     }
   ]
 }

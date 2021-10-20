@@ -1,6 +1,11 @@
 {
-  "name": "Matties #208",
-  "description": "A nonchalant, conservative Sasha.",
+  "name": "Traveloger #208",
+  "description": "A chic, individualistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic a",
+    "ideology": "individualistic a"
+  },
   "image": "208.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "chic"
     }
   ]
 }

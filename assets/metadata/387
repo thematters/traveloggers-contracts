@@ -1,11 +1,16 @@
 {
-  "name": "Matties #387",
-  "description": "An imaginative, individualistic Zhenya.",
+  "name": "Traveloger #387",
+  "description": "A self-discipline, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "individualistic b"
+  },
   "image": "387.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "self-discipline"
     }
   ]
 }

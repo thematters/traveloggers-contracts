@@ -1,6 +1,11 @@
 {
-  "name": "Matties #297",
-  "description": "A worldly, skeptical Lesya.",
+  "name": "Traveloger #297",
+  "description": "A nonchalant, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "cynical a"
+  },
   "image": "297.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "nonchalant"
     }
   ]
 }

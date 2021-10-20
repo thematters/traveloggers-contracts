@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #851",
+  "description": "An extroverted, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted a",
+    "ideology": "anarchist a"
+  },
+  "image": "851.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

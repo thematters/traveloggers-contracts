@@ -1,19 +1,24 @@
 {
-  "name": "Matties #419",
-  "description": "An introverted, cynical Lesya.",
+  "name": "Traveloger #419",
+  "description": "An exploring, pacifist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "exploring a",
+    "ideology": "pacifist b"
+  },
   "image": "419.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "exploring"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #494",
-  "description": "An enthusiastic, existentialist Gena.",
+  "name": "Traveloger #494",
+  "description": "An analytical, conservative Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "conservative b"
+  },
   "image": "494.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "analytical"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #190",
-  "description": "An energetic, cosmopolitan Zhenya.",
+  "name": "Traveloger #190",
+  "description": "A practical, nationalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "nationalistic a"
+  },
   "image": "190.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "practical"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #95",
-  "description": "A confused, optimistic Valya.",
+  "name": "Traveloger #95",
+  "description": "An imaginative, nationalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "nationalistic a"
+  },
   "image": "95.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "imaginative"
     }
   ]
 }

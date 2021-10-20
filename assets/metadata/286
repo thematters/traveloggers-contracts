@@ -1,19 +1,24 @@
 {
-  "name": "Matties #286",
-  "description": "An enthusiastic, Epicurean Valya.",
+  "name": "Traveloger #286",
+  "description": "An imaginative, feminist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "imaginative a",
+    "ideology": "feminist b"
+  },
   "image": "286.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "imaginative"
     }
   ]
 }

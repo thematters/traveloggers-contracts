@@ -1,6 +1,11 @@
 {
-  "name": "Matties #209",
-  "description": "An extroverted, conservative Valya.",
+  "name": "Traveloger #209",
+  "description": "An exploring, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "nationalistic a"
+  },
   "image": "209.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "exploring"
     }
   ]
 }

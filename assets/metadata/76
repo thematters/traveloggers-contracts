@@ -1,19 +1,24 @@
 {
-  "name": "Matties #76",
-  "description": "An extroverted, romatic Zhenya.",
+  "name": "Traveloger #76",
+  "description": "A practical, pessimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "practical b",
+    "ideology": "pessimistic b"
+  },
   "image": "76.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1260",
+  "description": "A down-to-earth, nationalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth a",
+    "ideology": "nationalistic a"
+  },
+  "image": "1260.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

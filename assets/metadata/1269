@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1269",
+  "description": "A down-to-earth, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "capitalistic b"
+  },
+  "image": "1269.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

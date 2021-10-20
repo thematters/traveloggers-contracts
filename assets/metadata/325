@@ -1,19 +1,24 @@
 {
-  "name": "Matties #325",
-  "description": "An enthusiastic, capitalistic Yury.",
+  "name": "Traveloger #325",
+  "description": "An extroverted, rational Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted a",
+    "ideology": "rational b"
+  },
   "image": "325.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "extroverted"
     }
   ]
 }

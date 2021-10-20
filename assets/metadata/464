@@ -1,19 +1,24 @@
 {
-  "name": "Matties #464",
-  "description": "An observant, collectivistic Sasha.",
+  "name": "Traveloger #464",
+  "description": "An adventurous, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "464.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

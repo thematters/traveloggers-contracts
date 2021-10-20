@@ -1,11 +1,16 @@
 {
-  "name": "Matties #23",
-  "description": "An enthusiastic, optimistic Sasha.",
+  "name": "Traveloger #23",
+  "description": "An adventurous, optimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "optimistic a"
+  },
   "image": "23.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "adventurous"
     }
   ]
 }

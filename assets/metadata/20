@@ -1,19 +1,24 @@
 {
-  "name": "Matties #20",
-  "description": "A gregarious, anarchist Zhenya.",
+  "name": "Traveloger #20",
+  "description": "An adventurous, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "Epicurean b"
+  },
   "image": "20.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #885",
+  "description": "An introverted, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "existentialist a"
+  },
+  "image": "885.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

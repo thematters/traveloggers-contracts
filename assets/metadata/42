@@ -1,15 +1,20 @@
 {
-  "name": "Matties #42",
-  "description": "An analytical, optimistic Valya.",
+  "name": "Traveloger #42",
+  "description": "An analytical, LGBTQ friendly Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "42.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",

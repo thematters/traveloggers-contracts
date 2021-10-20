@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #726",
+  "description": "A sociable, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "sociable a",
+    "ideology": "capitalistic b"
+  },
+  "image": "726.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

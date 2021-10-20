@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1086",
+  "description": "An introverted, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "pessimistic a"
+  },
+  "image": "1086.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

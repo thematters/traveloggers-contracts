@@ -1,6 +1,11 @@
 {
-  "name": "Matties #307",
-  "description": "An extroverted, conservative Sasha.",
+  "name": "Traveloger #307",
+  "description": "An observant, Marxist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "Marxist b"
+  },
   "image": "307.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

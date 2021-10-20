@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #819",
+  "description": "An enthusiastic, pluralistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "pluralistic a"
+  },
+  "image": "819.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

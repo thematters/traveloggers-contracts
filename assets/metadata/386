@@ -1,19 +1,24 @@
 {
-  "name": "Matties #386",
-  "description": "A gregarious, skeptical Sasha.",
+  "name": "Traveloger #386",
+  "description": "An enthusiastic, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "pessimistic b"
+  },
   "image": "386.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "enthusiastic"
     }
   ]
 }

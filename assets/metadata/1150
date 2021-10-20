@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1150",
+  "description": "An exploring, cosmopolitan Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1150.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

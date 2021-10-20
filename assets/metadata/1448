@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1448",
+  "description": "A practical, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1448.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

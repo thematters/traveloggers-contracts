@@ -1,19 +1,24 @@
 {
-  "name": "Matties #216",
-  "description": "An unswerving, cynical Valya.",
+  "name": "Traveloger #216",
+  "description": "A chic, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "chic b",
+    "ideology": "Epicurean b"
+  },
   "image": "216.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "chic"
     }
   ]
 }

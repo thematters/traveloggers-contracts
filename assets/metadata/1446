@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1446",
+  "description": "An analytical, liberal Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "liberal b"
+  },
+  "image": "1446.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #986",
+  "description": "A hard-working, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "existentialist a"
+  },
+  "image": "986.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

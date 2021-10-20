@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1348",
+  "description": "A compassionate, Epicurean Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "Epicurean a"
+  },
+  "image": "1348.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

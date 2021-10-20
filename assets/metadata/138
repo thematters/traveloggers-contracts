@@ -1,6 +1,11 @@
 {
-  "name": "Matties #138",
-  "description": "A gregarious, individualistic Yury.",
+  "name": "Traveloger #138",
+  "description": "An exploring, pacifist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "exploring b",
+    "ideology": "pacifist b"
+  },
   "image": "138.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "exploring"
     }
   ]
 }

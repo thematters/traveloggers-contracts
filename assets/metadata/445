@@ -1,6 +1,11 @@
 {
-  "name": "Matties #445",
-  "description": "An extroverted, pluralistic Yury.",
+  "name": "Traveloger #445",
+  "description": "A sociable, anarchist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "sociable b",
+    "ideology": "anarchist a"
+  },
   "image": "445.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "sociable"
     }
   ]
 }

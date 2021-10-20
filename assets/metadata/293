@@ -1,15 +1,20 @@
 {
-  "name": "Matties #293",
-  "description": "A confused, nationalistic Sasha.",
+  "name": "Traveloger #293",
+  "description": "A confused, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "existentialist a"
+  },
   "image": "293.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "nationalistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",

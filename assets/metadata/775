@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #775",
+  "description": "An observant, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "observant b",
+    "ideology": "pessimistic a"
+  },
+  "image": "775.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #312",
-  "description": "An energetic, feminist Lesya.",
+  "name": "Traveloger #312",
+  "description": "A practical, conservative Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "conservative b"
+  },
   "image": "312.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "practical"
     }
   ]
 }

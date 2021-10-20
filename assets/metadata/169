@@ -1,19 +1,24 @@
 {
-  "name": "Matties #169",
-  "description": "A nonchalant, localist Yury.",
+  "name": "Traveloger #169",
+  "description": "An analytical, pessimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "pessimistic b"
+  },
   "image": "169.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

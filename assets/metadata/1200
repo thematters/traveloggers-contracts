@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1200",
+  "description": "A determined, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "pessimistic b"
+  },
+  "image": "1200.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

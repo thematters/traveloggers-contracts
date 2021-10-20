@@ -1,19 +1,24 @@
 {
-  "name": "Matties #35",
-  "description": "A self-discipline, capitalistic Zhenya.",
+  "name": "Traveloger #35",
+  "description": "An enthusiastic, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "enthusiastic b",
+    "ideology": "romantic b"
+  },
   "image": "35.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

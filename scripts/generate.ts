@@ -39,9 +39,19 @@ const main = async () => {
   // both ideology and character can repeat twice
   const candidates = [] as { [key: string]: string }[];
   races.map((race) =>
-    [...ideologies, ...ideologies].map((ideology) =>
-      [...characters, ...characters].map((character) =>
-        candidates.push({ race, ideology, character })
+    ideologies.map((ideology) =>
+      ["a", "b"].map((ideology_accessory_type) =>
+        characters.map((character) =>
+          ["a", "b"].map((character_accessory_type) =>
+            candidates.push({
+              race,
+              ideology,
+              ideology_accessory_type,
+              character,
+              character_accessory_type,
+            })
+          )
+        )
       )
     )
   );
@@ -54,9 +64,15 @@ const main = async () => {
 
   for (let id = 1; id <= totalSupply; id++) {
     // random sample one combination
-    const { race, character, ideology } = sample(candidates, false);
+    const {
+      race,
+      character,
+      ideology,
+      ideology_accessory_type,
+      character_accessory_type,
+    } = sample(candidates, false);
 
-    const name = `Matties #${id}`;
+    const name = `Traveloger #${id}`;
 
     // assemble metadata
     const creature = {
@@ -64,6 +80,12 @@ const main = async () => {
       description: `${capitalize(
         Articles.articlize(character)
       )}, ${ideology} ${race}.`,
+      // used for visual design
+      _visual: {
+        race,
+        character: `${character} ${character_accessory_type}`,
+        ideology: `${ideology} ${ideology_accessory_type}`,
+      },
       image: `${id}.png`,
       attributes: [
         {

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1482",
+  "description": "A determined, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "determined b",
+    "ideology": "Epicurean b"
+  },
+  "image": "1482.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

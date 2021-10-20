@@ -1,19 +1,24 @@
 {
-  "name": "Matties #52",
-  "description": "An extroverted, localist Valya.",
+  "name": "Traveloger #52",
+  "description": "A compassionate, pacifist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "pacifist b"
+  },
   "image": "52.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "compassionate"
     }
   ]
 }

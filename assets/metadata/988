@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #988",
+  "description": "An analytical, capitalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "capitalistic b"
+  },
+  "image": "988.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #90",
-  "description": "A diligent, pacifist Zhenya.",
+  "name": "Traveloger #90",
+  "description": "A chic, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "chic b",
+    "ideology": "anarchist a"
+  },
   "image": "90.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "chic"
     }
   ]
 }

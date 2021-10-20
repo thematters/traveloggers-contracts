@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #721",
+  "description": "An enthusiastic, conservative Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic b",
+    "ideology": "conservative b"
+  },
+  "image": "721.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

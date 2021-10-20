@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1262",
+  "description": "A hard-working, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "hard-working b",
+    "ideology": "anarchist a"
+  },
+  "image": "1262.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

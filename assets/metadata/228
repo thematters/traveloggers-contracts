@@ -1,11 +1,16 @@
 {
-  "name": "Matties #228",
-  "description": "An adventurous, LGBTQ friendly Sasha.",
+  "name": "Traveloger #228",
+  "description": "A hard-working, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "hard-working a",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "228.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "hard-working"
     }
   ]
 }

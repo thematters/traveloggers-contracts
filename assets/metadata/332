@@ -1,19 +1,24 @@
 {
-  "name": "Matties #332",
-  "description": "An energetic, rationalist Zhenya.",
+  "name": "Traveloger #332",
+  "description": "A chic, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "rational a"
+  },
   "image": "332.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "chic"
     }
   ]
 }

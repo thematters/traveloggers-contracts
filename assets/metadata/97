@@ -1,19 +1,24 @@
 {
-  "name": "Matties #97",
-  "description": "A chic, Marxist Yury.",
+  "name": "Traveloger #97",
+  "description": "An imaginative, feminist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative a",
+    "ideology": "feminist b"
+  },
   "image": "97.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "imaginative"
     }
   ]
 }

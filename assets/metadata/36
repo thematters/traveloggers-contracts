@@ -1,19 +1,24 @@
 {
-  "name": "Matties #36",
-  "description": "An energetic, Marxist Sasha.",
+  "name": "Traveloger #36",
+  "description": "A practical, existentialist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "existentialist a"
+  },
   "image": "36.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "practical"
     }
   ]
 }

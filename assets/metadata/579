@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #579",
+  "description": "A rebellious, localist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "rebellious b",
+    "ideology": "localist a"
+  },
+  "image": "579.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

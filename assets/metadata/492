@@ -1,19 +1,24 @@
 {
-  "name": "Matties #492",
-  "description": "An adventurous, pessimistic Gena.",
+  "name": "Traveloger #492",
+  "description": "A down-to-earth, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "Epicurean a"
+  },
   "image": "492.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "down-to-earth"
     }
   ]
 }

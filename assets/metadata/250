@@ -1,19 +1,24 @@
 {
-  "name": "Matties #250",
-  "description": "A confused, individualistic Valya.",
+  "name": "Traveloger #250",
+  "description": "A rebellious, Epicurean Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious a",
+    "ideology": "Epicurean b"
+  },
   "image": "250.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

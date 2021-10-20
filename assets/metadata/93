@@ -1,11 +1,16 @@
 {
-  "name": "Matties #93",
-  "description": "An extroverted, collectivistic Gena.",
+  "name": "Traveloger #93",
+  "description": "A hard-working, collectivistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "hard-working a",
+    "ideology": "collectivistic b"
+  },
   "image": "93.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "hard-working"
     }
   ]
 }

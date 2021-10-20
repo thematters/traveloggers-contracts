@@ -1,19 +1,24 @@
 {
-  "name": "Matties #40",
-  "description": "An unswerving, rationalist Yury.",
+  "name": "Traveloger #40",
+  "description": "A practical, pessimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "pessimistic a"
+  },
   "image": "40.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "practical"
     }
   ]
 }

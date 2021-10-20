@@ -1,19 +1,24 @@
 {
-  "name": "Matties #488",
-  "description": "An imaginative, pragmatist Yury.",
+  "name": "Traveloger #488",
+  "description": "A compassionate, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "compassionate a",
+    "ideology": "optimistic a"
+  },
   "image": "488.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,7 +1,7 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getMattyContract, getTaskInputs } from "./utils";
+import { getTravelogerContract, getTaskInputs } from "./utils";
 
 const taskName = "mint:lottery";
 
@@ -18,7 +18,7 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
     console.log(`[${network}:${taskName}] Running task`);
 
     // get contract
-    const matty = await getMattyContract({ network, hardhat });
+    const traveloger = await getTravelogerContract({ network, hardhat });
 
     // read input file
     const { inputs } = await getTaskInputs({
@@ -40,10 +40,12 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
 
     // run task
     try {
-      const tx = await matty.drawLottery(inputs.addresses, inputs.amount);
+      const tx = await traveloger.drawLottery(inputs.addresses, inputs.amount);
 
       // get winners from emitted event
-      const logs = await matty.queryFilter(matty.filters.LotteryWinners());
+      const logs = await traveloger.queryFilter(
+        traveloger.filters.LotteryWinners()
+      );
       const { winners } = logs[0].args;
 
       inputs.winners = winners;

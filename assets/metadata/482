@@ -1,19 +1,24 @@
 {
-  "name": "Matties #482",
-  "description": "An unswerving, anarchist Lesya.",
+  "name": "Traveloger #482",
+  "description": "A self-discipline, pluralistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "self-discipline a",
+    "ideology": "pluralistic a"
+  },
   "image": "482.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "self-discipline"
     }
   ]
 }

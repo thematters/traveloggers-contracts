@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #625",
+  "description": "A hard-working, individualistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "individualistic b"
+  },
+  "image": "625.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

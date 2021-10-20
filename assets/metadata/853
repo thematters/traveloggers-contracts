@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #853",
+  "description": "A self-discipline, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "self-discipline a",
+    "ideology": "Epicurean a"
+  },
+  "image": "853.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

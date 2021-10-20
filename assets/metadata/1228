@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1228",
+  "description": "A hard-working, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "anarchist a"
+  },
+  "image": "1228.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

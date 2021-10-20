@@ -1,6 +1,11 @@
 {
-  "name": "Matties #3",
-  "description": "An unswerving, individualistic Sasha.",
+  "name": "Traveloger #3",
+  "description": "A confused, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "rational b"
+  },
   "image": "3.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "confused"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1143",
+  "description": "An extroverted, LGBTQ friendly Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted a",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "1143.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

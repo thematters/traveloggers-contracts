@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #731",
+  "description": "A determined, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "optimistic a"
+  },
+  "image": "731.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

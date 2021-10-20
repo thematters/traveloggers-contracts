@@ -1,6 +1,11 @@
 {
-  "name": "Matties #44",
-  "description": "A rebellious, skeptical Valya.",
+  "name": "Traveloger #44",
+  "description": "An enthusiastic, optimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "enthusiastic a",
+    "ideology": "optimistic a"
+  },
   "image": "44.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "optimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "enthusiastic"
     }
   ]
 }

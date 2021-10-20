@@ -1,11 +1,16 @@
 {
-  "name": "Matties #243",
-  "description": "An energetic, localist Valya.",
+  "name": "Traveloger #243",
+  "description": "A hard-working, localist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "hard-working a",
+    "ideology": "localist a"
+  },
   "image": "243.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "hard-working"
     }
   ]
 }

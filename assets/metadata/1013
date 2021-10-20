@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1013",
+  "description": "A self-discipline, capitalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "self-discipline a",
+    "ideology": "capitalistic a"
+  },
+  "image": "1013.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

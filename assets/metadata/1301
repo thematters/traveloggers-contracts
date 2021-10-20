@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1301",
+  "description": "An analytical, rational Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical b",
+    "ideology": "rational a"
+  },
+  "image": "1301.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

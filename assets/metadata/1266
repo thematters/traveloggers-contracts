@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1266",
+  "description": "A determined, feminist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "feminist b"
+  },
+  "image": "1266.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

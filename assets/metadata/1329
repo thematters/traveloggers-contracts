@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1329",
+  "description": "A nonchalant, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant a",
+    "ideology": "pacifist b"
+  },
+  "image": "1329.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1347",
+  "description": "A nonchalant, existentialist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "existentialist b"
+  },
+  "image": "1347.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #467",
-  "description": "A nonchalant, existentialist Yury.",
+  "name": "Traveloger #467",
+  "description": "An analytical, cosmopolitan Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "analytical a",
+    "ideology": "cosmopolitan b"
+  },
   "image": "467.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

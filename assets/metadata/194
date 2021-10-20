@@ -1,6 +1,11 @@
 {
-  "name": "Matties #194",
-  "description": "An introverted, skeptical Valya.",
+  "name": "Traveloger #194",
+  "description": "An introverted, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "Epicurean b"
+  },
   "image": "194.png",
   "attributes": [
     {
@@ -9,7 +14,7 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",

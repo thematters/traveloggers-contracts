@@ -1,19 +1,24 @@
 {
-  "name": "Matties #416",
-  "description": "A down-to-earth, individualistic Yury.",
+  "name": "Traveloger #416",
+  "description": "An analytical, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical a",
+    "ideology": "collectivistic b"
+  },
   "image": "416.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "analytical"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1364",
+  "description": "An exploring, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring b",
+    "ideology": "liberal b"
+  },
+  "image": "1364.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

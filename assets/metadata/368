@@ -1,19 +1,24 @@
 {
-  "name": "Matties #368",
-  "description": "An extroverted, Epicurean Lesya.",
+  "name": "Traveloger #368",
+  "description": "A practical, skeptical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "skeptical a"
+  },
   "image": "368.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

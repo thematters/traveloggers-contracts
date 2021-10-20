@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1392",
+  "description": "An adventurous, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "nationalistic a"
+  },
+  "image": "1392.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

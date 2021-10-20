@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #916",
+  "description": "A hard-working, optimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working a",
+    "ideology": "optimistic a"
+  },
+  "image": "916.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

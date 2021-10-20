@@ -1,19 +1,24 @@
 {
-  "name": "Matties #231",
-  "description": "An analytical, liberal Lesya.",
+  "name": "Traveloger #231",
+  "description": "A determined, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "determined b",
+    "ideology": "LGBTQ friendly b"
+  },
   "image": "231.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "determined"
     }
   ]
 }

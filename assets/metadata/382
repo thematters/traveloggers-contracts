@@ -1,11 +1,16 @@
 {
-  "name": "Matties #382",
-  "description": "An adventurous, pacifist Valya.",
+  "name": "Traveloger #382",
+  "description": "A confused, pacifist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "confused b",
+    "ideology": "pacifist a"
+  },
   "image": "382.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "confused"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1332",
+  "description": "An adventurous, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "1332.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

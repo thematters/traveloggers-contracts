@@ -1,19 +1,24 @@
 {
-  "name": "Matties #329",
-  "description": "A down-to-earth, optimistic Sasha.",
+  "name": "Traveloger #329",
+  "description": "An imaginative, pluralistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "imaginative b",
+    "ideology": "pluralistic b"
+  },
   "image": "329.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pluralistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "imaginative"
     }
   ]
 }

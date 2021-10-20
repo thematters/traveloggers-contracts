@@ -1,15 +1,20 @@
 {
-  "name": "Matties #442",
-  "description": "A chic, pluralistic Valya.",
+  "name": "Traveloger #442",
+  "description": "A chic, Marxist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic b",
+    "ideology": "Marxist b"
+  },
   "image": "442.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",

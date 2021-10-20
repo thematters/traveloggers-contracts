@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-export const getMattyContract = async ({
+export const getTravelogerContract = async ({
   network,
   hardhat,
 }: {
@@ -24,11 +24,11 @@ export const getMattyContract = async ({
   }
 
   // read contract instance from adddress
-  const Matty = await hardhat.ethers.getContractFactory("Matty");
-  const matty = Matty.attach(contractAddress);
-  console.log("Read contract from:", matty.address);
+  const Traveloger = await hardhat.ethers.getContractFactory("Traveloger");
+  const traveloger = Traveloger.attach(contractAddress);
+  console.log("Read contract from:", traveloger.address);
 
-  return matty;
+  return traveloger;
 };
 
 export const getTaskInputs = async ({

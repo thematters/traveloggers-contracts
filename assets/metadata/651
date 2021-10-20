@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #651",
+  "description": "An observant, LGBTQ friendly Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "LGBTQ friendly a"
+  },
+  "image": "651.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

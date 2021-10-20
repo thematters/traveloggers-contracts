@@ -1,19 +1,24 @@
 {
-  "name": "Matties #212",
-  "description": "A self-discipline, anarchist Gena.",
+  "name": "Traveloger #212",
+  "description": "A confused, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "romantic a"
+  },
   "image": "212.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "confused"
     }
   ]
 }

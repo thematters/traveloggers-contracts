@@ -1,6 +1,11 @@
 {
-  "name": "Matties #270",
-  "description": "A chic, pacifist Lesya.",
+  "name": "Traveloger #270",
+  "description": "An exploring, feminist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "exploring b",
+    "ideology": "feminist a"
+  },
   "image": "270.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "exploring"
     }
   ]
 }

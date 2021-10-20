@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #765",
+  "description": "An exploring, optimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring a",
+    "ideology": "optimistic b"
+  },
+  "image": "765.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "exploring"
+    }
+  ]
+}

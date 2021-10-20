@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1172",
+  "description": "A determined, liberal Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "determined a",
+    "ideology": "liberal b"
+  },
+  "image": "1172.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

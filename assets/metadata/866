@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #866",
+  "description": "A hard-working, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "cynical b"
+  },
+  "image": "866.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

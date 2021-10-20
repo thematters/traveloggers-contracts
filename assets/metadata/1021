@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1021",
+  "description": "A confused, conservative Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "conservative b"
+  },
+  "image": "1021.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

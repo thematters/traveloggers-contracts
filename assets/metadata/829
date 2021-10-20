@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #829",
+  "description": "A practical, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "pluralistic a"
+  },
+  "image": "829.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #266",
-  "description": "An adventurous, Epicurean Lesya.",
+  "name": "Traveloger #266",
+  "description": "A confused, LGBTQ friendly Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "266.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "confused"
     }
   ]
 }

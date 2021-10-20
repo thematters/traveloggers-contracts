@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #926",
+  "description": "A sociable, rational Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "rational b"
+  },
+  "image": "926.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

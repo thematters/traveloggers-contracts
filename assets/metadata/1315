@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1315",
+  "description": "A chic, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic b",
+    "ideology": "existentialist a"
+  },
+  "image": "1315.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

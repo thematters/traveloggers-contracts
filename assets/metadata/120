@@ -1,15 +1,20 @@
 {
-  "name": "Matties #120",
-  "description": "A down-to-earth, rationalist Lesya.",
+  "name": "Traveloger #120",
+  "description": "A down-to-earth, collectivistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "down-to-earth b",
+    "ideology": "collectivistic a"
+  },
   "image": "120.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",

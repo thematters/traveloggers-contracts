@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #596",
+  "description": "An enthusiastic, pluralistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "enthusiastic b",
+    "ideology": "pluralistic b"
+  },
+  "image": "596.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

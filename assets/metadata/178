@@ -1,19 +1,24 @@
 {
-  "name": "Matties #178",
-  "description": "An adventurous, individualistic Valya.",
+  "name": "Traveloger #178",
+  "description": "An enthusiastic, collectivistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "collectivistic b"
+  },
   "image": "178.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "enthusiastic"
     }
   ]
 }

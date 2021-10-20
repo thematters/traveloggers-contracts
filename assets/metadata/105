@@ -1,6 +1,11 @@
 {
-  "name": "Matties #105",
-  "description": "A down-to-earth, pessimistic Zhenya.",
+  "name": "Traveloger #105",
+  "description": "An extroverted, individualistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted a",
+    "ideology": "individualistic a"
+  },
   "image": "105.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "extroverted"
     }
   ]
 }

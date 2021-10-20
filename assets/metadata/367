@@ -1,11 +1,16 @@
 {
-  "name": "Matties #367",
-  "description": "An observant, pluralistic Gena.",
+  "name": "Traveloger #367",
+  "description": "A chic, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "chic a",
+    "ideology": "pluralistic b"
+  },
   "image": "367.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "chic"
     }
   ]
 }

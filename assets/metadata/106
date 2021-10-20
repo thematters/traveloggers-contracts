@@ -1,19 +1,24 @@
 {
-  "name": "Matties #106",
-  "description": "An enthusiastic, romatic Yury.",
+  "name": "Traveloger #106",
+  "description": "A determined, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "determined a",
+    "ideology": "anarchist a"
+  },
   "image": "106.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "enthusiastic"
+      "value": "determined"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #436",
-  "description": "A diligent, LGBTQ friendly Lesya.",
+  "name": "Traveloger #436",
+  "description": "A chic, individualistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "chic a",
+    "ideology": "individualistic a"
+  },
   "image": "436.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "chic"
     }
   ]
 }

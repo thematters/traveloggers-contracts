@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1380",
+  "description": "A nonchalant, skeptical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "skeptical b"
+  },
+  "image": "1380.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

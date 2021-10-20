@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #686",
+  "description": "An adventurous, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "capitalistic b"
+  },
+  "image": "686.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

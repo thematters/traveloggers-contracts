@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1185",
+  "description": "An observant, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "optimistic b"
+  },
+  "image": "1185.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,11 +1,16 @@
 {
-  "name": "Matties #110",
-  "description": "A chic, pluralistic Lesya.",
+  "name": "Traveloger #110",
+  "description": "A compassionate, pluralistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "pluralistic a"
+  },
   "image": "110.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "compassionate"
     }
   ]
 }

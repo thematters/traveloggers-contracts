@@ -1,19 +1,24 @@
 {
-  "name": "Matties #342",
-  "description": "An adventurous, collectivistic Gena.",
+  "name": "Traveloger #342",
+  "description": "A nonchalant, skeptical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "skeptical a"
+  },
   "image": "342.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "nonchalant"
     }
   ]
 }

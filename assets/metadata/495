@@ -1,19 +1,24 @@
 {
-  "name": "Matties #495",
-  "description": "A gregarious, LGBTQ friendly Sasha.",
+  "name": "Traveloger #495",
+  "description": "A down-to-earth, capitalistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "down-to-earth a",
+    "ideology": "capitalistic a"
+  },
   "image": "495.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "down-to-earth"
     }
   ]
 }

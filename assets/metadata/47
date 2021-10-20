@@ -1,19 +1,24 @@
 {
-  "name": "Matties #47",
-  "description": "A self-discipline, existentialist Yury.",
+  "name": "Traveloger #47",
+  "description": "An observant, skeptical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "observant a",
+    "ideology": "skeptical a"
+  },
   "image": "47.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "observant"
     }
   ]
 }

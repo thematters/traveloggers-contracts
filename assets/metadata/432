@@ -1,19 +1,24 @@
 {
-  "name": "Matties #432",
-  "description": "An unswerving, individualistic Zhenya.",
+  "name": "Traveloger #432",
+  "description": "An analytical, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical a",
+    "ideology": "rational b"
+  },
   "image": "432.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "analytical"
     }
   ]
 }

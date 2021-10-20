@@ -1,19 +1,24 @@
 {
-  "name": "Matties #378",
-  "description": "An introverted, cosmopolitan Yury.",
+  "name": "Traveloger #378",
+  "description": "An enthusiastic, conservative Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "enthusiastic a",
+    "ideology": "conservative a"
+  },
   "image": "378.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "enthusiastic"
     }
   ]
 }

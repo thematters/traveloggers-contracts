@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1032",
+  "description": "A chic, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic a",
+    "ideology": "romantic b"
+  },
+  "image": "1032.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #139",
-  "description": "An unswerving, romatic Lesya.",
+  "name": "Traveloger #139",
+  "description": "A confused, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "cynical a"
+  },
   "image": "139.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "confused"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #849",
+  "description": "A determined, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined b",
+    "ideology": "capitalistic b"
+  },
+  "image": "849.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

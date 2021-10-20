@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #528",
+  "description": "A self-discipline, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "self-discipline a",
+    "ideology": "collectivistic a"
+  },
+  "image": "528.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

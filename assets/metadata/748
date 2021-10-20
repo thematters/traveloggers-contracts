@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #748",
+  "description": "A chic, cynical Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "chic a",
+    "ideology": "cynical b"
+  },
+  "image": "748.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

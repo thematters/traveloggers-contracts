@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1047",
+  "description": "A compassionate, optimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "compassionate b",
+    "ideology": "optimistic b"
+  },
+  "image": "1047.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #353",
-  "description": "A worldly, anarchist Gena.",
+  "name": "Traveloger #353",
+  "description": "An enthusiastic, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "capitalistic a"
+  },
   "image": "353.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "enthusiastic"
     }
   ]
 }

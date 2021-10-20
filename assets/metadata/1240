@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1240",
+  "description": "An extroverted, pacifist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted b",
+    "ideology": "pacifist b"
+  },
+  "image": "1240.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

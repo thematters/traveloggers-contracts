@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1358",
+  "description": "An adventurous, individualistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "adventurous a",
+    "ideology": "individualistic a"
+  },
+  "image": "1358.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

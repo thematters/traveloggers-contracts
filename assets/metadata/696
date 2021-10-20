@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #696",
+  "description": "An introverted, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted b",
+    "ideology": "pragmatist a"
+  },
+  "image": "696.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

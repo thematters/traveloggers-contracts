@@ -1,19 +1,24 @@
 {
-  "name": "Matties #124",
-  "description": "An analytical, anarchist Lesya.",
+  "name": "Traveloger #124",
+  "description": "An introverted, Epicurean Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "Epicurean a"
+  },
   "image": "124.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "introverted"
     }
   ]
 }

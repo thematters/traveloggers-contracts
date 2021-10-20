@@ -1,19 +1,24 @@
 {
-  "name": "Matties #127",
-  "description": "An imaginative, cynical Yury.",
+  "name": "Traveloger #127",
+  "description": "An adventurous, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous b",
+    "ideology": "rational b"
+  },
   "image": "127.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

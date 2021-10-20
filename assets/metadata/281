@@ -1,11 +1,16 @@
 {
-  "name": "Matties #281",
-  "description": "An energetic, skeptical Valya.",
+  "name": "Traveloger #281",
+  "description": "An analytical, skeptical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "analytical a",
+    "ideology": "skeptical b"
+  },
   "image": "281.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -13,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "analytical"
     }
   ]
 }

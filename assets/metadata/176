@@ -1,19 +1,24 @@
 {
-  "name": "Matties #176",
-  "description": "A self-discipline, romatic Yury.",
+  "name": "Traveloger #176",
+  "description": "An enthusiastic, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "anarchist b"
+  },
   "image": "176.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "enthusiastic"
     }
   ]
 }

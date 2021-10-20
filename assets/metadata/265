@@ -1,19 +1,24 @@
 {
-  "name": "Matties #265",
-  "description": "A self-discipline, localist Zhenya.",
+  "name": "Traveloger #265",
+  "description": "A compassionate, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate b",
+    "ideology": "pessimistic a"
+  },
   "image": "265.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "compassionate"
     }
   ]
 }

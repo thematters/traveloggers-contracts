@@ -1,6 +1,11 @@
 {
-  "name": "Matties #272",
-  "description": "A nonchalant, optimistic Zhenya.",
+  "name": "Traveloger #272",
+  "description": "An analytical, skeptical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "analytical b",
+    "ideology": "skeptical a"
+  },
   "image": "272.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "analytical"
     }
   ]
 }

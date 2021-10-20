@@ -1,19 +1,24 @@
 {
-  "name": "Matties #257",
-  "description": "An extroverted, feminist Sasha.",
+  "name": "Traveloger #257",
+  "description": "An introverted, existentialist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "introverted b",
+    "ideology": "existentialist b"
+  },
   "image": "257.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "introverted"
     }
   ]
 }

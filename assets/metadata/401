@@ -1,19 +1,24 @@
 {
-  "name": "Matties #401",
-  "description": "A rebellious, localist Valya.",
+  "name": "Traveloger #401",
+  "description": "A practical, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "practical a",
+    "ideology": "romantic a"
+  },
   "image": "401.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "practical"
     }
   ]
 }

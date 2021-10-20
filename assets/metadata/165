@@ -1,19 +1,24 @@
 {
-  "name": "Matties #165",
-  "description": "An energetic, optimistic Zhenya.",
+  "name": "Traveloger #165",
+  "description": "A practical, Epicurean Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "Epicurean b"
+  },
   "image": "165.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "Epicurean"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "practical"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #88",
-  "description": "An energetic, rationalist Sasha.",
+  "name": "Traveloger #88",
+  "description": "A determined, cosmopolitan Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "determined b",
+    "ideology": "cosmopolitan a"
+  },
   "image": "88.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "determined"
     }
   ]
 }

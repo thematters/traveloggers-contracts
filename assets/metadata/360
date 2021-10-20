@@ -1,6 +1,11 @@
 {
-  "name": "Matties #360",
-  "description": "A rebellious, anarchist Lesya.",
+  "name": "Traveloger #360",
+  "description": "An analytical, romantic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "analytical b",
+    "ideology": "romantic b"
+  },
   "image": "360.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "analytical"
     }
   ]
 }

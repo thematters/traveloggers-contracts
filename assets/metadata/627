@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #627",
+  "description": "A down-to-earth, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "down-to-earth b",
+    "ideology": "individualistic a"
+  },
+  "image": "627.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

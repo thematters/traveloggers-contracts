@@ -1,19 +1,24 @@
 {
-  "name": "Matties #58",
-  "description": "An energetic, cynical Sasha.",
+  "name": "Traveloger #58",
+  "description": "An adventurous, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous b",
+    "ideology": "pragmatist a"
+  },
   "image": "58.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "adventurous"
     }
   ]
 }

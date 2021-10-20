@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1360",
+  "description": "An imaginative, pluralistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative b",
+    "ideology": "pluralistic a"
+  },
+  "image": "1360.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

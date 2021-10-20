@@ -1,6 +1,11 @@
 {
-  "name": "Matties #156",
-  "description": "A self-discipline, skeptical Gena.",
+  "name": "Traveloger #156",
+  "description": "A determined, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "determined a",
+    "ideology": "individualistic a"
+  },
   "image": "156.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "skeptical"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "determined"
     }
   ]
 }

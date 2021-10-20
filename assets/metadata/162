@@ -1,19 +1,24 @@
 {
-  "name": "Matties #162",
-  "description": "A down-to-earth, collectivistic Lesya.",
+  "name": "Traveloger #162",
+  "description": "A rebellious, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "rebellious a",
+    "ideology": "romantic a"
+  },
   "image": "162.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "rebellious"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #750",
+  "description": "A determined, skeptical Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "skeptical b"
+  },
+  "image": "750.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

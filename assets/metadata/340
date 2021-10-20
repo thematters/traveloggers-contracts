@@ -1,19 +1,24 @@
 {
-  "name": "Matties #340",
-  "description": "A rebellious, romatic Gena.",
+  "name": "Traveloger #340",
+  "description": "An imaginative, pessimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "imaginative b",
+    "ideology": "pessimistic b"
+  },
   "image": "340.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "rebellious"
+      "value": "imaginative"
     }
   ]
 }

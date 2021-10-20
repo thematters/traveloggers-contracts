@@ -1,19 +1,24 @@
 {
-  "name": "Matties #232",
-  "description": "A chic, existentialist Lesya.",
+  "name": "Traveloger #232",
+  "description": "A hard-working, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "232.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "hard-working"
     }
   ]
 }

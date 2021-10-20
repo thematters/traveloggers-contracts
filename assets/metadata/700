@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #700",
+  "description": "An analytical, Marxist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "analytical b",
+    "ideology": "Marxist a"
+  },
+  "image": "700.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Marxist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

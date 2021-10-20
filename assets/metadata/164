@@ -1,19 +1,24 @@
 {
-  "name": "Matties #164",
-  "description": "A confused, pacifist Sasha.",
+  "name": "Traveloger #164",
+  "description": "An introverted, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "anarchist b"
+  },
   "image": "164.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

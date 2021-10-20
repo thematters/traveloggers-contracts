@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #992",
+  "description": "A sociable, existentialist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable a",
+    "ideology": "existentialist a"
+  },
+  "image": "992.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

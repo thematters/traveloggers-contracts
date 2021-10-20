@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #715",
+  "description": "A determined, existentialist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined b",
+    "ideology": "existentialist b"
+  },
+  "image": "715.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "existentialist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

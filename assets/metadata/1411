@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1411",
+  "description": "A determined, LGBTQ friendly Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "determined a",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "1411.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

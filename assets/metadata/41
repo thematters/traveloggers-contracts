@@ -1,19 +1,24 @@
 {
-  "name": "Matties #41",
-  "description": "An energetic, existentialist Zhenya.",
+  "name": "Traveloger #41",
+  "description": "An analytical, collectivistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "analytical b",
+    "ideology": "collectivistic b"
+  },
   "image": "41.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "existentialist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "analytical"
     }
   ]
 }

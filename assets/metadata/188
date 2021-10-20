@@ -1,19 +1,24 @@
 {
-  "name": "Matties #188",
-  "description": "A gregarious, collectivistic Yury.",
+  "name": "Traveloger #188",
+  "description": "A confused, pragmatist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused a",
+    "ideology": "pragmatist b"
+  },
   "image": "188.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "confused"
     }
   ]
 }

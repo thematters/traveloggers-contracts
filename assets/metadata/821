@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #821",
+  "description": "A chic, anarchist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "chic b",
+    "ideology": "anarchist a"
+  },
+  "image": "821.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

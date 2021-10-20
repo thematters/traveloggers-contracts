@@ -1,19 +1,24 @@
 {
-  "name": "Matties #211",
-  "description": "An extroverted, optimistic Yury.",
+  "name": "Traveloger #211",
+  "description": "An adventurous, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous a",
+    "ideology": "cosmopolitan a"
+  },
   "image": "211.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "cosmopolitan"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "adventurous"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #22",
-  "description": "A compassionate, Marxist Yury.",
+  "name": "Traveloger #22",
+  "description": "An extroverted, LGBTQ friendly Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "extroverted b",
+    "ideology": "LGBTQ friendly a"
+  },
   "image": "22.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "extroverted"
     }
   ]
 }

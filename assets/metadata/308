@@ -1,15 +1,20 @@
 {
-  "name": "Matties #308",
-  "description": "A nonchalant, feminist Zhenya.",
+  "name": "Traveloger #308",
+  "description": "A nonchalant, pragmatist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "nonchalant a",
+    "ideology": "pragmatist b"
+  },
   "image": "308.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",

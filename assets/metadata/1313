@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1313",
+  "description": "A chic, collectivistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic a",
+    "ideology": "collectivistic b"
+  },
+  "image": "1313.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

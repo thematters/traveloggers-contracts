@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1450",
+  "description": "A chic, optimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "chic b",
+    "ideology": "optimistic b"
+  },
+  "image": "1450.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "chic"
+    }
+  ]
+}

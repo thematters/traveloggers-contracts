@@ -1,19 +1,24 @@
 {
-  "name": "Matties #238",
-  "description": "An introverted, individualistic Zhenya.",
+  "name": "Traveloger #238",
+  "description": "A chic, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "chic a",
+    "ideology": "romantic a"
+  },
   "image": "238.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "individualistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "chic"
     }
   ]
 }

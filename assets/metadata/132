@@ -1,19 +1,24 @@
 {
-  "name": "Matties #132",
-  "description": "An energetic, Epicurean Sasha.",
+  "name": "Traveloger #132",
+  "description": "A determined, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined b",
+    "ideology": "anarchist b"
+  },
   "image": "132.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "energetic"
+      "value": "determined"
     }
   ]
 }

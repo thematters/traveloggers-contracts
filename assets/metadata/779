@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #779",
+  "description": "A sociable, collectivistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "sociable a",
+    "ideology": "collectivistic b"
+  },
+  "image": "779.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "collectivistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

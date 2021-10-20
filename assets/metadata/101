@@ -1,19 +1,24 @@
 {
-  "name": "Matties #101",
-  "description": "An imaginative, pessimistic Yury.",
+  "name": "Traveloger #101",
+  "description": "An exploring, Marxist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "exploring a",
+    "ideology": "Marxist a"
+  },
   "image": "101.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "exploring"
     }
   ]
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #96",
-  "description": "A diligent, optimistic Lesya.",
+  "name": "Traveloger #96",
+  "description": "A nonchalant, anarchist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "anarchist a"
+  },
   "image": "96.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "nonchalant"
     }
   ]
 }

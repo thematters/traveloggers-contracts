@@ -1,19 +1,24 @@
 {
-  "name": "Matties #424",
-  "description": "A diligent, Marxist Gena.",
+  "name": "Traveloger #424",
+  "description": "A hard-working, localist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "localist a"
+  },
   "image": "424.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "hard-working"
     }
   ]
 }

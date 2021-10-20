@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #612",
+  "description": "A compassionate, liberal Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate a",
+    "ideology": "liberal b"
+  },
+  "image": "612.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "compassionate"
+    }
+  ]
+}

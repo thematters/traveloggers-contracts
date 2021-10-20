@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #839",
+  "description": "An introverted, individualistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "introverted a",
+    "ideology": "individualistic b"
+  },
+  "image": "839.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

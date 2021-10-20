@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1377",
+  "description": "A down-to-earth, capitalistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "down-to-earth b",
+    "ideology": "capitalistic b"
+  },
+  "image": "1377.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "down-to-earth"
+    }
+  ]
+}

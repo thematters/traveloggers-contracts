@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1314",
+  "description": "An observant, rational Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "rational b"
+  },
+  "image": "1314.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "rational"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #762",
+  "description": "A practical, romantic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical a",
+    "ideology": "romantic b"
+  },
+  "image": "762.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

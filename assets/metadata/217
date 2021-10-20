@@ -1,19 +1,24 @@
 {
-  "name": "Matties #217",
-  "description": "A nonchalant, pacifist Sasha.",
+  "name": "Traveloger #217",
+  "description": "An observant, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "capitalistic a"
+  },
   "image": "217.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "pacifist"
+      "value": "capitalistic"
     },
     {
       "trait_type": "Character",
-      "value": "nonchalant"
+      "value": "observant"
     }
   ]
 }

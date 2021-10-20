@@ -1,19 +1,24 @@
 {
-  "name": "Matties #146",
-  "description": "A compassionate, rationalist Valya.",
+  "name": "Traveloger #146",
+  "description": "A confused, rational Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "confused a",
+    "ideology": "rational b"
+  },
   "image": "146.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rationalist"
+      "value": "rational"
     },
     {
       "trait_type": "Character",
-      "value": "compassionate"
+      "value": "confused"
     }
   ]
 }

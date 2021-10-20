@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #530",
+  "description": "A practical, localist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "practical a",
+    "ideology": "localist b"
+  },
+  "image": "530.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "localist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

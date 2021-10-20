@@ -1,19 +1,24 @@
 {
-  "name": "Matties #92",
-  "description": "An imaginative, Epicurean Gena.",
+  "name": "Traveloger #92",
+  "description": "A determined, collectivistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "collectivistic a"
+  },
   "image": "92.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "determined"
     }
   ]
 }

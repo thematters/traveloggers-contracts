@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #974",
+  "description": "A sociable, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "pacifist b"
+  },
+  "image": "974.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

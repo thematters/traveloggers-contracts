@@ -1,19 +1,24 @@
 {
-  "name": "Matties #284",
-  "description": "A worldly, localist Lesya.",
+  "name": "Traveloger #284",
+  "description": "A confused, feminist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "confused a",
+    "ideology": "feminist a"
+  },
   "image": "284.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "localist"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "confused"
     }
   ]
 }

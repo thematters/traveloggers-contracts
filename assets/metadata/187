@@ -1,6 +1,11 @@
 {
-  "name": "Matties #187",
-  "description": "A gregarious, optimistic Zhenya.",
+  "name": "Traveloger #187",
+  "description": "An imaginative, existentialist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "existentialist a"
+  },
   "image": "187.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "imaginative"
     }
   ]
 }

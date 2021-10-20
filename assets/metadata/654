@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #654",
+  "description": "A determined, skeptical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "skeptical b"
+  },
+  "image": "654.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

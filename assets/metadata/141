@@ -1,6 +1,11 @@
 {
-  "name": "Matties #141",
-  "description": "A gregarious, pragmatist Lesya.",
+  "name": "Traveloger #141",
+  "description": "A rebellious, pacifist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "rebellious a",
+    "ideology": "pacifist b"
+  },
   "image": "141.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "rebellious"
     }
   ]
 }

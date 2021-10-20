@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #865",
+  "description": "An observant, pluralistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant b",
+    "ideology": "pluralistic a"
+  },
+  "image": "865.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

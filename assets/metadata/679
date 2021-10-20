@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #679",
+  "description": "A rebellious, skeptical Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "rebellious a",
+    "ideology": "skeptical b"
+  },
+  "image": "679.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "skeptical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "rebellious"
+    }
+  ]
+}

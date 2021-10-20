@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1500",
+  "description": "A nonchalant, Epicurean Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "nonchalant b",
+    "ideology": "Epicurean a"
+  },
+  "image": "1500.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "Epicurean"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

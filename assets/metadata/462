@@ -1,15 +1,20 @@
 {
-  "name": "Matties #462",
-  "description": "An enthusiastic, capitalistic Gena.",
+  "name": "Traveloger #462",
+  "description": "An enthusiastic, liberal Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "enthusiastic b",
+    "ideology": "liberal a"
+  },
   "image": "462.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "capitalistic"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1331",
+  "description": "A confused, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "confused b",
+    "ideology": "pessimistic b"
+  },
+  "image": "1331.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1204",
+  "description": "A hard-working, pessimistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "hard-working a",
+    "ideology": "pessimistic a"
+  },
+  "image": "1204.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pessimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

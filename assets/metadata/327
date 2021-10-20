@@ -1,19 +1,24 @@
 {
-  "name": "Matties #327",
-  "description": "A down-to-earth, cosmopolitan Zhenya.",
+  "name": "Traveloger #327",
+  "description": "A compassionate, pessimistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "compassionate b",
+    "ideology": "pessimistic a"
+  },
   "image": "327.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "down-to-earth"
+      "value": "compassionate"
     }
   ]
 }

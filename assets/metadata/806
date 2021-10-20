@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #806",
+  "description": "An observant, pluralistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "observant b",
+    "ideology": "pluralistic b"
+  },
+  "image": "806.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pluralistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #19",
-  "description": "An extroverted, anarchist Zhenya.",
+  "name": "Traveloger #19",
+  "description": "A practical, collectivistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "practical b",
+    "ideology": "collectivistic b"
+  },
   "image": "19.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "practical"
     }
   ]
 }

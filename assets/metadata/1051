@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1051",
+  "description": "A self-discipline, cosmopolitan Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "1051.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

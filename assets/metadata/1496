@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1496",
+  "description": "A self-discipline, pacifist Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline a",
+    "ideology": "pacifist a"
+  },
+  "image": "1496.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pacifist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "self-discipline"
+    }
+  ]
+}

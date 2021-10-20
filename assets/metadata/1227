@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1227",
+  "description": "An adventurous, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "adventurous b",
+    "ideology": "romantic b"
+  },
+  "image": "1227.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

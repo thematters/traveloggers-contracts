@@ -1,19 +1,24 @@
 {
-  "name": "Matties #280",
-  "description": "An extroverted, cosmopolitan Lesya.",
+  "name": "Traveloger #280",
+  "description": "An observant, pacifist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "observant a",
+    "ideology": "pacifist b"
+  },
   "image": "280.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pacifist"
     },
     {
       "trait_type": "Character",
-      "value": "extroverted"
+      "value": "observant"
     }
   ]
 }

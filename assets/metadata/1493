@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1493",
+  "description": "A sociable, pragmatist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "sociable a",
+    "ideology": "pragmatist b"
+  },
+  "image": "1493.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "name": "Matties #248",
-  "description": "A worldly, pessimistic Zhenya.",
+  "name": "Traveloger #248",
+  "description": "An extroverted, Marxist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "extroverted a",
+    "ideology": "Marxist b"
+  },
   "image": "248.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pessimistic"
+      "value": "Marxist"
     },
     {
       "trait_type": "Character",
-      "value": "worldly"
+      "value": "extroverted"
     }
   ]
 }

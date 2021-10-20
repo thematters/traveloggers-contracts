@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1003",
+  "description": "An enthusiastic, anarchist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "anarchist a"
+  },
+  "image": "1003.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "enthusiastic"
+    }
+  ]
+}

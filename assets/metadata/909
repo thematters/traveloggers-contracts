@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #909",
+  "description": "A confused, cosmopolitan Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "confused a",
+    "ideology": "cosmopolitan b"
+  },
+  "image": "909.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}

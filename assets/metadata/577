@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #577",
+  "description": "An extroverted, individualistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "individualistic b"
+  },
+  "image": "577.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "individualistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
-  "name": "Matties #179",
-  "description": "An observant, pluralistic Sasha.",
+  "name": "Traveloger #179",
+  "description": "An adventurous, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous a",
+    "ideology": "nationalistic a"
+  },
   "image": "179.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "pluralistic"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "adventurous"
     }
   ]
 }

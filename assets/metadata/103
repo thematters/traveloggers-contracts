@@ -1,19 +1,24 @@
 {
-  "name": "Matties #103",
-  "description": "A confused, Marxist Valya.",
+  "name": "Traveloger #103",
+  "description": "A rebellious, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "collectivistic a"
+  },
   "image": "103.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

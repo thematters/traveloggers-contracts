@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1388",
+  "description": "A hard-working, feminist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "hard-working b",
+    "ideology": "feminist b"
+  },
+  "image": "1388.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Yury"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "feminist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

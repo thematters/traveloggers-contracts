@@ -1,6 +1,11 @@
 {
-  "name": "Matties #345",
-  "description": "An introverted, LGBTQ friendly Valya.",
+  "name": "Traveloger #345",
+  "description": "A practical, existentialist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "practical a",
+    "ideology": "existentialist a"
+  },
   "image": "345.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "LGBTQ friendly"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "practical"
     }
   ]
 }

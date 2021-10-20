@@ -1,19 +1,24 @@
 {
-  "name": "Matties #438",
-  "description": "An unswerving, optimistic Zhenya.",
+  "name": "Traveloger #438",
+  "description": "An adventurous, romantic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous a",
+    "ideology": "romantic a"
+  },
   "image": "438.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "adventurous"
     }
   ]
 }

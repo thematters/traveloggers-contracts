@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1122",
+  "description": "A practical, LGBTQ friendly Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "practical b",
+    "ideology": "LGBTQ friendly b"
+  },
+  "image": "1122.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "LGBTQ friendly"
+    },
+    {
+      "trait_type": "Character",
+      "value": "practical"
+    }
+  ]
+}

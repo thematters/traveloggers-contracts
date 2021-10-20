@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1248",
+  "description": "An imaginative, capitalistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "imaginative b",
+    "ideology": "capitalistic a"
+  },
+  "image": "1248.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

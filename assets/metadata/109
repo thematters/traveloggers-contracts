@@ -1,19 +1,24 @@
 {
-  "name": "Matties #109",
-  "description": "A confused, conservative Yury.",
+  "name": "Traveloger #109",
+  "description": "A determined, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "liberal b"
+  },
   "image": "109.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "liberal"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "determined"
     }
   ]
 }

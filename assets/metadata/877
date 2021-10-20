@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #877",
+  "description": "An introverted, pragmatist Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "introverted b",
+    "ideology": "pragmatist a"
+  },
+  "image": "877.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "pragmatist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "introverted"
+    }
+  ]
+}

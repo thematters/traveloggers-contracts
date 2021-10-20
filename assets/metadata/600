@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #600",
+  "description": "A sociable, cosmopolitan Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "sociable b",
+    "ideology": "cosmopolitan a"
+  },
+  "image": "600.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cosmopolitan"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

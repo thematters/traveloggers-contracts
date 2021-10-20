@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1462",
+  "description": "An observant, optimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "observant b",
+    "ideology": "optimistic b"
+  },
+  "image": "1462.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

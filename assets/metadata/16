@@ -1,19 +1,24 @@
 {
-  "name": "Matties #16",
-  "description": "An observant, liberal Valya.",
+  "name": "Traveloger #16",
+  "description": "An enthusiastic, pessimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "enthusiastic a",
+    "ideology": "pessimistic a"
+  },
   "image": "16.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "liberal"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "enthusiastic"
     }
   ]
 }

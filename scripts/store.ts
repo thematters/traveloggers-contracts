@@ -33,43 +33,45 @@ const main = async () => {
    * Step 1: collect metadata for images need to be stored
    */
   const avatars = [] as { [key: string]: any }[];
-  fs.readdirSync(metadataDirPath, { withFileTypes: true }).map(
-    async (dirent) => {
-      // exclude files
-      if (dirent.isDirectory()) {
-        return;
-      }
+  await Promise.all(
+    fs
+      .readdirSync(metadataDirPath, { withFileTypes: true })
+      .map(async (dirent) => {
+        // exclude files
+        if (dirent.isDirectory()) {
+          return;
+        }
 
-      // exclude file name with not only numbers
-      if (!/^\d+$/.test(dirent.name)) {
-        return;
-      }
+        // exclude file name with not only numbers
+        if (!/^\d+$/.test(dirent.name)) {
+          return;
+        }
 
-      const metadataPath = path.join(metadataDirPath, dirent.name);
-      const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
+        const metadataPath = path.join(metadataDirPath, dirent.name);
+        const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
 
-      // exclude metadata that already stored IPFS
-      if (metadata.image.startsWith("ipfs://")) {
-        return;
-      }
+        // exclude metadata that already stored IPFS
+        if (metadata.image.startsWith("ipfs://")) {
+          return;
+        }
 
-      const imagePath = path.join(imageDirPath, metadata.image);
-      // check if image exists
-      if (!fs.existsSync(imagePath)) {
-        throw Error(
-          `[${network}:store] Image ${imagePath} for avatar ${metadataPath} does not exist.`
-        );
-      }
+        const imagePath = path.join(imageDirPath, metadata.image);
+        // check if image exists
+        if (!fs.existsSync(imagePath)) {
+          throw Error(
+            `[${network}:store] Image ${imagePath} for avatar ${metadataPath} does not exist.`
+          );
+        }
 
-      avatars.push({ metadata, imagePath, metadataPath });
-    }
+        avatars.push({ metadata, imagePath, metadataPath });
+      })
   );
 
   /**
    * Step 2: store images on IPFS and update metadata
    */
   console.log(`Storing ${avatars.length} avatar images...`);
-  Promise.all(
+  await Promise.all(
     avatars.map(async ({ metadata, imagePath, metadataPath }) => {
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });

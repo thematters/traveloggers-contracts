@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1163",
+  "description": "An observant, cynical Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "cynical b"
+  },
+  "image": "1163.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

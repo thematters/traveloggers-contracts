@@ -1,19 +1,24 @@
 {
-  "name": "Matties #155",
-  "description": "A confused, romatic Yury.",
+  "name": "Traveloger #155",
+  "description": "A rebellious, feminist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "rebellious b",
+    "ideology": "feminist a"
+  },
   "image": "155.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "feminist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "rebellious"
     }
   ]
 }

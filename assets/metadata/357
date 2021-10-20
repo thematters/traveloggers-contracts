@@ -1,19 +1,24 @@
 {
-  "name": "Matties #357",
-  "description": "An introverted, Epicurean Yury.",
+  "name": "Traveloger #357",
+  "description": "A determined, individualistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "determined a",
+    "ideology": "individualistic b"
+  },
   "image": "357.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "introverted"
+      "value": "determined"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #879",
+  "description": "A nonchalant, optimistic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "nonchalant b",
+    "ideology": "optimistic b"
+  },
+  "image": "879.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

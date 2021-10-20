@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1373",
+  "description": "A hard-working, liberal Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "hard-working b",
+    "ideology": "liberal a"
+  },
+  "image": "1373.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "hard-working"
+    }
+  ]
+}

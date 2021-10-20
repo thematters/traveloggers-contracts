@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #680",
+  "description": "An imaginative, nationalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "imaginative a",
+    "ideology": "nationalistic b"
+  },
+  "image": "680.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "nationalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "imaginative"
+    }
+  ]
+}

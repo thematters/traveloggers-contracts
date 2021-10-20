@@ -1,19 +1,24 @@
 {
-  "name": "Matties #394",
-  "description": "An unswerving, optimistic Lesya.",
+  "name": "Traveloger #394",
+  "description": "An adventurous, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "adventurous b",
+    "ideology": "pessimistic a"
+  },
   "image": "394.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "unswerving"
+      "value": "adventurous"
     }
   ]
 }

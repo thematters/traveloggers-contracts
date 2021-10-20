@@ -1,6 +1,11 @@
 {
-  "name": "Matties #320",
-  "description": "An observant, pragmatist Gena.",
+  "name": "Traveloger #320",
+  "description": "A compassionate, skeptical Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "compassionate b",
+    "ideology": "skeptical a"
+  },
   "image": "320.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "pragmatist"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "compassionate"
     }
   ]
 }

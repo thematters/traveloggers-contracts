@@ -1,19 +1,24 @@
 {
-  "name": "Matties #347",
-  "description": "An imaginative, cosmopolitan Yury.",
+  "name": "Traveloger #347",
+  "description": "An adventurous, pessimistic Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "adventurous a",
+    "ideology": "pessimistic a"
+  },
   "image": "347.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Yury"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "adventurous"
     }
   ]
 }

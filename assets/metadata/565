@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #565",
+  "description": "An extroverted, conservative Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "conservative b"
+  },
+  "image": "565.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "conservative"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

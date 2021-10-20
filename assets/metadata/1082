@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1082",
+  "description": "A sociable, anarchist Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "sociable b",
+    "ideology": "anarchist b"
+  },
+  "image": "1082.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "sociable"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1337",
+  "description": "An observant, liberal Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "observant b",
+    "ideology": "liberal a"
+  },
+  "image": "1337.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "liberal"
+    },
+    {
+      "trait_type": "Character",
+      "value": "observant"
+    }
+  ]
+}

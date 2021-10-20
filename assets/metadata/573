@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #573",
+  "description": "A determined, cynical Lesya.",
+  "_visual": {
+    "race": "Lesya",
+    "character": "determined a",
+    "ideology": "cynical a"
+  },
+  "image": "573.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Lesya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "cynical"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

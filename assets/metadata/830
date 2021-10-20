@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #830",
+  "description": "An analytical, capitalistic Valya.",
+  "_visual": {
+    "race": "Valya",
+    "character": "analytical a",
+    "ideology": "capitalistic a"
+  },
+  "image": "830.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Valya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "analytical"
+    }
+  ]
+}

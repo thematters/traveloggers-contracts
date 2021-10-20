@@ -1,6 +1,11 @@
 {
-  "name": "Matties #421",
-  "description": "A gregarious, anarchist Gena.",
+  "name": "Traveloger #421",
+  "description": "An adventurous, individualistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "adventurous b",
+    "ideology": "individualistic a"
+  },
   "image": "421.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "anarchist"
+      "value": "individualistic"
     },
     {
       "trait_type": "Character",
-      "value": "gregarious"
+      "value": "adventurous"
     }
   ]
 }

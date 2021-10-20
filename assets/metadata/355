@@ -1,6 +1,11 @@
 {
-  "name": "Matties #355",
-  "description": "A diligent, cynical Zhenya.",
+  "name": "Traveloger #355",
+  "description": "A practical, pragmatist Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "practical a",
+    "ideology": "pragmatist a"
+  },
   "image": "355.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "cynical"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "diligent"
+      "value": "practical"
     }
   ]
 }

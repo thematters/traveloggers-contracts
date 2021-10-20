@@ -1,19 +1,24 @@
 {
-  "name": "Matties #372",
-  "description": "A chic, optimistic Zhenya.",
+  "name": "Traveloger #372",
+  "description": "A self-discipline, pessimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "self-discipline b",
+    "ideology": "pessimistic b"
+  },
   "image": "372.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "chic"
+      "value": "self-discipline"
     }
   ]
 }

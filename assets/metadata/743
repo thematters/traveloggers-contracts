@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #743",
+  "description": "A determined, anarchist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "determined a",
+    "ideology": "anarchist b"
+  },
+  "image": "743.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "anarchist"
+    },
+    {
+      "trait_type": "Character",
+      "value": "determined"
+    }
+  ]
+}

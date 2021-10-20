@@ -1,19 +1,24 @@
 {
-  "name": "Matties #136",
-  "description": "An adventurous, Epicurean Lesya.",
+  "name": "Traveloger #136",
+  "description": "An imaginative, existentialist Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "imaginative a",
+    "ideology": "existentialist b"
+  },
   "image": "136.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "existentialist"
     },
     {
       "trait_type": "Character",
-      "value": "adventurous"
+      "value": "imaginative"
     }
   ]
 }

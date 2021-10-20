@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1160",
+  "description": "A nonchalant, romantic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "nonchalant a",
+    "ideology": "romantic a"
+  },
+  "image": "1160.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "nonchalant"
+    }
+  ]
+}

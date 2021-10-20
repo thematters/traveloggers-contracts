@@ -1,19 +1,24 @@
 {
-  "name": "Matties #185",
-  "description": "A self-discipline, Marxist Valya.",
+  "name": "Traveloger #185",
+  "description": "An extroverted, pragmatist Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "extroverted a",
+    "ideology": "pragmatist b"
+  },
   "image": "185.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "pragmatist"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

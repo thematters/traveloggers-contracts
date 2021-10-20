@@ -1,19 +1,24 @@
 {
-  "name": "Matties #205",
-  "description": "An observant, Marxist Valya.",
+  "name": "Traveloger #205",
+  "description": "An exploring, collectivistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "exploring b",
+    "ideology": "collectivistic b"
+  },
   "image": "205.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "collectivistic"
     },
     {
       "trait_type": "Character",
-      "value": "observant"
+      "value": "exploring"
     }
   ]
 }

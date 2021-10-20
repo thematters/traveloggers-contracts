@@ -1,19 +1,24 @@
 {
-  "name": "Matties #51",
-  "description": "An imaginative, optimistic Gena.",
+  "name": "Traveloger #51",
+  "description": "A compassionate, pessimistic Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "compassionate a",
+    "ideology": "pessimistic a"
+  },
   "image": "51.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "optimistic"
+      "value": "pessimistic"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "compassionate"
     }
   ]
 }

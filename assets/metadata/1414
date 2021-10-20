@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1414",
+  "description": "An extroverted, optimistic Gena.",
+  "_visual": {
+    "race": "Gena",
+    "character": "extroverted b",
+    "ideology": "optimistic a"
+  },
+  "image": "1414.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Gena"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "optimistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "extroverted"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #522",
+  "description": "An adventurous, capitalistic Zhenya.",
+  "_visual": {
+    "race": "Zhenya",
+    "character": "adventurous a",
+    "ideology": "capitalistic a"
+  },
+  "image": "522.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Zhenya"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "capitalistic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "adventurous"
+    }
+  ]
+}

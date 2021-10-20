@@ -1,6 +1,11 @@
 {
-  "name": "Matties #452",
-  "description": "An analytical, romatic Sasha.",
+  "name": "Traveloger #452",
+  "description": "A confused, conservative Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "conservative b"
+  },
   "image": "452.png",
   "attributes": [
     {
@@ -9,11 +14,11 @@
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "analytical"
+      "value": "confused"
     }
   ]
 }

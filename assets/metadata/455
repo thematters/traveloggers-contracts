@@ -1,19 +1,24 @@
 {
-  "name": "Matties #455",
-  "description": "A confused, romatic Gena.",
+  "name": "Traveloger #455",
+  "description": "An introverted, conservative Yury.",
+  "_visual": {
+    "race": "Yury",
+    "character": "introverted b",
+    "ideology": "conservative a"
+  },
   "image": "455.png",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Yury"
     },
     {
       "trait_type": "Ideology",
-      "value": "romatic"
+      "value": "conservative"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "introverted"
     }
   ]
 }

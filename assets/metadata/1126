@@ -1,0 +1,24 @@
+{
+  "name": "Traveloger #1126",
+  "description": "A confused, romantic Sasha.",
+  "_visual": {
+    "race": "Sasha",
+    "character": "confused b",
+    "ideology": "romantic a"
+  },
+  "image": "1126.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Sasha"
+    },
+    {
+      "trait_type": "Ideology",
+      "value": "romantic"
+    },
+    {
+      "trait_type": "Character",
+      "value": "confused"
+    }
+  ]
+}
