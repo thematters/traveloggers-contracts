@@ -1,11 +1,11 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getTraveloggersContract, getTaskInputs } from "./utils";
+import { getTraveloggersContract, getTaskInputs } from "../utils";
 
-const taskName = "mint:batch";
+const taskName = "mint:lottery";
 
-task(taskName, "Batch mint NFTs to given addresses")
+task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
   .addOptionalParam(
     "inputs",
     "path of input file which contains address list",
@@ -32,18 +32,27 @@ task(taskName, "Batch mint NFTs to given addresses")
         `[${network}:${taskName}] Input file ${inputsFilePath} has no addresses`
       );
     }
+    if (!inputs.amount || typeof inputs.amount !== "number") {
+      throw new Error(
+        `[${network}:${taskName}] Input file ${inputsFilePath} has no amount or invalid`
+      );
+    }
 
     // run task
     try {
-      const tx = await traveloggers.batchMint(inputs.addresses);
+      const tx = await traveloggers.drawLottery(
+        inputs.addresses,
+        inputs.amount
+      );
 
-      const balances: { [key: string]: any } = {};
-      for (const address of inputs.addresses) {
-        balances[address] = await traveloggers.balanceOf(address);
-      }
+      // get winners from emitted event
+      const logs = await traveloggers.queryFilter(
+        traveloggers.filters.LotteryWinners()
+      );
+      const { winners } = logs[0].args;
 
+      inputs.winners = winners;
       inputs.txHash = tx.hash;
-      inputs.balances = balances;
       inputs.run = true;
       inputs.error = null;
 

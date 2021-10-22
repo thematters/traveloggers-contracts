@@ -1,5 +1,5 @@
 import fs from "fs";
-import { contractStatePath } from "./util";
+import { ContractStatePath } from "../utils";
 
 import hardhat, { ethers } from "hardhat";
 
@@ -9,7 +9,7 @@ async function main() {
   let contractState;
   try {
     contractState = JSON.parse(
-      fs.readFileSync(contractStatePath(network), "utf-8") || '""'
+      fs.readFileSync(ContractStatePath(network), "utf-8") || '""'
     );
   } catch (err) {
     contractState = {};
@@ -48,12 +48,15 @@ async function main() {
     contractState.base_uri
   );
   await traveloggers.deployed();
-  console.log(`[${network}:deploy] Mattty deployed to:`, traveloggers.address);
+  console.log(
+    `[${network}:deploy] Traveloggers deployed to:`,
+    traveloggers.address
+  );
 
   // record contract address
   contractState.contract_address = traveloggers.address;
   fs.writeFileSync(
-    contractStatePath(network),
+    ContractStatePath(network),
     JSON.stringify(contractState, null, 2)
   );
 

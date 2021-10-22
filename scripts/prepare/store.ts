@@ -10,8 +10,15 @@ import fs from "fs";
 import path from "path";
 import { create, globSource } from "ipfs-http-client";
 
-import { infuraIPFSId, infuraIPFSSecret } from "../.env.json";
-import { contractStatePath, metadataDirPath, imageDirPath } from "./util";
+import {
+  ContractStatePath,
+  metadataDirPath,
+  imageDirPath,
+  ContractState,
+  env,
+} from "../utils";
+
+const { infuraIPFSId, infuraIPFSSecret } = env;
 
 const auth =
   "Basic " +
@@ -28,6 +35,10 @@ const ipfs = create({
 
 const main = async () => {
   const network = hardhat.network.name;
+
+  if (!infuraIPFSId || !infuraIPFSSecret) {
+    throw Error("Infura id and secret not provided in `.env.json`");
+  }
 
   /**
    * Step 1: collect metadata for images need to be stored
@@ -92,18 +103,13 @@ const main = async () => {
   /**
    * Step 3: store metadata directory and update baser uri
    */
-  let contractState;
-  try {
-    contractState = require(contractStatePath(network));
-  } catch (err) {
-    contractState = {};
-  }
+  const contractState = ContractState(network);
 
   // check if already exists
   if (contractState.base_uri) {
-    console.log("[${network}:store] Base URI recorded, skipping...");
+    console.log(`[${network}:store] Base URI recorded, skipping...`);
   } else {
-    console.log("[${network}:store] Storing metadata for base URI ...");
+    console.log(`[${network}:store] Storing metadata for base URI ...`);
 
     let base_uri;
     for await (const file of ipfs.addAll(globSource(metadataDirPath, "**/*"), {
@@ -112,20 +118,20 @@ const main = async () => {
     })) {
       // filter out root hash
       if (file.path === "") {
-        base_uri = `ipfs://${file.cid.toString()}`;
+        base_uri = `ipfs://${file.cid.toString()}/`;
       }
     }
 
     if (!base_uri) {
       throw Error(
-        "[${network}:store] Error in storing metadata, cannot locate root hash."
+        `[${network}:store] Error in storing metadata, cannot locate root hash.`
       );
     }
 
     // write to contract state
     contractState.base_uri = base_uri;
     fs.writeFileSync(
-      contractStatePath(network),
+      ContractStatePath(network),
       JSON.stringify(contractState, null, 2)
     );
     console.log(`    base URI: ${base_uri}`);

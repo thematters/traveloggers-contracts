@@ -13,8 +13,9 @@ import {
   etherscanKey,
 } from "./.env.json";
 
-import "./tasks/batchMint";
-import "./tasks/lottery";
+import "./scripts/tasks/batchMint";
+import "./scripts/tasks/lottery";
+import "./scripts/tasks/setBaseURI";
 
 const config: HardhatUserConfig = {
   solidity: "0.8.4",

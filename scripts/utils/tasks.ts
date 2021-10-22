@@ -1,5 +1,6 @@
 import fs from "fs";
-import path from "path";
+
+import { ContractState } from "./paths";
 
 export const getTraveloggersContract = async ({
   network,
@@ -8,15 +9,8 @@ export const getTraveloggersContract = async ({
   network: string;
   hardhat: any;
 }) => {
-  // read contract address from current state
-  const contractStatePath = path.join(
-    __dirname,
-    "..",
-    `data/${network}/state.json`
-  );
-  const contractState = JSON.parse(
-    fs.readFileSync(contractStatePath, "utf-8") || '""'
-  );
+  const contractState = ContractState(network);
+
   const contractAddress = contractState.contract_address;
 
   if (!contractAddress) {

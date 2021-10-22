@@ -3,33 +3,7 @@ import fs from "fs";
 import path from "path";
 
 import { races, ideologies, characters, totalSupply } from "./settings.json";
-import { metadataDirPath } from "./util";
-
-/**
- * Draw random element and remove it from array.
- * @param {bool} replacement: sample with replacement or not, default to true
- * @returns element been drawn
- */
-const sample = (array: any[], replacement = true) => {
-  // random index
-  const index = Math.floor(Math.random() * array.length);
-  const el = array[index];
-
-  // remove element
-  if (!replacement) {
-    array.splice(index, 1);
-  }
-
-  return el;
-};
-
-/**
- * Capitalize first letter of a string
- * @returns the capitalized string
- */
-const capitalize = (string: string) => {
-  return string.charAt(0).toUpperCase() + string.slice(1);
-};
+import { metadataDirPath, sample, capitalize } from "./utils";
 
 // main function
 const main = async () => {
