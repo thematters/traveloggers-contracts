@@ -1,29 +1,31 @@
 import chai from "chai";
 import { ethers } from "hardhat";
 import { solidity } from "ethereum-waffle";
+import { Contract } from "ethers";
 
 import { toGasCost } from "./utils";
 
 chai.use(solidity);
 const { expect } = chai;
 
-const deployLogbook = async () => {
-  const Logbook = await ethers.getContractFactory("Traveloggers");
-  const logbookContract = await Logbook.deploy(
-    "Logbook_Tester",
-    "LTT",
-    20,
-    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
-  );
-  return await logbookContract.deployed();
-};
+let logbookContract: Contract;
 
 describe("Logbook", () => {
+  beforeEach(async () => {
+    const LogbookFactory = await ethers.getContractFactory("Traveloggers");
+    const Logbook = await LogbookFactory.deploy(
+      "Logbook_Tester",
+      "LTT",
+      20,
+      "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+    );
+    logbookContract = await Logbook.deployed();
+  });
+
   it("Can read or write by token owner", async () => {
     // initial mint
     const [owner] = await ethers.getSigners();
     const token1Id = 1;
-    const logbookContract = await deployLogbook();
     await logbookContract.batchMint([owner.address]);
 
     // append log
@@ -59,7 +61,6 @@ describe("Logbook", () => {
     // initial mint
     const [owner] = await ethers.getSigners();
     const token1Id = 1;
-    const logbookContract = await deployLogbook();
     await logbookContract.batchMint([owner.address]);
 
     // log chinese
@@ -75,7 +76,6 @@ describe("Logbook", () => {
     // initial mint
     const [owner, receiver] = await ethers.getSigners();
     const token1Id = 1;
-    const logbookContract = await deployLogbook();
     await logbookContract.batchMint([owner.address]);
 
     const log =

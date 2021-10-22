@@ -1,24 +1,26 @@
 import chai from "chai";
 import { ethers } from "hardhat";
 import { solidity } from "ethereum-waffle";
+import { Contract } from "ethers";
 
 import { createAddresses, toGasCost } from "./utils";
 
 chai.use(solidity);
 const { expect } = chai;
 
-const deployTraveloggers = async () => {
-  const Traveloggers = await ethers.getContractFactory("Traveloggers");
-  const traveloggers = await Traveloggers.deploy(
-    "Traveloggers_Tester",
-    "TLOGR",
-    20,
-    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
-  );
-  return await traveloggers.deployed();
-};
-
+let traveloggers: Contract;
 describe("Traveloggers", () => {
+  beforeEach(async () => {
+    const TraveloggersFactory = await ethers.getContractFactory("Traveloggers");
+    const Traveloggers = await TraveloggersFactory.deploy(
+      "Traveloggers_Tester",
+      "TLOGR",
+      20,
+      "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+    );
+    traveloggers = await Traveloggers.deployed();
+  });
+
   describe("Lottery", () => {
     it("Can draw lottery from a list of accounts", async () => {
       // account test list, repeating with the same account
@@ -26,8 +28,6 @@ describe("Traveloggers", () => {
       const winnerAmount = 10;
 
       const addressList = createAddresses(candidateAmount);
-
-      const traveloggers = await deployTraveloggers();
 
       // failed to draw lottery if amount is too large
       await expect(
@@ -62,8 +62,6 @@ describe("Traveloggers", () => {
     it("Can random draw from a list of accounts without duplicates", async () => {
       const amount = 10;
       const addressList = createAddresses(10);
-
-      const traveloggers = await deployTraveloggers();
       const result = await traveloggers._randomDraw(addressList, amount);
 
       // should be no duplication in result

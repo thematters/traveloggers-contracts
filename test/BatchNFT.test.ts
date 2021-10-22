@@ -1,5 +1,6 @@
 import chai from "chai";
 import { ethers } from "hardhat";
+import { Contract } from "ethers";
 import { solidity } from "ethereum-waffle";
 
 import { createAddresses, toGasCost } from "./utils";
@@ -20,10 +21,22 @@ const deployBatchNFT = async () => {
   return await batchNFT.deployed();
 };
 
+let batchNFT: Contract;
+
 describe("BatchNFT", () => {
+  beforeEach(async () => {
+    const BatchNFTFactory = await ethers.getContractFactory("BatchNFT");
+    const BatchNFT = await BatchNFTFactory.deploy(
+      "BatchNFT_Tester",
+      "BFTT",
+      totalSupply,
+      "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+    );
+    batchNFT = await BatchNFT.deployed();
+  });
+
   it("Can read or write base URI", async () => {
     // get contract URI
-    const batchNFT = await deployBatchNFT();
     const contractURI = await batchNFT.contractURI();
     expect(contractURI).to.be.a("string");
 
@@ -39,10 +52,8 @@ describe("BatchNFT", () => {
   it("Can batch mint to a list of accounts", async () => {
     // account test list, repeating with the same account
     const amount = totalSupply - 1;
-
     const addressList = createAddresses(amount);
 
-    const batchNFT = await deployBatchNFT();
     const tx = await batchNFT.batchMint(addressList);
 
     // test first one and last one
@@ -60,13 +71,32 @@ describe("BatchNFT", () => {
     );
   });
 
+  it("Can mint token then update token uri", async () => {
+    // account test list, repeating with the same account
+    const amount = 1;
+
+    const addressList = createAddresses(amount);
+
+    const tx = await batchNFT.batchMint(addressList);
+
+    // set new sharedBaseURI
+    const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";
+    await batchNFT.setSharedBaseURI(uri);
+
+    // test first one
+    // get new token uri
+    const tokenId = 1;
+    const newTokenURI = await batchNFT.tokenURI(tokenId);
+    expect(newTokenURI).to.equal(`${uri}${tokenId}`);
+  });
+
   it("Require enough token supply left", async () => {
     // account test list, repeating with the same account
     const amount = totalSupply + 1;
 
     const addressList = createAddresses(amount);
 
-    const batchNFT = await deployBatchNFT();
+    // const batchNFT = await deployBatchNFT();
     await expect(batchNFT.batchMint(addressList)).to.be.revertedWith(
       "not enough supply"
     );
@@ -74,8 +104,6 @@ describe("BatchNFT", () => {
 
   it("Can withdraw all ether to a addresss", async () => {
     const [_, vault] = await ethers.getSigners();
-
-    const batchNFT = await deployBatchNFT();
 
     const etherAmount = ethers.utils.parseEther("1.23");
 
