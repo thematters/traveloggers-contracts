@@ -1,4 +1,4 @@
-NFT avatar for Travelogers.
+NFT avatar for Traveloggers.
 
 Tools and components:
 

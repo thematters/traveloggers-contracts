@@ -72,7 +72,7 @@ const main = async () => {
       character_accessory_type,
     } = sample(candidates, false);
 
-    const name = `Traveloger #${id}`;
+    const name = `Travelogger #${id}`;
 
     // assemble metadata
     const creature = {
