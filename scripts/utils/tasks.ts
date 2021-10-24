@@ -1,22 +1,16 @@
 import fs from "fs";
-import path from "path";
 
-export const getTravelogerContract = async ({
+import { ContractState } from "./paths";
+
+export const getTraveloggersContract = async ({
   network,
   hardhat,
 }: {
   network: string;
   hardhat: any;
 }) => {
-  // read contract address from current state
-  const contractStatePath = path.join(
-    __dirname,
-    "..",
-    `data/${network}/state.json`
-  );
-  const contractState = JSON.parse(
-    fs.readFileSync(contractStatePath, "utf-8") || '""'
-  );
+  const contractState = ContractState(network);
+
   const contractAddress = contractState.contract_address;
 
   if (!contractAddress) {
@@ -24,11 +18,11 @@ export const getTravelogerContract = async ({
   }
 
   // read contract instance from adddress
-  const Traveloger = await hardhat.ethers.getContractFactory("Traveloger");
-  const traveloger = Traveloger.attach(contractAddress);
-  console.log("Read contract from:", traveloger.address);
+  const Traveloggers = await hardhat.ethers.getContractFactory("Traveloggers");
+  const traveloggers = Traveloggers.attach(contractAddress);
+  console.log("Read contract from:", traveloggers.address);
 
-  return traveloger;
+  return traveloggers;
 };
 
 export const getTaskInputs = async ({

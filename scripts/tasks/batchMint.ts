@@ -1,11 +1,11 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getTravelogerContract, getTaskInputs } from "./utils";
+import { getTraveloggersContract, getTaskInputs } from "../utils";
 
-const taskName = "mint:lottery";
+const taskName = "mint:batch";
 
-task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
+task(taskName, "Batch mint NFTs to given addresses")
   .addOptionalParam(
     "inputs",
     "path of input file which contains address list",
@@ -18,7 +18,7 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
     console.log(`[${network}:${taskName}] Running task`);
 
     // get contract
-    const traveloger = await getTravelogerContract({ network, hardhat });
+    const traveloggers = await getTraveloggersContract({ network, hardhat });
 
     // read input file
     const { inputs } = await getTaskInputs({
@@ -32,24 +32,18 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
         `[${network}:${taskName}] Input file ${inputsFilePath} has no addresses`
       );
     }
-    if (!inputs.amount || typeof inputs.amount !== "number") {
-      throw new Error(
-        `[${network}:${taskName}] Input file ${inputsFilePath} has no amount or invalid`
-      );
-    }
 
     // run task
     try {
-      const tx = await traveloger.drawLottery(inputs.addresses, inputs.amount);
+      const tx = await traveloggers.batchMint(inputs.addresses);
 
-      // get winners from emitted event
-      const logs = await traveloger.queryFilter(
-        traveloger.filters.LotteryWinners()
-      );
-      const { winners } = logs[0].args;
+      const balances: { [key: string]: any } = {};
+      for (const address of inputs.addresses) {
+        balances[address] = await traveloggers.balanceOf(address);
+      }
 
-      inputs.winners = winners;
       inputs.txHash = tx.hash;
+      inputs.balances = balances;
       inputs.run = true;
       inputs.error = null;
 
