@@ -65,6 +65,12 @@ async function main() {
     console.log(`[${network}:deploy] Verifying contract on Etherscan...`);
     await hardhat.run("verify:verify", {
       address: traveloggers.address,
+      constructorArguments: [
+        contractState.name,
+        contractState.symbol,
+        contractState.supply,
+        contractState.base_uri,
+      ],
     });
   }
 }
