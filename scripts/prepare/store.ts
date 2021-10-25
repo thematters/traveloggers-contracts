@@ -87,6 +87,9 @@ const main = async () => {
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });
 
+      // wait 1000 ms to avoid rate limit
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+
       // store metadata file with updated image uri
       fs.writeFileSync(
         metadataPath,
