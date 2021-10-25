@@ -14,10 +14,11 @@ import {
   ContractStatePath,
   ContractState,
   BaseUriStatePath,
-  BaseUriState,
   metadataDirPath,
   imageDirPath,
   env,
+  readJSON,
+  writeJSON,
 } from "../utils";
 
 const { infuraIPFSId, infuraIPFSSecret } = env;
@@ -61,7 +62,7 @@ const main = async () => {
         }
 
         const metadataPath = path.join(metadataDirPath, dirent.name);
-        const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
+        const metadata = readJSON(metadataPath);
 
         // exclude metadata that already stored IPFS
         if (metadata.image.startsWith("ipfs://")) {
@@ -89,17 +90,13 @@ const main = async () => {
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });
 
-      // wait 1000 ms to avoid rate limit
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      // wait 3000 ms to avoid rate limit
+      await new Promise((resolve) => setTimeout(resolve, 3000));
 
       // store metadata file with updated image uri
-      fs.writeFileSync(
-        metadataPath,
-        JSON.stringify(
-          { ...metadata, image: `ipfs://${cid.toString()}` },
-          null,
-          2
-        )
+      writeJSON(
+        { ...metadata, image: `ipfs://${cid.toString()}` },
+        metadataPath
       );
     })
   );
@@ -113,7 +110,7 @@ const main = async () => {
   // for mainnet, read production ready base uri from base uri state
   let base_uri;
   if (network === "mainnet") {
-    base_uri = BaseUriState(network).base_uri;
+    base_uri = readJSON(BaseUriStatePath(network)).base_uri;
   } else {
     base_uri = ContractState(network).base_uri;
   }
@@ -145,18 +142,12 @@ const main = async () => {
     // for mainnet, write production ready base uri to base uri state, which will be read by "setBaseURI" script
     if (network === "mainnet") {
       // write to contract state
-      fs.writeFileSync(
-        BaseUriStatePath(network),
-        JSON.stringify({ base_uri }, null, 2)
-      );
+      writeJSON({ base_uri }, BaseUriStatePath(network));
     } else {
       const contractState = ContractState(network);
       // write to contract state
       contractState.base_uri = base_uri;
-      fs.writeFileSync(
-        ContractStatePath(network),
-        JSON.stringify(contractState, null, 2)
-      );
+      writeJSON(contractState, ContractStatePath(network));
     }
 
     console.log(`    base URI: ${base_uri}`);

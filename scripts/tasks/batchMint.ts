@@ -1,7 +1,7 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getTraveloggersContract, getTaskInputs } from "../utils";
+import { getTraveloggersContract, getTaskInputs, writeJSON } from "../utils";
 
 const taskName = "mint:batch";
 
@@ -55,5 +55,5 @@ task(taskName, "Batch mint NFTs to given addresses")
     }
 
     // write back to file
-    fs.writeFileSync(inputsFilePath, JSON.stringify(inputs, null, 2));
+    writeJSON(inputs, inputsFilePath);
   });
