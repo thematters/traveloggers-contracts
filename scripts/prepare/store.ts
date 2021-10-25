@@ -86,12 +86,12 @@ const main = async () => {
    */
   console.log(`Storing ${avatars.length} avatar images...`);
   await Promise.all(
-    avatars.map(async ({ metadata, imagePath, metadataPath }) => {
+    avatars.map(async ({ metadata, imagePath, metadataPath }, index) => {
+      // spread out request to avoid rate limitation
+      await new Promise((resolve) => setTimeout(resolve, index * 100));
+
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });
-
-      // wait 3000 ms to avoid rate limit
-      await new Promise((resolve) => setTimeout(resolve, 3000));
 
       // store metadata file with updated image uri
       writeJSON(

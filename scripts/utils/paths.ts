@@ -17,7 +17,7 @@ export const ContractStatePath = (network: string) =>
   path.join(__dirname, "..", "..", `data/${network}/state.json`);
 
 export const BaseUriStatePath = (network: string) =>
-  path.join(__dirname, "..", "..", `data/${network}/base-uri.json`);
+  path.join(__dirname, "..", "..", `data/${network}/set-base-uri.json`);
 
 export const ContractState = (network: string) =>
   readJSON(ContractStatePath(network));
