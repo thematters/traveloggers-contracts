@@ -62,6 +62,9 @@ describe("PreOrder", () => {
     expect(await preOrder.inPreOrder()).to.equal(false);
     await preOrder.setInPreOrder(true);
     expect(await preOrder.inPreOrder()).to.equal(true);
+
+    // pre-order limit
+    expect(await preOrder.preOrderLimit()).to.equal(5);
   });
 
   it("Participants can participate pre-ordering", async () => {
