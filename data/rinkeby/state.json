@@ -1,6 +1,6 @@
 {
-  "name": "Traveloger",
-  "symbol": "LOGR",
+  "name": "Traveloggers",
+  "symbol": "TLOGR",
   "supply": 1500,
-  "contract_address": "0x45A361DC535Ed7Ab2eF357CF152b36a4ba41B332"
+  "base_uri": "ipfs://Qmbbyi1yDcN5QAGWkigQ9a82B5nH8Ghtxz7J5BaAJP1bCq"
 }

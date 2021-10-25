@@ -1,26 +1,28 @@
 import chai from "chai";
 import { ethers } from "hardhat";
 import { solidity } from "ethereum-waffle";
+import { Contract } from "ethers";
 
 import { web3, toGasCost } from "./utils";
 
 chai.use(solidity);
 const { expect } = chai;
 
-const deployPreOrder = async () => {
-  const PreOrder = await ethers.getContractFactory("Traveloger");
-  const preOrder = await PreOrder.deploy(
-    "PreOrder_Tester",
-    "POTT",
-    20,
-    "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
-  );
-  return await preOrder.deployed();
-};
+let preOrder: Contract;
 
 describe("PreOrder", () => {
+  beforeEach(async () => {
+    const PreOrderFactory = await ethers.getContractFactory("Traveloggers");
+    const PreOrder = await PreOrderFactory.deploy(
+      "PreOrder_Tester",
+      "POTT",
+      20,
+      "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp3JD/"
+    );
+    preOrder = await PreOrder.deployed();
+  });
+
   it("Can start and end pre-ordering", async () => {
-    const preOrder = await deployPreOrder();
     // start pre-order
     const started = await preOrder.inPreOrder();
     expect(started).to.equal(false);
@@ -63,7 +65,6 @@ describe("PreOrder", () => {
   });
 
   it("Participants can participate pre-ordering", async () => {
-    const preOrder = await deployPreOrder();
     // pre-order not started
     const accounts = await ethers.getSigners();
     await expect(
@@ -228,7 +229,6 @@ describe("PreOrder", () => {
   });
 
   it("Pre-ordering participants limit cannot be exceeded", async () => {
-    const preOrder = await deployPreOrder();
     await preOrder.setSupply(9);
     await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.1", "ether"));
     await preOrder.setPreOrderParticipants(9);
@@ -265,7 +265,6 @@ describe("PreOrder", () => {
   });
 
   it("Can list all pre-order participants", async () => {
-    const preOrder = await deployPreOrder();
     const accounts = await ethers.getSigners();
 
     await preOrder.setSupply(500);

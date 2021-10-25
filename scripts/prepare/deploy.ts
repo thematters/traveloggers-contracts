@@ -1,5 +1,5 @@
 import fs from "fs";
-import { contractStatePath } from "./util";
+import { ContractStatePath } from "../utils";
 
 import hardhat, { ethers } from "hardhat";
 
@@ -9,7 +9,7 @@ async function main() {
   let contractState;
   try {
     contractState = JSON.parse(
-      fs.readFileSync(contractStatePath(network), "utf-8") || '""'
+      fs.readFileSync(ContractStatePath(network), "utf-8") || '""'
     );
   } catch (err) {
     contractState = {};
@@ -39,21 +39,24 @@ async function main() {
   }
 
   // get the contract to deploy
-  const Traveloger = await ethers.getContractFactory("Traveloger");
-  console.log(`[${network}:deploy] Deploying Traveloger...`);
-  const traveloger = await Traveloger.deploy(
+  const Traveloggers = await ethers.getContractFactory("Traveloggers");
+  console.log(`[${network}:deploy] Deploying Traveloggers...`);
+  const traveloggers = await Traveloggers.deploy(
     contractState.name,
     contractState.symbol,
     contractState.supply,
     contractState.base_uri
   );
-  await traveloger.deployed();
-  console.log(`[${network}:deploy] Mattty deployed to:`, traveloger.address);
+  await traveloggers.deployed();
+  console.log(
+    `[${network}:deploy] Traveloggers deployed to:`,
+    traveloggers.address
+  );
 
   // record contract address
-  contractState.contract_address = traveloger.address;
+  contractState.contract_address = traveloggers.address;
   fs.writeFileSync(
-    contractStatePath(network),
+    ContractStatePath(network),
     JSON.stringify(contractState, null, 2)
   );
 
@@ -61,7 +64,13 @@ async function main() {
   if (network !== "localhost") {
     console.log(`[${network}:deploy] Verifying contract on Etherscan...`);
     await hardhat.run("verify:verify", {
-      address: traveloger.address,
+      address: traveloggers.address,
+      constructorArguments: [
+        contractState.name,
+        contractState.symbol,
+        contractState.supply,
+        contractState.base_uri,
+      ],
     });
   }
 }
