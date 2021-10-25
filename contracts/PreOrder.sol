@@ -9,8 +9,6 @@ import "./BatchNFT.sol";
 
 abstract contract PreOrder is BatchNFT {
     using Counters for Counters.Counter;
-    // min function
-    using Math for uint256;
     // safe division
     using SafeMath for uint256;
 
