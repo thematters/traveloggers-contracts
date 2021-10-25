@@ -11,6 +11,12 @@ export const ContractStatePath = (network: string) =>
 export const ContractState = (network: string) =>
   JSON.parse(fs.readFileSync(ContractStatePath(network), "utf-8") || '""');
 
+export const BaseUriStatePath = (network: string) =>
+  path.join(__dirname, "..", "..", `data/${network}/base-uri.json`);
+
+export const BaseUriState = (network: string) =>
+  JSON.parse(fs.readFileSync(ContractStatePath(network), "utf-8") || '""');
+
 export const metadataDirPath = path.join(
   __dirname,
   "..",
