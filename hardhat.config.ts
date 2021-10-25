@@ -25,6 +25,10 @@ const config: HardhatUserConfig = {
       url: `https://eth-rinkeby.alchemyapi.io/v2/${alchemyAPIKey}`,
       accounts: [deployerPrivateKey],
     },
+    mainnet: {
+      url: `https://eth-mainnet.alchemyapi.io/v2/${alchemyAPIKey}`,
+      accounts: [deployerPrivateKey],
+    },
   },
   gasReporter: {
     currency: "USD",

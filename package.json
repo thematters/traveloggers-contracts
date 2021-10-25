@@ -13,6 +13,7 @@
     "rinkeby:console": "hardhat console --network rinkeby",
     "rinkeby:deploy": "hardhat run --network rinkeby scripts/prepare/deploy.ts",
     "rinkeby:store": "hardhat run --network rinkeby scripts/prepare/store.ts",
+    "rinkeby:set:baseURI": "hardhat set:baseURI --network rinkeby",
     "rinkeby:mint:batch": "hardhat mint:batch --network rinkeby",
     "rinkeby:mint:lottery": "hardhat mint:lottery --network rinkeby",
     "mainnet:deploy": "hardhat run --network mainnet scripts/prepare/deploy.ts",
