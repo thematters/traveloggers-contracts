@@ -76,10 +76,6 @@ abstract contract PreOrder is BatchNFT {
         // require(_preOrdered[msg.sender] <= 0, "already ordered"); // commented because a participant can order multiple times now
         // validation against the minimum contribution amount
         require(msg.value >= preOrderMinAmount, "amount too small");
-        require(
-            _preOrderIndex.current() < preOrderParticipantsAllowed,
-            "reach participants limit"
-        );
         // shall be reverted on zero minimum amount
         uint256 numNFT = msg.value.div(
             preOrderMinAmount,
@@ -91,6 +87,11 @@ abstract contract PreOrder is BatchNFT {
         );
 
         if (_preOrdered[msg.sender] <= 0) {
+            // shall not exceed allowed participants
+            require(
+                _preOrderIndex.current() < preOrderParticipantsAllowed,
+                "reach participants limit"
+            );
             // shall not exceed pre-order limit
             require(numNFT <= preOrderLimit, "reach order limit");
             // lets start the index from 1, since default uint in mapping is 0 in _preOrdered

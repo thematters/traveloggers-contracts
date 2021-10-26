@@ -232,7 +232,7 @@ describe("PreOrder", () => {
   });
 
   it("Pre-ordering participants limit cannot be exceeded", async () => {
-    await preOrder.setSupply(9);
+    await preOrder.setSupply(10);
     await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.1", "ether"));
     await preOrder.setPreOrderParticipants(9);
     await preOrder.setInPreOrder(true);
