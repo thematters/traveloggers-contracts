@@ -35,7 +35,7 @@ abstract contract PreOrder is BatchNFT {
     // unit (wei)
     uint256 public preOrderMinAmount;
     // participants allowed
-    uint256 public preOrderParticipantsAllowed;
+    uint256 public preOrderSupply;
     // total amount pre-ordered
     uint256 public preOrderAmountTotal;
 
@@ -45,9 +45,9 @@ abstract contract PreOrder is BatchNFT {
     }
 
     // set the number of participants allowed
-    function setPreOrderParticipants(uint256 participants_) public onlyOwner {
-        require(participants_ <= totalSupply, "incorrect participants");
-        preOrderParticipantsAllowed = participants_;
+    function setPreOrderSupply(uint256 supply_) public onlyOwner {
+        require(supply_ <= totalSupply, "incorrect pre-order supply");
+        preOrderSupply = supply_;
     }
 
     // start or stop pre-order
@@ -56,9 +56,8 @@ abstract contract PreOrder is BatchNFT {
             require(preOrderMinAmount > 0, "zero amount");
             // number of participants shall be less or equal to the number of supplied NFTs
             require(
-                preOrderParticipantsAllowed > 0 &&
-                    preOrderParticipantsAllowed <= totalSupply,
-                "incorrect participants"
+                preOrderSupply > 0 && preOrderSupply <= totalSupply,
+                "incorrect pre-order supply"
             );
             inPreOrder = true;
         } else {
@@ -79,16 +78,15 @@ abstract contract PreOrder is BatchNFT {
             "amount too small"
         );
         require(
-            _preOrderMintIndex.current() + n <= totalSupply,
-            "reach total supply"
+            _preOrderMintIndex.current() + n <= preOrderSupply,
+            "reach pre-order supply"
         );
+        // require(
+        //     _preOrderMintIndex.current() + n <= totalSupply,
+        //     "reach total supply"
+        // );
 
         if (_preOrdered[msg.sender] <= 0) {
-            // shall not exceed allowed participants
-            require(
-                _preOrderIndex.current() < preOrderParticipantsAllowed,
-                "reach participants limit"
-            );
             // shall not exceed pre-order limit
             require(n <= preOrderLimit, "reach order limit");
             // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
