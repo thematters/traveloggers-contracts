@@ -2,14 +2,11 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 
 import "./BatchNFT.sol";
 
 abstract contract PreOrder is BatchNFT {
     using Counters for Counters.Counter;
-    // safe division
-    using SafeMath for uint256;
 
     // participant struct
     // - addr: participant wallet address
@@ -31,14 +28,14 @@ abstract contract PreOrder is BatchNFT {
     // record the number of NFTs minted during pre-order
     Counters.Counter private _preOrderMintIndex;
 
+    // number of NTFs per participant can order
+    uint256 public constant preOrderLimit = 5;
     // determine whether there is an ongoing pre-order
     bool public inPreOrder;
     // unit (wei)
     uint256 public preOrderMinAmount;
     // participants allowed
     uint256 public preOrderParticipantsAllowed;
-    // number of NTFs per participant can order
-    uint256 public constant preOrderLimit = 5;
     // total amount pre-ordered
     uint256 public preOrderAmountTotal;
 
@@ -70,19 +67,19 @@ abstract contract PreOrder is BatchNFT {
     }
 
     // place a pre-order
-    function preOrder() public payable {
-        // TODO shall not exceed total supply
+    // @param n - number of NFTs to order
+    function preOrder(uint256 n) public payable {
+        // TODO shall not exceed pre-order supply
         require(inPreOrder == true, "pre-order not started");
+        require(preOrderMinAmount > 0, "zero minimum amount");
         // require(_preOrdered[msg.sender] <= 0, "already ordered"); // commented because a participant can order multiple times now
         // validation against the minimum contribution amount
-        require(msg.value >= preOrderMinAmount, "amount too small");
-        // shall be reverted on zero minimum amount
-        uint256 numNFT = msg.value.div(
-            preOrderMinAmount,
-            "zero minimum amount"
+        require(
+            n > 0 && msg.value >= preOrderMinAmount * n,
+            "amount too small"
         );
         require(
-            _preOrderMintIndex.current() + numNFT <= totalSupply,
+            _preOrderMintIndex.current() + n <= totalSupply,
             "reach total supply"
         );
 
@@ -93,7 +90,7 @@ abstract contract PreOrder is BatchNFT {
                 "reach participants limit"
             );
             // shall not exceed pre-order limit
-            require(numNFT <= preOrderLimit, "reach order limit");
+            require(n <= preOrderLimit, "reach order limit");
             // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
             // if the participant never ordered before
             _preOrderIndex.increment();
@@ -101,23 +98,23 @@ abstract contract PreOrder is BatchNFT {
                 addr: msg.sender,
                 amount: msg.value,
                 time: block.timestamp,
-                n: numNFT
+                n: n
             });
             _preOrdered[msg.sender] = _preOrderIndex.current();
         } else {
             // shall not exceed pre-order limit
             require(
-                numNFT + _preOrders[_preOrdered[msg.sender]].n <= preOrderLimit,
+                n + _preOrders[_preOrdered[msg.sender]].n <= preOrderLimit,
                 "reach order limit"
             );
 
             // if the participant has ordered before
             _preOrders[_preOrdered[msg.sender]].amount += msg.value;
-            _preOrders[_preOrdered[msg.sender]].n += numNFT;
+            _preOrders[_preOrdered[msg.sender]].n += n;
             _preOrders[_preOrdered[msg.sender]].time = block.timestamp;
         }
 
-        for (uint256 i = 0; i < numNFT; i++) {
+        for (uint256 i = 0; i < n; i++) {
             _tokenIds.increment();
             _preOrderMintIndex.increment();
 

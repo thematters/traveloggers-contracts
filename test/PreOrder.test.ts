@@ -71,7 +71,7 @@ describe("PreOrder", () => {
     // pre-order not started
     const accounts = await ethers.getSigners();
     await expect(
-      preOrder.connect(accounts[0]).preOrder({
+      preOrder.connect(accounts[0]).preOrder(1, {
         from: accounts[0].address,
         value: web3.utils.toWei("0.5", "ether"),
       })
@@ -83,8 +83,24 @@ describe("PreOrder", () => {
     await preOrder.setPreOrderParticipants(100);
     await preOrder.setInPreOrder(true);
 
+    // the quantity to order cannot be 0
+    await expect(
+      preOrder.connect(accounts[0]).preOrder(0, {
+        from: accounts[0].address,
+        value: web3.utils.toWei("0.5", "ether"),
+      })
+    ).to.be.revertedWith("amount too small");
+
+    // paid amount is not enough for the order quantity
+    await expect(
+      preOrder.connect(accounts[0]).preOrder(1, {
+        from: accounts[0].address,
+        value: web3.utils.toWei("0.4", "ether"),
+      })
+    ).to.be.revertedWith("amount too small");
+
     // success pre-order
-    const r1Tx = await preOrder.connect(accounts[0]).preOrder({
+    const r1Tx = await preOrder.connect(accounts[0]).preOrder(1, {
       from: accounts[0].address,
       value: web3.utils.toWei("0.5", "ether"),
     });
@@ -103,8 +119,7 @@ describe("PreOrder", () => {
     // ).to.be.revertedWith("");
 
     // can re-order if not exceeding pre-order limit (5 NFTs)
-    // use integer division (floor) to calculated ordered number of NTFs
-    const r2Tx = await preOrder.connect(accounts[0]).preOrder({
+    const r2Tx = await preOrder.connect(accounts[0]).preOrder(1, {
       from: accounts[0].address,
       value: web3.utils.toWei("0.99", "ether"),
     });
@@ -121,7 +136,7 @@ describe("PreOrder", () => {
     // cannot re-order if exceeding pre-order limit in subsequent purchase
     // 2 + 4 > 5
     await expect(
-      preOrder.connect(accounts[0]).preOrder({
+      preOrder.connect(accounts[0]).preOrder(4, {
         from: accounts[0].address,
         value: web3.utils.toWei("2.0", "ether"),
       })
@@ -129,7 +144,7 @@ describe("PreOrder", () => {
 
     // can re-order to the maximum allowed pre-order limit in subsequent purchase
     // 2 + 3 <= 5
-    const r3Tx = await preOrder.connect(accounts[0]).preOrder({
+    const r3Tx = await preOrder.connect(accounts[0]).preOrder(3, {
       from: accounts[0].address,
       value: web3.utils.toWei("1.5", "ether"),
     });
@@ -145,7 +160,7 @@ describe("PreOrder", () => {
     // pre-order closed
     await preOrder.setInPreOrder(false);
     await expect(
-      preOrder.connect(accounts[1]).preOrder({
+      preOrder.connect(accounts[1]).preOrder(1, {
         from: accounts[1].address,
         value: web3.utils.toWei("0.5", "ether"),
       })
@@ -156,7 +171,7 @@ describe("PreOrder", () => {
     await preOrder.setInPreOrder(true);
     // cannot pre-order is sent amount is less then minimum contribution required
     await expect(
-      preOrder.connect(accounts[1]).preOrder({
+      preOrder.connect(accounts[1]).preOrder(1, {
         from: accounts[1].address,
         value: web3.utils.toWei("0.09", "ether"),
       })
@@ -164,14 +179,14 @@ describe("PreOrder", () => {
 
     // cannot order if exceeding pre-order limit in initial purchase
     await expect(
-      preOrder.connect(accounts[1]).preOrder({
+      preOrder.connect(accounts[1]).preOrder(6, {
         from: accounts[1].address,
         value: web3.utils.toWei("0.6"),
       })
     ).to.be.revertedWith("reach order limit");
 
     // can order to the maximum allowed pre-order limit in initial purchase
-    const r4Tx = await preOrder.connect(accounts[1]).preOrder({
+    const r4Tx = await preOrder.connect(accounts[1]).preOrder(5, {
       from: accounts[1].address,
       value: web3.utils.toWei("0.5", "ether"),
     });
@@ -186,7 +201,7 @@ describe("PreOrder", () => {
 
     // cannot order any single NFT once reached order limit
     await expect(
-      preOrder.connect(accounts[1]).preOrder({
+      preOrder.connect(accounts[1]).preOrder(1, {
         from: accounts[1].address,
         value: web3.utils.toWei("0.1", "ether"),
       })
@@ -214,17 +229,18 @@ describe("PreOrder", () => {
     // revert when minimum pre-order amount set to zero
     await preOrder.setPreOrderMinAmount(0);
     await expect(
-      preOrder.connect(accounts[2]).preOrder({
+      preOrder.connect(accounts[2]).preOrder(5, {
         from: accounts[2].address,
         value: web3.utils.toWei("0.1", "ether"),
       })
     ).to.be.revertedWith("zero minimum amount");
 
+    // TODO: change to check preOrderSupply
     // revert when exceeding total supply of NFTs
     await preOrder.setSupply(4);
     await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.5", "ether"));
     await expect(
-      preOrder.connect(accounts[2]).preOrder({
+      preOrder.connect(accounts[2]).preOrder(5, {
         from: accounts[2].address,
         value: web3.utils.toWei("2.5", "ether"),
       })
@@ -241,14 +257,14 @@ describe("PreOrder", () => {
     const accounts = await ethers.getSigners();
 
     for (let i = 0; i < 9; i++) {
-      await preOrder.connect(accounts[i]).preOrder({
+      await preOrder.connect(accounts[i]).preOrder(1, {
         from: accounts[i].address,
         value: web3.utils.toWei("0.1", "ether"),
       });
     }
 
     await expect(
-      preOrder.connect(accounts[9]).preOrder({
+      preOrder.connect(accounts[9]).preOrder(1, {
         from: accounts[9].address,
         value: web3.utils.toWei("0.1", "ether"),
       })
@@ -276,7 +292,7 @@ describe("PreOrder", () => {
     await preOrder.setInPreOrder(true);
 
     for (let i = 0; i < accounts.length; i++) {
-      await preOrder.connect(accounts[i]).preOrder({
+      await preOrder.connect(accounts[i]).preOrder(1, {
         from: accounts[i].address,
         value: web3.utils.toWei("0.1", "ether"),
       });
