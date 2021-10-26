@@ -68,7 +68,6 @@ abstract contract PreOrder is BatchNFT {
     // place a pre-order
     // @param n - number of NFTs to order
     function preOrder(uint256 n) public payable {
-        // TODO shall not exceed pre-order supply
         require(inPreOrder == true, "pre-order not started");
         require(preOrderMinAmount > 0, "zero minimum amount");
         // require(_preOrdered[msg.sender] <= 0, "already ordered"); // commented because a participant can order multiple times now
@@ -77,6 +76,7 @@ abstract contract PreOrder is BatchNFT {
             n > 0 && msg.value >= preOrderMinAmount * n,
             "amount too small"
         );
+        // shall not exceed pre-order supply
         require(
             _preOrderMintIndex.current() + n <= preOrderSupply,
             "reach pre-order supply"
