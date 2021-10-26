@@ -38,7 +38,7 @@ abstract contract PreOrder is BatchNFT {
     // participants allowed
     uint256 public preOrderParticipantsAllowed;
     // number of NTFs per participant can order
-    uint256 public preOrderLimit = 5;
+    uint256 public constant preOrderLimit = 5;
     // total amount pre-ordered
     uint256 public preOrderAmountTotal;
 
