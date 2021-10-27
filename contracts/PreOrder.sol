@@ -44,21 +44,30 @@ abstract contract PreOrder is BatchNFT {
         preOrderMinAmount = amount_;
     }
 
-    // set the number of participants allowed
+    // set the number of pre-order supplied NFTs
     function setPreOrderSupply(uint256 supply_) public onlyOwner {
         require(supply_ <= totalSupply, "incorrect pre-order supply");
         preOrderSupply = supply_;
     }
 
     // start or stop pre-order
-    function setInPreOrder(bool start_) public onlyOwner {
+    // @param start_: start or end pre-order flag
+    // @param amount_: minimum contribution amount
+    // @param supply_: pre-order supply
+    function setInPreOrder(
+        bool start_,
+        uint256 amount_,
+        uint256 supply_
+    ) public onlyOwner {
         if (start_ == true) {
-            require(preOrderMinAmount > 0, "zero amount");
-            // number of participants shall be less or equal to the number of supplied NFTs
+            require(amount_ > 0, "zero amount");
+            // number of pre-order supply shall be less or equal to the number of total supply
             require(
-                preOrderSupply > 0 && preOrderSupply <= totalSupply,
+                supply_ > 0 && supply_ <= totalSupply,
                 "incorrect pre-order supply"
             );
+            preOrderMinAmount = amount_;
+            preOrderSupply = supply_;
             inPreOrder = true;
         } else {
             inPreOrder = false;
