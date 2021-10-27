@@ -59,20 +59,6 @@ async function main() {
     ContractStatePath(network),
     JSON.stringify(contractState, null, 2)
   );
-
-  // verify contract on etherscan
-  if (network !== "localhost") {
-    console.log(`[${network}:deploy] Verifying contract on Etherscan...`);
-    await hardhat.run("verify:verify", {
-      address: traveloggers.address,
-      constructorArguments: [
-        contractState.name,
-        contractState.symbol,
-        contractState.supply,
-        contractState.base_uri,
-      ],
-    });
-  }
 }
 
 main()
