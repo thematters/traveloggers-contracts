@@ -23,7 +23,7 @@ abstract contract Lottery is BatchNFT {
         address[] memory winners = _randomDraw(addresses_, amount_);
 
         // batch mint NFT for winners
-        batchMint(winners);
+        batchMint(winners, 1);
 
         // record lottery winners
         emit LotteryWinners(winners);

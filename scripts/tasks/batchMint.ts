@@ -35,7 +35,7 @@ task(taskName, "Batch mint NFTs to given addresses")
 
     // run task
     try {
-      const tx = await traveloggers.batchMint(inputs.addresses);
+      const tx = await traveloggers.batchMint(inputs.addresses, inputs.amount);
 
       const balances: { [key: string]: any } = {};
       for (const address of inputs.addresses) {
