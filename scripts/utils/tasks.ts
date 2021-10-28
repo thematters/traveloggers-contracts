@@ -1,4 +1,4 @@
-import fs from "fs";
+import { readJSON } from ".";
 
 import { ContractState } from "./paths";
 
@@ -34,7 +34,7 @@ export const getTaskInputs = async ({
   inputsFilePath: string;
   network: string;
 }) => {
-  const inputs = JSON.parse(fs.readFileSync(inputsFilePath, "utf-8") || '""');
+  const inputs = readJSON(inputsFilePath);
 
   // check inputs
   if (!inputsFilePath.includes(network)) {
