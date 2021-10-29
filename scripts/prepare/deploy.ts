@@ -1,4 +1,3 @@
-import fs from "fs";
 import { ContractStatePath, ContractState, writeJSON } from "../utils";
 
 import hardhat, { ethers } from "hardhat";
@@ -54,20 +53,6 @@ async function main() {
   // record contract address
   contractState.contract_address = traveloggers.address;
   writeJSON(contractState, ContractStatePath(network));
-
-  // verify contract on etherscan
-  if (network !== "localhost") {
-    console.log(`[${network}:deploy] Verifying contract on Etherscan...`);
-    await hardhat.run("verify:verify", {
-      address: traveloggers.address,
-      constructorArguments: [
-        contractState.name,
-        contractState.symbol,
-        contractState.supply,
-        contractState.base_uri,
-      ],
-    });
-  }
 }
 
 main()
