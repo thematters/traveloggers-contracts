@@ -45,16 +45,25 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
         inputs.amount
       );
 
-      // get winners from emitted event
-      const logs = await traveloggers.queryFilter(
-        traveloggers.filters.LotteryWinners()
-      );
-      const { winners } = logs[0].args;
-
-      inputs.winners = winners;
       inputs.txHash = tx.hash;
       inputs.run = true;
       inputs.error = null;
+
+      // get winners from emitted event
+      try {
+        const logs = await traveloggers.queryFilter(
+          traveloggers.filters.LotteryWinners()
+        );
+        const { winners } = logs[logs.length - 1].args;
+
+        inputs.winners = winners;
+      } catch (error) {
+        inputs.error = (error as Error).message || (error as Error).toString();
+        console.log(
+          `[${network}:${taskName}] Failed to run task "${taskName}"`
+        );
+        console.error(error);
+      }
 
       console.log(`[${network}:${taskName}] Finish running task "${taskName}"`);
     } catch (error) {
@@ -64,5 +73,5 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
     }
 
     // write back to file
-    writeJSON(inputs, inputsFilePath);
+    writeJSON({ ...inputs, ranAt: new Date() }, inputsFilePath);
   });

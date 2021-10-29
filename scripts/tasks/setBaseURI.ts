@@ -48,7 +48,10 @@ task(taskName, "Set shared base URI for token and contract metadata").setAction(
       // update contract state
       const contractStatePath = ContractStatePath(network);
       const contractState = ContractState(network);
-      writeJSON({ ...contractState, base_uri }, contractStatePath);
+      writeJSON(
+        { ...contractState, base_uri, ranAt: new Date() },
+        contractStatePath
+      );
 
       console.log(
         `[${network}:${taskName}] Finish running task "${taskName}", tx hash ${tx.hash}`
