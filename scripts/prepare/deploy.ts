@@ -1,5 +1,4 @@
-import fs from "fs";
-import { ContractStatePath } from "../utils";
+import { ContractStatePath, ContractState, writeJSON } from "../utils";
 
 import hardhat, { ethers } from "hardhat";
 
@@ -8,9 +7,7 @@ async function main() {
 
   let contractState;
   try {
-    contractState = JSON.parse(
-      fs.readFileSync(ContractStatePath(network), "utf-8") || '""'
-    );
+    contractState = ContractState(network);
   } catch (err) {
     contractState = {};
   }
@@ -55,10 +52,7 @@ async function main() {
 
   // record contract address
   contractState.contract_address = traveloggers.address;
-  fs.writeFileSync(
-    ContractStatePath(network),
-    JSON.stringify(contractState, null, 2)
-  );
+  writeJSON(contractState, ContractStatePath(network));
 }
 
 main()

@@ -12,10 +12,13 @@ import { create, globSource } from "ipfs-http-client";
 
 import {
   ContractStatePath,
+  ContractState,
+  BaseUriStatePath,
   metadataDirPath,
   imageDirPath,
-  ContractState,
   env,
+  readJSON,
+  writeJSON,
 } from "../utils";
 
 const { infuraIPFSId, infuraIPFSSecret } = env;
@@ -59,7 +62,7 @@ const main = async () => {
         }
 
         const metadataPath = path.join(metadataDirPath, dirent.name);
-        const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
+        const metadata = readJSON(metadataPath);
 
         // exclude metadata that already stored IPFS
         if (metadata.image.startsWith("ipfs://")) {
@@ -83,18 +86,17 @@ const main = async () => {
    */
   console.log(`Storing ${avatars.length} avatar images...`);
   await Promise.all(
-    avatars.map(async ({ metadata, imagePath, metadataPath }) => {
+    avatars.map(async ({ metadata, imagePath, metadataPath }, index) => {
+      // spread out request to avoid rate limitation
+      await new Promise((resolve) => setTimeout(resolve, index * 100));
+
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });
 
       // store metadata file with updated image uri
-      fs.writeFileSync(
-        metadataPath,
-        JSON.stringify(
-          { ...metadata, image: `ipfs://${cid.toString()}` },
-          null,
-          2
-        )
+      writeJSON(
+        { ...metadata, image: `ipfs://${cid.toString()}` },
+        metadataPath
       );
     })
   );
@@ -103,10 +105,18 @@ const main = async () => {
   /**
    * Step 3: store metadata directory and update baser uri
    */
-  const contractState = ContractState(network);
+
+  // for local host and rinkeby, read placeholder base uri from contract state
+  // for mainnet, read production ready base uri from base uri state
+  let base_uri;
+  if (network === "mainnet") {
+    base_uri = readJSON(BaseUriStatePath(network)).base_uri;
+  } else {
+    base_uri = ContractState(network).base_uri;
+  }
 
   // check if already exists
-  if (contractState.base_uri) {
+  if (base_uri) {
     console.log(`[${network}:store] Base URI recorded, skipping...`);
   } else {
     console.log(`[${network}:store] Storing metadata for base URI ...`);
@@ -128,12 +138,18 @@ const main = async () => {
       );
     }
 
-    // write to contract state
-    contractState.base_uri = base_uri;
-    fs.writeFileSync(
-      ContractStatePath(network),
-      JSON.stringify(contractState, null, 2)
-    );
+    // for local host and rinkeby, write placeholder base uri to contract state
+    // for mainnet, write production ready base uri to base uri state, which will be read by "setBaseURI" script
+    if (network === "mainnet") {
+      // write to contract state
+      writeJSON({ base_uri }, BaseUriStatePath(network));
+    } else {
+      const contractState = ContractState(network);
+      // write to contract state
+      contractState.base_uri = base_uri;
+      writeJSON(contractState, ContractStatePath(network));
+    }
+
     console.log(`    base URI: ${base_uri}`);
   }
 

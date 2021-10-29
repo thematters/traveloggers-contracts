@@ -2,7 +2,10 @@ import { task } from "hardhat/config";
 
 import {
   getTraveloggersContract,
+  BaseUriStatePath,
+  readJSON,
   ContractStatePath,
+  writeJSON,
   ContractState,
 } from "../utils";
 
@@ -17,12 +20,13 @@ task(taskName, "Set shared base URI for token and contract metadata").setAction(
     // get contract
     const traveloggers = await getTraveloggersContract({ network, hardhat });
 
-    // get contract state
-    const contractState = ContractState(network);
+    // get base url to update
+    const { base_uri } = readJSON(BaseUriStatePath(network));
 
-    if (!contractState.base_uri) {
+    // check if ready
+    if (!base_uri) {
       throw new Error(
-        `[${network}:${taskName}] Base URI not provided in ${ContractStatePath(
+        `[${network}:${taskName}] Base URI not provided in ${BaseUriStatePath(
           network
         )}`
       );
@@ -30,7 +34,7 @@ task(taskName, "Set shared base URI for token and contract metadata").setAction(
 
     // check if base_url is the same
     const oldContractUri = await traveloggers.contractURI();
-    if (oldContractUri.includes(contractState.base_uri)) {
+    if (oldContractUri.includes(base_uri)) {
       console.log(
         `[${network}:${taskName}] Baser URI already updated, skipped`
       );
@@ -39,7 +43,12 @@ task(taskName, "Set shared base URI for token and contract metadata").setAction(
 
     // run task
     try {
-      const tx = await traveloggers.setSharedBaseURI(contractState.base_uri);
+      const tx = await traveloggers.setSharedBaseURI(base_uri);
+
+      // update contract state
+      const contractStatePath = ContractStatePath(network);
+      const contractState = ContractState(network);
+      writeJSON({ ...contractState, base_uri }, contractStatePath);
 
       console.log(
         `[${network}:${taskName}] Finish running task "${taskName}", tx hash ${tx.hash}`
