@@ -26,7 +26,7 @@ describe("Logbook", () => {
     // initial mint
     const [owner] = await ethers.getSigners();
     const token1Id = 1;
-    await logbookContract.batchMint([owner.address]);
+    await logbookContract.batchMint([owner.address], 1);
 
     // append log
     const log =
@@ -61,7 +61,7 @@ describe("Logbook", () => {
     // initial mint
     const [owner] = await ethers.getSigners();
     const token1Id = 1;
-    await logbookContract.batchMint([owner.address]);
+    await logbookContract.batchMint([owner.address], 1);
 
     // log chinese
     const logChinese =
@@ -76,7 +76,7 @@ describe("Logbook", () => {
     // initial mint
     const [owner, receiver] = await ethers.getSigners();
     const token1Id = 1;
-    await logbookContract.batchMint([owner.address]);
+    await logbookContract.batchMint([owner.address], 1);
 
     const log =
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
