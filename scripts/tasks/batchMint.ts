@@ -55,5 +55,5 @@ task(taskName, "Batch mint NFTs to given addresses")
     }
 
     // write back to file
-    writeJSON(inputs, inputsFilePath);
+    writeJSON({ ...inputs, ranAt: new Date() }, inputsFilePath);
   });
