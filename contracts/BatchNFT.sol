@@ -64,24 +64,26 @@ contract BatchNFT is ERC721, Ownable {
      * @dev Batch mint NFTs to an array of addresses, require enough supply left.
      * @return the minted token ids
      */
-    function batchMint(address[] memory addresses_)
+    function batchMint(address[] memory addresses_, uint16 amount_)
         public
         onlyOwner
         returns (uint256[] memory)
     {
         require(
-            totalSupply >= addresses_.length + _tokenIds.current(),
+            totalSupply >= addresses_.length * amount_ + _tokenIds.current(),
             "not enough supply"
         );
 
-        uint256[] memory ids = new uint256[](addresses_.length);
-        for (uint256 i = 0; i < addresses_.length; i++) {
-            _tokenIds.increment();
+        uint256[] memory ids = new uint256[](addresses_.length * amount_);
+        for (uint16 i = 0; i < addresses_.length; i++) {
+            for (uint16 j = 0; j < amount_; j++) {
+                _tokenIds.increment();
 
-            uint256 newItemId = _tokenIds.current();
-            _safeMint(addresses_[i], newItemId);
+                uint256 newItemId = _tokenIds.current();
+                _safeMint(addresses_[i], newItemId);
 
-            ids[i] = newItemId;
+                ids[i * amount_ + j] = newItemId;
+            }
         }
 
         return ids;
