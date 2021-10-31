@@ -24,7 +24,7 @@ abstract contract PreOrder is BatchNFT {
     // mapping(address => uint256) private _preOrdered;
     // mapping(uint256 => Participant) private _preOrders;
     mapping(address => uint256) private _preOrders;
-    Counters.Counter private _preOrderIndex;
+    // Counters.Counter private _preOrderIndex;
     // record the number of NFTs minted during pre-order
     Counters.Counter private _preOrderMintIndex;
 
@@ -98,7 +98,7 @@ abstract contract PreOrder is BatchNFT {
             require(n <= preOrderLimit, "reach order limit");
             // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
             // if the participant never ordered before
-            _preOrderIndex.increment();
+            // _preOrderIndex.increment();
             _preOrders[msg.sender] = n;
         } else {
             // shall not exceed pre-order limit
@@ -132,9 +132,9 @@ abstract contract PreOrder is BatchNFT {
     }
 
     // return the number of pre-orders
-    function preOrderIndex() public view virtual returns (uint256) {
-        return _preOrderIndex.current();
-    }
+    // function preOrderIndex() public view virtual returns (uint256) {
+    //     return _preOrderIndex.current();
+    // }
 
     // return the number NFTs of minted in pre-order
     function preOrderMintIndex() public view virtual returns (uint256) {
