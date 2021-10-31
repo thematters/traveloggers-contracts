@@ -14,15 +14,16 @@ abstract contract PreOrder is BatchNFT {
     // - time: timestamp of last order
     // - n: number of NFTs ordered
     // NOTE: amount, time removed to reduce gas
-    struct Participant {
-        address addr;
-        uint256 n;
-    }
+    // struct Participant {
+    //     address addr;
+    //     uint256 n;
+    // }
 
     // the key `_preOrderIndex` is incremented with each additional pre-order
     // make sure `_preOrderIndex` starts from 1 instead of 0
-    mapping(address => uint256) private _preOrdered;
-    mapping(uint256 => Participant) private _preOrders;
+    // mapping(address => uint256) private _preOrdered;
+    // mapping(uint256 => Participant) private _preOrders;
+    mapping(address => uint256) private _preOrders;
     Counters.Counter private _preOrderIndex;
     // record the number of NFTs minted during pre-order
     Counters.Counter private _preOrderMintIndex;
@@ -92,26 +93,22 @@ abstract contract PreOrder is BatchNFT {
         //     "reach total supply"
         // );
 
-        if (_preOrdered[msg.sender] <= 0) {
+        if (_preOrders[msg.sender] <= 0) {
             // shall not exceed pre-order limit
             require(n <= preOrderLimit, "reach order limit");
             // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
             // if the participant never ordered before
             _preOrderIndex.increment();
-            _preOrders[_preOrderIndex.current()] = Participant({
-                addr: msg.sender,
-                n: n
-            });
-            _preOrdered[msg.sender] = _preOrderIndex.current();
+            _preOrders[msg.sender] = n;
         } else {
             // shall not exceed pre-order limit
             require(
-                n + _preOrders[_preOrdered[msg.sender]].n <= preOrderLimit,
+                n + _preOrders[msg.sender] <= preOrderLimit,
                 "reach order limit"
             );
 
             // if the participant has ordered before
-            _preOrders[_preOrdered[msg.sender]].n += n;
+            _preOrders[msg.sender] += n;
         }
 
         for (uint256 i = 0; i < n; i++) {
@@ -125,7 +122,7 @@ abstract contract PreOrder is BatchNFT {
 
     // check if an address has placed an order
     function preOrderExist(address addr_) public view virtual returns (bool) {
-        return _preOrdered[addr_] > 0;
+        return _preOrders[addr_] > 0;
     }
 
     // return participant's pre-order detail
@@ -133,9 +130,9 @@ abstract contract PreOrder is BatchNFT {
         public
         view
         virtual
-        returns (Participant memory)
+        returns (uint256)
     {
-        Participant memory p = _preOrders[_preOrdered[addr_]];
+        uint256 p = _preOrders[addr_];
         return p;
     }
 
@@ -149,40 +146,40 @@ abstract contract PreOrder is BatchNFT {
         return _preOrderMintIndex.current();
     }
 
-    // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
-    function preOrderList(uint256 startIndex_, uint256 limit_)
-        public
-        view
-        virtual
-        returns (Participant[] memory)
-    {
-        // start index shall be less then next pre-order index
-        assert(startIndex_ > 0 && startIndex_ <= _preOrderIndex.current());
+    // // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
+    // function preOrderList(uint256 startIndex_, uint256 limit_)
+    //     public
+    //     view
+    //     virtual
+    //     returns (Participant[] memory)
+    // {
+    //     // start index shall be less then next pre-order index
+    //     assert(startIndex_ > 0 && startIndex_ <= _preOrderIndex.current());
 
-        uint256 n = limit_;
-        if (startIndex_ - 1 + limit_ > _preOrderIndex.current())
-            n = _preOrderIndex.current() - (startIndex_ - 1);
+    //     uint256 n = limit_;
+    //     if (startIndex_ - 1 + limit_ > _preOrderIndex.current())
+    //         n = _preOrderIndex.current() - (startIndex_ - 1);
 
-        Participant[] memory participants = new Participant[](n);
-        for (uint256 i = startIndex_; i < startIndex_ + n; i++) {
-            participants[i - startIndex_] = _preOrders[i];
-        }
-        return participants;
-    }
+    //     Participant[] memory participants = new Participant[](n);
+    //     for (uint256 i = startIndex_; i < startIndex_ + n; i++) {
+    //         participants[i - startIndex_] = _preOrders[i];
+    //     }
+    //     return participants;
+    // }
 
-    // return all pre-orders
-    function preOrderListAll()
-        public
-        view
-        virtual
-        returns (Participant[] memory)
-    {
-        Participant[] memory participants = new Participant[](
-            _preOrderIndex.current()
-        );
-        for (uint256 i = 1; i <= _preOrderIndex.current(); i++) {
-            participants[i - 1] = _preOrders[i];
-        }
-        return participants;
-    }
+    // // return all pre-orders
+    // function preOrderListAll()
+    //     public
+    //     view
+    //     virtual
+    //     returns (Participant[] memory)
+    // {
+    //     Participant[] memory participants = new Participant[](
+    //         _preOrderIndex.current()
+    //     );
+    //     for (uint256 i = 1; i <= _preOrderIndex.current(); i++) {
+    //         participants[i - 1] = _preOrders[i];
+    //     }
+    //     return participants;
+    // }
 }
