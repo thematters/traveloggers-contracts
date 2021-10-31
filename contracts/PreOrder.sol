@@ -13,8 +13,9 @@ abstract contract PreOrder is BatchNFT {
     // - amount: total wei amount spent by the participant
     // - time: timestamp of last order
     // - n: number of NFTs ordered
-    // NOTE: addr, amount, time removed to reduce gas
+    // NOTE: amount, time removed to reduce gas
     struct Participant {
+        address addr;
         uint256 n;
     }
 
@@ -98,6 +99,7 @@ abstract contract PreOrder is BatchNFT {
             // if the participant never ordered before
             _preOrderIndex.increment();
             _preOrders[_preOrderIndex.current()] = Participant({
+                addr: msg.sender,
                 n: n
             });
             _preOrdered[msg.sender] = _preOrderIndex.current();
