@@ -60,38 +60,30 @@ abstract contract PreOrder is BatchNFT {
     // place a pre-order
     // @param n - number of NFTs to order
     function preOrder(uint256 n) public payable {
-        require(inPreOrder == true, "pre-order not started");
-        require(preOrderMinAmount > 0, "zero minimum amount");
-        // validation against the minimum contribution amount
-        require(
-            n > 0 && msg.value >= preOrderMinAmount * n,
-            "amount too small"
-        );
-        // shall not exceed pre-order supply
-        require(
-            _preOrderMintIndex.current() + n <= preOrderSupply,
-            "reach pre-order supply"
-        );
+        // require(inPreOrder == true, "pre-order not started");
+        // require(preOrderMinAmount > 0, "zero minimum amount");
+        // // validation against the minimum contribution amount
+        // require(
+        //     n > 0 && msg.value >= preOrderMinAmount * n,
+        //     "amount too small"
+        // );
+        // // shall not exceed pre-order supply
+        // require(
+        //     _preOrderMintIndex.current() + n <= preOrderSupply,
+        //     "reach pre-order supply"
+        // );
 
-        if (_preOrders[msg.sender] <= 0) {
-            // shall not exceed pre-order limit
-            require(n <= preOrderLimit, "reach order limit");
+        // // shall not exceed pre-order limit
+        // require(
+        //     n + _preOrders[msg.sender] <= preOrderLimit,
+        //     "reach order limit"
+        // );
 
-            _preOrders[msg.sender] = n;
-        } else {
-            // shall not exceed pre-order limit
-            require(
-                n + _preOrders[msg.sender] <= preOrderLimit,
-                "reach order limit"
-            );
-
-            // if the participant has ordered before
-            _preOrders[msg.sender] += n;
-        }
+        // // if the participant has ordered before
+        // _preOrders[msg.sender] += n;
 
         for (uint256 i = 0; i < n; i++) {
             _tokenIds.increment();
-            _preOrderMintIndex.increment();
 
             uint256 newItemId = _tokenIds.current();
             _safeMint(msg.sender, newItemId);
