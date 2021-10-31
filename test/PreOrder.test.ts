@@ -225,11 +225,12 @@ describe("PreOrder", () => {
     status = await preOrder.preOrderExist(accounts[3].address);
     expect(status).to.equal(false);
 
+    // NOTE: preOrderAmountTotal removed to save gas fee
     // query pre-order total amounts
-    const amount = await preOrder.preOrderAmountTotal();
-    expect(amount.toString()).to.equal(
-      web3.utils.toWei((0.5 + 0.99 + 1.5 + 0.5).toString(), "ether")
-    );
+    // const amount = await preOrder.preOrderAmountTotal();
+    // expect(amount.toString()).to.equal(
+    //   web3.utils.toWei((0.5 + 0.99 + 1.5 + 0.5).toString(), "ether")
+    // );
 
     // query minted NFTs in pre-order
     const minted = await preOrder.preOrderMintIndex();
@@ -287,9 +288,10 @@ describe("PreOrder", () => {
       })
     ).to.be.revertedWith("reach pre-order supply");
 
+    // NOTE: preOrderAmountTotal removed to save gas fee
     // query pre-order total amounts
-    const amount = await preOrder.preOrderAmountTotal();
-    expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
+    // const amount = await preOrder.preOrderAmountTotal();
+    // expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
 
     // query single pre-order
     let participant = await preOrder.preOrderGet(accounts[9].address);

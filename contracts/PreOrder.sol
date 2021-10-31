@@ -36,8 +36,6 @@ abstract contract PreOrder is BatchNFT {
     uint256 public preOrderMinAmount;
     // participants allowed
     uint256 public preOrderSupply;
-    // total amount pre-ordered
-    uint256 public preOrderAmountTotal;
 
     // set minimum contribution amount
     function setPreOrderMinAmount(uint256 amount_) public onlyOwner {
@@ -128,7 +126,6 @@ abstract contract PreOrder is BatchNFT {
             uint256 newItemId = _tokenIds.current();
             _safeMint(msg.sender, newItemId);
         }
-        preOrderAmountTotal += msg.value;
     }
 
     // check if an address has placed an order
