@@ -1,7 +1,7 @@
 import fs from "fs";
 import { task, types } from "hardhat/config";
 
-import { getTraveloggersContract, getTaskInputs } from "../utils";
+import { getTraveloggersContract, getTaskInputs, writeJSON } from "../utils";
 
 const taskName = "mint:batch";
 
@@ -35,7 +35,7 @@ task(taskName, "Batch mint NFTs to given addresses")
 
     // run task
     try {
-      const tx = await traveloggers.batchMint(inputs.addresses);
+      const tx = await traveloggers.batchMint(inputs.addresses, inputs.amount);
 
       const balances: { [key: string]: any } = {};
       for (const address of inputs.addresses) {
@@ -55,5 +55,5 @@ task(taskName, "Batch mint NFTs to given addresses")
     }
 
     // write back to file
-    fs.writeFileSync(inputsFilePath, JSON.stringify(inputs, null, 2));
+    writeJSON({ ...inputs, ranAt: new Date() }, inputsFilePath);
   });

@@ -8,7 +8,7 @@ import { createAddresses, toGasCost } from "./utils";
 chai.use(solidity);
 const { expect } = chai;
 
-const totalSupply = 20;
+const totalSupply = 1500;
 
 const deployBatchNFT = async () => {
   const BatchNFT = await ethers.getContractFactory("BatchNFT");
@@ -51,10 +51,10 @@ describe("BatchNFT", () => {
 
   it("Can batch mint to a list of accounts", async () => {
     // account test list, repeating with the same account
-    const amount = totalSupply - 1;
+    const amount = 100;
     const addressList = createAddresses(amount);
 
-    const tx = await batchNFT.batchMint(addressList);
+    const tx = await batchNFT.batchMint(addressList, 1);
 
     // test first one and last one
     expect(await batchNFT.ownerOf(1)).to.equal(addressList[0]);
@@ -71,13 +71,32 @@ describe("BatchNFT", () => {
     );
   });
 
+  it("Can batch mint multiple tokens to one account", async () => {
+    // account test list, repeating with the same account
+    const tokenAmount = 800;
+    const addressList = createAddresses(1);
+
+    const tx = await batchNFT.batchMint(addressList, tokenAmount);
+
+    // test first one and last one
+    expect(await batchNFT.balanceOf(addressList[0])).to.equal(tokenAmount);
+
+    // assuming base fee + tip ~ 100 gwei
+    const { gasUsed } = await tx.wait();
+    console.log(
+      `        Gas used for minting ${tokenAmount} NFTs to one account: ${gasUsed}. Estimated ETH: ${toGasCost(
+        gasUsed
+      )}`
+    );
+  });
+
   it("Can mint token then update token uri", async () => {
     // account test list, repeating with the same account
     const amount = 1;
 
     const addressList = createAddresses(amount);
 
-    const tx = await batchNFT.batchMint(addressList);
+    const tx = await batchNFT.batchMint(addressList, 1);
 
     // set new sharedBaseURI
     const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";
@@ -92,12 +111,14 @@ describe("BatchNFT", () => {
 
   it("Require enough token supply left", async () => {
     // account test list, repeating with the same account
-    const amount = totalSupply + 1;
+
+    const amount = 20;
+    await batchNFT.setSupply(amount);
 
     const addressList = createAddresses(amount);
 
     // const batchNFT = await deployBatchNFT();
-    await expect(batchNFT.batchMint(addressList)).to.be.revertedWith(
+    await expect(batchNFT.batchMint(addressList, 2)).to.be.revertedWith(
       "not enough supply"
     );
   });
