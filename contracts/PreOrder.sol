@@ -14,8 +14,6 @@ abstract contract PreOrder is BatchNFT {
     // - time: timestamp of last order
     // - n: number of NFTs ordered
     struct Participant {
-        address addr;
-        uint256 amount;
         uint256 time;
         uint256 n;
     }
@@ -100,8 +98,6 @@ abstract contract PreOrder is BatchNFT {
             // if the participant never ordered before
             _preOrderIndex.increment();
             _preOrders[_preOrderIndex.current()] = Participant({
-                addr: msg.sender,
-                amount: msg.value,
                 time: block.timestamp,
                 n: n
             });
@@ -114,7 +110,6 @@ abstract contract PreOrder is BatchNFT {
             );
 
             // if the participant has ordered before
-            _preOrders[_preOrdered[msg.sender]].amount += msg.value;
             _preOrders[_preOrdered[msg.sender]].n += n;
             _preOrders[_preOrdered[msg.sender]].time = block.timestamp;
         }

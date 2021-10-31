@@ -293,13 +293,14 @@ describe("PreOrder", () => {
     // const amount = await preOrder.preOrderAmountTotal();
     // expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
 
+    // NOTE: participant.amount and participant.addr is removed to save gas fee
     // query single pre-order
-    let participant = await preOrder.preOrderGet(accounts[9].address);
-    expect(participant.amount.toString()).to.equal("0");
-    participant = await preOrder.preOrderGet(accounts[0].address);
-    expect(participant.amount.toString()).to.equal(
-      web3.utils.toWei("0.1", "ether")
-    );
+    // let participant = await preOrder.preOrderGet(accounts[9].address);
+    // expect(participant.amount.toString()).to.equal("0");
+    // participant = await preOrder.preOrderGet(accounts[0].address);
+    // expect(participant.amount.toString()).to.equal(
+    //   web3.utils.toWei("0.1", "ether")
+    // );
   });
 
   it("Can list all pre-order participants", async () => {
