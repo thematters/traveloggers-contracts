@@ -8,23 +8,8 @@ import "./BatchNFT.sol";
 abstract contract PreOrder is BatchNFT {
     using Counters for Counters.Counter;
 
-    // participant struct
-    // - addr: participant wallet address
-    // - amount: total wei amount spent by the participant
-    // - time: timestamp of last order
-    // - n: number of NFTs ordered
-    // NOTE: amount, time removed to reduce gas
-    // struct Participant {
-    //     address addr;
-    //     uint256 n;
-    // }
-
-    // the key `_preOrderIndex` is incremented with each additional pre-order
-    // make sure `_preOrderIndex` starts from 1 instead of 0
-    // mapping(address => uint256) private _preOrdered;
-    // mapping(uint256 => Participant) private _preOrders;
+    // record the number of NFTs ordered per addresses
     mapping(address => uint256) private _preOrders;
-    // Counters.Counter private _preOrderIndex;
     // record the number of NFTs minted during pre-order
     Counters.Counter private _preOrderMintIndex;
 
@@ -77,7 +62,6 @@ abstract contract PreOrder is BatchNFT {
     function preOrder(uint256 n) public payable {
         require(inPreOrder == true, "pre-order not started");
         require(preOrderMinAmount > 0, "zero minimum amount");
-        // require(_preOrdered[msg.sender] <= 0, "already ordered"); // commented because a participant can order multiple times now
         // validation against the minimum contribution amount
         require(
             n > 0 && msg.value >= preOrderMinAmount * n,
@@ -88,17 +72,11 @@ abstract contract PreOrder is BatchNFT {
             _preOrderMintIndex.current() + n <= preOrderSupply,
             "reach pre-order supply"
         );
-        // require(
-        //     _preOrderMintIndex.current() + n <= totalSupply,
-        //     "reach total supply"
-        // );
 
         if (_preOrders[msg.sender] <= 0) {
             // shall not exceed pre-order limit
             require(n <= preOrderLimit, "reach order limit");
-            // lets start the index from 1, since default uint in mapping is 0 in _preOrdered
-            // if the participant never ordered before
-            // _preOrderIndex.increment();
+
             _preOrders[msg.sender] = n;
         } else {
             // shall not exceed pre-order limit
@@ -131,50 +109,8 @@ abstract contract PreOrder is BatchNFT {
         return p;
     }
 
-    // return the number of pre-orders
-    // function preOrderIndex() public view virtual returns (uint256) {
-    //     return _preOrderIndex.current();
-    // }
-
     // return the number NFTs of minted in pre-order
     function preOrderMintIndex() public view virtual returns (uint256) {
         return _preOrderMintIndex.current();
     }
-
-    // // return the pre-orders between start and start + limit - 1 (-1 because the index starts from 1)
-    // function preOrderList(uint256 startIndex_, uint256 limit_)
-    //     public
-    //     view
-    //     virtual
-    //     returns (Participant[] memory)
-    // {
-    //     // start index shall be less then next pre-order index
-    //     assert(startIndex_ > 0 && startIndex_ <= _preOrderIndex.current());
-
-    //     uint256 n = limit_;
-    //     if (startIndex_ - 1 + limit_ > _preOrderIndex.current())
-    //         n = _preOrderIndex.current() - (startIndex_ - 1);
-
-    //     Participant[] memory participants = new Participant[](n);
-    //     for (uint256 i = startIndex_; i < startIndex_ + n; i++) {
-    //         participants[i - startIndex_] = _preOrders[i];
-    //     }
-    //     return participants;
-    // }
-
-    // // return all pre-orders
-    // function preOrderListAll()
-    //     public
-    //     view
-    //     virtual
-    //     returns (Participant[] memory)
-    // {
-    //     Participant[] memory participants = new Participant[](
-    //         _preOrderIndex.current()
-    //     );
-    //     for (uint256 i = 1; i <= _preOrderIndex.current(); i++) {
-    //         participants[i - 1] = _preOrders[i];
-    //     }
-    //     return participants;
-    // }
 }
