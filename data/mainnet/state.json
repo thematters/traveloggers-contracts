@@ -1,5 +1,6 @@
 {
   "name": "Traveloggers",
-  "symbol": "TLOGR",
-  "supply": 1500
+  "symbol": "LOGRS",
+  "supply": 1500,
+  "base_uri": "ipfs://QmZNov9guZkCBuC1R6g4diMLAoRsex3HJeruNipQKxrH3m/"
 }

@@ -1,6 +1,7 @@
 import Articles from "articles";
 import fs from "fs";
 import path from "path";
+import { writeJSON } from "../utils";
 
 import { races, ideologies, characters, totalSupply } from "./settings.json";
 import { metadataDirPath, sample, capitalize } from "./utils";
@@ -78,10 +79,7 @@ const main = async () => {
     };
 
     // write to file
-    fs.writeFileSync(
-      path.join(metadataDirPath, `${id}`),
-      JSON.stringify(creature, null, 2)
-    );
+    writeJSON(creature, path.join(metadataDirPath, `${id}`));
   }
 
   console.log("    done.");

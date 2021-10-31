@@ -1,0 +1,14 @@
+{
+  "taskName": "mint:batch",
+  "run": true,
+  "addresses": ["0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"],
+  "amount": 800,
+  "txHash": "0x417b8aa090e8a77908454ebf9e977babada23f582eb8a0cb2684e7107ebbaab4",
+  "balances": {
+    "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550": {
+      "type": "BigNumber",
+      "hex": "0x00"
+    }
+  },
+  "error": null
+}
