@@ -304,7 +304,7 @@ describe("PreOrder", () => {
   });
 
   // NOTE: two mapping data structure revamp to single mapping to save gas fee
-  //   thus, view functions for participants list are not supported anymore 
+  //   thus, view functions for participants list are not supported anymore
   // it("Can list all pre-order participants", async () => {
   //   const accounts = await ethers.getSigners();
 

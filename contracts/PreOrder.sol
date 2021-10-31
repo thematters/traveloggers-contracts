@@ -126,12 +126,7 @@ abstract contract PreOrder is BatchNFT {
     }
 
     // return participant's pre-order detail
-    function preOrderGet(address addr_)
-        public
-        view
-        virtual
-        returns (uint256)
-    {
+    function preOrderGet(address addr_) public view virtual returns (uint256) {
         uint256 p = _preOrders[addr_];
         return p;
     }
