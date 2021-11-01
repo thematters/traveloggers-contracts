@@ -2,12 +2,12 @@ import { task, types } from "hardhat/config";
 
 import { getTraveloggersContract, getTaskInputs, writeJSON } from "../utils";
 
-const taskName = "mint:batch";
+const taskName = "set:preOrder";
 
-task(taskName, "Batch mint NFTs to given addresses")
+task(taskName, "Set pre-order state")
   .addOptionalParam(
     "inputs",
-    "path of input file which contains address list",
+    "path of input file which contains pre-order options",
     null,
     types.inputFile
   )
@@ -32,23 +32,25 @@ task(taskName, "Batch mint NFTs to given addresses")
       );
     }
 
-    if (!inputs.addresses || inputs.addresses.length === 0) {
+    if (
+      !Object.prototype.hasOwnProperty.call(inputs, "start") ||
+      !inputs.amount ||
+      !inputs.supply
+    ) {
       throw new Error(
-        `[${network}:${taskName}] Input file ${inputsFilePath} has no addresses`
+        `[${network}:${taskName}] Input file ${inputsFilePath} needs parameter "start", "amount" and "supply"`
       );
     }
 
     // run task
     try {
-      const tx = await traveloggers.batchMint(inputs.addresses, inputs.amount);
-
-      const balances: { [key: string]: any } = {};
-      for (const address of inputs.addresses) {
-        balances[address] = await traveloggers.balanceOf(address);
-      }
+      const tx = await traveloggers.setInPreOrder(
+        inputs.start,
+        inputs.amount,
+        inputs.supply
+      );
 
       inputs.txHash = tx.hash;
-      inputs.balances = balances;
       inputs.run = true;
       inputs.error = null;
 

@@ -96,7 +96,7 @@ describe("BatchNFT", () => {
 
     const addressList = createAddresses(amount);
 
-    const tx = await batchNFT.batchMint(addressList, 1);
+    await batchNFT.batchMint(addressList, 1);
 
     // set new sharedBaseURI
     const uri = "ipfs://QmeEpVThsuHRUDAQccP52WV9xLa2y8LEpTnyEsPX9fp123/";

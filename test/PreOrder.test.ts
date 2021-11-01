@@ -3,10 +3,16 @@ import { ethers } from "hardhat";
 import { solidity } from "ethereum-waffle";
 import { Contract } from "ethers";
 
-import { web3, toGasCost } from "./utils";
+import { web3, toGasCost, toPercentage } from "./utils";
 
 chai.use(solidity);
 const { expect } = chai;
+
+const _preOrderMinAmount = 0.5;
+const preOrderMinAmount = web3.utils.toWei(_preOrderMinAmount + "", "ether");
+const preOrderSupply = 300;
+const totalSupply = 1500;
+const preOrderLimit = 5;
 
 let preOrder: Contract;
 
@@ -47,12 +53,12 @@ describe("PreOrder", () => {
     ).to.be.revertedWith("incorrect pre-order supply");
 
     // start pre-order
-    await preOrder.setInPreOrder(true, web3.utils.toWei("0.2"), 300);
+    await preOrder.setInPreOrder(true, web3.utils.toWei("0.2"), preOrderSupply);
     expect(await preOrder.inPreOrder()).to.equal(true);
     expect(await preOrder.preOrderMinAmount()).to.equal(
       web3.utils.toWei("0.2", "ether")
     );
-    expect(await preOrder.preOrderSupply()).to.equal(300);
+    expect(await preOrder.preOrderSupply()).to.equal(preOrderSupply);
 
     // set correct min amount
     await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.1", "ether"));
@@ -63,21 +69,19 @@ describe("PreOrder", () => {
     // set correct pre-order supply
     await preOrder.setPreOrderSupply(500);
     expect(await preOrder.preOrderSupply()).to.equal(500);
-    await preOrder.setPreOrderSupply(300);
-    expect(await preOrder.preOrderSupply()).to.equal(300);
+    await preOrder.setPreOrderSupply(preOrderSupply);
+    expect(await preOrder.preOrderSupply()).to.equal(preOrderSupply);
 
     // close pre-order & restart it
     await preOrder.setInPreOrder(false, 0, 0);
     expect(await preOrder.inPreOrder()).to.equal(false);
-    await preOrder.setInPreOrder(true, web3.utils.toWei("0.5", "ether"), 200);
+    await preOrder.setInPreOrder(true, preOrderMinAmount, 200);
     expect(await preOrder.inPreOrder()).to.equal(true);
-    expect(await preOrder.preOrderMinAmount()).to.equal(
-      web3.utils.toWei("0.5", "ether")
-    );
+    expect(await preOrder.preOrderMinAmount()).to.equal(preOrderMinAmount);
     expect(await preOrder.preOrderSupply()).to.equal(200);
 
     // pre-order limit
-    expect(await preOrder.preOrderLimit()).to.equal(5);
+    expect(await preOrder.preOrderLimit()).to.equal(preOrderLimit);
   });
 
   it("Participants can participate pre-ordering", async () => {
@@ -86,19 +90,19 @@ describe("PreOrder", () => {
     await expect(
       preOrder.connect(accounts[0]).preOrder(1, {
         from: accounts[0].address,
-        value: web3.utils.toWei("0.5", "ether"),
+        value: preOrderMinAmount,
       })
     ).to.be.revertedWith("pre-order not started");
 
     // start pre-order round 1
-    await preOrder.setSupply(1500);
-    await preOrder.setInPreOrder(true, web3.utils.toWei("0.5", "ether"), 300);
+    await preOrder.setSupply(totalSupply);
+    await preOrder.setInPreOrder(true, preOrderMinAmount, preOrderSupply);
 
     // the quantity to order cannot be 0
     await expect(
       preOrder.connect(accounts[0]).preOrder(0, {
         from: accounts[0].address,
-        value: web3.utils.toWei("0.5", "ether"),
+        value: preOrderMinAmount,
       })
     ).to.be.revertedWith("amount too small");
 
@@ -111,35 +115,17 @@ describe("PreOrder", () => {
     ).to.be.revertedWith("amount too small");
 
     // success pre-order
-    const r1Tx = await preOrder.connect(accounts[0]).preOrder(1, {
+    await preOrder.connect(accounts[0]).preOrder(1, {
       from: accounts[0].address,
-      value: web3.utils.toWei("0.5", "ether"),
+      value: preOrderMinAmount,
     });
-    const { gasUsed: r1GasUsed } = await r1Tx.wait();
-    console.log(
-      `        Gas used for preOrder: ${r1GasUsed}. Estimated ETH: ${toGasCost(
-        r1GasUsed
-      )}`
-    );
-    // // no duplicated pre-ordering
-    // await expect(
-    //   preOrder.connect(accounts[0]).preOrder({
-    //     from: accounts[0].address,
-    //     value: web3.utils.toWei("1.5", "ether"),
-    //   })
-    // ).to.be.revertedWith("");
 
     // can re-order if not exceeding pre-order limit (5 NFTs)
-    const r2Tx = await preOrder.connect(accounts[0]).preOrder(1, {
+    await preOrder.connect(accounts[0]).preOrder(1, {
       from: accounts[0].address,
       value: web3.utils.toWei("0.99", "ether"),
     });
-    const { gasUsed: r2GasUsed } = await r2Tx.wait();
-    console.log(
-      `        Gas used for preOrder: ${r2GasUsed}. Estimated ETH: ${toGasCost(
-        r2GasUsed
-      )}`
-    );
+
     let participant0 = await preOrder.preOrderGet(accounts[0].address);
     // floor((0.5 + 0.99) / 0.5) = 2
     expect(participant0).to.equal(2);
@@ -155,30 +141,29 @@ describe("PreOrder", () => {
 
     // can re-order to the maximum allowed pre-order limit in subsequent purchase
     // 2 + 3 <= 5
-    const r3Tx = await preOrder.connect(accounts[0]).preOrder(3, {
+    await preOrder.connect(accounts[0]).preOrder(3, {
       from: accounts[0].address,
       value: web3.utils.toWei("1.5", "ether"),
     });
-    const { gasUsed: r3GasUsed } = await r3Tx.wait();
-    console.log(
-      `        Gas used for preOrder: ${r3GasUsed}. Estimated ETH: ${toGasCost(
-        r3GasUsed
-      )}`
-    );
+
     participant0 = await preOrder.preOrderGet(accounts[0].address);
-    expect(participant0).to.equal(5);
+    expect(participant0).to.equal(preOrderLimit);
 
     // pre-order closed
     await preOrder.setInPreOrder(false, 0, 0);
     await expect(
       preOrder.connect(accounts[1]).preOrder(1, {
         from: accounts[1].address,
-        value: web3.utils.toWei("0.5", "ether"),
+        value: preOrderMinAmount,
       })
     ).to.be.revertedWith("pre-order not started");
 
     // start pre-order round 2
-    await preOrder.setInPreOrder(true, web3.utils.toWei("0.1", "ether"), 300);
+    await preOrder.setInPreOrder(
+      true,
+      web3.utils.toWei("0.1", "ether"),
+      preOrderSupply
+    );
     // cannot pre-order is sent amount is less then minimum contribution required
     await expect(
       preOrder.connect(accounts[1]).preOrder(1, {
@@ -196,18 +181,13 @@ describe("PreOrder", () => {
     ).to.be.revertedWith("reach order limit");
 
     // can order to the maximum allowed pre-order limit in initial purchase
-    const r4Tx = await preOrder.connect(accounts[1]).preOrder(5, {
+    await preOrder.connect(accounts[1]).preOrder(preOrderLimit, {
       from: accounts[1].address,
-      value: web3.utils.toWei("0.5", "ether"),
+      value: preOrderMinAmount,
     });
-    const { gasUsed: r4GasUsed } = await r4Tx.wait();
-    console.log(
-      `        Gas used for preOrder: ${r4GasUsed}. Estimated ETH: ${toGasCost(
-        r4GasUsed
-      )}`
-    );
+
     const participant1 = await preOrder.preOrderGet(accounts[1].address);
-    expect(participant1).to.equal(5);
+    expect(participant1).to.equal(preOrderLimit);
 
     // cannot order any single NFT once reached order limit
     await expect(
@@ -225,13 +205,6 @@ describe("PreOrder", () => {
     status = await preOrder.preOrderExist(accounts[3].address);
     expect(status).to.equal(false);
 
-    // // NOTE: preOrderAmountTotal removed to save gas fee
-    // // query pre-order total amounts
-    // // const amount = await preOrder.preOrderAmountTotal();
-    // // expect(amount.toString()).to.equal(
-    // //   web3.utils.toWei((0.5 + 0.99 + 1.5 + 0.5).toString(), "ether")
-    // // );
-
     // query minted NFTs in pre-order
     const minted = await preOrder.preOrderMintIndex();
     expect(minted.toString()).to.equal("10");
@@ -240,7 +213,7 @@ describe("PreOrder", () => {
     // revert when minimum pre-order amount set to zero
     await preOrder.setPreOrderMinAmount(0);
     await expect(
-      preOrder.connect(accounts[2]).preOrder(5, {
+      preOrder.connect(accounts[2]).preOrder(preOrderLimit, {
         from: accounts[2].address,
         value: web3.utils.toWei("0.1", "ether"),
       })
@@ -248,16 +221,16 @@ describe("PreOrder", () => {
 
     // // revert when exceeding total supply of NFTs
     // await preOrder.setSupply(4);
-    // await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.5", "ether"));
+    // await preOrder.setPreOrderMinAmount(preOrderMinAmount);
     // await expect(
-    //   preOrder.connect(accounts[2]).preOrder(5, {
+    //   preOrder.connect(accounts[2]).preOrder(preOrderLimit, {
     //     from: accounts[2].address,
     //     value: web3.utils.toWei("2.5", "ether"),
     //   })
     // ).to.be.revertedWith("reach total supply");
 
     // check preOrderSupply
-    await preOrder.setPreOrderMinAmount(web3.utils.toWei("0.5", "ether"));
+    await preOrder.setPreOrderMinAmount(preOrderMinAmount);
     await preOrder.setPreOrderSupply(3);
     await expect(
       preOrder.connect(accounts[2]).preOrder(4, {
@@ -287,45 +260,51 @@ describe("PreOrder", () => {
         value: web3.utils.toWei("0.1", "ether"),
       })
     ).to.be.revertedWith("reach pre-order supply");
-
-    // NOTE: preOrderAmountTotal removed to save gas fee
-    // query pre-order total amounts
-    // const amount = await preOrder.preOrderAmountTotal();
-    // expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
-
-    // NOTE: participant.amount and participant.addr is removed to save gas fee
-    // query single pre-order
-    // let participant = await preOrder.preOrderGet(accounts[9].address);
-    // expect(participant.amount.toString()).to.equal("0");
-    // participant = await preOrder.preOrderGet(accounts[0].address);
-    // expect(participant.amount.toString()).to.equal(
-    //   web3.utils.toWei("0.1", "ether")
-    // );
   });
 
-  // NOTE: two mapping data structure revamp to single mapping to save gas fee
-  //   thus, view functions for participants list are not supported anymore
-  // it("Can list all pre-order participants", async () => {
-  //   const accounts = await ethers.getSigners();
+  it("Can estimate gas fee", async () => {
+    const accounts = await ethers.getSigners();
 
-  //   await preOrder.setSupply(500);
-  //   await preOrder.setInPreOrder(true, web3.utils.toWei("0.1", "ether"), 100);
+    await preOrder.setSupply(totalSupply);
+    await preOrder.setInPreOrder(true, preOrderMinAmount, preOrderSupply);
 
-  //   for (let i = 0; i < accounts.length; i++) {
-  //     await preOrder.connect(accounts[i]).preOrder(1, {
-  //       from: accounts[i].address,
-  //       value: web3.utils.toWei("0.1", "ether"),
-  //     });
-  //   }
-  //   let participants = await preOrder.preOrderListAll();
-  //   expect(participants.length).to.equal(accounts.length);
+    const patterns = [
+      [1, 1, 1, 1, 1],
+      [1, 2, 2],
+      [1, 3, 1],
+      [2, 2, 1],
+      [2, 3],
+      [3, 2],
+      [4, 1],
+      [5],
+    ];
 
-  //   participants = await preOrder.preOrderList(9, 100);
-  //   expect(participants.length).to.equal(accounts.length - 9 + 1);
-  //   participants = await preOrder.preOrderList(1, 5);
-  //   expect(participants.length).to.equal(5);
+    for (const [accountId, pattern] of patterns.entries()) {
+      const account = accounts[accountId];
 
-  //   // start index out of bound
-  //   await expect(preOrder.preOrderList(accounts.length + 1, 5)).to.be.reverted;
-  // });
+      for (const [index, n] of pattern.entries()) {
+        const overrides = {
+          from: account.address,
+          value: web3.utils.toWei(_preOrderMinAmount * n + "", "ether"),
+        };
+
+        const estimateGasUsed = (
+          await preOrder.connect(account).estimateGas.preOrder(n, overrides)
+        ).toNumber();
+
+        const tx = await preOrder.connect(account).preOrder(n, overrides);
+        const { gasUsed } = await tx.wait();
+
+        const gasUsedPercentage = toPercentage(gasUsed / estimateGasUsed);
+
+        console.log(
+          `        [->${pattern.join(
+            "->"
+          )}] Gas used for preOrder (n: ${n}, index: ${index}): ${gasUsed} (${gasUsedPercentage}% of estimation). Estimated ETH: ${toGasCost(
+            gasUsed
+          )}`
+        );
+      }
+    }
+  });
 });

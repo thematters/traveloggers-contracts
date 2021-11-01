@@ -13,3 +13,7 @@ export const createAddresses = (amount: number) =>
   new Array(amount)
     .fill(undefined)
     .map(() => web3.eth.accounts.create().address);
+
+export const toPercentage = (value: number) => {
+  return Math.floor(value * 100);
+};
