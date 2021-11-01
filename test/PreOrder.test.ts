@@ -142,7 +142,7 @@ describe("PreOrder", () => {
     );
     let participant0 = await preOrder.preOrderGet(accounts[0].address);
     // floor((0.5 + 0.99) / 0.5) = 2
-    expect(participant0.n).to.equal(2);
+    expect(participant0).to.equal(2);
 
     // cannot re-order if exceeding pre-order limit in subsequent purchase
     // 2 + 4 > 5
@@ -166,7 +166,7 @@ describe("PreOrder", () => {
       )}`
     );
     participant0 = await preOrder.preOrderGet(accounts[0].address);
-    expect(participant0.n).to.equal(5);
+    expect(participant0).to.equal(5);
 
     // pre-order closed
     await preOrder.setInPreOrder(false, 0, 0);
@@ -207,7 +207,7 @@ describe("PreOrder", () => {
       )}`
     );
     const participant1 = await preOrder.preOrderGet(accounts[1].address);
-    expect(participant1.n).to.equal(5);
+    expect(participant1).to.equal(5);
 
     // cannot order any single NFT once reached order limit
     await expect(
@@ -225,11 +225,12 @@ describe("PreOrder", () => {
     status = await preOrder.preOrderExist(accounts[3].address);
     expect(status).to.equal(false);
 
-    // query pre-order total amounts
-    const amount = await preOrder.preOrderAmountTotal();
-    expect(amount.toString()).to.equal(
-      web3.utils.toWei((0.5 + 0.99 + 1.5 + 0.5).toString(), "ether")
-    );
+    // // NOTE: preOrderAmountTotal removed to save gas fee
+    // // query pre-order total amounts
+    // // const amount = await preOrder.preOrderAmountTotal();
+    // // expect(amount.toString()).to.equal(
+    // //   web3.utils.toWei((0.5 + 0.99 + 1.5 + 0.5).toString(), "ether")
+    // // );
 
     // query minted NFTs in pre-order
     const minted = await preOrder.preOrderMintIndex();
@@ -287,40 +288,44 @@ describe("PreOrder", () => {
       })
     ).to.be.revertedWith("reach pre-order supply");
 
+    // NOTE: preOrderAmountTotal removed to save gas fee
     // query pre-order total amounts
-    const amount = await preOrder.preOrderAmountTotal();
-    expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
+    // const amount = await preOrder.preOrderAmountTotal();
+    // expect(amount.toString()).to.equal(web3.utils.toWei("0.9", "ether"));
 
+    // NOTE: participant.amount and participant.addr is removed to save gas fee
     // query single pre-order
-    let participant = await preOrder.preOrderGet(accounts[9].address);
-    expect(participant.amount.toString()).to.equal("0");
-    participant = await preOrder.preOrderGet(accounts[0].address);
-    expect(participant.amount.toString()).to.equal(
-      web3.utils.toWei("0.1", "ether")
-    );
+    // let participant = await preOrder.preOrderGet(accounts[9].address);
+    // expect(participant.amount.toString()).to.equal("0");
+    // participant = await preOrder.preOrderGet(accounts[0].address);
+    // expect(participant.amount.toString()).to.equal(
+    //   web3.utils.toWei("0.1", "ether")
+    // );
   });
 
-  it("Can list all pre-order participants", async () => {
-    const accounts = await ethers.getSigners();
+  // NOTE: two mapping data structure revamp to single mapping to save gas fee
+  //   thus, view functions for participants list are not supported anymore
+  // it("Can list all pre-order participants", async () => {
+  //   const accounts = await ethers.getSigners();
 
-    await preOrder.setSupply(500);
-    await preOrder.setInPreOrder(true, web3.utils.toWei("0.1", "ether"), 100);
+  //   await preOrder.setSupply(500);
+  //   await preOrder.setInPreOrder(true, web3.utils.toWei("0.1", "ether"), 100);
 
-    for (let i = 0; i < accounts.length; i++) {
-      await preOrder.connect(accounts[i]).preOrder(1, {
-        from: accounts[i].address,
-        value: web3.utils.toWei("0.1", "ether"),
-      });
-    }
-    let participants = await preOrder.preOrderListAll();
-    expect(participants.length).to.equal(accounts.length);
+  //   for (let i = 0; i < accounts.length; i++) {
+  //     await preOrder.connect(accounts[i]).preOrder(1, {
+  //       from: accounts[i].address,
+  //       value: web3.utils.toWei("0.1", "ether"),
+  //     });
+  //   }
+  //   let participants = await preOrder.preOrderListAll();
+  //   expect(participants.length).to.equal(accounts.length);
 
-    participants = await preOrder.preOrderList(9, 100);
-    expect(participants.length).to.equal(accounts.length - 9 + 1);
-    participants = await preOrder.preOrderList(1, 5);
-    expect(participants.length).to.equal(5);
+  //   participants = await preOrder.preOrderList(9, 100);
+  //   expect(participants.length).to.equal(accounts.length - 9 + 1);
+  //   participants = await preOrder.preOrderList(1, 5);
+  //   expect(participants.length).to.equal(5);
 
-    // start index out of bound
-    await expect(preOrder.preOrderList(accounts.length + 1, 5)).to.be.reverted;
-  });
+  //   // start index out of bound
+  //   await expect(preOrder.preOrderList(accounts.length + 1, 5)).to.be.reverted;
+  // });
 });
