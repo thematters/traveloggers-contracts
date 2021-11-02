@@ -92,10 +92,11 @@ contract BatchNFT is ERC721, Ownable {
     /**
      * @dev Burn a given token by calling internel `_burn` function, requires owner or approved account
      */
-    function burn(uint256 tokenId_)
-        public
-    {
-        require(_isApprovedOrOwner(_msgSender(), tokenId_), "Caller is not owner nor approved");
+    function burn(uint256 tokenId_) public {
+        require(
+            _isApprovedOrOwner(_msgSender(), tokenId_),
+            "Caller is not owner nor approved"
+        );
         _burn(tokenId_);
     }
 
