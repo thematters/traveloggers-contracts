@@ -37,7 +37,7 @@ describe("Logbook", () => {
     // "LogbookNewLog" event is emitted
     await expect(tx)
       .to.emit(logbookContract, "LogbookNewLog")
-      .withArgs(token1Id, owner.address);
+      .withArgs(token1Id, 0, owner.address);
 
     // assuming base fee + tip ~ 100 gwei
     const { gasUsed } = await tx.wait();
