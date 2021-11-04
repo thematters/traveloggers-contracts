@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #1106",
-  "description": "A hard-working, cosmopolitan Valya.",
+  "description": "An introverted, romantic Sasha.",
   "_visual": {
-    "race": "Valya",
-    "character": "hard-working b",
-    "ideology": "cosmopolitan a"
+    "race": "Sasha",
+    "character": "introverted a",
+    "ideology": "romantic b"
   },
-  "image": "ipfs://QmXaq8Cw2ECfk7fyUR5PTCMwqxBiCKctoCsy15VyM6NgRw",
+  "image": "ipfs://QmdvWypuVLSQyKZTqRWftoDNf79mgHfhHfScuTBdheiCBE",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Sasha"
     },
     {
       "trait_type": "Ideology",
-      "value": "cosmopolitan"
+      "value": "romantic"
     },
     {
       "trait_type": "Character",
-      "value": "hard-working"
+      "value": "introverted"
     }
   ]
 }

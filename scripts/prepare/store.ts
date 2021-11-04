@@ -21,6 +21,9 @@ import {
   writeJSON,
 } from "../utils";
 
+// whether to overwrite existing ipfs addresses
+const overWrite = false;
+
 const { infuraIPFSId, infuraIPFSSecret } = env;
 
 const auth =
@@ -57,16 +60,28 @@ const main = async () => {
         }
 
         // exclude file name with not only numbers
-        if (!/^\d+$/.test(dirent.name)) {
+        if (
+          !/^\d+$/.test(dirent.name) &&
+          dirent.name !== "contract-metadata.json"
+        ) {
           return;
         }
 
         const metadataPath = path.join(metadataDirPath, dirent.name);
         const metadata = readJSON(metadataPath);
 
-        // exclude metadata that already stored IPFS
+        // existing ipfs addresses
         if (metadata.image.startsWith("ipfs://")) {
-          return;
+          if (!overWrite) {
+            // when not over writing, skip
+            return;
+          } else {
+            // when over writing, assume the image filename
+            metadata.image =
+              dirent.name !== "contract-metadata.json"
+                ? "0.gif"
+                : `${dirent.name}.png`;
+          }
         }
 
         const imagePath = path.join(imageDirPath, metadata.image);

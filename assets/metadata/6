@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #6",
-  "description": "A self-discipline, Epicurean Zhenya.",
+  "description": "An extroverted, nationalistic Lesya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "self-discipline b",
-    "ideology": "Epicurean b"
+    "race": "Lesya",
+    "character": "extroverted b",
+    "ideology": "nationalistic b"
   },
-  "image": "ipfs://Qmf3VFfHEix46xyZQLn1iJZDsRxkLfERh1N7Ag7pe43hyx",
+  "image": "ipfs://QmXqjnZTMw8FZxAUbaY75xgeahXMrxFHziWzQgHqRmA8XQ",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Epicurean"
+      "value": "nationalistic"
     },
     {
       "trait_type": "Character",
-      "value": "self-discipline"
+      "value": "extroverted"
     }
   ]
 }

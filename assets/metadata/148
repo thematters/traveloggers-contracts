@@ -1,16 +1,16 @@
 {
   "name": "Travelogger #148",
-  "description": "An imaginative, cosmopolitan Valya.",
+  "description": "A down-to-earth, cosmopolitan Gena.",
   "_visual": {
-    "race": "Valya",
-    "character": "imaginative a",
-    "ideology": "cosmopolitan a"
+    "race": "Gena",
+    "character": "down-to-earth a",
+    "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmTkFft2XoLE6QFHPce6DtJjYoXasq5UcqYacNfgoWZAoo",
+  "image": "ipfs://QmP4d1UifBcSF8CumBoUriVtr9A9HWH63mnA4cMPDgxTYJ",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Gena"
     },
     {
       "trait_type": "Ideology",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "down-to-earth"
     }
   ]
 }

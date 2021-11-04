@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #2",
-  "description": "An exploring, Marxist Zhenya.",
+  "description": "A compassionate, LGBTQ friendly Valya.",
   "_visual": {
-    "race": "Zhenya",
-    "character": "exploring b",
-    "ideology": "Marxist b"
+    "race": "Valya",
+    "character": "compassionate a",
+    "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmbiJdyZQZ3yMXZuCTZPPFAxuUaAT9n83LAKrj1yYk8Che",
+  "image": "ipfs://QmXBLsvnFX297t1wRzQvbteqHgHPk8PZ4dMcMPDm7JwixL",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Zhenya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "Marxist"
+      "value": "LGBTQ friendly"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "compassionate"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #1100",
-  "description": "An imaginative, feminist Gena.",
+  "description": "An enthusiastic, localist Valya.",
   "_visual": {
-    "race": "Gena",
-    "character": "imaginative b",
-    "ideology": "feminist a"
+    "race": "Valya",
+    "character": "enthusiastic b",
+    "ideology": "localist a"
   },
-  "image": "ipfs://QmPLGMQAMRcp1HYdNr43s7hF4FqykSytqBvAm84PQpfToP",
+  "image": "ipfs://Qmd5sUwkAbE83e35W7v1HBZrSxgcpVWiQ8551dX4UR1FdJ",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Gena"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "feminist"
+      "value": "localist"
     },
     {
       "trait_type": "Character",
-      "value": "imaginative"
+      "value": "enthusiastic"
     }
   ]
 }

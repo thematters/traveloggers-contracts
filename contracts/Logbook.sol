@@ -18,9 +18,9 @@ abstract contract Logbook is BatchNFT {
     }
 
     // Mapping from token ID to logbook
-    mapping(uint256 => TokenLogbook) private _logbook;
+    mapping(uint256 => TokenLogbook) public logbook;
 
-    event LogbookNewLog(uint256 tokenId, address sender);
+    event LogbookNewLog(uint256 tokenId, uint256 index, address sender);
 
     /**
      * @dev Append a new log to logbook
@@ -32,7 +32,7 @@ abstract contract Logbook is BatchNFT {
             _isApprovedOrOwner(_msgSender(), tokenId_),
             "caller is not owner nor approved"
         );
-        require(!_logbook[tokenId_].isLocked, "logbook is locked");
+        require(!logbook[tokenId_].isLocked, "logbook is locked");
 
         address owner = ERC721.ownerOf(tokenId_);
         Log memory newLog = Log({
@@ -41,10 +41,10 @@ abstract contract Logbook is BatchNFT {
             createdAt: block.timestamp
         });
 
-        _logbook[tokenId_].logs.push(newLog);
-        _logbook[tokenId_].isLocked = true;
+        logbook[tokenId_].logs.push(newLog);
+        logbook[tokenId_].isLocked = true;
 
-        emit LogbookNewLog(tokenId_, owner);
+        emit LogbookNewLog(tokenId_, logbook[tokenId_].logs.length - 1, owner);
     }
 
     /**
@@ -55,7 +55,7 @@ abstract contract Logbook is BatchNFT {
         view
         returns (TokenLogbook memory)
     {
-        return _logbook[tokenId_];
+        return logbook[tokenId_];
     }
 
     /**
@@ -68,6 +68,6 @@ abstract contract Logbook is BatchNFT {
     ) internal virtual override {
         super._beforeTokenTransfer(from, to, tokenId); // Call parent hook
 
-        _logbook[tokenId].isLocked = false;
+        logbook[tokenId].isLocked = false;
     }
 }

@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #7",
-  "description": "An exploring, conservative Lesya.",
+  "description": "An imaginative, skeptical Valya.",
   "_visual": {
-    "race": "Lesya",
-    "character": "exploring a",
-    "ideology": "conservative b"
+    "race": "Valya",
+    "character": "imaginative a",
+    "ideology": "skeptical a"
   },
-  "image": "ipfs://QmQ2LRsUczAqfqZXhFZmAPJ8fjFys63R1mm4wz4ijRy4Pm",
+  "image": "ipfs://QmTgxzFC2td4bRbVovq2hUzhCA8bGf3LvidvytQQZo2Che",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Lesya"
+      "value": "Valya"
     },
     {
       "trait_type": "Ideology",
-      "value": "conservative"
+      "value": "skeptical"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "imaginative"
     }
   ]
 }
