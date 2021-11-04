@@ -1,0 +1,11 @@
+{
+  "taskName": "mint:lottery",
+  "run": false,
+  "addresses": [
+    "0xA0b2334A4ee8c39Cd3b9dfA6506cA7A440520966",
+    "0xD82f8fF7535330E300bA59AF61D7aCD1Bd6b35a1",
+    "0xBA41ab74524903F3aC879E8ff7C6891A85227F05",
+    "0xDEaaB8829DaF997708b64146A7B537D359eE431c"
+  ],
+  "amount": 1
+}
