@@ -1,14 +1,17 @@
 {
   "taskName": "mint:batch",
-  "run": true,
-  "addresses": ["0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"],
-  "amount": 800,
-  "txHash": "0x417b8aa090e8a77908454ebf9e977babada23f582eb8a0cb2684e7107ebbaab4",
+  "addresses": [
+    "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"
+  ],
+  "amount": 60,
+  "txHash": "0x9d84c038d19d737e7697936527dc41dfdc9379e7d64f6d644aa00d56cd35ac0f",
   "balances": {
     "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550": {
       "type": "BigNumber",
       "hex": "0x00"
     }
   },
-  "error": null
+  "run": true,
+  "error": null,
+  "ranAt": "2021-11-04T00:17:18.040Z"
 }
