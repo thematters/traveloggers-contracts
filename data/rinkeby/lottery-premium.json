@@ -1,0 +1,13 @@
+{
+  "taskName": "mint:lottery",
+  "run": true,
+  "addresses": [
+    "0xdeE754649f1C4E709F6c123FEF167d8E8fe293De",
+    "0x77b8baB1fE7853B2c4488B396791E85ceB141816",
+    "0x869871ba7eC8BCB59530a04e1e28A42A208a697b"
+  ],
+  "amount": 2,
+  "txHash": "0xc91e3b9c23b4aba1893cee8f45a76e1b6d36a2486f76e81ff7f22d20e1c2d5df",
+  "error": null,
+  "ranAt": "2021-11-04T09:43:27.651Z"
+}
