@@ -1,8 +1,6 @@
 {
   "taskName": "mint:batch",
-  "addresses": [
-    "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"
-  ],
+  "addresses": ["0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"],
   "amount": 60,
   "txHash": "0x9d84c038d19d737e7697936527dc41dfdc9379e7d64f6d644aa00d56cd35ac0f",
   "balances": {

@@ -4,7 +4,7 @@
   "amount": "30000000000000000",
   "supply": 300,
   "error": null,
-  "ranAt": "2021-11-02T22:58:02.069Z",
-  "txHash": "0x3272a4e42b23409c7cdef4bb603913e8c4c1f0a64ac034eea599e3a4df85ef90",
-  "run": true
+  "txHash": "0xaa0f7d27ce4302c18d51d0ab1fd87cffc651c41798ee94b6d1646a1dbeda3934",
+  "run": true,
+  "ranAt": "2021-11-04T00:19:51.833Z"
 }
