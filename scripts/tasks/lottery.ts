@@ -46,30 +46,41 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
 
     // run task
     try {
-      const tx = await traveloggers.drawLottery(
+      const gasUsed = await traveloggers.estimateGas.drawLottery(
         inputs.addresses,
         inputs.amount
       );
+      console.log({ gasUsed });
+
+      const tx = await traveloggers.drawLottery(
+        inputs.addresses,
+        inputs.amount,
+        {
+          gasLimit: gasUsed.mul(3).div(2),
+        }
+      );
+
+      await tx.wait();
 
       inputs.txHash = tx.hash;
       inputs.run = true;
       inputs.error = null;
 
       // get winners from emitted event
-      try {
-        const logs = await traveloggers.queryFilter(
-          traveloggers.filters.LotteryWinners()
-        );
-        const { winners } = logs[logs.length - 1].args;
+      // try {
+      //   const logs = await traveloggers.queryFilter(
+      //     traveloggers.filters.LotteryWinners()
+      //   );
+      //   const { winners } = logs[logs.length - 1].args;
 
-        inputs.winners = winners;
-      } catch (error) {
-        inputs.error = (error as Error).message || (error as Error).toString();
-        console.log(
-          `[${network}:${taskName}] Failed to run task "${taskName}"`
-        );
-        console.error(error);
-      }
+      //   inputs.winners = winners;
+      // } catch (error) {
+      //   inputs.error = (error as Error).message || (error as Error).toString();
+      //   console.log(
+      //     `[${network}:${taskName}] Failed to run task "${taskName}"`
+      //   );
+      //   console.error(error);
+      // }
 
       console.log(`[${network}:${taskName}] Finish running task "${taskName}"`);
     } catch (error) {
