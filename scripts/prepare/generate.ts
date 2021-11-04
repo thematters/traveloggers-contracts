@@ -1,10 +1,8 @@
 import Articles from "articles";
-import fs from "fs";
 import path from "path";
-import { writeJSON } from "../utils";
+import { writeJSON, metadataDirPath, sample, capitalize } from "../utils";
 
 import { races, ideologies, characters, totalSupply } from "./settings.json";
-import { metadataDirPath, sample, capitalize } from "./utils";
 
 // main function
 const main = async () => {
