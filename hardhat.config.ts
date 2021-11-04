@@ -16,6 +16,7 @@ import {
 import "./scripts/tasks/batchMint";
 import "./scripts/tasks/lottery";
 import "./scripts/tasks/setBaseURI";
+import "./scripts/tasks/setPreOrder";
 
 const config: HardhatUserConfig = {
   solidity: "0.8.4",

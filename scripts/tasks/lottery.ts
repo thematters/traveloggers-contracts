@@ -27,6 +27,12 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
       network,
     });
 
+    if (inputs.run) {
+      throw new Error(
+        `[${network}:${taskName}] ${inputsFilePath} has been run`
+      );
+    }
+
     if (!inputs.addresses || inputs.addresses.length === 0) {
       throw new Error(
         `[${network}:${taskName}] Input file ${inputsFilePath} has no addresses`

@@ -71,6 +71,22 @@ describe("BatchNFT", () => {
     );
   });
 
+  it("Can batch mint then burn a minted token", async () => {
+    // account test list, repeating with the same account
+    const [owner] = await ethers.getSigners();
+
+    await batchNFT.batchMint([owner.address], 1);
+
+    // test existence
+    expect(await batchNFT.ownerOf(1)).to.equal(owner.address);
+
+    await batchNFT.connect(owner).burn(1);
+
+    await expect(batchNFT.ownerOf(1)).to.be.revertedWith(
+      "ERC721: owner query for nonexistent token"
+    );
+  });
+
   it("Can batch mint multiple tokens to one account", async () => {
     // account test list, repeating with the same account
     const tokenAmount = 800;

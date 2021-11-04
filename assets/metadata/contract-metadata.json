@@ -1,8 +1,8 @@
 {
   "name": "Traveloggers",
-  "description": "Log books that can traded and appended, recording journeys across different owners. Create and own it collaboratively, and use it as avatar on Matters News.",
-  "image": "ipfs://QmNcueeYYx61xDtTuSrJnfw9uxzCMzJ7LY8JNCifQ6dnay",
-  "external_link": "https://nft-develop.matters.news/",
-  "seller_fee_basis_points": 500,
+  "description": "The first NFT social media avatar to expand private ownership with collective creation. Each owner of Traveloggers can record a message to a unique logbook, while owning the collective creation of all successive owners.",
+  "image": "ipfs://QmWmD2z1Yof5TDoo9EMCNcyLhx2bzq7r4ZF528vMepSM2q",
+  "external_link": "https://traveloggers.matters.news/",
+  "seller_fee_basis_points": 1000,
   "fee_recipient": "0xE3077092b48E945bcba59E0c1AC0e16b0a8da550"
 }

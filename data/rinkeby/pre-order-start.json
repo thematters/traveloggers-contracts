@@ -1,0 +1,10 @@
+{
+  "taskName": "set:preOrder",
+  "start": true,
+  "amount": "30000000000000000",
+  "supply": 300,
+  "error": null,
+  "txHash": "0xaa0f7d27ce4302c18d51d0ab1fd87cffc651c41798ee94b6d1646a1dbeda3934",
+  "run": true,
+  "ranAt": "2021-11-04T00:19:51.833Z"
+}
