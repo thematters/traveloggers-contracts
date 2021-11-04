@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "LGBTQ friendly b"
   },
-  "image": "ipfs://Qmc2bTwzDZZ2khtoqQZ2Rg8LzRmb6nSSnXKixakpUQDCSF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://Qmc2bTwzDZZ2khtoqQZ2Rg8LzRmb6nSSnXKixakpUQDCSF"
 }

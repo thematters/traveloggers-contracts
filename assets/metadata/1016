@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "pluralistic b"
   },
-  "image": "ipfs://QmUSadmVCFQCc38i4zTfNA3eLaqNh1mE11rhaMCWbNiwDp",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmUSadmVCFQCc38i4zTfNA3eLaqNh1mE11rhaMCWbNiwDp"
 }

@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmUiEb3i8GAbmxAY3sb3HcdF2xHTiDvPtC738PW8oNRbVp",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmUiEb3i8GAbmxAY3sb3HcdF2xHTiDvPtC738PW8oNRbVp"
 }

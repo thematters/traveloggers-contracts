@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmTY3h3sEKmQZA7S8vSBFg8eVALkmsoc8PraaAZgjLuUs3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmTY3h3sEKmQZA7S8vSBFg8eVALkmsoc8PraaAZgjLuUs3"
 }

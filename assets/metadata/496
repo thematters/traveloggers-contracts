@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmdE3KdMiBCSMAgwWA3xTKB7RDV1JynLtm1Zfttqf3mUvw",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmdE3KdMiBCSMAgwWA3xTKB7RDV1JynLtm1Zfttqf3mUvw"
 }

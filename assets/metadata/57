@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "existentialist b"
   },
-  "image": "ipfs://QmQAkSVNQnDLFAm53zQMvJb57n9cXMwSGyueR8vyTVvegZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmQAkSVNQnDLFAm53zQMvJb57n9cXMwSGyueR8vyTVvegZ"
 }

@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "pluralistic b"
   },
-  "image": "ipfs://QmTWCHdaEpk2cVXnzJzCDEyd8KQHQcKe2uRxSd44rg5V9m",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmTWCHdaEpk2cVXnzJzCDEyd8KQHQcKe2uRxSd44rg5V9m"
 }

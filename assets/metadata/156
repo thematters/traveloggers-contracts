@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmQQR5fdXXZgbPfqPRZD9Z1ZVkFjZoYfMswphYXjmoqg2w",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmQQR5fdXXZgbPfqPRZD9Z1ZVkFjZoYfMswphYXjmoqg2w"
 }

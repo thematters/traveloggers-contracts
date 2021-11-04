@@ -6,7 +6,6 @@
     "character": "rebellious b",
     "ideology": "anarchist b"
   },
-  "image": "ipfs://QmUqphSu3Fs3s7dn7uXJ6YxAaEx7aQ1zkLhLXp2v8bbryb",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmUqphSu3Fs3s7dn7uXJ6YxAaEx7aQ1zkLhLXp2v8bbryb"
 }

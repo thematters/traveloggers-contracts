@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmXBLsvnFX297t1wRzQvbteqHgHPk8PZ4dMcMPDm7JwixL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmXBLsvnFX297t1wRzQvbteqHgHPk8PZ4dMcMPDm7JwixL"
 }

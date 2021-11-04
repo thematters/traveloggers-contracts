@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://Qmauy9yHdRXurTdyFnR5jyQbUWdQWWqotTCwXEaSt5wZks",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmXErD2CG5b8rJTUNzBomxaD3Au6q6UfJteS8wxvuRFemS"
 }

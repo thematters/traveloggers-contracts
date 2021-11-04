@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmaPuZ3aFg8RtgS7xBux3gdSNbGxokE1sGcLCKR2Yxbvtb",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmaPuZ3aFg8RtgS7xBux3gdSNbGxokE1sGcLCKR2Yxbvtb"
 }

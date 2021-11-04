@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmXHXsr8iFBUVWmSkP15di674VMQ6diig8FUVcoS2DgUmT",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmXHXsr8iFBUVWmSkP15di674VMQ6diig8FUVcoS2DgUmT"
 }

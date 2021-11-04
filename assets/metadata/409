@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmRBWrjy71ithQjfpWEizAZUuzXFMF3pFePyFhshTRSreY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmRBWrjy71ithQjfpWEizAZUuzXFMF3pFePyFhshTRSreY"
 }

@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmNRfHXc824rD7Hj96q8fQDRDqgtRc2h94WhDz4FN8MrB7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmNRfHXc824rD7Hj96q8fQDRDqgtRc2h94WhDz4FN8MrB7"
 }

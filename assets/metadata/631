@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmPk527mZmpzt2QtYT4hfLPhSs2vyaYUod53tCyqe2WoQj",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmPk527mZmpzt2QtYT4hfLPhSs2vyaYUod53tCyqe2WoQj"
 }

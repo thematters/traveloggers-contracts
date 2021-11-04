@@ -6,7 +6,6 @@
     "character": "extroverted a",
     "ideology": "Marxist b"
   },
-  "image": "ipfs://QmTJt3fNeTuVMHyfQXQ9NLADFD1ECWbFbCDsicjfCyDdTu",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmTJt3fNeTuVMHyfQXQ9NLADFD1ECWbFbCDsicjfCyDdTu"
 }

@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmccPGh8xV7TqhrvaGiT9Xa2Gc81ayZLjaNPGnQfp6JCZZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmccPGh8xV7TqhrvaGiT9Xa2Gc81ayZLjaNPGnQfp6JCZZ"
 }

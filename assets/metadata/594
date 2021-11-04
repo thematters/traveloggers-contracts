@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "individualistic b"
   },
-  "image": "ipfs://QmZz4JfYzhMRtMtyD2tH9jfdd8BS1nRKQ3QjLkJQjksdnX",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmZz4JfYzhMRtMtyD2tH9jfdd8BS1nRKQ3QjLkJQjksdnX"
 }

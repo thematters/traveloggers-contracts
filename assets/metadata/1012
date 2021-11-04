@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmabXJ35bw8AH5KmQnL5HaxzDR7qyK135vPmYhxHXSwhB8",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmabXJ35bw8AH5KmQnL5HaxzDR7qyK135vPmYhxHXSwhB8"
 }

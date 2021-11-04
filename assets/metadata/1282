@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmaUbh5KLEyNv7QLm4r4TuPuUWt2E95CUiFxr8mUGNp75k",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmaUbh5KLEyNv7QLm4r4TuPuUWt2E95CUiFxr8mUGNp75k"
 }

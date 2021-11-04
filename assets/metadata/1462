@@ -6,7 +6,6 @@
     "character": "observant b",
     "ideology": "optimistic b"
   },
-  "image": "ipfs://QmVc2DqUvzrCauEDT2A59hZpcBTPdJMGmbzDn9kLVsuyFk",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmVc2DqUvzrCauEDT2A59hZpcBTPdJMGmbzDn9kLVsuyFk"
 }

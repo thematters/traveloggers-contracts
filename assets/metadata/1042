@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "Marxist b"
   },
-  "image": "ipfs://QmdWc5BtQos5prRZMcsRjNFoCvTfMw7Z75AT2zDS8bgoYg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmdWc5BtQos5prRZMcsRjNFoCvTfMw7Z75AT2zDS8bgoYg"
 }

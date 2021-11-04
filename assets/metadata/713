@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "localist a"
   },
-  "image": "ipfs://QmWyhdQZ9QTYcbFDKfvt6yND8uYQkxLRVa6qfUro19PR3W",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmWyhdQZ9QTYcbFDKfvt6yND8uYQkxLRVa6qfUro19PR3W"
 }

@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "collectivistic a"
   },
-  "image": "ipfs://QmVz1zweGn8JaC93vRweWM5Nocsyxy1Sbrdw1DpwqVNbCs",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmVz1zweGn8JaC93vRweWM5Nocsyxy1Sbrdw1DpwqVNbCs"
 }

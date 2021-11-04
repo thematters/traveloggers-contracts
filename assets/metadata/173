@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmUGcq64wXLvRTrwfjNYgNPmVWw9y9HqidRuFDrJM85eMe",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmUGcq64wXLvRTrwfjNYgNPmVWw9y9HqidRuFDrJM85eMe"
 }

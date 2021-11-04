@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "optimistic b"
   },
-  "image": "ipfs://QmYD8NTVCTbf5qqMoLLjRKyiXFyyfzAaXiy65uDNMEpSZ7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmYD8NTVCTbf5qqMoLLjRKyiXFyyfzAaXiy65uDNMEpSZ7"
 }

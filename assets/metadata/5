@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmXaq8Cw2ECfk7fyUR5PTCMwqxBiCKctoCsy15VyM6NgRw",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmXaq8Cw2ECfk7fyUR5PTCMwqxBiCKctoCsy15VyM6NgRw"
 }

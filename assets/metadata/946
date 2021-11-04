@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmcfiMXZdL7V7hhS6HXbZU8NZKxgWfb8rKPhmQ6zg1ZEA6",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmcfiMXZdL7V7hhS6HXbZU8NZKxgWfb8rKPhmQ6zg1ZEA6"
 }

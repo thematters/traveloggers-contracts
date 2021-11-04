@@ -6,7 +6,6 @@
     "character": "enthusiastic a",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmXa3avnRGj4uZtzX4ESBY2WhfP3KKbqqWgzaKTDCoHwvD",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmXa3avnRGj4uZtzX4ESBY2WhfP3KKbqqWgzaKTDCoHwvD"
 }

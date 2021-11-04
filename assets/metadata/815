@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmQNXD3zGgUMh14nAKfxJwjNP23jwYtGsCP6XXYfsrqpPn",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmQNXD3zGgUMh14nAKfxJwjNP23jwYtGsCP6XXYfsrqpPn"
 }

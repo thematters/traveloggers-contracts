@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmVupWQNCYZ2fW8NVTaapurxouZHxR77FjauragEjAvWYM",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmVupWQNCYZ2fW8NVTaapurxouZHxR77FjauragEjAvWYM"
 }

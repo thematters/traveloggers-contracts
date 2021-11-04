@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmXfoJrAh3gaf1ti37YvnDBWx2WscxgrwczZ1qgH6Gk9qL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmXfoJrAh3gaf1ti37YvnDBWx2WscxgrwczZ1qgH6Gk9qL"
 }

@@ -6,7 +6,6 @@
     "character": "self-discipline a",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmTxPapsuLx4bRvQumVRGgafuHwf6rUhXAkxD61dfnxkkK",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmTxPapsuLx4bRvQumVRGgafuHwf6rUhXAkxD61dfnxkkK"
 }

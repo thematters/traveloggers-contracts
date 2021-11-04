@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmTvKS9dcjEGH1n2J18TWKKXE1N8FCPXdrA6feE9pjcyKv",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmTvKS9dcjEGH1n2J18TWKKXE1N8FCPXdrA6feE9pjcyKv"
 }

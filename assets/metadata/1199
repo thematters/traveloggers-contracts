@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmZHzJ9jchpn2kATK68SyFFG2H9y1bGwbhnPw1b3PdGFeJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmZHzJ9jchpn2kATK68SyFFG2H9y1bGwbhnPw1b3PdGFeJ"
 }

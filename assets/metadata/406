@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://QmarofXKowpJydxpRzRFrg7jEuj3Ep7YfoaA28Qz6DT6zQ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmWNr3rg1PrHcfwsffKpMcYKs4epwHPa1pWJjiFjyWTpDj"
 }

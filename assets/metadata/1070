@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmRwcxnxKttPHgEcPv7T8M3hBU4odm36f7i4fxhKM7pqkZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmRwcxnxKttPHgEcPv7T8M3hBU4odm36f7i4fxhKM7pqkZ"
 }

@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmZL8kvnxJW33bD3PTan6wdm9WW2WAEnrPX8Bm2k3Ez9x9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmZL8kvnxJW33bD3PTan6wdm9WW2WAEnrPX8Bm2k3Ez9x9"
 }

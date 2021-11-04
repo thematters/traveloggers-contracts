@@ -6,7 +6,6 @@
     "character": "enthusiastic a",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmdP5kF7J2RxMVSsCBR3pT3yXKx7CGq3KmV4ftvBw3cyiC",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmdP5kF7J2RxMVSsCBR3pT3yXKx7CGq3KmV4ftvBw3cyiC"
 }

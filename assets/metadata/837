@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmUVvNSjAHpc8M9LsSD5JEf8FkHYHqPWzxd2QziBr8hWub",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmUVvNSjAHpc8M9LsSD5JEf8FkHYHqPWzxd2QziBr8hWub"
 }

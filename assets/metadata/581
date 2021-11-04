@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmesNuEBKdfbu5xoQNfME8MGEmL47qWQPoUthqJ1v3dHo9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmesNuEBKdfbu5xoQNfME8MGEmL47qWQPoUthqJ1v3dHo9"
 }

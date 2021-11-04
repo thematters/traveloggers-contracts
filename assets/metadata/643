@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmP43XkJLNWraap2XAefV292izSJyRHUmdzq4ra6gmAxxo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmP43XkJLNWraap2XAefV292izSJyRHUmdzq4ra6gmAxxo"
 }

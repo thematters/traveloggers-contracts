@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmXTYRDmXfmWaa6R5NA3ByfXvPaqtWPWJNunQo4m8nLzZi",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmXTYRDmXfmWaa6R5NA3ByfXvPaqtWPWJNunQo4m8nLzZi"
 }

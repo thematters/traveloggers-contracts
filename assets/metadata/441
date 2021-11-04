@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmbX5n3YkHeC3k3766iwaTdvZ3P7suCAwWEF9yTq8e4fYT",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmbX5n3YkHeC3k3766iwaTdvZ3P7suCAwWEF9yTq8e4fYT"
 }

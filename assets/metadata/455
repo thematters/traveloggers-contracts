@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmQrYGZAjNQ2np3owc1owyCyiN6FWxn28VjXciQhMU6wLt",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmQrYGZAjNQ2np3owc1owyCyiN6FWxn28VjXciQhMU6wLt"
 }

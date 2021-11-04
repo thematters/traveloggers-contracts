@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmbfeevEHQ2ucHSbW7dBpfYMmYtsQqRcMEGNAJtBnC8psF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmbfeevEHQ2ucHSbW7dBpfYMmYtsQqRcMEGNAJtBnC8psF"
 }

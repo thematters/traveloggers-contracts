@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "pessimistic b"
   },
-  "image": "ipfs://QmRiAypjGTitqqNCxT96us6779vFn7SHpD5Pn4Js45Lywa",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmRiAypjGTitqqNCxT96us6779vFn7SHpD5Pn4Js45Lywa"
 }

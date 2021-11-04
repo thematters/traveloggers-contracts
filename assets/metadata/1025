@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmNjmQSNN4GYPQTSKWJ6dKF28Uoxp6aW3o9e8GPVLKZHfh",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmNjmQSNN4GYPQTSKWJ6dKF28Uoxp6aW3o9e8GPVLKZHfh"
 }

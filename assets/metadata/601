@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmaQdR6tD8M5xEc9K8zs4tMENErq4F5AmLwTxCAx9kofnf",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmaQdR6tD8M5xEc9K8zs4tMENErq4F5AmLwTxCAx9kofnf"
 }

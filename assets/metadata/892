@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "conservative a"
   },
-  "image": "ipfs://Qme2C8mzJfbxrUEYfgKYixyv4GGQVCpAzaUP2CjxagqTsj",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://Qme2C8mzJfbxrUEYfgKYixyv4GGQVCpAzaUP2CjxagqTsj"
 }

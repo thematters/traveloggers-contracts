@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "LGBTQ friendly b"
   },
-  "image": "ipfs://QmcRRNhc9ibaeRbYxi1EoiLpkx9j3Ls783oUQJWwXur24d",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmcRRNhc9ibaeRbYxi1EoiLpkx9j3Ls783oUQJWwXur24d"
 }

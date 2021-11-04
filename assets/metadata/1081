@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmYUTVhAiCEVrJpLE9i332EAGvB6rq1qrYxDWmroS9GKtc",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmYUTVhAiCEVrJpLE9i332EAGvB6rq1qrYxDWmroS9GKtc"
 }

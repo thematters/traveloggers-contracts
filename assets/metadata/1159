@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmNYNYUDkN4rrV8fcoBAjhkFkCQKRyAFKGQx69E7AmGoBA",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmNYNYUDkN4rrV8fcoBAjhkFkCQKRyAFKGQx69E7AmGoBA"
 }

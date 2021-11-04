@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "localist b"
   },
-  "image": "ipfs://QmXSrxLGEvNhLwunGw5oRUeuzJ726SkyDerbVbdK6W73AW",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmXSrxLGEvNhLwunGw5oRUeuzJ726SkyDerbVbdK6W73AW"
 }

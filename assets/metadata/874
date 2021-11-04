@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "collectivistic a"
   },
-  "image": "ipfs://QmUx7gUELDXBGDiHbNesG15uCviqQFdUfGxmjLcEPmhWim",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmUx7gUELDXBGDiHbNesG15uCviqQFdUfGxmjLcEPmhWim"
 }

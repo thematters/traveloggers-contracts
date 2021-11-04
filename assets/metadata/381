@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmSRw82bFCqGdcRVEdftKpt4r4q1SpUc4Kx29RabQKsGDK",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmSRw82bFCqGdcRVEdftKpt4r4q1SpUc4Kx29RabQKsGDK"
 }

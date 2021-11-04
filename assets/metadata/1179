@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmeCk2GkLBxQpFwG6vzRnzckrVjhPvgsJDEHDA9N9dfTSH",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmeCk2GkLBxQpFwG6vzRnzckrVjhPvgsJDEHDA9N9dfTSH"
 }

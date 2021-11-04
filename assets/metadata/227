@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmY8YoUgrY3QuwniSG1UW3ffKMUQkFboLEKe72wBgw3iZq",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmY8YoUgrY3QuwniSG1UW3ffKMUQkFboLEKe72wBgw3iZq"
 }

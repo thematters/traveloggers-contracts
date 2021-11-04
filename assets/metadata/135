@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmfBLQiDzgaYri6wxFPKisGmuZUT16RBysK4b4pcqgBnV5",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmfBLQiDzgaYri6wxFPKisGmuZUT16RBysK4b4pcqgBnV5"
 }

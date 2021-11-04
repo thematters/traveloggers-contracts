@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "conservative b"
   },
-  "image": "ipfs://QmVa5kkyTwSXVas3ovJpuct1WtQs9ra6TSzqv5vhCS9oYL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmVa5kkyTwSXVas3ovJpuct1WtQs9ra6TSzqv5vhCS9oYL"
 }

@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "collectivistic b"
   },
-  "image": "ipfs://QmNtutEMNyzMmmvFgoUgQjrC4QxmyuEXdCqZNxW47DepB9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmNtutEMNyzMmmvFgoUgQjrC4QxmyuEXdCqZNxW47DepB9"
 }

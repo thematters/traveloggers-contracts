@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmZo7awxqUzPZTYoRTYp6vEqitb1AEWAWhocupx2YP8thD",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmZo7awxqUzPZTYoRTYp6vEqitb1AEWAWhocupx2YP8thD"
 }

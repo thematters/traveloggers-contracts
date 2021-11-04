@@ -6,7 +6,6 @@
     "character": "rebellious b",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmPnD1N2WphjA3jrpfWWsMa6fZgGb5uHvPtoTaHBGxxF4w",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmPnD1N2WphjA3jrpfWWsMa6fZgGb5uHvPtoTaHBGxxF4w"
 }

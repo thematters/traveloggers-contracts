@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmRcQNS7yokQc5FUgchrf1VPMFmrUub8p5vyPTFchcM69P",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmRcQNS7yokQc5FUgchrf1VPMFmrUub8p5vyPTFchcM69P"
 }

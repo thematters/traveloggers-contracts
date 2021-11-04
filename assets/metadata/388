@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmTXgsi4UUyu5c1aujxkfXTx2VN58oxvJrCfxGwKpQwvre",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmTXgsi4UUyu5c1aujxkfXTx2VN58oxvJrCfxGwKpQwvre"
 }

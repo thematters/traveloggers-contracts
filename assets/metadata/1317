@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmZ5jZiywzdqJcxdQuRT6Zu2dxk1uCR9ardLKioXNcvRc3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmZ5jZiywzdqJcxdQuRT6Zu2dxk1uCR9ardLKioXNcvRc3"
 }

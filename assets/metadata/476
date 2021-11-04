@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmT9MxAnyS3QTBXzUwHuDPyWFdj6rQopkjDnDfuMsQoSdD",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmT9MxAnyS3QTBXzUwHuDPyWFdj6rQopkjDnDfuMsQoSdD"
 }

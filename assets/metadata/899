@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmRLigwRrm4J7y6VsbhmHbHJY4UpRzWTGGxnsUW7jb4SFE",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmRLigwRrm4J7y6VsbhmHbHJY4UpRzWTGGxnsUW7jb4SFE"
 }

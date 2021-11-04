@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmcQrHUsJBz7vJxihjKZwoN4mRaTHydcy98KTESVTJWSN8",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmcQrHUsJBz7vJxihjKZwoN4mRaTHydcy98KTESVTJWSN8"
 }

@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmXS5DXjDdE96hRw5QfKGtfdmS4h4KWm9CKUWiFwuARqPo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmXS5DXjDdE96hRw5QfKGtfdmS4h4KWm9CKUWiFwuARqPo"
 }

@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmQEwmbt2BX15LxDgzHCycpMBbrDyazJ4PzaAyS1JNr2q3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmQEwmbt2BX15LxDgzHCycpMBbrDyazJ4PzaAyS1JNr2q3"
 }

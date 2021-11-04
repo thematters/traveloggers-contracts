@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "localist b"
   },
-  "image": "ipfs://Qmdpp8ptp1D4WoENARhTSy2D4ZhWNvWmKJTVMwERARn828",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://Qmdpp8ptp1D4WoENARhTSy2D4ZhWNvWmKJTVMwERARn828"
 }

@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "LGBTQ friendly b"
   },
-  "image": "ipfs://QmWXEczHztEzuZJBpTSkRvBSPDj4fBA7c5X9sgWJgSmsmo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmWXEczHztEzuZJBpTSkRvBSPDj4fBA7c5X9sgWJgSmsmo"
 }

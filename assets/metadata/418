@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "capitalistic a"
   },
-  "image": "ipfs://QmevfqNNA1BVhB6S1qFAVxo5Fjq8spkr4pKK6MApHWmp1L",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmevfqNNA1BVhB6S1qFAVxo5Fjq8spkr4pKK6MApHWmp1L"
 }

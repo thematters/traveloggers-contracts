@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "anarchist b"
   },
-  "image": "ipfs://QmTC3QBL4aKSwo6LQtjxGhefTeMsuK1MnLFKMNpTTY5GFM",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmTC3QBL4aKSwo6LQtjxGhefTeMsuK1MnLFKMNpTTY5GFM"
 }

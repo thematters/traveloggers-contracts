@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmQEft8f1Ua9KmmbBqMBgK6nSrFSK9TDut6zYHmcTnaz44",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmQEft8f1Ua9KmmbBqMBgK6nSrFSK9TDut6zYHmcTnaz44"
 }

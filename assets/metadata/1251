@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmWnYXs3qFbbSCWD1F6YQw2zE64HcXWQifL71r7QurrCfh",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmWnYXs3qFbbSCWD1F6YQw2zE64HcXWQifL71r7QurrCfh"
 }

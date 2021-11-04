@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "pluralistic b"
   },
-  "image": "ipfs://QmbndJCPdd5coXAFRF7NSRvnn1Vdgupttrv1Yejt6QzzxY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmbndJCPdd5coXAFRF7NSRvnn1Vdgupttrv1Yejt6QzzxY"
 }

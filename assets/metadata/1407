@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "conservative b"
   },
-  "image": "ipfs://QmQ2LRsUczAqfqZXhFZmAPJ8fjFys63R1mm4wz4ijRy4Pm",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmQ2LRsUczAqfqZXhFZmAPJ8fjFys63R1mm4wz4ijRy4Pm"
 }

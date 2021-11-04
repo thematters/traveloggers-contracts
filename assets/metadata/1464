@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "existentialist b"
   },
-  "image": "ipfs://QmT9zwzm1skGiDsdyUhxNzAKpWniVQSDdGVpPJP7yUHvCk",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmT9zwzm1skGiDsdyUhxNzAKpWniVQSDdGVpPJP7yUHvCk"
 }

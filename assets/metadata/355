@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmPcAAwnCuAXk7cmhkmssfQLm4gHK7EpG7so6EcSwdG7qq",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmPcAAwnCuAXk7cmhkmssfQLm4gHK7EpG7so6EcSwdG7qq"
 }

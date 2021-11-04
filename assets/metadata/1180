@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "Marxist b"
   },
-  "image": "ipfs://QmURo14b1QVv1rDFsZZCkeEKEjuoa7tSsDB6J3qDfQ2uFy",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmURo14b1QVv1rDFsZZCkeEKEjuoa7tSsDB6J3qDfQ2uFy"
 }

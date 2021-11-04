@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "rational b"
   },
-  "image": "ipfs://QmVFFpkJSyFpX7EioxuYAex581Po4aEBxRUP3N5oyrMovN",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmVFFpkJSyFpX7EioxuYAex581Po4aEBxRUP3N5oyrMovN"
 }

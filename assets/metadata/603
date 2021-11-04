@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmP57GGXTdDXuQ7iRi42r1ChfhVZWvwqXdWUxD4oC5GpHJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmP57GGXTdDXuQ7iRi42r1ChfhVZWvwqXdWUxD4oC5GpHJ"
 }

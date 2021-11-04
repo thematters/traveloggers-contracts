@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmUyoYsHemCkFN1UMUxxBeoqpeKBb8Qj6xPZsjaiwR9R8m",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmUyoYsHemCkFN1UMUxxBeoqpeKBb8Qj6xPZsjaiwR9R8m"
 }
