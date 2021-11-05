@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmaEms9Vo6vV8NjfGkF16sUCxNfXVzdEBYufFVUrAp122P",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmaEms9Vo6vV8NjfGkF16sUCxNfXVzdEBYufFVUrAp122P"
 }

@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmarySYeL2jn6wR82abAeopXDNpt6SHCzBTs4ogG6H2sHo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmarySYeL2jn6wR82abAeopXDNpt6SHCzBTs4ogG6H2sHo"
 }

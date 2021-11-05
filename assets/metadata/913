@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmQzE9RhUXna2zBH4q2WHL8vpr2eTuYEuMxBmaYJiNAV3w",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmQzE9RhUXna2zBH4q2WHL8vpr2eTuYEuMxBmaYJiNAV3w"
 }

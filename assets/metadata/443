@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmVMtuEpmk4GM1Rw3sQwR2djythjYAvGKmupBPT81xUeQW",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmVMtuEpmk4GM1Rw3sQwR2djythjYAvGKmupBPT81xUeQW"
 }

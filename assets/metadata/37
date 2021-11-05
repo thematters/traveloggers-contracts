@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmPkA9SbwpQLd8fLXafLGuSxhWBxHtjRGmaS3V4RWCKFkY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmPkA9SbwpQLd8fLXafLGuSxhWBxHtjRGmaS3V4RWCKFkY"
 }

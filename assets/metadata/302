@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmSFe4wW5eHLdjwanQN9b4nJtE4piBNqW16L4MbJ4Mttyb",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmSFe4wW5eHLdjwanQN9b4nJtE4piBNqW16L4MbJ4Mttyb"
 }

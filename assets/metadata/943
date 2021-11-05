@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "LGBTQ friendly b"
   },
-  "image": "ipfs://QmT2w2jaarS1LJ3zp7CHi52mFbuC7hgRDL6zaxuAAg4wu3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmT2w2jaarS1LJ3zp7CHi52mFbuC7hgRDL6zaxuAAg4wu3"
 }

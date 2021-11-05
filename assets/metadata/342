@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://Qmds1QTMWqSz9UATK84YWE1T4pahLAYVjRNsGvkGgTVUru",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://Qmds1QTMWqSz9UATK84YWE1T4pahLAYVjRNsGvkGgTVUru"
 }

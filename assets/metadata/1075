@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmY76VboSLuKd1WdTYLjqrA7kJrUnyAa3J7yDpKWAAJwmV",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmY76VboSLuKd1WdTYLjqrA7kJrUnyAa3J7yDpKWAAJwmV"
 }

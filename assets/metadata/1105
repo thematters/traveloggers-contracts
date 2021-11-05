@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmXFi4KPiUnTf8yGazQtGg3WD3dXgmLsQ7PwpDBdJNacEQ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmXFi4KPiUnTf8yGazQtGg3WD3dXgmLsQ7PwpDBdJNacEQ"
 }

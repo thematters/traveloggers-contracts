@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmTky4mvSUtFMf4c8PZAeBaw5Q2ykASM2wRhqmvEibMngg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmTky4mvSUtFMf4c8PZAeBaw5Q2ykASM2wRhqmvEibMngg"
 }

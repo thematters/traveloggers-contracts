@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmY9cPJULzM2XxAa7w81A8k8GHpRE2svdjskhxRtUbXhkp",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmY9cPJULzM2XxAa7w81A8k8GHpRE2svdjskhxRtUbXhkp"
 }

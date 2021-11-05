@@ -6,7 +6,6 @@
     "character": "self-discipline b",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmSgPZv2yYrhEbXzCMzUfLWpzhB6fed8rDZKMGVVzU8r7x",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmSgPZv2yYrhEbXzCMzUfLWpzhB6fed8rDZKMGVVzU8r7x"
 }

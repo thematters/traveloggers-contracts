@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmUb97qadP3cn4HEmvdXpd9fGD7az1V4jKCQdKmJKxyYFq",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmUb97qadP3cn4HEmvdXpd9fGD7az1V4jKCQdKmJKxyYFq"
 }

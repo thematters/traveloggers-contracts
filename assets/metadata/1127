@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://Qmac93Ado9dMJgSuQbDmhdepxRzexhatWmqnUAmZdYjE3o",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://Qmac93Ado9dMJgSuQbDmhdepxRzexhatWmqnUAmZdYjE3o"
 }

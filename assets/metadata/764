@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmZu3ExqphondN5MAgbKnBhS1c43EP8Vc3qq5noL9W4mRy",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmZu3ExqphondN5MAgbKnBhS1c43EP8Vc3qq5noL9W4mRy"
 }

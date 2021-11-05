@@ -6,7 +6,6 @@
     "character": "down-to-earth b",
     "ideology": "pacifist b"
   },
-  "image": "ipfs://QmccFqeydikCeC6SpCpZrpyVFnmND7aHrWANPGfnyZC6bQ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmccFqeydikCeC6SpCpZrpyVFnmND7aHrWANPGfnyZC6bQ"
 }

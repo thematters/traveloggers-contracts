@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmSuEQB3BeLbVpcuf7UF1VRnFSkLsNMCSC1srMD2fPSaiU",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmSuEQB3BeLbVpcuf7UF1VRnFSkLsNMCSC1srMD2fPSaiU"
 }

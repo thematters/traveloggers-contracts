@@ -6,7 +6,6 @@
     "character": "extroverted a",
     "ideology": "romantic b"
   },
-  "image": "ipfs://QmW2ugJXAL3BjWMADGKUTmx32XXxNcLs8FSFS5mX62oEPP",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmW2ugJXAL3BjWMADGKUTmx32XXxNcLs8FSFS5mX62oEPP"
 }

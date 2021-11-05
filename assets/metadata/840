@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmWSFB16Eo5LAeLqBzgrFPXv2hm8LEN7EKxnMFfvyaH61X",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmWSFB16Eo5LAeLqBzgrFPXv2hm8LEN7EKxnMFfvyaH61X"
 }

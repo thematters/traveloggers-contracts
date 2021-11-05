@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmNmbMvMHt3CjqByRVmUtZwogsM7z8AtrS6YdHFHqEsUFG",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmNmbMvMHt3CjqByRVmUtZwogsM7z8AtrS6YdHFHqEsUFG"
 }

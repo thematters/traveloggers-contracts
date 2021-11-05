@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "anarchist b"
   },
-  "image": "ipfs://QmUyYK2xup5KJiVctczisym2v7hqMDhu8dB18Lh1x48bAB",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmUyYK2xup5KJiVctczisym2v7hqMDhu8dB18Lh1x48bAB"
 }

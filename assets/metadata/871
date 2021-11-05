@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmZTSAvkCeoCiXBDxiqCo7KZyyus7p6tX5AVVXGT3NczR1",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmZTSAvkCeoCiXBDxiqCo7KZyyus7p6tX5AVVXGT3NczR1"
 }

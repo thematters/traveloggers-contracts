@@ -6,7 +6,6 @@
     "character": "observant b",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmXD5CWFuzyQfUiGBcuyW97ZVTnS8yxwXU661ecaqVTvGS",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmXD5CWFuzyQfUiGBcuyW97ZVTnS8yxwXU661ecaqVTvGS"
 }

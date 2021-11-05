@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmXY2tz5kuk76Gu6jmg459vqBDt1dNwKMY3U8S4xHCmauw",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmXY2tz5kuk76Gu6jmg459vqBDt1dNwKMY3U8S4xHCmauw"
 }

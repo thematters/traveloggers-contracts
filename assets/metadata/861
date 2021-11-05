@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmXP8ns2rCo9Brk3d8Hx8Hd2JogtBvFR1uia2Y7HA5s28D",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmXP8ns2rCo9Brk3d8Hx8Hd2JogtBvFR1uia2Y7HA5s28D"
 }

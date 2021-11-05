@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmaPBbFcKYnMRbjJBNBzs5xHEU9WSS5KATA1Hmyoc9yyGZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmaPBbFcKYnMRbjJBNBzs5xHEU9WSS5KATA1Hmyoc9yyGZ"
 }

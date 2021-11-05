@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "localist a"
   },
-  "image": "ipfs://QmPiMPAqcddxKWG7EFNdyJykpg8yFv8Zj7NSmkoTYoLHdF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmPiMPAqcddxKWG7EFNdyJykpg8yFv8Zj7NSmkoTYoLHdF"
 }

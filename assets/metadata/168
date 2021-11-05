@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmNZrHAMb935Q4ZvQeFKqPuEK5h6tSuBpaGHp9FZWM9CL9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmNZrHAMb935Q4ZvQeFKqPuEK5h6tSuBpaGHp9FZWM9CL9"
 }

@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "pacifist b"
   },
-  "image": "ipfs://QmTk1m9A2jz442WvwhCWagJ5G5erobbJwy7ytjhiQapQJQ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmTk1m9A2jz442WvwhCWagJ5G5erobbJwy7ytjhiQapQJQ"
 }

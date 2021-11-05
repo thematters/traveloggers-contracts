@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmWRJ8Un65KwkKcuawYowfTh72G7ktHZn6YzUpmUiWjqNh",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmWRJ8Un65KwkKcuawYowfTh72G7ktHZn6YzUpmUiWjqNh"
 }

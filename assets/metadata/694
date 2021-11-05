@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://QmevV2BsRnRfXQpV8MQGadswUBBQzRCXDn2Abm2LxJRreY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmevV2BsRnRfXQpV8MQGadswUBBQzRCXDn2Abm2LxJRreY"
 }

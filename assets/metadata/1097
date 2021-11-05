@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmPu6yQX1pP78RzaCJYwZsnJpDBQAmbtNDZu1FoTtBYyEk",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmPu6yQX1pP78RzaCJYwZsnJpDBQAmbtNDZu1FoTtBYyEk"
 }

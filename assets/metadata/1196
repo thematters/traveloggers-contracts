@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmbV6TCrtEk84nk97f8HzSap6JD5M65rdRisZAvcDQsfse",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmbV6TCrtEk84nk97f8HzSap6JD5M65rdRisZAvcDQsfse"
 }

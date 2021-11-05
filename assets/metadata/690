@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmRnTM7J9w8vb9waWEEC1skzUUh6bdgkbYUm7Rk3aAYMdt",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmRnTM7J9w8vb9waWEEC1skzUUh6bdgkbYUm7Rk3aAYMdt"
 }

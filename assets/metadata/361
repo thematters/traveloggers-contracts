@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmTuLw4px3EhjigybDzeE1wT5vCGrV2JiTwPWUab8EM212",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmTuLw4px3EhjigybDzeE1wT5vCGrV2JiTwPWUab8EM212"
 }

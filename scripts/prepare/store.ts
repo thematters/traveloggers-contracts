@@ -21,9 +21,6 @@ import {
   writeJSON,
 } from "../utils";
 
-// whether to overwrite existing ipfs addresses
-const overWrite = false;
-
 const { infuraIPFSId, infuraIPFSSecret } = env;
 
 const auth =
@@ -70,18 +67,15 @@ const main = async () => {
         const metadataPath = path.join(metadataDirPath, dirent.name);
         const metadata = readJSON(metadataPath);
 
-        // existing ipfs addresses
-        if (metadata.image.startsWith("ipfs://")) {
-          if (!overWrite) {
-            // when not over writing, skip
-            return;
-          } else {
-            // when over writing, assume the image filename
-            metadata.image =
-              dirent.name !== "contract-metadata.json"
-                ? "0.gif"
-                : `${dirent.name}.png`;
-          }
+        if (!metadata.image) {
+          // use default
+          metadata.image =
+            dirent.name === "contract-metadata.json"
+              ? "0.gif"
+              : `${dirent.name}.png`;
+          // existing ipfs addresses, skip
+        } else if (metadata.image.startsWith("ipfs://")) {
+          return;
         }
 
         const imagePath = path.join(imageDirPath, metadata.image);
@@ -103,7 +97,7 @@ const main = async () => {
   await Promise.all(
     avatars.map(async ({ metadata, imagePath, metadataPath }, index) => {
       // spread out request to avoid rate limitation
-      await new Promise((resolve) => setTimeout(resolve, index * 100));
+      await new Promise((resolve) => setTimeout(resolve, index * 300));
 
       const imgdata = fs.readFileSync(imagePath);
       const { cid } = await ipfs.add(imgdata, { pin: true });

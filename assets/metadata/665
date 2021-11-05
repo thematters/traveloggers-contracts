@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmPJAzYNJuGcBiPg2dKTXzrzzy8nqM5Dzb8bUr9Qwyg6GG",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmPJAzYNJuGcBiPg2dKTXzrzzy8nqM5Dzb8bUr9Qwyg6GG"
 }

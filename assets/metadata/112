@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "pacifist b"
   },
-  "image": "ipfs://QmcuDAF298pc14sM9KJn3555Nw25ox64wd9nE7sdawNpWz",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmcuDAF298pc14sM9KJn3555Nw25ox64wd9nE7sdawNpWz"
 }

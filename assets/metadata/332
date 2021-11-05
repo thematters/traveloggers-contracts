@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "rational a"
   },
-  "image": "ipfs://QmQdQZ56nm2X14R6HzuiqyEQ13Mo6vqoqRYuiHQgejNotk",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmQdQZ56nm2X14R6HzuiqyEQ13Mo6vqoqRYuiHQgejNotk"
 }

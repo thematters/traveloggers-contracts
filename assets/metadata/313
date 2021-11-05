@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "nationalistic b"
   },
-  "image": "ipfs://QmTzW8LaMJ1MQMCXJ6nBGdPE8jSK9cs4qbDsNvKUHnVEVn",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmTzW8LaMJ1MQMCXJ6nBGdPE8jSK9cs4qbDsNvKUHnVEVn"
 }

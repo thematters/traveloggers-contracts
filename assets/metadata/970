@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmaHFZNcYYrtGgPLp6q4qSy4x99DJGBkUDsAP7Q8Jtrq6a",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmaHFZNcYYrtGgPLp6q4qSy4x99DJGBkUDsAP7Q8Jtrq6a"
 }

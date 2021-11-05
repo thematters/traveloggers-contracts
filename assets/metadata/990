@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmUSYsSkyrif4A44xyJjHECP56sqai2BEKADqisQF9mS8E",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmUSYsSkyrif4A44xyJjHECP56sqai2BEKADqisQF9mS8E"
 }

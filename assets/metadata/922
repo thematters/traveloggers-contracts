@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmYTrjQvCXwERf7mdUh4RfkLfz5QZHV69HHuaiqRoMrNEo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmYTrjQvCXwERf7mdUh4RfkLfz5QZHV69HHuaiqRoMrNEo"
 }

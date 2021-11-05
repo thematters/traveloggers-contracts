@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmRYUHtnfXvse86FQXEivubz9AVMK6Nk7Mawx6GYakw3w7",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmRYUHtnfXvse86FQXEivubz9AVMK6Nk7Mawx6GYakw3w7"
 }

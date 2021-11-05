@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "localist b"
   },
-  "image": "ipfs://QmbtJwNahrFYmfxVdzHKsqyKJTQHkw2JwZFvoh6SLqVYPd",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmbtJwNahrFYmfxVdzHKsqyKJTQHkw2JwZFvoh6SLqVYPd"
 }

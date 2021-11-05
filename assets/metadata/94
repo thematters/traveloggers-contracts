@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmZQ1sH36PpcajdtfJcriuhML8iyfYdS6KUcQcZSzzq5Cg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmZQ1sH36PpcajdtfJcriuhML8iyfYdS6KUcQcZSzzq5Cg"
 }

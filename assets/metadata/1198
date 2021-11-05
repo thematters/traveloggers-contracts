@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://QmRoVu5pF1R1towbi4qAyY9gQTHVtUzxbCo6dJVEsTYN1z",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmRoVu5pF1R1towbi4qAyY9gQTHVtUzxbCo6dJVEsTYN1z"
 }

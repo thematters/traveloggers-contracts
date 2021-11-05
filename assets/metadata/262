@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmNYjr913ELtbzDkbTJdPBZQ89yswA8WeVbfDk2cswB4Ti",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmNYjr913ELtbzDkbTJdPBZQ89yswA8WeVbfDk2cswB4Ti"
 }

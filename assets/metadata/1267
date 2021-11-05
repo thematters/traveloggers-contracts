@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "pluralistic a"
   },
-  "image": "ipfs://QmcWzAZ4CtFEqAC3RmLif7BexNNR8BQkvrcb6LtcVVQYka",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmcWzAZ4CtFEqAC3RmLif7BexNNR8BQkvrcb6LtcVVQYka"
 }

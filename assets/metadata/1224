@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmRNJR94qyG1zCRcDy1L3ebnQmVYUULNC7MXJyZT4cBtAE",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmRNJR94qyG1zCRcDy1L3ebnQmVYUULNC7MXJyZT4cBtAE"
 }

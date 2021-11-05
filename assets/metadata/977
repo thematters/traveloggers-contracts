@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "localist a"
   },
-  "image": "ipfs://QmTsvtR1j16uo14rU3TLPEepscYELHb8oH4SNxTMANpCtg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmTsvtR1j16uo14rU3TLPEepscYELHb8oH4SNxTMANpCtg"
 }

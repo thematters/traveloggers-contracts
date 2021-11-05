@@ -6,7 +6,6 @@
     "character": "self-discipline a",
     "ideology": "pluralistic b"
   },
-  "image": "ipfs://QmQ9Yokbmv3EdEETRB3a1FjHgfHyZd2d6UepHBiDuENRTz",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmQ9Yokbmv3EdEETRB3a1FjHgfHyZd2d6UepHBiDuENRTz"
 }

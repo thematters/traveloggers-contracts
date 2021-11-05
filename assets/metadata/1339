@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmP4rbMvor2TJJKvM62LfusHDkTVJrxoGRDmuRyzjd8H5G",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmP4rbMvor2TJJKvM62LfusHDkTVJrxoGRDmuRyzjd8H5G"
 }

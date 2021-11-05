@@ -6,7 +6,6 @@
     "character": "self-discipline b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmQWiqLCXGAQz3YBfLL2oJdxY9tawvEx6MXH569kpju5hL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmQWiqLCXGAQz3YBfLL2oJdxY9tawvEx6MXH569kpju5hL"
 }

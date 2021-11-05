@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://Qmb5eapbxCSX6a79WLemSspUmYgE4hFBLkjBg4x3zgcJNJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://Qmb5eapbxCSX6a79WLemSspUmYgE4hFBLkjBg4x3zgcJNJ"
 }

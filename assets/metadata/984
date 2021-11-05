@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmTaRoa8xcLtSot67hdq8Ty1U8HhL9SmGB8SHodMsjVoTW",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmTaRoa8xcLtSot67hdq8Ty1U8HhL9SmGB8SHodMsjVoTW"
 }

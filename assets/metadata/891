@@ -6,7 +6,6 @@
     "character": "self-discipline b",
     "ideology": "conservative a"
   },
-  "image": "ipfs://QmW6Th3vANugTRHwQfqELYicmDfgVG7BZsBzfnT64vpLsR",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmW6Th3vANugTRHwQfqELYicmDfgVG7BZsBzfnT64vpLsR"
 }

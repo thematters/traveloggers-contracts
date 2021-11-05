@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "collectivistic b"
   },
-  "image": "ipfs://QmRsWYvgJCCNER4UVMr31bFytzqfSCp1DbUW4L4dHKhNB2",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmRsWYvgJCCNER4UVMr31bFytzqfSCp1DbUW4L4dHKhNB2"
 }

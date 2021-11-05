@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "pessimistic a"
   },
-  "image": "ipfs://QmdLAMSkBgsCyYA137Hg1XzoWDYPRwBSDXEzUUcEDP5icm",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmdLAMSkBgsCyYA137Hg1XzoWDYPRwBSDXEzUUcEDP5icm"
 }

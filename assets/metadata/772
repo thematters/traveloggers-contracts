@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmeTCkRmaPNdvuHWWiP8EoAhdBEPNWTajvpKtbJ1CJAgPi",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmeTCkRmaPNdvuHWWiP8EoAhdBEPNWTajvpKtbJ1CJAgPi"
 }

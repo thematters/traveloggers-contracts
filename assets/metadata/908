@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "conservative b"
   },
-  "image": "ipfs://QmZn4QCaUJgSTx1vqSDJa6eReEjKzAJdAmHK3J2hvW8WbF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmZn4QCaUJgSTx1vqSDJa6eReEjKzAJdAmHK3J2hvW8WbF"
 }

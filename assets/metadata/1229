@@ -6,7 +6,6 @@
     "character": "down-to-earth b",
     "ideology": "cynical b"
   },
-  "image": "ipfs://Qme2HPzKM3FRbsLscX4bekgBDLjUMcfqnif1SH2rLwY2tn",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://Qme2HPzKM3FRbsLscX4bekgBDLjUMcfqnif1SH2rLwY2tn"
 }

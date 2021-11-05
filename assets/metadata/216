@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmdxUMqGD8LJAx4yYFqC1o6Grr34shHC4qXtzsPyrVWBNG",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmdxUMqGD8LJAx4yYFqC1o6Grr34shHC4qXtzsPyrVWBNG"
 }

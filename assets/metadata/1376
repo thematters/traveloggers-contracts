@@ -6,7 +6,6 @@
     "character": "rebellious b",
     "ideology": "localist b"
   },
-  "image": "ipfs://Qmf4eaDakHeJLVRHARHJg4iDDYMRp6HdwUfXLEFLpiUQxC",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://Qmf4eaDakHeJLVRHARHJg4iDDYMRp6HdwUfXLEFLpiUQxC"
 }

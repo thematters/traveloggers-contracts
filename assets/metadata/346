@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "pluralistic a"
   },
-  "image": "ipfs://QmPsy9tEdpdi6aeieh2VozKtxHLsq6dKTcyWfuGoNhquEr",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmPsy9tEdpdi6aeieh2VozKtxHLsq6dKTcyWfuGoNhquEr"
 }

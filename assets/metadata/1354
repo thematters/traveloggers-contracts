@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmcX4JG7AYP8VSc527KbGScSgX5EowXUXz5g4v6wnyaW4N",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmcX4JG7AYP8VSc527KbGScSgX5EowXUXz5g4v6wnyaW4N"
 }

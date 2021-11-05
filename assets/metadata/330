@@ -6,7 +6,6 @@
     "character": "nonchalant b",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmcM8MDcnFTZTFqMQDGVCsJWRkktKzVeg4GV6ZMU4mDhAo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmcM8MDcnFTZTFqMQDGVCsJWRkktKzVeg4GV6ZMU4mDhAo"
 }

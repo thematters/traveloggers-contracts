@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "LGBTQ friendly b"
   },
-  "image": "ipfs://QmanbxsPuDVzVD7ULszf87MfywKnUrBhQJqWkZq4ZL7YH9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmanbxsPuDVzVD7ULszf87MfywKnUrBhQJqWkZq4ZL7YH9"
 }

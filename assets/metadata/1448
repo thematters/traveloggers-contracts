@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://Qmb8gU1LsS6toAiMGPvySxjKDrvhLa43pnFTXZZU9iNLgv",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://Qmb8gU1LsS6toAiMGPvySxjKDrvhLa43pnFTXZZU9iNLgv"
 }

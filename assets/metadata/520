@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmZWZDnjj7tmBzbGjDJHkqZ7tuMXm6HDxsXtJzQUwASbKy",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmZWZDnjj7tmBzbGjDJHkqZ7tuMXm6HDxsXtJzQUwASbKy"
 }

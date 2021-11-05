@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "romantic b"
   },
-  "image": "ipfs://QmR4uRySoNuMr6usqgh5GXAe6njwvjJLtSvNFJNXxrf37B",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmR4uRySoNuMr6usqgh5GXAe6njwvjJLtSvNFJNXxrf37B"
 }

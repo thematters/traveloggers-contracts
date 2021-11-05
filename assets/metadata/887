@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "localist a"
   },
-  "image": "ipfs://QmRxwfJ56YQEA4EXtXJZBavEzzkJWowkoSnSpx6NcaV7c9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmRxwfJ56YQEA4EXtXJZBavEzzkJWowkoSnSpx6NcaV7c9"
 }

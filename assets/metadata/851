@@ -6,7 +6,6 @@
     "character": "extroverted a",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmXVN5NZ3zGhrmG5w1YPCnhjmhw1WkvQvfEkGtTGeXZnUJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmXVN5NZ3zGhrmG5w1YPCnhjmhw1WkvQvfEkGtTGeXZnUJ"
 }

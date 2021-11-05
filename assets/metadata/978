@@ -6,7 +6,6 @@
     "character": "nonchalant b",
     "ideology": "Marxist b"
   },
-  "image": "ipfs://QmXdbYxr4kJSpe3s8ypgKb5nqrB53tiTUh7B76yAQJZXBj",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmXdbYxr4kJSpe3s8ypgKb5nqrB53tiTUh7B76yAQJZXBj"
 }

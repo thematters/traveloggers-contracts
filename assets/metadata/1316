@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmPnGVX4XU4qBwMC9zYJg6KVKgxd1zdauCwz9xJ2zZ9MWr",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmPnGVX4XU4qBwMC9zYJg6KVKgxd1zdauCwz9xJ2zZ9MWr"
 }

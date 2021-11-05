@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://Qmb1Yu6zPZJsVCeTq8FBUo6tox81WmCyf9PwtbNAcCJa78",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://Qmb1Yu6zPZJsVCeTq8FBUo6tox81WmCyf9PwtbNAcCJa78"
 }

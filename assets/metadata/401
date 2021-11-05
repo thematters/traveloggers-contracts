@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmQ8efy1Umi9SpMGECYJNML5Smzt9ycXdiHZuUGuH3UsBu",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmQ8efy1Umi9SpMGECYJNML5Smzt9ycXdiHZuUGuH3UsBu"
 }

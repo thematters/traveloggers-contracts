@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmWyLarumZc5HwCaUPBu398VknC94WKLUoqLfKAe3BQcRp",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmWyLarumZc5HwCaUPBu398VknC94WKLUoqLfKAe3BQcRp"
 }

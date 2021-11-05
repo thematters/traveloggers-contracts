@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "capitalistic a"
   },
-  "image": "ipfs://QmdMxTAi3W5VGA2WBD6wAzBHCHxfcyPLHG2TE2Gwj5PdkM",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmdMxTAi3W5VGA2WBD6wAzBHCHxfcyPLHG2TE2Gwj5PdkM"
 }

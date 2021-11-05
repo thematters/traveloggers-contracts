@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "pessimistic b"
   },
-  "image": "ipfs://QmQUd5dw8Pb16RjeEwZ186e8fizsGQowgWQyeTbxvtiC9Z",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmQUd5dw8Pb16RjeEwZ186e8fizsGQowgWQyeTbxvtiC9Z"
 }

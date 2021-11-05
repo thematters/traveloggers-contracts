@@ -6,7 +6,6 @@
     "character": "down-to-earth b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmT7knzobeZuShfVyNJii6L6XRBSxGuQ5sLuuoQ7G1PPGh",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmT7knzobeZuShfVyNJii6L6XRBSxGuQ5sLuuoQ7G1PPGh"
 }

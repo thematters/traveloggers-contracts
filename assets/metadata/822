@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmUeCR6XE5L4DuPrYZVAPwyUpMhQnhVyCgBjZXmjfBYfdV",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmUeCR6XE5L4DuPrYZVAPwyUpMhQnhVyCgBjZXmjfBYfdV"
 }

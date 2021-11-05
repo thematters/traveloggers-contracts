@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "capitalistic a"
   },
-  "image": "ipfs://QmRcd5K4eu1wTthLNsFBhUx3LY9guEDf6bhgJwPHzwKRnZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmRcd5K4eu1wTthLNsFBhUx3LY9guEDf6bhgJwPHzwKRnZ"
 }

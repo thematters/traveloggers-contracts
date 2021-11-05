@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmeHm7adcwa4VHAaWpbSsQHDU5Sh5ydMiDcqpcgoi7jrBm",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmZvEzSTxioQ6xocEnaV7RtqjbVqeTPa3atMsQt8pZPSVC"
 }

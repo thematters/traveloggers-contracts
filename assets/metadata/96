@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmSFxDcHTKHbuGYUsnn81GTgWs86h79vtbi8abrZi3ypG9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmSFxDcHTKHbuGYUsnn81GTgWs86h79vtbi8abrZi3ypG9"
 }

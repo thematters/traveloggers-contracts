@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "capitalistic b"
   },
-  "image": "ipfs://QmX6dT4zm5xStfMhr2Jd7s9bmKiK8NiBdFTycEp87JKCDC",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmX6dT4zm5xStfMhr2Jd7s9bmKiK8NiBdFTycEp87JKCDC"
 }

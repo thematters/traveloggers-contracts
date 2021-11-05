@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmTdcQkPoBQhfyugtT38LtHg1w2Louvwc72TXrVuWALHRN",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmTdcQkPoBQhfyugtT38LtHg1w2Louvwc72TXrVuWALHRN"
 }

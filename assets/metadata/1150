@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmZT5TvmA49eEuca4uv9mDf9DHzWu6is5bahhrLjsuaX7o",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmZT5TvmA49eEuca4uv9mDf9DHzWu6is5bahhrLjsuaX7o"
 }

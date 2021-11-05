@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmSZG718T8Z3W65wa6bcrSLRK5dxKFurcmqsSFDHQ8ASGB",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmSZG718T8Z3W65wa6bcrSLRK5dxKFurcmqsSFDHQ8ASGB"
 }

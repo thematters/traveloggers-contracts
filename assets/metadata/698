@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmbBjr14h78bpg59mNbGG6S5rSGP6S1qghtiCScxVEyENB",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmbBjr14h78bpg59mNbGG6S5rSGP6S1qghtiCScxVEyENB"
 }

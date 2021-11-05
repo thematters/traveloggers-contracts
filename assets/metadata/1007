@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://Qmcr3rkTrrAsDKWTjX6dvdRPR8J2k26R4s48s5mLUJrcF5",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://Qmcr3rkTrrAsDKWTjX6dvdRPR8J2k26R4s48s5mLUJrcF5"
 }

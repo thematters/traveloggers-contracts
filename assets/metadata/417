@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmQvc6Ckes7pvJFnuQ36rueWDCK96h7vYmMaRheN3gV9Tt",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmQvc6Ckes7pvJFnuQ36rueWDCK96h7vYmMaRheN3gV9Tt"
 }

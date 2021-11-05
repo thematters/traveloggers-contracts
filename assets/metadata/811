@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmZtV9jep3MsLrxj5KRLa6Gko1cFFfMErZyY4QUjJQnvWg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmZtV9jep3MsLrxj5KRLa6Gko1cFFfMErZyY4QUjJQnvWg"
 }

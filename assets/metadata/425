@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmXGjBXTH2f279ijiwE4wUTcKZTvhGpVLNnJov36EjDDnN",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmXGjBXTH2f279ijiwE4wUTcKZTvhGpVLNnJov36EjDDnN"
 }

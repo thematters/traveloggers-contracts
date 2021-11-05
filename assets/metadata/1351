@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "existentialist b"
   },
-  "image": "ipfs://QmQo1wm6QUr7Lcy9mrhuaxASuHQFjFnFoiH7QwhHz7piAu",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmQo1wm6QUr7Lcy9mrhuaxASuHQFjFnFoiH7QwhHz7piAu"
 }

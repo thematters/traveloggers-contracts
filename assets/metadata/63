@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmV2WMaA2wNFBa45TuqQDghUatjJ5YiXq4n1pY1QuR9kXJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmV2WMaA2wNFBa45TuqQDghUatjJ5YiXq4n1pY1QuR9kXJ"
 }

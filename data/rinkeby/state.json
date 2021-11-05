@@ -2,7 +2,7 @@
   "name": "Traveloggers",
   "symbol": "LOGRS",
   "supply": 1500,
-  "base_uri": "ipfs://QmY5cedmZ27MULssFNnVPtYXwA8uYXUY8BiSaBgDkZ98cR/",
   "ranAt": "2021-11-04T09:56:09.353Z",
-  "contract_address": "0xae89d81ab5C668661200Fa9C6Ed45FE1707F7097"
+  "contract_address": "0xae89d81ab5C668661200Fa9C6Ed45FE1707F7097",
+  "base_uri": "ipfs://QmZZmz1srW1m3y1hP1SC7YEZLpVkbCTDJHqLVt6B1pTmNt/"
 }

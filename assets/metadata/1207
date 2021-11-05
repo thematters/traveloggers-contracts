@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://Qmc2w8UPUQYuVW9r2XLFjm8C8xT18o5TieZWRy5cUK8Pzu",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://Qmc2w8UPUQYuVW9r2XLFjm8C8xT18o5TieZWRy5cUK8Pzu"
 }

@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "pluralistic a"
   },
-  "image": "ipfs://QmcZ8Wki9Bi97YTj36VqBusbRmbydLHoawiYPPzc7jvh4V",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmcZ8Wki9Bi97YTj36VqBusbRmbydLHoawiYPPzc7jvh4V"
 }

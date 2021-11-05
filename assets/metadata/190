@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmQeTe4uARrzGFd76uxv5xy5K59Pyjc3ZVMYuDVqo4jh8C",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmQeTe4uARrzGFd76uxv5xy5K59Pyjc3ZVMYuDVqo4jh8C"
 }

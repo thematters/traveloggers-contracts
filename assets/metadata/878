@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmawPvqCdJseMR3NewmEnZq5RPbmPpMwLnD4xyBTRvQBJC",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmawPvqCdJseMR3NewmEnZq5RPbmPpMwLnD4xyBTRvQBJC"
 }

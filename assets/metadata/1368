@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmcXAqjVGMHH4W5zvse1XPDJspRMYJg1PyrP4GHh3taoLV",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmcXAqjVGMHH4W5zvse1XPDJspRMYJg1PyrP4GHh3taoLV"
 }

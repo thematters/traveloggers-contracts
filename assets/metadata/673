@@ -6,7 +6,6 @@
     "character": "self-discipline a",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmWkqQqHN3wje4Rrw6T2oF34w9RvLcg26h9ypeCE7b1gYb",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmWkqQqHN3wje4Rrw6T2oF34w9RvLcg26h9ypeCE7b1gYb"
 }
