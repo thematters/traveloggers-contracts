@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmXdsxChC6Kpmp9r8DXsppjP1aRrCZb6jQCChhzwRwzxxL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmXdsxChC6Kpmp9r8DXsppjP1aRrCZb6jQCChhzwRwzxxL"
 }

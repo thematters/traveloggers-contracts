@@ -6,7 +6,6 @@
     "character": "extroverted a",
     "ideology": "collectivistic b"
   },
-  "image": "ipfs://Qma8wYS7X4VkCxzqYafhs3NjUsXts8CgC2TLux1k6c2c1C",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://Qma8wYS7X4VkCxzqYafhs3NjUsXts8CgC2TLux1k6c2c1C"
 }

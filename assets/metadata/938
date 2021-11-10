@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "pessimistic b"
   },
-  "image": "ipfs://QmbCqdLfsHYYL6b3akaPaFubhMZLtFBsAm4gKRa3kEDvGZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmbCqdLfsHYYL6b3akaPaFubhMZLtFBsAm4gKRa3kEDvGZ"
 }

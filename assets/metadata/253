@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "collectivistic a"
   },
-  "image": "ipfs://QmWraHLJfEdnqz4WpcCtbGsrH97BjDTW5K6EXPoG8mjNxa",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmWraHLJfEdnqz4WpcCtbGsrH97BjDTW5K6EXPoG8mjNxa"
 }

@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmUQAbrB9YPDcXL47uUTyBrjfghZEQvqqV4txJP1B6ZuKT",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmUQAbrB9YPDcXL47uUTyBrjfghZEQvqqV4txJP1B6ZuKT"
 }

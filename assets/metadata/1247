@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmREeLCVW769gmgG7pjjEh3iR8zXEAxmqT4KsWjZ6mRQ3D",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmREeLCVW769gmgG7pjjEh3iR8zXEAxmqT4KsWjZ6mRQ3D"
 }

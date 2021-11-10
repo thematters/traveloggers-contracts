@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "individualistic b"
   },
-  "image": "ipfs://QmNSiom7Bnfzgp5WK5FshSro6u4v6J3nxq9aBRfEbPpFGz",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmNSiom7Bnfzgp5WK5FshSro6u4v6J3nxq9aBRfEbPpFGz"
 }

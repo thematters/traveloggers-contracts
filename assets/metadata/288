@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmYhGYW4yiFV9QrWcFk5zNcCwqQFCwNN8Mi9s1ozM9HgwB",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmYhGYW4yiFV9QrWcFk5zNcCwqQFCwNN8Mi9s1ozM9HgwB"
 }

@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmZrc3XG8NDMawfSibaqVRH66wiKGJgw2hGjHqWXxkHQgE",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmZrc3XG8NDMawfSibaqVRH66wiKGJgw2hGjHqWXxkHQgE"
 }

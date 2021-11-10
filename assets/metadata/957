@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmYx2VJthDGw5o4oexM8DnuYkWJwh5JfcUujGHVP7sGBYC",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmYx2VJthDGw5o4oexM8DnuYkWJwh5JfcUujGHVP7sGBYC"
 }

@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmaZwsiDGLJPqYsiFv79oi7GY8yYWAxV2z3dpkBGzXkp9v",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmaZwsiDGLJPqYsiFv79oi7GY8yYWAxV2z3dpkBGzXkp9v"
 }

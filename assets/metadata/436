@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmRfF5PW43QiRCYXt69eJ8hca141WSwAxTrcpEFJM5Dsyv",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmRfF5PW43QiRCYXt69eJ8hca141WSwAxTrcpEFJM5Dsyv"
 }

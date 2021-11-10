@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "nationalistic b"
   },
-  "image": "ipfs://QmPCEeer6YEybVnb8KnCfU6PmaeqfVJdH1J9Niqcazousx",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmPCEeer6YEybVnb8KnCfU6PmaeqfVJdH1J9Niqcazousx"
 }

@@ -6,7 +6,6 @@
     "character": "nonchalant b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmbDuB6EnA9wpsr4b9AGrckp7Cv1NQzoKsfQt94KoeMoqj",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmbDuB6EnA9wpsr4b9AGrckp7Cv1NQzoKsfQt94KoeMoqj"
 }

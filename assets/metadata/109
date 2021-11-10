@@ -6,7 +6,6 @@
     "character": "determined a",
     "ideology": "liberal b"
   },
-  "image": "ipfs://Qmc3USodvHVAB9pFsAeisdYx4ngVcNgNP6BUnC2TzAb34u",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://Qmc3USodvHVAB9pFsAeisdYx4ngVcNgNP6BUnC2TzAb34u"
 }

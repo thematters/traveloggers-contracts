@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmbHktMiyHvmwFAq3xHvBm1Pk8Xfipviqd6ELw4kRVLPms",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmbHktMiyHvmwFAq3xHvBm1Pk8Xfipviqd6ELw4kRVLPms"
 }

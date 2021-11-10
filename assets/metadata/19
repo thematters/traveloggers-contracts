@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "collectivistic b"
   },
-  "image": "ipfs://QmeP8gHPVVoiPoofJyZ6QNfPyGMQjm1r9mcb58BwTvh34n",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmeP8gHPVVoiPoofJyZ6QNfPyGMQjm1r9mcb58BwTvh34n"
 }

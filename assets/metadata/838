@@ -6,7 +6,6 @@
     "character": "adventurous b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmPhVKC8SJp7huXETBPVspLApkbuSzb6hTvjTHMZE54Fpp",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmPhVKC8SJp7huXETBPVspLApkbuSzb6hTvjTHMZE54Fpp"
 }

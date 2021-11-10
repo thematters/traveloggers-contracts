@@ -6,7 +6,6 @@
     "character": "rebellious a",
     "ideology": "skeptical a"
   },
-  "image": "ipfs://QmVVLAspG6Dxq5VW91Sp5wdPdJJRNXuburiRWD3p2p5Grm",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmVVLAspG6Dxq5VW91Sp5wdPdJJRNXuburiRWD3p2p5Grm"
 }

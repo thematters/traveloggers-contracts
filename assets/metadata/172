@@ -6,7 +6,6 @@
     "character": "self-discipline a",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmNsa4SLxnfjv1u5DtwBQ6kQv4NMDdGeYXchUYjAvSSSxc",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmNsa4SLxnfjv1u5DtwBQ6kQv4NMDdGeYXchUYjAvSSSxc"
 }

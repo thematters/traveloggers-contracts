@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "liberal a"
   },
-  "image": "ipfs://QmNerEe7Pn7QRdXJccNe2MVEeMQJ8ryao41qEQvrKUh1y3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmNerEe7Pn7QRdXJccNe2MVEeMQJ8ryao41qEQvrKUh1y3"
 }

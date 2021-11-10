@@ -6,7 +6,6 @@
     "character": "imaginative b",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmamMzP8ggscAzPfZK2YUK8X6WG5aUw4ZQNcLGPHbdKu98",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmamMzP8ggscAzPfZK2YUK8X6WG5aUw4ZQNcLGPHbdKu98"
 }

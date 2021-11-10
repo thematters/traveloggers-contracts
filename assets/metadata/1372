@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "rational b"
   },
-  "image": "ipfs://QmYZYC8hk6wPP15UEBZMBhQ5pAMFypxKgue8QTnAspV2qK",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmYZYC8hk6wPP15UEBZMBhQ5pAMFypxKgue8QTnAspV2qK"
 }

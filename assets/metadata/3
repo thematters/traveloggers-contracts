@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #3",
-  "description": "A confused, rational Sasha.",
+  "description": "A compassionate, anarchist Zhenya.",
   "_visual": {
-    "race": "Sasha",
-    "character": "confused a",
-    "ideology": "rational b"
+    "race": "Zhenya",
+    "character": "compassionate b",
+    "ideology": "anarchist a"
   },
-  "image": "ipfs://QmVFFpkJSyFpX7EioxuYAex581Po4aEBxRUP3N5oyrMovN",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Sasha"
+      "value": "Zhenya"
     },
     {
       "trait_type": "Ideology",
-      "value": "rational"
+      "value": "anarchist"
     },
     {
       "trait_type": "Character",
-      "value": "confused"
+      "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmS11VtxwfYiWWrDkymXaQgThepLbZJtbLb3nnEhC2EBV2"
 }

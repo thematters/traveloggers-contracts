@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmayJHGuCyb152q1AEHbTd3gBstRj8cR7e9AxTDarDUnJF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmayJHGuCyb152q1AEHbTd3gBstRj8cR7e9AxTDarDUnJF"
 }

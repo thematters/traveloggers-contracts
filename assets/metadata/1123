@@ -6,7 +6,6 @@
     "character": "sociable a",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmUxivUP6Ron7p8UwG7fCUR48FHA9xay6xr2fTV8guYeNY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmUxivUP6Ron7p8UwG7fCUR48FHA9xay6xr2fTV8guYeNY"
 }

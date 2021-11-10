@@ -6,7 +6,6 @@
     "character": "down-to-earth a",
     "ideology": "existentialist b"
   },
-  "image": "ipfs://QmXG3Xmx9x2qvyTJ2W3uKTSZ8gGKA7H9Z5VMmyyd33aTz5",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmXG3Xmx9x2qvyTJ2W3uKTSZ8gGKA7H9Z5VMmyyd33aTz5"
 }

@@ -6,7 +6,6 @@
     "character": "self-discipline b",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmekxjbC4FCMN9BJxdFntkRGmK69SGGFPobx4NQUeLt4Fq",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmekxjbC4FCMN9BJxdFntkRGmK69SGGFPobx4NQUeLt4Fq"
 }

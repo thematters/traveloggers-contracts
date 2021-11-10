@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "pessimistic b"
   },
-  "image": "ipfs://QmRZ3sCPqKZPR3vhgrgZzzJeVGh6vLEZTTdwd3A6G84j6v",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmRZ3sCPqKZPR3vhgrgZzzJeVGh6vLEZTTdwd3A6G84j6v"
 }

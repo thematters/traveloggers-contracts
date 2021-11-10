@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmZnVJ3vRSoR97Hy5jAT66X4c1vq3uZX7u8VjjoSw6rn9U",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmZnVJ3vRSoR97Hy5jAT66X4c1vq3uZX7u8VjjoSw6rn9U"
 }

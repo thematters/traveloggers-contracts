@@ -6,7 +6,6 @@
     "character": "enthusiastic a",
     "ideology": "liberal b"
   },
-  "image": "ipfs://QmcGbxjq8k9vRDJR3wJRCCHwCE2A9F9HzyZsEtfPFZJejk",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmcGbxjq8k9vRDJR3wJRCCHwCE2A9F9HzyZsEtfPFZJejk"
 }

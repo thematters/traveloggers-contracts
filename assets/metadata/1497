@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmVS8ybyd6H1Xupbf2YLgYzSkkrFjqeaHcYEXtwb3QxYUF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmVS8ybyd6H1Xupbf2YLgYzSkkrFjqeaHcYEXtwb3QxYUF"
 }

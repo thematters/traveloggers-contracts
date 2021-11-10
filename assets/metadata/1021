@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "conservative b"
   },
-  "image": "ipfs://QmTMjmA31ZMWoHks3T4FQ1GzX8naXw9N5Qx2DMyiHoaA7t",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmTMjmA31ZMWoHks3T4FQ1GzX8naXw9N5Qx2DMyiHoaA7t"
 }

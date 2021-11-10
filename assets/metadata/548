@@ -6,7 +6,6 @@
     "character": "rebellious b",
     "ideology": "LGBTQ friendly a"
   },
-  "image": "ipfs://QmRnX8FzqFa7YoQZ6RALWJ3DG5qLTEKZsLz9p6TVtEQSD3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "rebellious"
     }
-  ]
+  ],
+  "image": "ipfs://QmRnX8FzqFa7YoQZ6RALWJ3DG5qLTEKZsLz9p6TVtEQSD3"
 }

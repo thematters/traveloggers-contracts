@@ -6,7 +6,6 @@
     "character": "chic a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmdtCnuccy3Lva3R9P7WinobgKVnyRMQqWiRvGsNxT3auL",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmdtCnuccy3Lva3R9P7WinobgKVnyRMQqWiRvGsNxT3auL"
 }

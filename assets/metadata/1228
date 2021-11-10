@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "anarchist a"
   },
-  "image": "ipfs://QmdJLfdLdHsJbVbMKY74AjVbMxiNbW689H5Q7cFz66kGSy",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmdJLfdLdHsJbVbMKY74AjVbMxiNbW689H5Q7cFz66kGSy"
 }

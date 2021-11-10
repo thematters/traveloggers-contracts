@@ -1,24 +1,24 @@
 {
   "name": "Travelogger #1486",
-  "description": "An exploring, collectivistic Valya.",
+  "description": "A hard-working, cynical Lesya.",
   "_visual": {
-    "race": "Valya",
-    "character": "exploring b",
-    "ideology": "collectivistic b"
+    "race": "Lesya",
+    "character": "hard-working b",
+    "ideology": "cynical b"
   },
-  "image": "ipfs://QmeNKET5pPXGySkEFeDaQvcXk2JizTxh1zUh42Pz9PdJCv",
   "attributes": [
     {
       "trait_type": "Race",
-      "value": "Valya"
+      "value": "Lesya"
     },
     {
       "trait_type": "Ideology",
-      "value": "collectivistic"
+      "value": "cynical"
     },
     {
       "trait_type": "Character",
-      "value": "exploring"
+      "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmbjUdawnPBziPQWstMPsYJFWKfa7EABmvH485B5eG5gYa"
 }

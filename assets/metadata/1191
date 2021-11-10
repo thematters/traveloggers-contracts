@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "rational b"
   },
-  "image": "ipfs://QmZpBzx7DWJVJpvh6moZZy4ezaBKnvr3eZwjGg7J6NUjCH",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmZpBzx7DWJVJpvh6moZZy4ezaBKnvr3eZwjGg7J6NUjCH"
 }

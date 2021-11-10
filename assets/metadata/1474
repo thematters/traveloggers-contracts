@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmVgR5He4fQwFfep16qPPwN1GXTJGEkQ85wT5QjGH9RGDP",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmVgR5He4fQwFfep16qPPwN1GXTJGEkQ85wT5QjGH9RGDP"
 }

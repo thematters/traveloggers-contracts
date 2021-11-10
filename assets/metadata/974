@@ -6,7 +6,6 @@
     "character": "sociable b",
     "ideology": "pacifist b"
   },
-  "image": "ipfs://QmdxbWwsWT6sT4tzRsUGBLvNazsnBTFWKb7uNAvz3eHX96",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "sociable"
     }
-  ]
+  ],
+  "image": "ipfs://QmdxbWwsWT6sT4tzRsUGBLvNazsnBTFWKb7uNAvz3eHX96"
 }

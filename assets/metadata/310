@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "capitalistic a"
   },
-  "image": "ipfs://QmUnWMoZB5QRdUFoMMb3L7g2JfWYhz9fJk1EuBe1Eo4ExW",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmUnWMoZB5QRdUFoMMb3L7g2JfWYhz9fJk1EuBe1Eo4ExW"
 }

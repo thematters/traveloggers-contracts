@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "feminist a"
   },
-  "image": "ipfs://QmfRWBnYaxekJG4ZuHY1npT4RsUDW5VCV9wdgFUqa7jF34",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmfRWBnYaxekJG4ZuHY1npT4RsUDW5VCV9wdgFUqa7jF34"
 }

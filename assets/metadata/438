@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmQNXTWEgFstvsd6iB9bALhwughVT1mXTiiyo4ngyqhX9W",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmQNXTWEgFstvsd6iB9bALhwughVT1mXTiiyo4ngyqhX9W"
 }

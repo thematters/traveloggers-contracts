@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "pacifist a"
   },
-  "image": "ipfs://QmabfaYSUMPbAiWXNUffA5WwTMunFxo2Ui8BDwpjQmsGhJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmTakbuYDHM9FVyRCmLzKpcdgAUWWzpKLxzTMRTy4DK6RA"
 }

@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "cosmopolitan a"
   },
-  "image": "ipfs://QmXW3ECGMfY17AytipvKLPvreu9y4Wf2rVXDfiAdPFVM3f",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmXW3ECGMfY17AytipvKLPvreu9y4Wf2rVXDfiAdPFVM3f"
 }

@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmYUF1iFmZ7miJu42GYqF2N95vEaeFc9Ht4tDNWf3pUGc4",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmYUF1iFmZ7miJu42GYqF2N95vEaeFc9Ht4tDNWf3pUGc4"
 }

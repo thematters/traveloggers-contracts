@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "romantic a"
   },
-  "image": "ipfs://Qmd4NsTQGzBQ1Ltm1KJvtfXU2wTTdkoXZ5gdv7oks3AveU",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://Qmd4NsTQGzBQ1Ltm1KJvtfXU2wTTdkoXZ5gdv7oks3AveU"
 }

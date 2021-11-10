@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "anarchist b"
   },
-  "image": "ipfs://QmXspy2ZsHgr7n9idURF5a2EH1yXcHJTGPqLBnJQfyQgj5",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmXspy2ZsHgr7n9idURF5a2EH1yXcHJTGPqLBnJQfyQgj5"
 }

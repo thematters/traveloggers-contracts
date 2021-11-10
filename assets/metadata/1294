@@ -6,7 +6,6 @@
     "character": "observant b",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://QmSHLtoT23HGiHLaF4BfiLUW7F6Gxs4DHDxnc5miGbGryo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmSHLtoT23HGiHLaF4BfiLUW7F6Gxs4DHDxnc5miGbGryo"
 }

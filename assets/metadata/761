@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmWPcbEVMoJvauom6K7uxS9nysCBaHQ41RPVQYwZbZvxo9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmWPcbEVMoJvauom6K7uxS9nysCBaHQ41RPVQYwZbZvxo9"
 }

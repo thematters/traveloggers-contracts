@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmUFVZM69oUaSo9t62Syxp4an8aih8SpqDNtAwB8G4Kbg6",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmUFVZM69oUaSo9t62Syxp4an8aih8SpqDNtAwB8G4Kbg6"
 }

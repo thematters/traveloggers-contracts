@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmdEi12REHqD7hjqxhxE2KndyVzUGnaTJCqi1wi6fMLMjE",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmdEi12REHqD7hjqxhxE2KndyVzUGnaTJCqi1wi6fMLMjE"
 }

@@ -6,7 +6,6 @@
     "character": "self-discipline b",
     "ideology": "Marxist b"
   },
-  "image": "ipfs://QmdSPfT28vUjHfc9nu2SZhufbTjRTE9mNz4bmrRkrw7UGY",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "self-discipline"
     }
-  ]
+  ],
+  "image": "ipfs://QmdSPfT28vUjHfc9nu2SZhufbTjRTE9mNz4bmrRkrw7UGY"
 }

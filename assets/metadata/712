@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmWoEy95YP1gFQncQAHgX2YoAEHF3Ntn5FciqPLoRYeit1",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmWoEy95YP1gFQncQAHgX2YoAEHF3Ntn5FciqPLoRYeit1"
 }

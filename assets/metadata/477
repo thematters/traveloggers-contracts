@@ -6,7 +6,6 @@
     "character": "practical a",
     "ideology": "optimistic a"
   },
-  "image": "ipfs://QmYPj7enVC1KCb4RrbAxce1jfs3891UN11fT3TFhsQ71D9",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmYPj7enVC1KCb4RrbAxce1jfs3891UN11fT3TFhsQ71D9"
 }

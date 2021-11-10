@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "localist b"
   },
-  "image": "ipfs://QmbFbMo1xLWVHqPnMC26PfW7rjvuX3UmZtiJXadwp6mtgJ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmbFbMo1xLWVHqPnMC26PfW7rjvuX3UmZtiJXadwp6mtgJ"
 }

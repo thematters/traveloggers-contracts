@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmRdXcXwdjJtwQFJfHZFZWkazf5QSstX6PiJ7ucswhgg8t",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmRdXcXwdjJtwQFJfHZFZWkazf5QSstX6PiJ7ucswhgg8t"
 }

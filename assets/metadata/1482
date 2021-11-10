@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmcLRWTm8NJ18KRuZo7ytswKgzVRAA9T2qV7qN2eomZSyh",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmcLRWTm8NJ18KRuZo7ytswKgzVRAA9T2qV7qN2eomZSyh"
 }

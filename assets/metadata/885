@@ -6,7 +6,6 @@
     "character": "introverted a",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://Qmc24su51XjDnbU8ddnxP664ypCVDFfgkC7qBQRiek7zrg",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://Qmc24su51XjDnbU8ddnxP664ypCVDFfgkC7qBQRiek7zrg"
 }

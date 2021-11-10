@@ -6,7 +6,6 @@
     "character": "nonchalant b",
     "ideology": "localist b"
   },
-  "image": "ipfs://QmfQxJibKDpXJZEMZaXUW6RjmK3eabctMysiZ18JmHCqxr",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmfQxJibKDpXJZEMZaXUW6RjmK3eabctMysiZ18JmHCqxr"
 }

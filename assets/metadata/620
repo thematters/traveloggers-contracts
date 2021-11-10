@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "romantic a"
   },
-  "image": "ipfs://QmTn8ECfo7ZKLPRUWvCtEpBdd9tzU5ieSzjr2imW1WbWLy",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmTn8ECfo7ZKLPRUWvCtEpBdd9tzU5ieSzjr2imW1WbWLy"
 }

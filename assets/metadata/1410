@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "localist a"
   },
-  "image": "ipfs://QmfF9VgvGWw5HRAVjUcx3gavykaPmxcgvvG2bATTfp3HRA",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmfF9VgvGWw5HRAVjUcx3gavykaPmxcgvvG2bATTfp3HRA"
 }

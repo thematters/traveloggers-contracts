@@ -6,7 +6,6 @@
     "character": "hard-working b",
     "ideology": "rational b"
   },
-  "image": "ipfs://QmdqA9VGxY84nY3dNr6odqa5LSeTDh3Vk17f7qK8bP559Z",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmdqA9VGxY84nY3dNr6odqa5LSeTDh3Vk17f7qK8bP559Z"
 }

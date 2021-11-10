@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "cynical a"
   },
-  "image": "ipfs://QmbrGhLFLbc3h677Z9jUUH4ehxCYmbBVB3Agw2Gq3MRSzK",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmbrGhLFLbc3h677Z9jUUH4ehxCYmbBVB3Agw2Gq3MRSzK"
 }

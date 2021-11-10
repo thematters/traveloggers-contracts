@@ -6,7 +6,6 @@
     "character": "down-to-earth b",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmYLiMyvzvnZyHtGyKUCbxHR3cS6cuDuiDM9p3iREqrXJd",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmYLiMyvzvnZyHtGyKUCbxHR3cS6cuDuiDM9p3iREqrXJd"
 }

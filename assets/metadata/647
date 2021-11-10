@@ -6,7 +6,6 @@
     "character": "nonchalant a",
     "ideology": "nationalistic a"
   },
-  "image": "ipfs://QmZeEhtZEwogrU75qrNWnwuptypyLMNhCaacXyhW7j6T5Z",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmZeEhtZEwogrU75qrNWnwuptypyLMNhCaacXyhW7j6T5Z"
 }

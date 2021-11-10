@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "feminist b"
   },
-  "image": "ipfs://QmaW661dTkkQwG5K8DJ6GGFdewLR5s5SLiVdrdnrHP6MD6",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmaW661dTkkQwG5K8DJ6GGFdewLR5s5SLiVdrdnrHP6MD6"
 }

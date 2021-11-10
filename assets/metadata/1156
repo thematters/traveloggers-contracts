@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "individualistic a"
   },
-  "image": "ipfs://QmSPruuBfa9D7Wh44G365eWLxeTndvk1jpPzbTNhkxdPnA",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmSPruuBfa9D7Wh44G365eWLxeTndvk1jpPzbTNhkxdPnA"
 }

@@ -6,7 +6,6 @@
     "character": "compassionate b",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmeoX81czuVMrTiJVtaNVz9d5nUh6LLrj6kojN79TaGDAZ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://QmeoX81czuVMrTiJVtaNVz9d5nUh6LLrj6kojN79TaGDAZ"
 }

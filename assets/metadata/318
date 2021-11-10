@@ -6,7 +6,6 @@
     "character": "exploring a",
     "ideology": "optimistic b"
   },
-  "image": "ipfs://QmS4A7L2AfmtiXnwh3smQraVEX8BCTkL35PCWWsNBQVPmD",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://QmS4A7L2AfmtiXnwh3smQraVEX8BCTkL35PCWWsNBQVPmD"
 }

@@ -6,7 +6,6 @@
     "character": "confused a",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmbtYRd18NseJTF1JshFr7AiGseAVFYeS9XqyZc5UJzQ2Y",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmbtYRd18NseJTF1JshFr7AiGseAVFYeS9XqyZc5UJzQ2Y"
 }

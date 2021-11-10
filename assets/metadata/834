@@ -6,7 +6,6 @@
     "character": "adventurous a",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmY62mA6SbEbaEUzPXEY8jFikahodoAsGYDWs1URjRMjZo",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "adventurous"
     }
-  ]
+  ],
+  "image": "ipfs://QmY62mA6SbEbaEUzPXEY8jFikahodoAsGYDWs1URjRMjZo"
 }

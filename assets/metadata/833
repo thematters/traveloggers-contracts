@@ -6,7 +6,6 @@
     "character": "down-to-earth b",
     "ideology": "skeptical b"
   },
-  "image": "ipfs://QmT8iUctvSHTbUexmueLBHizbiSWPrfW2zVq75CTQcteGa",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "down-to-earth"
     }
-  ]
+  ],
+  "image": "ipfs://QmT8iUctvSHTbUexmueLBHizbiSWPrfW2zVq75CTQcteGa"
 }

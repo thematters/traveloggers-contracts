@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmT7XkKyaqp89ZoJjCTrW7K8vs87AR26cs1F7ZXPrEb6uG",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmT7XkKyaqp89ZoJjCTrW7K8vs87AR26cs1F7ZXPrEb6uG"
 }

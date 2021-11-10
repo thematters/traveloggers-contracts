@@ -6,7 +6,6 @@
     "character": "imaginative a",
     "ideology": "pluralistic a"
   },
-  "image": "ipfs://QmZ4Tn2dRiCmbwWgEYMy7ohyywg7eKRRkp5gqrnEDqwUb4",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "imaginative"
     }
-  ]
+  ],
+  "image": "ipfs://QmZ4Tn2dRiCmbwWgEYMy7ohyywg7eKRRkp5gqrnEDqwUb4"
 }

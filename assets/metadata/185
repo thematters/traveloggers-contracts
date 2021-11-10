@@ -6,7 +6,6 @@
     "character": "extroverted a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmNvwAjtPTsxdUZ6h6kKYLUNQAsQB4pGmBtem17HJQmK6a",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmNvwAjtPTsxdUZ6h6kKYLUNQAsQB4pGmBtem17HJQmK6a"
 }

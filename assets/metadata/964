@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "localist b"
   },
-  "image": "ipfs://QmWiXXZGdC2z28C9228CchMz6KTM6dUa4t33wiHQzUPkgz",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmWiXXZGdC2z28C9228CchMz6KTM6dUa4t33wiHQzUPkgz"
 }

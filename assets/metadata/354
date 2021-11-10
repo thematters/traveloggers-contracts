@@ -6,7 +6,6 @@
     "character": "exploring b",
     "ideology": "collectivistic b"
   },
-  "image": "ipfs://Qmep1rCPucaC93V3LdseuKhnsVYHK8nNHEpScLJNW25x6i",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "exploring"
     }
-  ]
+  ],
+  "image": "ipfs://Qmep1rCPucaC93V3LdseuKhnsVYHK8nNHEpScLJNW25x6i"
 }

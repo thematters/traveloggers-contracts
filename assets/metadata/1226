@@ -6,7 +6,6 @@
     "character": "introverted b",
     "ideology": "collectivistic a"
   },
-  "image": "ipfs://QmapPXW42AhiybEpnVjHWbNs3csWMKYDQrhxViNT3NVvBx",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "introverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmapPXW42AhiybEpnVjHWbNs3csWMKYDQrhxViNT3NVvBx"
 }

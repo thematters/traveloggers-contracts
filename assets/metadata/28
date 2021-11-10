@@ -6,7 +6,6 @@
     "character": "practical b",
     "ideology": "anarchist b"
   },
-  "image": "ipfs://QmSXjczAiUFJsMGCSk3DKrmvaS2KKYWLzoDDreiBrnSTi6",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "practical"
     }
-  ]
+  ],
+  "image": "ipfs://QmSXjczAiUFJsMGCSk3DKrmvaS2KKYWLzoDDreiBrnSTi6"
 }

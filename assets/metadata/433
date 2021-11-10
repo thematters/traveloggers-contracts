@@ -6,7 +6,6 @@
     "character": "nonchalant b",
     "ideology": "conservative b"
   },
-  "image": "ipfs://QmRJuA11Xe6eoss72EcQdHRqqShbrCACa2D4EF21ba9mCb",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "nonchalant"
     }
-  ]
+  ],
+  "image": "ipfs://QmRJuA11Xe6eoss72EcQdHRqqShbrCACa2D4EF21ba9mCb"
 }

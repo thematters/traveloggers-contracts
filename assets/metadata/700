@@ -6,7 +6,6 @@
     "character": "analytical b",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://QmVyroXiGQNriz3CaMUoufEZm3nwr7fh2FapZWQupELhDc",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmVyroXiGQNriz3CaMUoufEZm3nwr7fh2FapZWQupELhDc"
 }

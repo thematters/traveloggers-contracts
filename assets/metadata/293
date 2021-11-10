@@ -6,7 +6,6 @@
     "character": "confused b",
     "ideology": "existentialist a"
   },
-  "image": "ipfs://QmaSRrXqk5UbxMC8gij7UzsZgg2HVwzUjLXeh7ecTPpLJ3",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "confused"
     }
-  ]
+  ],
+  "image": "ipfs://QmaSRrXqk5UbxMC8gij7UzsZgg2HVwzUjLXeh7ecTPpLJ3"
 }

@@ -6,7 +6,6 @@
     "character": "hard-working a",
     "ideology": "pragmatist b"
   },
-  "image": "ipfs://QmSYYhKgcYr8h21Zicg79rNBuiFh9evkLYbCEw6pJSqFGD",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "hard-working"
     }
-  ]
+  ],
+  "image": "ipfs://QmSYYhKgcYr8h21Zicg79rNBuiFh9evkLYbCEw6pJSqFGD"
 }

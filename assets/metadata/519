@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "collectivistic a"
   },
-  "image": "ipfs://QmS5VkVpwe2iP3746M4XPrzZXAZ35gipA8Gc28QrW8Vv8W",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmS5VkVpwe2iP3746M4XPrzZXAZ35gipA8Gc28QrW8Vv8W"
 }

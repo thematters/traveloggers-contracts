@@ -6,7 +6,6 @@
     "character": "enthusiastic b",
     "ideology": "pragmatist a"
   },
-  "image": "ipfs://QmRn8Fo9sS4z9eiYs8u6cRfrxPJ636zhzRAh7yGDR59vJt",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "enthusiastic"
     }
-  ]
+  ],
+  "image": "ipfs://QmRn8Fo9sS4z9eiYs8u6cRfrxPJ636zhzRAh7yGDR59vJt"
 }

@@ -6,7 +6,6 @@
     "character": "extroverted b",
     "ideology": "Epicurean a"
   },
-  "image": "ipfs://QmYKmdRvQKcNALG7rDRkGTseT7owR75qoF1Jwf2aaNvYNF",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "extroverted"
     }
-  ]
+  ],
+  "image": "ipfs://QmYKmdRvQKcNALG7rDRkGTseT7owR75qoF1Jwf2aaNvYNF"
 }

@@ -6,7 +6,6 @@
     "character": "chic b",
     "ideology": "existentialist b"
   },
-  "image": "ipfs://QmSifCHGR9W7miiNYVk5pxoyvogN6bNXXFmqRUv43aGiyU",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "chic"
     }
-  ]
+  ],
+  "image": "ipfs://QmSifCHGR9W7miiNYVk5pxoyvogN6bNXXFmqRUv43aGiyU"
 }

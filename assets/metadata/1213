@@ -6,7 +6,6 @@
     "character": "determined b",
     "ideology": "cynical b"
   },
-  "image": "ipfs://QmSvCyAXmbmh7sYRvmo69rGUv444eLVTvMKYuU8oUGZyJt",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "determined"
     }
-  ]
+  ],
+  "image": "ipfs://QmSvCyAXmbmh7sYRvmo69rGUv444eLVTvMKYuU8oUGZyJt"
 }

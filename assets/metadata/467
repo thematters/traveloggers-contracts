@@ -6,7 +6,6 @@
     "character": "analytical a",
     "ideology": "cosmopolitan b"
   },
-  "image": "ipfs://QmPWi7SFHERPFoHBVQqjvkYySArJ1CUAHfTRaX8sYxtnQH",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "analytical"
     }
-  ]
+  ],
+  "image": "ipfs://QmPWi7SFHERPFoHBVQqjvkYySArJ1CUAHfTRaX8sYxtnQH"
 }

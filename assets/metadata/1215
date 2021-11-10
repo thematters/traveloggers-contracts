@@ -6,7 +6,6 @@
     "character": "observant a",
     "ideology": "Epicurean b"
   },
-  "image": "ipfs://QmaVRxNm8Wz7T2e9hHWor82sQe5zLK8LnnPvwdsuFLYNHQ",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "observant"
     }
-  ]
+  ],
+  "image": "ipfs://QmaVRxNm8Wz7T2e9hHWor82sQe5zLK8LnnPvwdsuFLYNHQ"
 }

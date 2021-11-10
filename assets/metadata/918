@@ -6,7 +6,6 @@
     "character": "compassionate a",
     "ideology": "Marxist a"
   },
-  "image": "ipfs://Qmb3uxjcauBSJg4HdXrc6UabRri3wBSNGWy1kFwtS4tGEH",
   "attributes": [
     {
       "trait_type": "Race",
@@ -20,5 +19,6 @@
       "trait_type": "Character",
       "value": "compassionate"
     }
-  ]
+  ],
+  "image": "ipfs://Qmb3uxjcauBSJg4HdXrc6UabRri3wBSNGWy1kFwtS4tGEH"
 }
