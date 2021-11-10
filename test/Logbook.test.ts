@@ -72,6 +72,57 @@ describe("Logbook", () => {
     expect(latestLog.message).to.equal(logChinese);
   });
 
+  it("Can write many times", async () => {
+    // initial mint
+    const [owner, tempOwner] = await ethers.getSigners();
+    const token1Id = 1;
+    await logbookContract.batchMint([owner.address], 1);
+
+    // defined a function that unlock logbook through token swapping
+    const swapToUnlock = async () => {
+      await logbookContract.transferFrom(
+        owner.address,
+        tempOwner.address,
+        token1Id
+      );
+      await logbookContract
+        .connect(tempOwner)
+        .transferFrom(tempOwner.address, owner.address, token1Id);
+    };
+
+    const asciiChar = "i";
+    const cjkChar = "綠";
+    const lengths = [50, 140, 300, 500, 1000];
+
+    // ASCII
+    for (const len of lengths) {
+      const message = new Array(len).fill(asciiChar).join("");
+      const tx = await logbookContract.appendLog(token1Id, message);
+      // assuming base fee + tip ~ 100 gwei
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for appendLog with ${len} ASCII characters: ${gasUsed}. Estimated ETH: ${toGasCost(
+          gasUsed
+        )}`
+      );
+      await swapToUnlock();
+    }
+
+    // CJK
+    for (const len of lengths) {
+      const message = new Array(len).fill(cjkChar).join("");
+      const tx = await logbookContract.appendLog(token1Id, message);
+      // assuming base fee + tip ~ 100 gwei
+      const { gasUsed } = await tx.wait();
+      console.log(
+        `        Gas used for appendLog with ${len} CJK characters: ${gasUsed}. Estimated ETH: ${toGasCost(
+          gasUsed
+        )}`
+      );
+      await swapToUnlock();
+    }
+  });
+
   it("Should be unlocked on token transfer", async () => {
     // initial mint
     const [owner, receiver] = await ethers.getSigners();
