@@ -1,0 +1,17 @@
+{
+  "taskName": "mint:batch",
+  "addresses": [
+    "0xdB9fdaB72D71c998e3EebCf1096704e03C3cDaE5"
+  ],
+  "amount": 60,
+  "txHash": "0x8b082e59e8dae32333361cb3d8ccc2eb479e1b4ce142734797021baa67c0be1d",
+  "balances": {
+    "0xdB9fdaB72D71c998e3EebCf1096704e03C3cDaE5": {
+      "type": "BigNumber",
+      "hex": "0x00"
+    }
+  },
+  "run": true,
+  "error": null,
+  "ranAt": "2021-11-05T02:26:30.321Z"
+}

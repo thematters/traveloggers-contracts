@@ -2,5 +2,6 @@
   "name": "Traveloggers",
   "symbol": "LOGRS",
   "supply": 1500,
-  "base_uri": "ipfs://QmZZmz1srW1m3y1hP1SC7YEZLpVkbCTDJHqLVt6B1pTmNt/"
+  "base_uri": "ipfs://QmZZmz1srW1m3y1hP1SC7YEZLpVkbCTDJHqLVt6B1pTmNt/",
+  "contract_address": "0x8515ba8EF2CF2F2BA44b26fF20337D7A2bc5e6D8"
 }
