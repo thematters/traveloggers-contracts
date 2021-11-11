@@ -1,3 +1,6 @@
+/**
+ * Generate test candidates for rinkeby
+ */
 import path from "path";
 import Web3 from "web3";
 
