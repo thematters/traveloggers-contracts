@@ -23,6 +23,7 @@
     "mainnet:verify": "hardhat run --network mainnet scripts/prepare/verify.ts",
     "mainnet:store": "hardhat run --network mainnet scripts/prepare/store.ts",
     "mainnet:set:preOrder": "hardhat set:preOrder --network mainnet",
+    "mainnet:set:baseURI": "hardhat set:baseURI --network mainnet",
     "mainnet:mint:batch": "hardhat mint:batch --network mainnet",
     "mainnet:mint:lottery": "hardhat mint:lottery --network mainnet",
     "generate": "ts-node ./scripts/generate.ts",

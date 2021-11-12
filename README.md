@@ -27,7 +27,7 @@ cp .env.json.example .env.json
 Fill in the following environment variables:
 
 - `network`: current network name, can be `localhost`, `rinkeby` or `mainnet`
-- `alchemyAPIKey`: API key for Alchemy
+- `infuraAPIKey`: API key for Infura ETH service
 - `deployerAddress`: address of deployer account
 - `deployerPrivateKey`: private key of deployer account
 - `contractAddress`: address of NFT contract

@@ -8,7 +8,7 @@ import "hardhat-abi-exporter";
 
 import {
   deployerPrivateKey,
-  alchemyAPIKey,
+  infuraAPIKey,
   coinmarketcapKey,
   etherscanKey,
 } from "./.env.json";
@@ -23,11 +23,11 @@ const config: HardhatUserConfig = {
   defaultNetwork: "hardhat",
   networks: {
     rinkeby: {
-      url: `https://eth-rinkeby.alchemyapi.io/v2/${alchemyAPIKey}`,
+      url: `https://rinkeby.infura.io/v3/${infuraAPIKey}}`,
       accounts: [deployerPrivateKey],
     },
     mainnet: {
-      url: `https://eth-mainnet.alchemyapi.io/v2/${alchemyAPIKey}`,
+      url: `https://mainnet.infura.io/v3/${infuraAPIKey}`,
       accounts: [deployerPrivateKey],
     },
   },

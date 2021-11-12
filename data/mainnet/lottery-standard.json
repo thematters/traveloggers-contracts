@@ -349,5 +349,8 @@
     "0xa9f1Cd6a9d1D7C27b6b6e9F2399C5E3636F0479B",
     "0xed35198ad033E40f41dc77E3b4b6ad704A4b2170"
   ],
-  "amount": 253
+  "amount": 253,
+  "txHash": "0xb94ff39038b57bd9b04537a5fb7f61647de29aa3cb2c2f2c7882cba74d59b1b8",
+  "error": null,
+  "ranAt": "2021-11-12T05:17:14.040Z"
 }

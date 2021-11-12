@@ -1,6 +1,6 @@
 {
   "taskName": "mint:lottery",
-  "run": false,
+  "run": true,
   "addresses": [
     "0x0f6016633D0a8F97e23412Dac6a5489d72B92bD6",
     "0xc8700bA35A711A533a7BB615c040172970AcadbB",
@@ -1638,5 +1638,8 @@
     "0xd9da9B14AE7CC1Fb712E914eBfEC9e118DbAe886",
     "0xD4c0632b128479fa8eaD23445c1589dB55030b80"
   ],
-  "amount": 20
+  "amount": 20,
+  "txHash": "0x83068db3e6265246e8d63fbc93d53ed62cc2e534f53316679e514f2acff0d285",
+  "error": null,
+  "ranAt": "2021-11-12T05:20:14.328Z"
 }
