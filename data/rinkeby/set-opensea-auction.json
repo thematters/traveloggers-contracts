@@ -1,0 +1,11 @@
+{
+  "taskName": "set:opensea",
+  "range": [1, 10],
+  "startAmount": 0.06,
+  "expirationDay": 7,
+  "waitForHighestBid": true,
+  "run": true,
+  "listed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "error": null,
+  "ranAt": "2021-11-14T05:37:47.942Z"
+}

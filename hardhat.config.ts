@@ -17,13 +17,14 @@ import "./scripts/tasks/batchMint";
 import "./scripts/tasks/lottery";
 import "./scripts/tasks/setBaseURI";
 import "./scripts/tasks/setPreOrder";
+import "./scripts/tasks/setOpensea";
 
 const config: HardhatUserConfig = {
   solidity: "0.8.4",
   defaultNetwork: "hardhat",
   networks: {
     rinkeby: {
-      url: `https://rinkeby.infura.io/v3/${infuraAPIKey}}`,
+      url: `https://rinkeby.infura.io/v3/${infuraAPIKey}`,
       accounts: [deployerPrivateKey],
     },
     mainnet: {

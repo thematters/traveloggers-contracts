@@ -1,4 +1,3 @@
-import fs from "fs";
 import { task, types } from "hardhat/config";
 
 import { getTraveloggersContract, getTaskInputs, writeJSON } from "../utils";

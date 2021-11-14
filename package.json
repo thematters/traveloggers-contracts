@@ -17,6 +17,7 @@
     "rinkeby:store": "hardhat run --network rinkeby scripts/prepare/store.ts",
     "rinkeby:set:preOrder": "hardhat set:preOrder --network rinkeby",
     "rinkeby:set:baseURI": "hardhat set:baseURI --network rinkeby",
+    "rinkeby:set:opensea": "hardhat set:opensea --network rinkeby",
     "rinkeby:mint:batch": "hardhat mint:batch --network rinkeby",
     "rinkeby:mint:lottery": "hardhat mint:lottery --network rinkeby",
     "mainnet:deploy": "hardhat run --network mainnet scripts/prepare/deploy.ts",
@@ -60,6 +61,7 @@
     "hardhat-gas-reporter": "^1.0.4",
     "husky": "^7.0.2",
     "ipfs-http-client": "^53.0.1",
+    "opensea-js": "^1.2.1",
     "prettier": "^2.4.1",
     "prettier-plugin-solidity": "^1.0.0-beta.18",
     "solhint": "^3.3.6",
@@ -72,5 +74,10 @@
   "prettier": {
     "printWidth": 80,
     "singleQuote": false
+  },
+  "dependencies": {
+    "@0x/subproviders": "^6.6.1",
+    "@types/web3-provider-engine": "^14.0.1",
+    "web3-provider-engine": "^16.0.3"
   }
 }
