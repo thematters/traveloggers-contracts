@@ -118,6 +118,7 @@ task(taskName, "Setup item listing info on OpenSea")
           paymentTokenAddress: waitForHighestBid ? token.address : undefined,
         });
 
+        console.log(`[${network}:${taskName}] ${tokenId} is listed.`);
         inputs.listed.push(tokenId);
       }
 
