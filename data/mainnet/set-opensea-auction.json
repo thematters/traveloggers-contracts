@@ -1,0 +1,8 @@
+{
+  "taskName": "set:opensea",
+  "range": [1061, 1260],
+  "startAmount": 0.06,
+  "expirationDay": 7,
+  "waitForHighestBid": true,
+  "run": false
+}
