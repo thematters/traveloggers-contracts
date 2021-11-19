@@ -1,0 +1,7 @@
+{
+  "taskName": "set:opensea",
+  "range": [671, 1060],
+  "startAmount": 0.06,
+  "expirationDay": 180,
+  "run": false
+}
