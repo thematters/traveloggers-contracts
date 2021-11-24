@@ -2,5 +2,14 @@
   "taskName": "mint:batch",
   "addresses": ["0xdB9fdaB72D71c998e3EebCf1096704e03C3cDaE5"],
   "amount": 400,
-  "run": false
+  "run": true,
+  "txHash": "0x289b3d7dac4eab9fe3dc1fc2774b9ee5bae729c256c81a5a1b3f3326f98a12df",
+  "balances": {
+    "0xdB9fdaB72D71c998e3EebCf1096704e03C3cDaE5": {
+      "type": "BigNumber",
+      "hex": "0x2c"
+    }
+  },
+  "error": null,
+  "ranAt": "2021-11-15T03:32:38.489Z"
 }
