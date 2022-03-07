@@ -1,0 +1,15 @@
+{
+  "taskName": "set:opensea",
+  "range": [664, 1500],
+  "startAmount": 0.06,
+  "expirationDay": 180,
+  "run": false,
+  "error": {
+    "message": "request to https://api.opensea.io/api/v1/asset/0x8515ba8EF2CF2F2BA44b26fF20337D7A2bc5e6D8/664/? failed, reason: read ECONNRESET",
+    "type": "system",
+    "errno": "ECONNRESET",
+    "code": "ECONNRESET"
+  },
+  "listed": [],
+  "ranAt": "2022-03-07T08:26:21.731Z"
+}

@@ -1,0 +1,10 @@
+{
+  "taskName": "set:opensea",
+  "range": [664, 670],
+  "startAmount": 0.06,
+  "expirationDay": 180,
+  "run": true,
+  "listed": [664, 665, 666, 667, 668, 669, 670],
+  "error": null,
+  "ranAt": "2021-11-15T03:44:59.192Z"
+}

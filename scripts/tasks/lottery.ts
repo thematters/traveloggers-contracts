@@ -1,4 +1,3 @@
-import fs from "fs";
 import { task, types } from "hardhat/config";
 
 import { getTraveloggersContract, getTaskInputs, writeJSON } from "../utils";
@@ -55,11 +54,9 @@ task(taskName, "Random draw lottery winners and mint NFTs by given addresses")
       const tx = await traveloggers.drawLottery(
         inputs.addresses,
         inputs.amount,
-        {
-          gasLimit: gasUsed.mul(3).div(2),
-        }
+        { gasLimit: gasUsed.mul(3).div(2) }
       );
-
+      console.log(`Tx hash: ${tx.hash}`);
       await tx.wait();
 
       inputs.txHash = tx.hash;

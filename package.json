@@ -17,14 +17,18 @@
     "rinkeby:store": "hardhat run --network rinkeby scripts/prepare/store.ts",
     "rinkeby:set:preOrder": "hardhat set:preOrder --network rinkeby",
     "rinkeby:set:baseURI": "hardhat set:baseURI --network rinkeby",
+    "rinkeby:set:opensea": "hardhat set:opensea --network rinkeby",
     "rinkeby:mint:batch": "hardhat mint:batch --network rinkeby",
     "rinkeby:mint:lottery": "hardhat mint:lottery --network rinkeby",
     "mainnet:deploy": "hardhat run --network mainnet scripts/prepare/deploy.ts",
     "mainnet:verify": "hardhat run --network mainnet scripts/prepare/verify.ts",
     "mainnet:store": "hardhat run --network mainnet scripts/prepare/store.ts",
     "mainnet:set:preOrder": "hardhat set:preOrder --network mainnet",
+    "mainnet:set:baseURI": "hardhat set:baseURI --network mainnet",
     "mainnet:mint:batch": "hardhat mint:batch --network mainnet",
     "mainnet:mint:lottery": "hardhat mint:lottery --network mainnet",
+    "mainnet:set:opensea": "hardhat set:opensea --network mainnet",
+    "mainnet:get:owners": "hardhat get:owners --network mainnet",
     "generate": "ts-node ./scripts/generate.ts",
     "build": "hardhat compile",
     "test": "hardhat test",
@@ -44,6 +48,7 @@
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "@openzeppelin/contracts": "^4.3.2",
     "@types/chai": "^4.2.22",
+    "@types/lodash": "^4.14.179",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.10.3",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
@@ -59,6 +64,7 @@
     "hardhat-gas-reporter": "^1.0.4",
     "husky": "^7.0.2",
     "ipfs-http-client": "^53.0.1",
+    "opensea-js": "^3.0.0",
     "prettier": "^2.4.1",
     "prettier-plugin-solidity": "^1.0.0-beta.18",
     "solhint": "^3.3.6",
@@ -71,5 +77,10 @@
   "prettier": {
     "printWidth": 80,
     "singleQuote": false
+  },
+  "dependencies": {
+    "@0x/subproviders": "^6.6.1",
+    "@types/web3-provider-engine": "^14.0.1",
+    "web3-provider-engine": "^16.0.3"
   }
 }

@@ -2,5 +2,9 @@
   "taskName": "set:preOrder",
   "start": true,
   "amount": "30000000000000000",
-  "supply": 300
+  "supply": 300,
+  "txHash": "0x5da80c1b5752e9331c3b55d6a3de0f63fc2e5523f92d05865f74b65891fcc7ce",
+  "run": true,
+  "error": null,
+  "ranAt": "2021-11-05T02:35:04.409Z"
 }
