@@ -18,6 +18,7 @@ import "./scripts/tasks/lottery";
 import "./scripts/tasks/setBaseURI";
 import "./scripts/tasks/setPreOrder";
 import "./scripts/tasks/setOpensea";
+import "./scripts/tasks/getOwners";
 
 const config: HardhatUserConfig = {
   solidity: "0.8.4",

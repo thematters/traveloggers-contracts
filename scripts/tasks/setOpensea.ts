@@ -83,7 +83,7 @@ task(taskName, "Setup item listing info on OpenSea")
 
       const seaport = new OpenSeaPort(providerEngine, {
         networkName,
-        // apiKey: openseaAPIKey,
+        // apiKey: "",
       });
 
       /**
@@ -103,8 +103,10 @@ task(taskName, "Setup item listing info on OpenSea")
       );
 
       // if we are doing auction, use WETH
-      const token = (await seaport.api.getPaymentTokens({ symbol: "WETH" }))
-        .tokens[0];
+      // const token = (await seaport.api.getPaymentTokens({ symbol: "WETH" }))
+      //   .tokens[0];
+      const WETH_ADDRESS = "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2";
+
       for (let tokenId = range[0]; tokenId <= range[1]; tokenId++) {
         await seaport.createSellOrder({
           asset: {
@@ -115,7 +117,7 @@ task(taskName, "Setup item listing info on OpenSea")
           startAmount,
           expirationTime,
           waitForHighestBid,
-          paymentTokenAddress: waitForHighestBid ? token.address : undefined,
+          paymentTokenAddress: waitForHighestBid ? WETH_ADDRESS : undefined,
         });
 
         console.log(`[${network}:${taskName}] ${tokenId} is listed.`);
