@@ -16,7 +16,7 @@ task(taskName, "Get all owners").setAction(async (_, hardhat) => {
   // run task
   const MAX_ID = 1500;
   const MIN_ID = 1;
-  const CHUNK_SIZE = 50;
+  const CHUNK_SIZE = 20;
   const chunks = _chunk(
     Array.from({ length: MAX_ID - MIN_ID + 1 }, (_, i) => i + MIN_ID),
     CHUNK_SIZE
@@ -28,11 +28,13 @@ task(taskName, "Get all owners").setAction(async (_, hardhat) => {
 
       await Promise.all(
         chunk.map(async (id) => {
-          const owner = await traveloggers.ownerOf(id, { gasLimit: 250000 });
+          const owner = await traveloggers.ownerOf(id);
+          console.log(id, owner);
           owners[id] = owner;
         })
       );
 
+      console.log("write", chunk);
       writeJSON(owners, "./data/mainnet/owners.json");
     }
   } catch (error) {

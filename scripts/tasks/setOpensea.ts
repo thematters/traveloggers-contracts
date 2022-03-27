@@ -1,5 +1,6 @@
 import { OpenSeaPort, Network } from "opensea-js";
 import { task, types } from "hardhat/config";
+import _chunk from "lodash/chunk";
 
 import Web3ProviderEngine from "web3-provider-engine";
 import { PrivateKeyWalletSubprovider } from "@0x/subproviders";
@@ -10,6 +11,7 @@ import {
   infuraAPIKey,
 } from "../../.env.json";
 import { ContractState, getTaskInputs, writeJSON } from "../utils";
+// import { WyvernSchemaName } from "opensea-js/lib/types";
 
 /* eslint-disable  @typescript-eslint/no-var-requires */
 const RPCSubprovider = require("web3-provider-engine/subproviders/rpc");
@@ -104,25 +106,59 @@ task(taskName, "Setup item listing info on OpenSea")
 
       // if we are doing auction, use WETH
       // const token = (await seaport.api.getPaymentTokens({ symbol: "WETH" }))
-      //   .tokens[0];
-      const WETH_ADDRESS = "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2";
+      // .tokens[0];
+      // const WETH_ADDRESS = "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2";
 
-      for (let tokenId = range[0]; tokenId <= range[1]; tokenId++) {
-        await seaport.createSellOrder({
-          asset: {
-            tokenId,
-            tokenAddress,
-          },
-          accountAddress: deployerAddress,
-          startAmount,
-          expirationTime,
-          waitForHighestBid,
-          paymentTokenAddress: waitForHighestBid ? WETH_ADDRESS : undefined,
-        });
+      // run task
+      const MIN_ID = range[0];
+      const MAX_ID = range[1];
+      const CHUNK_SIZE = 3;
+      const chunks = _chunk(
+        Array.from({ length: MAX_ID - MIN_ID + 1 }, (_, i) => i + MIN_ID),
+        CHUNK_SIZE
+      );
 
-        console.log(`[${network}:${taskName}] ${tokenId} is listed.`);
-        inputs.listed.push(tokenId);
+      // try {
+      for (const chunk of chunks) {
+        console.log("listing", chunk);
+
+        await Promise.all(
+          chunk.map(async (tokenId) => {
+            try {
+              await seaport.createSellOrder({
+                asset: {
+                  tokenId: tokenId + "",
+                  tokenAddress,
+                },
+                accountAddress: deployerAddress,
+                startAmount,
+                endAmount: startAmount,
+                expirationTime,
+                // waitForHighestBid,
+                // paymentTokenAddress: waitForHighestBid ? WETH_ADDRESS : undefined,
+              });
+
+              console.log(`[${network}:${taskName}] ${tokenId} is listed.`);
+              inputs.listed.push(tokenId);
+            } catch (e) {
+              if (
+                (e as any).message.includes("You don't own enough to do that")
+              ) {
+                return;
+              }
+              if ((e as any).message.includes("API Error 429")) {
+                console.error("429 Request was throttled");
+                return;
+              }
+
+              console.error(e);
+            }
+          })
+        );
       }
+      // } catch (e) {
+      //   console.error(e);
+      // }
 
       inputs.run = true;
       inputs.error = null;
